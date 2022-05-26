@@ -19,3 +19,5 @@ The final version of the report (in .pdf format) must be uploaded on the group's
 All groups that submit a project report are admitted to the oral discussion.
 
 Discussions will take place under appointment - not earlier than 3 days after the report submission.
+
+Prova
