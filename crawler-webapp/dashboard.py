@@ -1,8 +1,8 @@
 import streamlit as st
 from PIL import Image
 from crawling_stackexchange import *
-from crawling_arxivorg import *
-from crawling_github import *
+#from crawling_arxivorg import *
+#from crawling_github import *
 
 
 # Set background
