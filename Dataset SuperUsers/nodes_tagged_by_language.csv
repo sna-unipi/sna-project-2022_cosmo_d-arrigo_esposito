@@ -1,0 +1,4148 @@
+Id,Count,Named,Original
+windows-10,1901,Operating system,Operating system
+linux,1762,Operating system,Operating system
+windows,1686,Operating system,Operating system
+ubuntu,996,Operating system,Operating system
+networking,891,Programming Languages,Programming Languages
+macos,774,Operating system,Operating system
+command-line,687,Programming Languages,Programming Languages
+google-chrome,576,Programming Languages,Programming Languages
+windows-7,569,Operating system,Operating system
+debian,558,Operating system,Operating system
+powershell,556,Programming Languages,Programming Languages
+hard-drive,544,Programming Languages,Programming Languages
+bash,522,System,System
+mac,508,Programming Languages,Programming Languages
+usb,492,Computer Components,Computer Components
+ssh,489,Security,Security
+boot,479,System,System
+wireless-networking,474,Programming Languages,Programming Languages
+windows-11,467,Operating system,Operating system
+security,463,Programming Languages,Programming Languages
+microsoft-excel,448,Microsoft,Microsoft
+audio,440,Audio,Audio
+firefox,411,Programming Languages,Programming Languages
+drivers,411,Operating system,Operating system
+laptop,394,Computer Components,Computer Components
+ffmpeg,386,Audio,Audio
+virtualbox,381,Operating system,Operating system
+video,369,Computer Components,Computer Components
+python,361,Programming Languages,Programming Languages
+router,358,Programming Languages,Programming Languages
+terminal,358,Programming Languages,Programming Languages
+browser,356,Programming Languages,Programming Languages
+virtual-machine,356,Programming Languages,Programming Languages
+memory,353,Programming Languages,Programming Languages
+ssd,353,Computer Components,Computer Components
+keyboard,348,Programming Languages,Programming Languages
+vpn,342,Internet,Internet
+keyboard-shortcuts,333,Programming Languages,Programming Languages
+microsoft-word,326,Microsoft,Microsoft
+performance,323,Programming Languages,Programming Languages
+installation,318,System,System
+display,318,Computer Components,Computer Components
+ubuntu-20.04,317,Operating system,Operating system
+backup,316,Programming Languages,Programming Languages
+dns,315,Web & Application Servers,Web & Application Servers
+email,312,Internet,Internet
+docker,309,Programming Languages,Programming Languages
+cmd.exe,308,Programming Languages,Programming Languages
+cpu,305,Programming Languages,Programming Languages
+bios,295,Operating system,Operating system
+remote-desktop,293,Programming Languages,Programming Languages
+filesystems,286,unamed,filesystems
+permissions,286,Programming Languages,Programming Languages
+multiple-monitors,283,Programming Languages,Programming Languages
+windows-subsystem-for-linux,281,Operating system,Operating system
+raspberry-pi,281,Programming Languages,Programming Languages
+windows-explorer,281,Operating system,Operating system
+partitioning,275,Programming Languages,Programming Languages
+batch,271,Programming Languages,Programming Languages
+arch-linux,271,Operating system,Operating system
+pdf,270,unamed,pdf
+microsoft-outlook,266,Microsoft,Microsoft
+encryption,256,Programming Languages,Programming Languages
+centos,253,Operating system,Operating system
+android,248,Operating system,Operating system
+windows-registry,246,Operating system,Operating system
+motherboard,246,Programming Languages,Programming Languages
+batch-file,240,Programming Languages,Programming Languages
+external-hard-drive,239,Programming Languages,Programming Languages
+script,238,Programming Languages,Programming Languages
+shell,235,System,System
+fedora,230,Operating system,Operating system
+firewall,228,Programming Languages,Programming Languages
+mouse,225,unamed,mouse
+git,219,Audio,Audio
+mount,219,unamed,mount
+apache-http-server,218,Programming Languages,Programming Languages
+linux-mint,217,Operating system,Operating system
+data-recovery,215,Programming Languages,Programming Languages
+kali-linux,215,Operating system,Operating system
+gpu,212,Computer Components,Computer Components
+microsoft-office,211,Microsoft,Microsoft
+graphics-card,211,Programming Languages,Programming Languages
+office365,208,Microsoft,Microsoft
+nas,208,Backup,Backup
+proxy,206,Programming Languages,Programming Languages
+bluetooth,205,Computer Components,Computer Components
+wsl2,204,Operating system,Operating system
+ip,203,Internet,Internet
+colors,199,Programming Languages,Programming Languages
+ssl,195,Security,Security
+internet,193,Programming Languages,Programming Languages
+automation,191,unamed,automation
+port-forwarding,188,Programming Languages,Programming Languages
+passwords,188,Programming Languages,Programming Languages
+sync,188,Programming Languages,Programming Languages
+unix,184,Operating system,Operating system
+vmware,183,Programming Languages,Programming Languages
+fonts,182,Microsoft,Microsoft
+operating-systems,182,Operating system,Operating system
+visual-studio-code,181,Programming Languages,Programming Languages
+download,180,unamed,download
+ethernet,179,Programming Languages,Programming Languages
+crash,178,Programming Languages,Programming Languages
+ftp,178,unamed,ftp
+routing,177,Programming Languages,Programming Languages
+microsoft-edge,171,Microsoft,Microsoft
+windows-update,171,Operating system,Operating system
+putty,170,unamed,putty
+search,170,Programming Languages,Programming Languages
+sleep,170,unamed,sleep
+storage,169,Programming Languages,Programming Languages
+notepad++,168,unamed,notepad++
+redhat-enterprise-linux,168,Operating system,Operating system
+java,165,Programming Languages,Programming Languages
+hardware-failure,164,Programming Languages,Programming Languages
+ntfs,162,unamed,ntfs
+printer,162,Programming Languages,Programming Languages
+systemd,162,unamed,systemd
+openvpn,161,Internet,Internet
+vba,161,unamed,vba
+windows-8.1,161,Operating system,Operating system
+freeze,160,Programming Languages,Programming Languages
+raid,160,Programming Languages,Programming Languages
+hyper-v,159,Programming Languages,Programming Languages
+uefi,157,unamed,uefi
+power,156,Programming Languages,Programming Languages
+grub,155,Programming Languages,Programming Languages
+printing,155,Programming Languages,Programming Languages
+lan,154,Internet,Internet
+resolution,154,Programming Languages,Programming Languages
+power-supply,153,Programming Languages,Programming Languages
+hdmi,152,unamed,hdmi
+desktop-computer,151,Programming Languages,Programming Languages
+webserver,151,Programming Languages,Programming Languages
+updates,150,unamed,updates
+amazon-web-services,150,Programming Languages,Programming Languages
+images,150,unamed,images
+vlc-media-player,149,Programming Languages,Programming Languages
+xorg,149,Programming Languages,Programming Languages
+iptables,149,Internet,Internet
+logging,148,unamed,logging
+usb-flash-drive,148,Programming Languages,Programming Languages
+certificate,148,Programming Languages,Programming Languages
+sftp,148,unamed,sftp
+virtualization,148,Programming Languages,Programming Languages
+nginx,148,unamed,nginx
+nvidia-graphics-card,148,Programming Languages,Programming Languages
+manjaro,148,Programming Languages,Programming Languages
+bsod,147,unamed,bsod
+ping,146,unamed,ping
+worksheet-function,146,Programming Languages,Programming Languages
+macbook,145,Programming Languages,Programming Languages
+authentication,144,Programming Languages,Programming Languages
+ubuntu-18.04,144,Operating system,Operating system
+administrator,143,Programming Languages,Programming Languages
+process,143,Programming Languages,Programming Languages
+lenovo-laptop,143,Computer Components,Computer Components
+multi-boot,142,System,System
+window,141,unamed,window
+php,141,Programming Languages,Programming Languages
+gaming,141,unamed,gaming
+centos-7,141,Operating system,Operating system
+user-accounts,140,Programming Languages,Programming Languages
+compression,139,Programming Languages,Programming Languages
+connection,138,Programming Languages,Programming Languages
+battery,138,Programming Languages,Programming Languages
+macros,138,Programming Languages,Programming Languages
+icons,137,Programming Languages,Programming Languages
+taskbar,137,Programming Languages,Programming Languages
+shortcuts,136,Programming Languages,Programming Languages
+login,136,unamed,login
+chromium,135,Programming Languages,Programming Languages
+azure,135,Programming Languages,Programming Languages
+zsh,134,unamed,zsh
+kernel,134,Programming Languages,Programming Languages
+gnome,134,unamed,gnome
+troubleshooting,134,Programming Languages,Programming Languages
+port,133,Programming Languages,Programming Languages
+network-adapter,133,Programming Languages,Programming Languages
+file-transfer,132,Programming Languages,Programming Languages
+macos-catalina,131,Operating system,Operating system
+openssh,131,Security,Security
+qemu,131,unamed,qemu
+ipv6,130,Internet,Internet
+services,129,Programming Languages,Programming Languages
+samba,129,unamed,samba
+iso-image,129,unamed,iso-image
+network-shares,128,Programming Languages,Programming Languages
+streaming,127,Programming Languages,Programming Languages
+group-policy,127,Programming Languages,Programming Languages
+thunderbird,126,Programming Languages,Programming Languages
+sata,125,unamed,sata
+formatting,125,Programming Languages,Programming Languages
+dualboot,125,System,System
+clipboard,123,Programming Languages,Programming Languages
+desktop,123,unamed,desktop
+windows-server-2019,123,Operating system,Operating system
+windows-server,122,Operating system,Operating system
+windows-8,122,Operating system,Operating system
+shutdown,122,unamed,shutdown
+dhcp,122,Programming Languages,Programming Languages
+regex,121,Programming Languages,Programming Languages
+home-networking,121,Programming Languages,Programming Languages
+microphone,121,Programming Languages,Programming Languages
+privacy,121,Programming Languages,Programming Languages
+reboot,121,Programming Languages,Programming Languages
+http,120,unamed,http
+path,120,unamed,path
+mysql,120,Programming Languages,Programming Languages
+file-management,118,unamed,file-management
+wireless-router,118,Programming Languages,Programming Languages
+environment-variables,118,Programming Languages,Programming Languages
+conversion,118,Programming Languages,Programming Languages
+webcam,118,Programming Languages,Programming Languages
+shell-script,118,Programming Languages,Programming Languages
+macos-bigsur,117,Operating system,Operating system
+cpu-usage,116,Programming Languages,Programming Languages
+sudo,116,unamed,sudo
+microsoft-teams,115,Microsoft,Microsoft
+rsync,115,Programming Languages,Programming Languages
+encoding,115,Programming Languages,Programming Languages
+bash-scripting,114,Programming Languages,Programming Languages
+database,114,unamed,database
+external-display,113,Programming Languages,Programming Languages
+onedrive,113,Microsoft,Microsoft
+copy-paste,113,Programming Languages,Programming Languages
+thinkpad,113,unamed,thinkpad
+malware,112,Programming Languages,Programming Languages
+windows-server-2016,112,Operating system,Operating system
+copy,111,Programming Languages,Programming Languages
+tcp,110,Programming Languages,Programming Languages
+domain,110,unamed,domain
+kde,110,unamed,kde
+macbook-pro,110,Programming Languages,Programming Languages
+pci-express,109,Programming Languages,Programming Languages
+active-directory,109,Programming Languages,Programming Languages
+recovery,109,Programming Languages,Programming Languages
+javascript,109,Programming Languages,Programming Languages
+task-manager,109,Programming Languages,Programming Languages
+sd-card,108,Programming Languages,Programming Languages
+metadata,108,unamed,metadata
+keyboard-layout,108,Programming Languages,Programming Languages
+website,107,Web & Application Servers,Web & Application Servers
+libreoffice,107,Programming Languages,Programming Languages
+curl,107,Programming Languages,Programming Languages
+html,107,Programming Languages,Programming Languages
+https,107,unamed,https
+cache,106,Programming Languages,Programming Languages
+nat,106,unamed,nat
+vnc,106,Programming Languages,Programming Languages
+remote,106,Programming Languages,Programming Languages
+hibernate,106,Programming Languages,Programming Languages
+wifi-configuration,106,Programming Languages,Programming Languages
+autohotkey,105,unamed,autohotkey
+vim,105,unamed,vim
+symbolic-link,105,Programming Languages,Programming Languages
+wget,105,unamed,wget
+switch,105,Programming Languages,Programming Languages
+unicode,104,Programming Languages,Programming Languages
+nvme,104,unamed,nvme
+scheduled-tasks,104,Programming Languages,Programming Languages
+cygwin,104,Programming Languages,Programming Languages
+gnupg,102,Web & Application Servers,Web & Application Servers
+file-permissions,102,Programming Languages,Programming Languages
+smb,101,unamed,smb
+redirection,101,Programming Languages,Programming Languages
+find,100,unamed,find
+clone,100,Programming Languages,Programming Languages
+google-chrome-extensions,99,Programming Languages,Programming Languages
+sorting,99,Programming Languages,Programming Languages
+remote-access,99,Programming Languages,Programming Languages
+64-bit,99,unamed,64-bit
+uninstall,98,unamed,uninstall
+csv,98,Programming Languages,Programming Languages
+nvidia,98,unamed,nvidia
+hotkeys,97,unamed,hotkeys
+bug,97,Problems,Problems
+notifications,96,Programming Languages,Programming Languages
+screenshot,96,Programming Languages,Programming Languages
+visual-studio,96,unamed,visual-studio
+microsoft-excel-2016,96,Microsoft,Microsoft
+asus,96,unamed,asus
+scrolling,95,Programming Languages,Programming Languages
+bitlocker,95,Programming Languages,Programming Languages
+ip-address,94,Programming Languages,Programming Languages
+google-drive,94,Programming Languages,Programming Languages
+openssl,94,Security,Security
+windows-xp,93,Operating system,Operating system
+wireshark,93,Programming Languages,Programming Languages
+fan,93,unamed,fan
+youtube,92,Audio,Audio
+disk-space,92,Programming Languages,Programming Languages
+zoom-meeting,91,unamed,zoom-meeting
+microsoft-powerpoint,90,Microsoft,Microsoft
+language,90,Internet,Internet
+video-conversion,89,Programming Languages,Programming Languages
+linux-kvm,89,Operating system,Operating system
+cron,89,Programming Languages,Programming Languages
+bootloader,89,Programming Languages,Programming Languages
+windows-installation,89,Operating system,Operating system
+usb-c,88,Programming Languages,Programming Languages
+virus,88,Programming Languages,Programming Languages
+text-editing,88,unamed,text-editing
+power-management,88,Programming Languages,Programming Languages
+dd,88,unamed,dd
+chromebook,88,Programming Languages,Programming Languages
+windows-server-2012,88,Operating system,Operating system
+internet-connection,88,Programming Languages,Programming Languages
+zip,87,Backup,Backup
+windows-defender,87,Operating system,Operating system
+modem,87,unamed,modem
+user-interface,87,Programming Languages,Programming Languages
+firmware,86,Programming Languages,Programming Languages
+raspbian,86,Programming Languages,Programming Languages
+minecraft,86,Programming Languages,Programming Languages
+bootable-media,86,System,System
+url,86,Programming Languages,Programming Languages
+gmail,85,unamed,gmail
+links,85,Web & Application Servers,Web & Application Servers
+nfs,85,unamed,nfs
+bridge,85,Programming Languages,Programming Languages
+amd-ryzen,85,Programming Languages,Programming Languages
+vmware-workstation,85,Programming Languages,Programming Languages
+camera,84,Programming Languages,Programming Languages
+github,84,Web & Application Servers,Web & Application Servers
+c++,84,Programming Languages,Programming Languages
+microsoft,84,Microsoft,Microsoft
+tls,84,unamed,tls
+text-formatting,83,Programming Languages,Programming Languages
+kvm-switch,83,Programming Languages,Programming Languages
+touchpad,83,Programming Languages,Programming Languages
+amazon-ec2,83,Programming Languages,Programming Languages
+opensuse,83,unamed,opensuse
+restore,82,Programming Languages,Programming Languages
+asus-laptop,82,Computer Components,Computer Components
+web,82,Web & Application Servers,Web & Application Servers
+displayport,82,Programming Languages,Programming Languages
+google-chrome-os,82,Programming Languages,Programming Languages
+arm,81,Programming Languages,Programming Languages
+adobe-acrobat,81,Programming Languages,Programming Languages
+video-streaming,81,Programming Languages,Programming Languages
+iis,81,unamed,iis
+console,80,Programming Languages,Programming Languages
+bookmarks,80,Programming Languages,Programming Languages
+data-transfer,80,Programming Languages,Programming Languages
+speed,80,Internet,Internet
+charts,79,Programming Languages,Programming Languages
+format,79,Programming Languages,Programming Languages
+cable,79,Programming Languages,Programming Languages
+7-zip,78,Backup,Backup
+tmux,78,unamed,tmux
+dvd,78,unamed,dvd
+history,78,Programming Languages,Programming Languages
+upgrade,78,Programming Languages,Programming Languages
+localhost,77,Programming Languages,Programming Languages
+thunderbolt,77,Programming Languages,Programming Languages
+disk-image,77,unamed,disk-image
+anti-virus,77,Programming Languages,Programming Languages
+lag,77,unamed,lag
+bandwidth,77,unamed,bandwidth
+blocking,77,Programming Languages,Programming Languages
+gui,76,unamed,gui
+themes,76,unamed,themes
+gpt,76,unamed,gpt
+windows-server-2012-r2,76,Operating system,Operating system
+luks,76,unamed,luks
+compatibility,76,Programming Languages,Programming Languages
+isp,75,unamed,isp
+mbr,75,Programming Languages,Programming Languages
+photos,75,unamed,photos
+xml,75,unamed,xml
+intel-graphics,75,Programming Languages,Programming Languages
+rename,75,Programming Languages,Programming Languages
+liveusb,75,Computer Components,Computer Components
+windows-installer,75,Operating system,Operating system
+apt,74,unamed,apt
+repair,74,Programming Languages,Programming Languages
+reset,74,Programming Languages,Programming Languages
+wireless-access-point,74,Programming Languages,Programming Languages
+efi,74,unamed,efi
+dell-inspiron,74,Programming Languages,Programming Languages
+display-settings,74,Computer Components,Computer Components
+text-editors,73,Programming Languages,Programming Languages
+ssh-keys,73,Security,Security
+files-folders,73,Programming Languages,Programming Languages
+linux-kernel,73,Operating system,Operating system
+dell-xps,73,unamed,dell-xps
+ansible,72,unamed,ansible
+debian-buster,72,Operating system,Operating system
+pfsense,72,unamed,pfsense
+partition-recovery,71,Programming Languages,Programming Languages
+wine,71,unamed,wine
+freebsd,71,Programming Languages,Programming Languages
+uac,71,Programming Languages,Programming Languages
+btrfs,71,Programming Languages,Programming Languages
+start-menu,71,Programming Languages,Programming Languages
+usb-storage,71,Programming Languages,Programming Languages
+smtp,71,unamed,smtp
+context-menu,70,Programming Languages,Programming Languages
+video-encoding,70,Programming Languages,Programming Languages
+date-time,70,unamed,date-time
+python3,70,Programming Languages,Programming Languages
+date,70,unamed,date
+file-sharing,70,Programming Languages,Programming Languages
+event-log,70,unamed,event-log
+speakers,70,Programming Languages,Programming Languages
+user-profiles,69,Programming Languages,Programming Languages
+list,69,unamed,list
+windows-terminal,68,Operating system,Operating system
+pipe,68,Internet,Internet
+device-manager,68,Programming Languages,Programming Languages
+kubernetes,68,Programming Languages,Programming Languages
+tabs,67,unamed,tabs
+accessibility,67,Programming Languages,Programming Languages
+mp3,67,Audio,Audio
+root,67,Programming Languages,Programming Languages
+imap,67,unamed,imap
+ios,67,Operating system,Operating system
+shared-folders,67,Programming Languages,Programming Languages
+export,67,Programming Languages,Programming Languages
+hyperlink,67,Programming Languages,Programming Languages
+sql-server,67,Programming Languages,Programming Languages
+ssl-certificate,66,Programming Languages,Programming Languages
+veracrypt,66,Programming Languages,Programming Languages
+debug,66,Problems,Problems
+docking-station,66,Programming Languages,Programming Languages
+windows-domain,66,Operating system,Operating system
+secure-boot,66,Programming Languages,Programming Languages
+code,66,Programming Languages,Programming Languages
+gateway,65,unamed,gateway
+input,65,unamed,input
+wireguard,65,Programming Languages,Programming Languages
+calendar,65,Programming Languages,Programming Languages
+scp,65,Programming Languages,Programming Languages
+microsoft-surface,65,Microsoft,Microsoft
+mp4,65,Audio,Audio
+reinstall,65,Programming Languages,Programming Languages
+command-line-arguments,65,Programming Languages,Programming Languages
+background,65,Programming Languages,Programming Languages
+file-corruption,65,Programming Languages,Programming Languages
+disk-encryption,65,Programming Languages,Programming Languages
+microsoft-excel-2010,65,Microsoft,Microsoft
+proxmox,65,Programming Languages,Programming Languages
+suspend,65,unamed,suspend
+openwrt,65,Programming Languages,Programming Languages
+adapter,65,Programming Languages,Programming Languages
+safari,64,Programming Languages,Programming Languages
+mac-address,64,Programming Languages,Programming Languages
+ext4,64,unamed,ext4
+nvidia-geforce,64,Programming Languages,Programming Languages
+computer-building,64,Programming Languages,Programming Languages
+find-and-replace,63,Programming Languages,Programming Languages
+styles,63,unamed,styles
+windows-task-scheduler,63,Operating system,Operating system
+synology,63,unamed,synology
+default-settings,63,unamed,default-settings
+winscp,63,Programming Languages,Programming Languages
+ssh-tunnel,62,Security,Security
+skype,62,unamed,skype
+node.js,62,unamed,node.js
+exchange,62,Programming Languages,Programming Languages
+hp-pavilion,62,unamed,hp-pavilion
+pop-os,62,unamed,pop-os
+centos-8,62,Operating system,Operating system
+hardware-detection,61,Programming Languages,Programming Languages
+sed,61,unamed,sed
+tv,61,unamed,tv
+archiving,61,Programming Languages,Programming Languages
+filenames,61,unamed,filenames
+build,61,unamed,build
+brightness,61,Programming Languages,Programming Languages
+xfce,61,Programming Languages,Programming Languages
+tunnel,61,unamed,tunnel
+subnet,61,unamed,subnet
+temperature,60,Programming Languages,Programming Languages
+desktop-customization,60,Programming Languages,Programming Languages
+grep,60,Programming Languages,Programming Languages
+zfs,60,unamed,zfs
+c,60,Programming Languages,Programming Languages
+boot-camp,60,Programming Languages,Programming Languages
+dell-latitude,60,unamed,dell-latitude
+file-association,60,Programming Languages,Programming Languages
+gparted,60,Programming Languages,Programming Languages
+tar,59,Programming Languages,Programming Languages
+setup,59,unamed,setup
+network-printer,59,Programming Languages,Programming Languages
+windows-10-v2004,59,Operating system,Operating system
+sound-card,59,Programming Languages,Programming Languages
+gimp,58,unamed,gimp
+ide,58,unamed,ide
+sharing,58,Programming Languages,Programming Languages
+codec,58,Programming Languages,Programming Languages
+tpm,58,unamed,tpm
+kubuntu,58,Operating system,Operating system
+usb-3,58,Computer Components,Computer Components
+grub2,58,Programming Languages,Programming Languages
+windows-firewall,58,Operating system,Operating system
+wan,58,unamed,wan
+vlan,58,Internet,Internet
+ipv4,57,Internet,Internet
+pulse-audio,57,Audio,Audio
+libreoffice-calc,57,Programming Languages,Programming Languages
+spreadsheet,57,Programming Languages,Programming Languages
+iphone,57,Internet,Internet
+udp,57,unamed,udp
+acer-aspire,57,Programming Languages,Programming Languages
+monitoring,57,Programming Languages,Programming Languages
+mirroring,57,Programming Languages,Programming Languages
+32-bit,56,unamed,32-bit
+compile,56,Programming Languages,Programming Languages
+window-manager,56,Programming Languages,Programming Languages
+png,56,unamed,png
+timestamp,56,unamed,timestamp
+microsoft-excel-365,56,Microsoft,Microsoft
+ms-dos,56,unamed,ms-dos
+filesystem-corruption,56,Programming Languages,Programming Languages
+memory-management,56,Programming Languages,Programming Languages
+time,56,unamed,time
+sql,56,Programming Languages,Programming Languages
+amd-radeon,56,Programming Languages,Programming Languages
+brave,55,Programming Languages,Programming Languages
+homebrew,55,Programming Languages,Programming Languages
+system-restore,55,Programming Languages,Programming Languages
+dropbox,55,Programming Languages,Programming Languages
+autocomplete,55,Programming Languages,Programming Languages
+software-raid,55,Programming Languages,Programming Languages
+vps,55,unamed,vps
+headers,55,Programming Languages,Programming Languages
+virtual-desktop,54,Programming Languages,Programming Languages
+dark-mode,54,Programming Languages,Programming Languages
+merge,54,Programming Languages,Programming Languages
+r,54,Programming Languages,Programming Languages
+file-recovery,54,Programming Languages,Programming Languages
+postgresql,54,Programming Languages,Programming Languages
+firefox-extensions,54,Programming Languages,Programming Languages
+api,54,unamed,api
+cookies,54,Programming Languages,Programming Languages
+network-interface,54,Programming Languages,Programming Languages
+session,54,unamed,session
+pip,53,Internet,Internet
+sockets,53,Programming Languages,Programming Languages
+headphones,53,unamed,headphones
+finder,53,Programming Languages,Programming Languages
+jenkins,53,Programming Languages,Programming Languages
+microsoft-word-2016,53,Microsoft,Microsoft
+browser-addons,53,Programming Languages,Programming Languages
+special-characters,53,Programming Languages,Programming Languages
+json,53,unamed,json
+user,53,Programming Languages,Programming Languages
+control-panel,53,Programming Languages,Programming Languages
+clonezilla,53,Programming Languages,Programming Languages
+xubuntu,53,Operating system,Operating system
+browser-tabs,52,Programming Languages,Programming Languages
+cloud-storage,52,Programming Languages,Programming Languages
+migration,52,Programming Languages,Programming Languages
+.net-framework,52,Programming Languages,Programming Languages
+diskpart,52,Programming Languages,Programming Languages
+hard-drive-recovery,52,Programming Languages,Programming Languages
+bad-sectors,52,Programming Languages,Programming Languages
+robocopy,52,Programming Languages,Programming Languages
+esxi,52,unamed,esxi
+reverse-proxy,52,Programming Languages,Programming Languages
+io,51,unamed,io
+emacs,51,Programming Languages,Programming Languages
+arp,51,Programming Languages,Programming Languages
+youtube-dl,51,Audio,Audio
+latex,51,unamed,latex
+wifi-driver,51,Programming Languages,Programming Languages
+cooling,51,Programming Languages,Programming Languages
+steam,51,unamed,steam
+windows-backup,51,Operating system,Operating system
+read-only,51,Programming Languages,Programming Languages
+vbscript,51,Programming Languages,Programming Languages
+serial-port,51,Programming Languages,Programming Languages
+graphics,51,Programming Languages,Programming Languages
+laptop-repair,51,Programming Languages,Programming Languages
+whatsapp,50,unamed,whatsapp
+fullscreen,50,Programming Languages,Programming Languages
+subtitles,50,unamed,subtitles
+dll,50,unamed,dll
+binary-files,50,Programming Languages,Programming Languages
+visual-studio-2019,50,unamed,visual-studio-2019
+vga,50,unamed,vga
+telnet,50,unamed,telnet
+forwarding,50,Programming Languages,Programming Languages
+vagrant,49,Programming Languages,Programming Languages
+anaconda,49,Programming Languages,Programming Languages
+systemctl,49,Programming Languages,Programming Languages
+android-studio,49,Operating system,Operating system
+packages,49,Programming Languages,Programming Languages
+lvm,49,unamed,lvm
+opengl,49,unamed,opengl
+event-viewer,49,Programming Languages,Programming Languages
+utf-8,49,unamed,utf-8
+chkdsk,49,Programming Languages,Programming Languages
+sharepoint,49,Microsoft,Microsoft
+usb-hub,49,Computer Components,Computer Components
+wake-on-lan,49,Internet,Internet
+scanner,48,Programming Languages,Programming Languages
+hashing,48,unamed,hashing
+macos-monterey,48,Operating system,Operating system
+login-screen,48,Programming Languages,Programming Languages
+macos-mojave,48,Operating system,Operating system
+adobe-photoshop,48,unamed,adobe-photoshop
+cursor,48,Programming Languages,Programming Languages
+latency,48,Programming Languages,Programming Languages
+password-management,48,Programming Languages,Programming Languages
+templates,48,unamed,templates
+extract,48,Programming Languages,Programming Languages
+image-processing,48,Programming Languages,Programming Languages
+charging,48,Programming Languages,Programming Languages
+license,48,Programming Languages,Programming Languages
+internet-explorer,48,Programming Languages,Programming Languages
+spam-prevention,48,Programming Languages,Programming Languages
+disk-cloning,47,Programming Languages,Programming Languages
+power-query,47,Programming Languages,Programming Languages
+package-management,47,Programming Languages,Programming Languages
+tablet,47,unamed,tablet
+tor,47,Programming Languages,Programming Languages
+microsoft-outlook-2016,47,Microsoft,Microsoft
+noise,47,unamed,noise
+synology-diskstation,47,unamed,synology-diskstation
+conditional-formatting,47,Programming Languages,Programming Languages
+microsoft-excel-2007,47,Microsoft,Microsoft
+wildcards,46,Programming Languages,Programming Languages
+decryption,46,Programming Languages,Programming Languages
+intellij-idea,46,unamed,intellij-idea
+imac,46,Programming Languages,Programming Languages
+samsung-ssd,46,Computer Components,Computer Components
+sublime-text-3,46,unamed,sublime-text-3
+obs-studio,46,Audio,Audio
+windows-error-reporting,46,Operating system,Operating system
+ubuntu-16.04,46,Operating system,Operating system
+editing,46,unamed,editing
+windows-services,46,Operating system,Operating system
+dism,46,unamed,dism
+lock-screen,46,Programming Languages,Programming Languages
+static-ip,46,Programming Languages,Programming Languages
+intel-core-i7,46,Programming Languages,Programming Languages
+file-download,46,unamed,file-download
+google-cloud-platform,46,Programming Languages,Programming Languages
+gitlab,46,Audio,Audio
+ports,46,Programming Languages,Programming Languages
+udev,46,unamed,udev
+hosts,45,unamed,hosts
+filezilla,45,unamed,filezilla
+privileges,45,Programming Languages,Programming Languages
+m.2,45,unamed,m.2
+matroska,45,Programming Languages,Programming Languages
+kde-plasma-5,45,unamed,kde-plasma-5
+networkmanager,45,Programming Languages,Programming Languages
+ubuntu-server,45,Operating system,Operating system
+netsh,44,unamed,netsh
+docker-compose,44,Programming Languages,Programming Languages
+imagemagick,44,Programming Languages,Programming Languages
+password-recovery,44,Programming Languages,Programming Languages
+task-scheduler,44,Programming Languages,Programming Languages
+remote-connection,44,Programming Languages,Programming Languages
+plugins,44,unamed,plugins
+black-screen-of-death,44,Programming Languages,Programming Languages
+overclocking,44,Programming Languages,Programming Languages
+flash,44,unamed,flash
+regedit,44,Programming Languages,Programming Languages
+ramdisk,44,Programming Languages,Programming Languages
+fritzbox,44,Programming Languages,Programming Languages
+touchscreen,44,Programming Languages,Programming Languages
+lubuntu,44,Operating system,Operating system
+acl,44,Programming Languages,Programming Languages
+fat32,44,unamed,fat32
+display-driver,44,Programming Languages,Programming Languages
+pxe,44,unamed,pxe
+temporary-files,43,Programming Languages,Programming Languages
+installer,43,Programming Languages,Programming Languages
+macbook-air,43,Programming Languages,Programming Languages
+jpeg,43,unamed,jpeg
+libreoffice-writer,43,Programming Languages,Programming Languages
+mobaxterm,43,Programming Languages,Programming Languages
+application-launch,43,Programming Languages,Programming Languages
+connector,43,Programming Languages,Programming Languages
+duplicate,42,Programming Languages,Programming Languages
+audio-recording,42,Programming Languages,Programming Languages
+ldap,42,unamed,ldap
+smart,42,Programming Languages,Programming Languages
+plex,42,unamed,plex
+safe-mode,42,unamed,safe-mode
+credentials,42,Programming Languages,Programming Languages
+selection,42,Programming Languages,Programming Languages
+c#,42,Programming Languages,Programming Languages
+google-search,42,Programming Languages,Programming Languages
+music,42,Programming Languages,Programming Languages
+lock,42,Programming Languages,Programming Languages
+disk-management,42,unamed,disk-management
+microsoft-access,42,Microsoft,Microsoft
+hp-laptop,42,Computer Components,Computer Components
+bittorrent,42,Programming Languages,Programming Languages
+internet-security,42,Programming Languages,Programming Languages
+mouse-cursor,42,Programming Languages,Programming Languages
+cloud,42,Programming Languages,Programming Languages
+nmap,42,unamed,nmap
+gnu,41,Web & Application Servers,Web & Application Servers
+recording,41,Programming Languages,Programming Languages
+icloud,41,Programming Languages,Programming Languages
+software-update,41,Programming Languages,Programming Languages
+save-as,41,unamed,save-as
+awk,41,unamed,awk
+video-editing,41,Computer Components,Computer Components
+batch-rename,41,Programming Languages,Programming Languages
+cuda,41,Programming Languages,Programming Languages
+configure,41,Programming Languages,Programming Languages
+string,41,Programming Languages,Programming Languages
+h.264,41,unamed,h.264
+virtual-memory,41,Programming Languages,Programming Languages
+laptop-display,41,Computer Components,Computer Components
+checksum,41,Programming Languages,Programming Languages
+search-indexing,41,Programming Languages,Programming Languages
+swap,41,unamed,swap
+dell-precision,41,Programming Languages,Programming Languages
+voip,41,Internet,Internet
+cells,41,Programming Languages,Programming Languages
+hostname,40,unamed,hostname
+google-spreadsheets,40,Programming Languages,Programming Languages
+perl,40,Programming Languages,Programming Languages
+keymap,40,unamed,keymap
+chroot,40,Programming Languages,Programming Languages
+ipsec,40,Programming Languages,Programming Languages
+sysinternals,40,Programming Languages,Programming Languages
+discord,40,Programming Languages,Programming Languages
+alpine-linux,40,Operating system,Operating system
+windows-10-upgrade,40,Operating system,Operating system
+docker-for-windows,40,Operating system,Operating system
+hardware-rec,40,Programming Languages,Programming Languages
+timeout,40,unamed,timeout
+import,40,Programming Languages,Programming Languages
+git-bash,40,Audio,Audio
+size,40,unamed,size
+pivot-table,40,unamed,pivot-table
+prompt,39,Programming Languages,Programming Languages
+exfat,39,unamed,exfat
+make,39,unamed,make
+gcc,39,Programming Languages,Programming Languages
+network-drive,39,Programming Languages,Programming Languages
+threads,39,Programming Languages,Programming Languages
+kerberos,39,Programming Languages,Programming Languages
+hard-drive-failure,39,Programming Languages,Programming Languages
+popups,39,unamed,popups
+windows-search,39,Operating system,Operating system
+raid-1,39,Programming Languages,Programming Languages
+extension,39,unamed,extension
+password-protection,39,Programming Languages,Programming Languages
+amd-graphics-card,39,Programming Languages,Programming Languages
+windows-server-2008-r2,39,Operating system,Operating system
+replacement,39,Programming Languages,Programming Languages
+post,39,unamed,post
+domain-name,39,unamed,domain-name
+oracle-linux,39,Operating system,Operating system
+daemon,38,unamed,daemon
+system-sounds,38,unamed,system-sounds
+alias,38,unamed,alias
+iterm2,38,Programming Languages,Programming Languages
+hosts-file,38,unamed,hosts-file
+zoom,38,unamed,zoom
+fstab,38,unamed,fstab
+microsoft-word-365,38,Microsoft,Microsoft
+4k-resolution,38,Programming Languages,Programming Languages
+alsa,38,unamed,alsa
+overheating,38,Programming Languages,Programming Languages
+xfce4,38,Programming Languages,Programming Languages
+version,38,Programming Languages,Programming Languages
+pci,38,Programming Languages,Programming Languages
+digital-signature,38,Programming Languages,Programming Languages
+battery-life,38,Programming Languages,Programming Languages
+documents,38,Programming Languages,Programming Languages
+hexadecimal,38,Programming Languages,Programming Languages
+screen-sharing,37,Programming Languages,Programming Languages
+adb,37,unamed,adb
+rm,37,Programming Languages,Programming Languages
+cups,37,Programming Languages,Programming Languages
+npm,37,unamed,npm
+tty,37,unamed,tty
+headless,37,unamed,headless
+hidden-file,37,unamed,hidden-file
+windows-10-v1909,37,Operating system,Operating system
+dhcp-server,37,Programming Languages,Programming Languages
+locale,37,Programming Languages,Programming Languages
+local,37,Programming Languages,Programming Languages
+deployment,37,unamed,deployment
+webpage,37,Web & Application Servers,Web & Application Servers
+spoofing,37,unamed,spoofing
+nextcloud,37,Programming Languages,Programming Languages
+lcd,37,Programming Languages,Programming Languages
+hp,37,unamed,hp
+cd,36,Programming Languages,Programming Languages
+linux-terminal,36,Operating system,Operating system
+applescript,36,Programming Languages,Programming Languages
+multiple-users,36,Programming Languages,Programming Languages
+notepad,36,unamed,notepad
+vhd,36,unamed,vhd
+windows-10-v20h2,36,Operating system,Operating system
+emulator,36,Programming Languages,Programming Languages
+users,36,Programming Languages,Programming Languages
+splitter,36,Programming Languages,Programming Languages
+recycle-bin,36,Programming Languages,Programming Languages
+microsoft-word-2010,36,Microsoft,Microsoft
+file-search,36,Programming Languages,Programming Languages
+ntp,36,unamed,ntp
+freenas,36,Programming Languages,Programming Languages
+cmos,36,Programming Languages,Programming Languages
+fdisk,36,unamed,fdisk
+subdomain,36,unamed,subdomain
+hotspot,35,Internet,Internet
+pgp,35,unamed,pgp
+microsoft-onenote,35,Microsoft,Microsoft
+rsa,35,Programming Languages,Programming Languages
+input-languages,35,Internet,Internet
+scaling,35,Programming Languages,Programming Languages
+opera,35,Programming Languages,Programming Languages
+ddns,35,Web & Application Servers,Web & Application Servers
+file-attributes,35,Programming Languages,Programming Languages
+idle,35,unamed,idle
+data-validation,35,unamed,data-validation
+wordpress,35,Programming Languages,Programming Languages
+memory-leaks,35,Programming Languages,Programming Languages
+letsencrypt,35,Programming Languages,Programming Languages
+snap,35,unamed,snap
+gigabit-ethernet,35,Programming Languages,Programming Languages
+echo,35,Programming Languages,Programming Languages
+move,35,unamed,move
+boot-partition,35,Programming Languages,Programming Languages
+sshd,35,Security,Security
+fingerprint,35,Programming Languages,Programming Languages
+refresh-rate,35,Programming Languages,Programming Languages
+wired-networking,35,Programming Languages,Programming Languages
+mikrotik-routeros,35,Programming Languages,Programming Languages
+postfix,35,unamed,postfix
+css,35,Programming Languages,Programming Languages
+load-balancer,35,Programming Languages,Programming Languages
+comments,34,Programming Languages,Programming Languages
+desktop-icons,34,Programming Languages,Programming Languages
+jupyter-notebook,34,Programming Languages,Programming Languages
+localization,34,Programming Languages,Programming Languages
+oh-my-zsh,34,unamed,oh-my-zsh
+sniffing,34,unamed,sniffing
+drag-and-drop,34,Programming Languages,Programming Languages
+trim,34,Programming Languages,Programming Languages
+file-extension,34,unamed,file-extension
+ls,34,unamed,ls
+eclipse,34,Programming Languages,Programming Languages
+tasks,34,unamed,tasks
+internet-speed,34,Programming Languages,Programming Languages
+gentoo,34,unamed,gentoo
+cifs,34,Programming Languages,Programming Languages
+ip-camera,34,Programming Languages,Programming Languages
+secure-erase,34,Programming Languages,Programming Languages
+adobe-reader,34,Programming Languages,Programming Languages
+traceroute,34,Programming Languages,Programming Languages
+windows-10-pro,34,Operating system,Operating system
+parameters,34,Programming Languages,Programming Languages
+paste,34,unamed,paste
+hardware-acceleration,34,Programming Languages,Programming Languages
+bind,34,unamed,bind
+parrot-os,34,Programming Languages,Programming Languages
+label,34,unamed,label
+rtsp,34,Programming Languages,Programming Languages
+wayland,34,Internet,Internet
+cloudflare,33,Programming Languages,Programming Languages
+alt-tab,33,unamed,alt-tab
+sshfs,33,Security,Security
+syslog,33,unamed,syslog
+deduplication,33,Programming Languages,Programming Languages
+terminal.app,33,Programming Languages,Programming Languages
+pin,33,unamed,pin
+libraries,33,Programming Languages,Programming Languages
+unzip,33,Backup,Backup
+visual-artifacts,33,Programming Languages,Programming Languages
+rufus,33,Programming Languages,Programming Languages
+wake-up,33,unamed,wake-up
+private-key,33,Programming Languages,Programming Languages
+powershell-5.0,33,Programming Languages,Programming Languages
+x11-forwarding,33,Programming Languages,Programming Languages
+transparency,33,Programming Languages,Programming Languages
+vmware-player,33,Programming Languages,Programming Languages
+benchmarking,33,Programming Languages,Programming Languages
+characters,33,Programming Languages,Programming Languages
+hp-elitebook,33,unamed,hp-elitebook
+diff,33,unamed,diff
+column,33,Programming Languages,Programming Languages
+home-server,33,Programming Languages,Programming Languages
+hostapd,33,unamed,hostapd
+conferencing,32,Programming Languages,Programming Languages
+apfs,32,unamed,apfs
+file-types,32,unamed,file-types
+sh,32,unamed,sh
+xampp,32,unamed,xampp
+ruby,32,Programming Languages,Programming Languages
+thumbnails,32,unamed,thumbnails
+realtek-hd-audio,32,Programming Languages,Programming Languages
+rar,32,Programming Languages,Programming Languages
+sysprep,32,Programming Languages,Programming Languages
+wmic,32,Programming Languages,Programming Languages
+acpi,32,Programming Languages,Programming Languages
+windows-activation,32,Operating system,Operating system
+integrated-graphics,32,Programming Languages,Programming Languages
+hide,32,unamed,hide
+dnsmasq,32,Web & Application Servers,Web & Application Servers
+squid,32,unamed,squid
+case,32,Programming Languages,Programming Languages
+tomcat,32,Programming Languages,Programming Languages
+raid-5,32,Programming Languages,Programming Languages
+character-encoding,31,Programming Languages,Programming Languages
+logitech-mouse,31,Programming Languages,Programming Languages
+public-key,31,Programming Languages,Programming Languages
+parallels,31,Programming Languages,Programming Languages
+comparison,31,Programming Languages,Programming Languages
+chmod,31,Programming Languages,Programming Languages
+gnu-screen,31,Programming Languages,Programming Languages
+help-files,31,Problems,Problems
+smartcard,31,Programming Languages,Programming Languages
+mouse-click,31,Programming Languages,Programming Languages
+windows-11-upgrade,31,Operating system,Operating system
+netcat,31,Programming Languages,Programming Languages
+time-zone,31,unamed,time-zone
+notification-area,31,Programming Languages,Programming Languages
+windows-10-v21h1,31,Operating system,Operating system
+ups,31,unamed,ups
+audio-streaming,31,Programming Languages,Programming Languages
+hls,31,unamed,hls
+freedos,31,Programming Languages,Programming Languages
+tags,31,unamed,tags
+ddrescue,31,Programming Languages,Programming Languages
+open,31,unamed,open
+remote-control,31,Programming Languages,Programming Languages
+voltage,31,unamed,voltage
+cluster,31,Programming Languages,Programming Languages
+ifconfig,31,Programming Languages,Programming Languages
+microsoft-excel-2013,31,Microsoft,Microsoft
+image-editing,30,unamed,image-editing
+libvirt,30,Programming Languages,Programming Languages
+time-machine,30,Programming Languages,Programming Languages
+diagnostic,30,Programming Languages,Programming Languages
+key-binding,30,unamed,key-binding
+yubikey,30,unamed,yubikey
+vmware-fusion,30,Programming Languages,Programming Languages
+intune,30,unamed,intune
+openoffice,30,Programming Languages,Programming Languages
+iot,30,unamed,iot
+array,30,Programming Languages,Programming Languages
+pagefile,30,unamed,pagefile
+winrar,30,Programming Languages,Programming Languages
+solaris,30,Programming Languages,Programming Languages
+tcpip,30,Programming Languages,Programming Languages
+screen-recorder,30,Programming Languages,Programming Languages
+infinite-loop,30,unamed,infinite-loop
+mdns,30,Web & Application Servers,Web & Application Servers
+wipe,30,Internet,Internet
+dd-wrt,30,Programming Languages,Programming Languages
+hid,30,unamed,hid
+hypervisor,30,Programming Languages,Programming Languages
+windows-11-preview,30,Operating system,Operating system
+process-explorer,30,Programming Languages,Programming Languages
+chrome-remote-desktop,30,Programming Languages,Programming Languages
+storage-spaces,30,Programming Languages,Programming Languages
+if,30,unamed,if
+teamviewer,30,Programming Languages,Programming Languages
+rendering,30,Programming Languages,Programming Languages
+upload,30,unamed,upload
+random,30,Programming Languages,Programming Languages
+pictures,30,Programming Languages,Programming Languages
+http-proxy,30,Programming Languages,Programming Languages
+mail-merge,30,Programming Languages,Programming Languages
+ascii,30,Programming Languages,Programming Languages
+cinnamon,30,Programming Languages,Programming Languages
+micro-sd-card,29,Programming Languages,Programming Languages
+browser-cache,29,Programming Languages,Programming Languages
+fish,29,unamed,fish
+emoji,29,unamed,emoji
+remapping,29,Programming Languages,Programming Languages
+directory-listing,29,Programming Languages,Programming Languages
+dovecot,29,Programming Languages,Programming Languages
+automator,29,Programming Languages,Programming Languages
+su,29,unamed,su
+kill,29,unamed,kill
+xcode,29,Programming Languages,Programming Languages
+self-hosting,29,unamed,self-hosting
+usability,29,unamed,usability
+ocr,29,Programming Languages,Programming Languages
+conemu,29,Programming Languages,Programming Languages
+vscode-extensions,29,Programming Languages,Programming Languages
+pycharm,29,Programming Languages,Programming Languages
+memory-limit,29,Programming Languages,Programming Languages
+file-format,29,Programming Languages,Programming Languages
+email-client,29,Programming Languages,Programming Languages
+headset,29,unamed,headset
+vlookup,29,unamed,vlookup
+compact-disc,29,Programming Languages,Programming Languages
+microsoft-account,29,Microsoft,Microsoft
+hdr,29,Programming Languages,Programming Languages
+microsoft-store,29,Microsoft,Microsoft
+uwp,29,unamed,uwp
+concatenation,29,Programming Languages,Programming Languages
+windows-networking,29,Operating system,Operating system
+cryptography,29,Programming Languages,Programming Languages
+azure-activedirectory,29,Programming Languages,Programming Languages
+raw,29,Programming Languages,Programming Languages
+icmp,29,Programming Languages,Programming Languages
+gif,29,unamed,gif
+qt,29,unamed,qt
+digital-ocean,29,Programming Languages,Programming Languages
+selinux,29,Operating system,Operating system
+mdadm,29,unamed,mdadm
+web-hosting,29,Web & Application Servers,Web & Application Servers
+table-of-contents,29,Programming Languages,Programming Languages
+google-meet,28,unamed,google-meet
+spell-check,28,Programming Languages,Programming Languages
+pam,28,unamed,pam
+screensaver,28,Programming Languages,Programming Languages
+documentation,28,Programming Languages,Programming Languages
+protocol,28,Programming Languages,Programming Languages
+qnap,28,unamed,qnap
+msys2,28,unamed,msys2
+resource-usage,28,Programming Languages,Programming Languages
+fps,28,unamed,fps
+dvi,28,unamed,dvi
+appdata,28,unamed,appdata
+google-workspace,28,Programming Languages,Programming Languages
+kiosk,28,Operating system,Operating system
+ownership,28,Programming Languages,Programming Languages
+user-folders,28,Programming Languages,Programming Languages
+emulation,28,unamed,emulation
+alert,28,Programming Languages,Programming Languages
+transcode,28,Programming Languages,Programming Languages
+serial,28,Programming Languages,Programming Languages
+xrandr,28,Programming Languages,Programming Languages
+fiber,28,Programming Languages,Programming Languages
+throttling,28,Programming Languages,Programming Languages
+microsoft-powerbi,28,Microsoft,Microsoft
+slack,27,Programming Languages,Programming Languages
+disk-utility,27,unamed,disk-utility
+spotify,27,Audio,Audio
+pihole,27,unamed,pihole
+x-server,27,Programming Languages,Programming Languages
+macos-highsierra,27,Operating system,Operating system
+contacts,27,Programming Languages,Programming Languages
+audacity,27,Programming Languages,Programming Languages
+newlines,27,unamed,newlines
+lvm2,27,unamed,lvm2
+fsck,27,Programming Languages,Programming Languages
+drm,27,Programming Languages,Programming Languages
+hardlink,27,Programming Languages,Programming Languages
+playlists,27,unamed,playlists
+bashrc,27,Programming Languages,Programming Languages
+gzip,27,Backup,Backup
+cleaning,27,Programming Languages,Programming Languages
+delay,27,unamed,delay
+volume-mixer,27,Programming Languages,Programming Languages
+sectors,27,Programming Languages,Programming Languages
+window-focus,27,Programming Languages,Programming Languages
+two-factor-authentication,27,Programming Languages,Programming Languages
+windows-insider,27,Operating system,Operating system
+bootrepair,27,Programming Languages,Programming Languages
+drive-letter,27,Programming Languages,Programming Languages
+livecd,27,Programming Languages,Programming Languages
+dell-optiplex,27,Internet,Internet
+packet,27,Programming Languages,Programming Languages
+mariadb,27,Programming Languages,Programming Languages
+firewalld,27,Programming Languages,Programming Languages
+standards,27,Programming Languages,Programming Languages
+rules,27,Programming Languages,Programming Languages
+chromecast,27,Programming Languages,Programming Languages
+kernel-module,27,Programming Languages,Programming Languages
+ipad,26,Internet,Internet
+mpv,26,unamed,mpv
+fn-key,26,unamed,fn-key
+open-source,26,Programming Languages,Programming Languages
+crontab,26,Programming Languages,Programming Languages
+loopback,26,Programming Languages,Programming Languages
+rj-45,26,Programming Languages,Programming Languages
+itunes,26,unamed,itunes
+citrix,26,Programming Languages,Programming Languages
+gtk,26,unamed,gtk
+profile,26,Programming Languages,Programming Languages
+recursive,26,Programming Languages,Programming Languages
+cpanel,26,Programming Languages,Programming Languages
+pixels,26,unamed,pixels
+winpe,26,unamed,winpe
+vivaldi,26,Web & Application Servers,Web & Application Servers
+dialog,26,unamed,dialog
+windows-vista,26,Operating system,Operating system
+runas,26,Programming Languages,Programming Languages
+media-player,26,Programming Languages,Programming Languages
+gpg4win,26,unamed,gpg4win
+ufw,26,unamed,ufw
+forensics,26,Programming Languages,Programming Languages
+chocolatey,26,Programming Languages,Programming Languages
+legacy,26,Programming Languages,Programming Languages
+ubiquiti,26,unamed,ubiquiti
+priority,26,Programming Languages,Programming Languages
+private-browsing,26,Programming Languages,Programming Languages
+dependencies,26,Programming Languages,Programming Languages
+rstudio,26,Programming Languages,Programming Languages
+sony-vaio,26,unamed,sony-vaio
+windows-hello,26,Operating system,Operating system
+pop3,26,unamed,pop3
+transfer,26,Programming Languages,Programming Languages
+xrdp,26,Programming Languages,Programming Languages
+nftables,26,unamed,nftables
+apt-get,26,unamed,apt-get
+terminology,26,Programming Languages,Programming Languages
+blu-ray,26,Programming Languages,Programming Languages
+svg,26,unamed,svg
+keepass,26,unamed,keepass
+attachments,26,Programming Languages,Programming Languages
+interference,26,Programming Languages,Programming Languages
+dynamic-dns,26,Programming Languages,Programming Languages
+color-profiles,25,Programming Languages,Programming Languages
+microsoft-office-2016,25,Microsoft,Microsoft
+adobe-premiere,25,Programming Languages,Programming Languages
+top,25,unamed,top
+embedded,25,unamed,embedded
+atom-editor,25,Programming Languages,Programming Languages
+system-administration,25,Programming Languages,Programming Languages
+led,25,unamed,led
+events,25,unamed,events
+nslookup,25,unamed,nslookup
+microsoft-outlook-2010,25,Microsoft,Microsoft
+intel-rst,25,Programming Languages,Programming Languages
+ahci,25,Programming Languages,Programming Languages
+h.265,25,unamed,h.265
+high-cpu-usage,25,Programming Languages,Programming Languages
+input-device,25,Programming Languages,Programming Languages
+dell-vostro,25,Programming Languages,Programming Languages
+forms,25,Programming Languages,Programming Languages
+windows-media-player,25,Operating system,Operating system
+productivity,25,Programming Languages,Programming Languages
+visual-c++,25,Programming Languages,Programming Languages
+video-capture,25,Programming Languages,Programming Languages
+backlight,25,Programming Languages,Programming Languages
+function-keys,25,Programming Languages,Programming Languages
+lenovo-desktop-computer,25,Programming Languages,Programming Languages
+xfs,25,unamed,xfs
+truecrypt,25,Programming Languages,Programming Languages
+powerline-networking,25,Programming Languages,Programming Languages
+gnome3,25,unamed,gnome3
+mikrotik,25,Programming Languages,Programming Languages
+range,25,Programming Languages,Programming Languages
+tcpdump,25,Programming Languages,Programming Languages
+usb-3.1-type-c,25,Programming Languages,Programming Languages
+cp,24,Programming Languages,Programming Languages
+media,24,unamed,media
+game-controller,24,Programming Languages,Programming Languages
+escape-characters,24,Programming Languages,Programming Languages
+product-key,24,Programming Languages,Programming Languages
+microsoft-outlook-365,24,Microsoft,Microsoft
+pid,24,unamed,pid
+audio-conversion,24,Programming Languages,Programming Languages
+elementaryos,24,Programming Languages,Programming Languages
+preview,24,Programming Languages,Programming Languages
+opencv,24,Programming Languages,Programming Languages
+tethering,24,Programming Languages,Programming Languages
+embedded-linux,24,Operating system,Operating system
+web-crawler,24,Programming Languages,Programming Languages
+elasticsearch,24,Programming Languages,Programming Languages
+cmder,24,Programming Languages,Programming Languages
+mutt,24,unamed,mutt
+windows-server-2008,24,Operating system,Operating system
+command-history,24,Programming Languages,Programming Languages
+sandbox,24,unamed,sandbox
+flashing,24,unamed,flashing
+report,24,Programming Languages,Programming Languages
+ssh-agent,24,Security,Security
+intel,24,unamed,intel
+intel-core-i5,24,Programming Languages,Programming Languages
+offline-files,24,unamed,offline-files
+query,24,Programming Languages,Programming Languages
+psexec,24,Programming Languages,Programming Languages
+socks-proxy,24,Programming Languages,Programming Languages
+netstat,24,unamed,netstat
+miracast,24,Programming Languages,Programming Languages
+button-remapping,24,Programming Languages,Programming Languages
+error-correction,24,Programming Languages,Programming Languages
+administration,24,Programming Languages,Programming Languages
+autosave,24,unamed,autosave
+blank-screen,24,Programming Languages,Programming Languages
+network-traffic,24,Programming Languages,Programming Languages
+microsoft-surface-pro,24,Microsoft,Microsoft
+x86,24,unamed,x86
+snapshot,24,unamed,snapshot
+pdf-reader,24,Programming Languages,Programming Languages
+dongle,24,unamed,dongle
+highlighting,24,unamed,highlighting
+ffprobe,24,Programming Languages,Programming Languages
+patch,24,Programming Languages,Programming Languages
+software-rec,24,Programming Languages,Programming Languages
+html5,24,Programming Languages,Programming Languages
+data-integrity,24,Programming Languages,Programming Languages
+dsl,24,unamed,dsl
+wireless-bridge,24,Programming Languages,Programming Languages
+numbering,24,Programming Languages,Programming Languages
+cpu-architecture,23,Programming Languages,Programming Languages
+stdout,23,unamed,stdout
+socat,23,Programming Languages,Programming Languages
+cisco-anyconnect,23,Programming Languages,Programming Languages
+gpg-agent,23,unamed,gpg-agent
+version-control,23,Programming Languages,Programming Languages
+file-shortcut,23,Programming Languages,Programming Languages
+cross-platform,23,Programming Languages,Programming Languages
+burning,23,Programming Languages,Programming Languages
+slideshow,23,unamed,slideshow
+bad-blocks,23,Programming Languages,Programming Languages
+trusted-root-certificates,23,Programming Languages,Programming Languages
+overwrite,23,Programming Languages,Programming Languages
+network-protocols,23,Programming Languages,Programming Languages
+screencasts,23,Programming Languages,Programming Languages
+powershell-ise,23,Programming Languages,Programming Languages
+wireless-mouse,23,Programming Languages,Programming Languages
+peripherals,23,Programming Languages,Programming Languages
+parallel-processing,23,Programming Languages,Programming Languages
+user-groups,23,Programming Languages,Programming Languages
+webdav,23,Web & Application Servers,Web & Application Servers
+virus-removal,23,Programming Languages,Programming Languages
+automatic-update,23,Programming Languages,Programming Languages
+floppy,23,unamed,floppy
+unattended,23,unamed,unattended
+workspace,23,Programming Languages,Programming Languages
+color-theme,23,Programming Languages,Programming Languages
+cryptomining,23,Programming Languages,Programming Languages
+web-application,23,Programming Languages,Programming Languages
+vsftpd,23,unamed,vsftpd
+repeater,23,Programming Languages,Programming Languages
+auto-form-fill,23,Programming Languages,Programming Languages
+svn,23,unamed,svn
+flac,23,Programming Languages,Programming Languages
+cross-reference,23,Programming Languages,Programming Languages
+dpi,22,unamed,dpi
+screen-capture,22,Programming Languages,Programming Languages
+google-docs,22,Programming Languages,Programming Languages
+home-directory,22,Programming Languages,Programming Languages
+wireless-keyboard,22,Programming Languages,Programming Languages
+string-manipulation,22,Programming Languages,Programming Languages
+syntax-highlighting,22,unamed,syntax-highlighting
+brother-printer,22,Programming Languages,Programming Languages
+overlay,22,Programming Languages,Programming Languages
+runtime-error,22,Programming Languages,Programming Languages
+microsoft-excel-2019,22,Microsoft,Microsoft
+windows-store-app,22,Operating system,Operating system
+windows-store,22,Operating system,Operating system
+hp-envy,22,unamed,hp-envy
+corsair,22,Programming Languages,Programming Languages
+oem,22,unamed,oem
+portable,22,Programming Languages,Programming Languages
+vncserver,22,Programming Languages,Programming Languages
+mapped-drive,22,Programming Languages,Programming Languages
+arabic,22,Programming Languages,Programming Languages
+system-recovery,22,Programming Languages,Programming Languages
+folder-redirection,22,Programming Languages,Programming Languages
+bcdedit,22,Programming Languages,Programming Languages
+busybox,22,unamed,busybox
+symbols,22,unamed,symbols
+certbot,22,Programming Languages,Programming Languages
+asterisk,22,Programming Languages,Programming Languages
+cat,22,Programming Languages,Programming Languages
+rgb,22,Programming Languages,Programming Languages
+xterm,22,Programming Languages,Programming Languages
+i3-window-manager,22,Programming Languages,Programming Languages
+asp.net,22,unamed,asp.net
+email-filter,22,Programming Languages,Programming Languages
+packet-loss,22,Programming Languages,Programming Languages
+microsoft-office-2019,21,Microsoft,Microsoft
+virt-manager,21,Programming Languages,Programming Languages
+dictionary,21,Programming Languages,Programming Languages
+attributes,21,Programming Languages,Programming Languages
+google-drive-file-stream,21,Programming Languages,Programming Languages
+htop,21,unamed,htop
+azure-devops,21,Programming Languages,Programming Languages
+webex,21,Web & Application Servers,Web & Application Servers
+crop,21,Programming Languages,Programming Languages
+interactive,21,Programming Languages,Programming Languages
+ssms,21,unamed,ssms
+video-playback,21,Programming Languages,Programming Languages
+cpu-speed,21,Programming Languages,Programming Languages
+multi-core,21,Programming Languages,Programming Languages
+unresponsive,21,Programming Languages,Programming Languages
+auto-updates,21,unamed,auto-updates
+print-to-pdf,21,Programming Languages,Programming Languages
+sublime-text,21,unamed,sublime-text
+dwm,21,unamed,dwm
+automount,21,unamed,automount
+right-click,21,Programming Languages,Programming Languages
+usb-boot,21,Computer Components,Computer Components
+tigervnc,21,Programming Languages,Programming Languages
+caption,21,Programming Languages,Programming Languages
+chinese,21,Programming Languages,Programming Languages
+iscsi,21,Programming Languages,Programming Languages
+com,21,Programming Languages,Programming Languages
+sas,21,unamed,sas
+upnp,21,unamed,upnp
+zorin,21,Programming Languages,Programming Languages
+windows-system-image,21,Operating system,Operating system
+computer-architecture,21,Programming Languages,Programming Languages
+memtest86+,21,unamed,memtest86+
+yum,21,unamed,yum
+container,21,Programming Languages,Programming Languages
+lxc,21,Programming Languages,Programming Languages
+haproxy,21,Programming Languages,Programming Languages
+cpu-temperature,21,Programming Languages,Programming Languages
+sensors,21,Programming Languages,Programming Languages
+nano,21,unamed,nano
+suse,21,unamed,suse
+hosting,21,unamed,hosting
+chown,21,Programming Languages,Programming Languages
+qos,21,unamed,qos
+v4l2,21,unamed,v4l2
+throughput,21,Programming Languages,Programming Languages
+flatpak,21,unamed,flatpak
+linux-device-driver,21,Operating system,Operating system
+layout,21,unamed,layout
+markdown,21,Programming Languages,Programming Languages
+wds,21,unamed,wds
+field-codes,21,Programming Languages,Programming Languages
+amazon-s3,21,unamed,amazon-s3
+mv,20,unamed,mv
+nixos,20,unamed,nixos
+tmpfs,20,unamed,tmpfs
+g++,20,unamed,g++
+malware-removal,20,Programming Languages,Programming Languages
+virtual-host,20,Programming Languages,Programming Languages
+local-storage,20,Programming Languages,Programming Languages
+mqtt,20,unamed,mqtt
+flask,20,unamed,flask
+selenium,20,unamed,selenium
+gnome-terminal,20,Programming Languages,Programming Languages
+bitrate,20,Programming Languages,Programming Languages
+disk-cleanup,20,Programming Languages,Programming Languages
+multimedia,20,unamed,multimedia
+vhdx,20,unamed,vhdx
+twitter,20,Programming Languages,Programming Languages
+charger,20,Programming Languages,Programming Languages
+icacls,20,Programming Languages,Programming Languages
+clock,20,Programming Languages,Programming Languages
+macrium,20,Programming Languages,Programming Languages
+samsung-smart-tv,20,Programming Languages,Programming Languages
+privacy-protection,20,Programming Languages,Programming Languages
+controller,20,Programming Languages,Programming Languages
+vdi,20,unamed,vdi
+rss,20,Programming Languages,Programming Languages
+private-network,20,Programming Languages,Programming Languages
+development,20,unamed,development
+vnc-viewer,20,Programming Languages,Programming Languages
+dev,20,unamed,dev
+lookup,20,unamed,lookup
+du,20,unamed,du
+resolv.conf,20,Programming Languages,Programming Languages
+traffic,20,Programming Languages,Programming Languages
+testdisk,20,unamed,testdisk
+certificate-authority,20,Programming Languages,Programming Languages
+raid-0,20,Programming Languages,Programming Languages
+security-warning,20,Programming Languages,Programming Languages
+ngrok,20,Programming Languages,Programming Languages
+combine,20,Programming Languages,Programming Languages
+water-damage,20,Programming Languages,Programming Languages
+plink,20,unamed,plink
+webrtc,20,Programming Languages,Programming Languages
+search-engines,20,Programming Languages,Programming Languages
+adsl-router,20,Programming Languages,Programming Languages
+gtk3,20,unamed,gtk3
+opnsense,20,unamed,opnsense
+analysis,20,unamed,analysis
+conditional-statements,20,Programming Languages,Programming Languages
+equations,20,unamed,equations
+pandoc,20,Programming Languages,Programming Languages
+fuse,19,unamed,fuse
+handbrake,19,Programming Languages,Programming Languages
+docx,19,Programming Languages,Programming Languages
+developer-tools,19,Programming Languages,Programming Languages
+.net-core,19,Programming Languages,Programming Languages
+ime,19,unamed,ime
+file-descriptors,19,Programming Languages,Programming Languages
+apple-mail,19,unamed,apple-mail
+beaglebone,19,unamed,beaglebone
+run-dialog,19,Programming Languages,Programming Languages
+indentation,19,unamed,indentation
+cmake,19,Programming Languages,Programming Languages
+dpkg,19,unamed,dpkg
+virtualenv,19,Programming Languages,Programming Languages
+rpm,19,Programming Languages,Programming Languages
+django,19,unamed,django
+read,19,Programming Languages,Programming Languages
+windows-sandbox,19,Operating system,Operating system
+address-bar,19,Programming Languages,Programming Languages
+okular,19,Programming Languages,Programming Languages
+windows-98,19,Operating system,Operating system
+frame,19,Programming Languages,Programming Languages
+date-modified,19,unamed,date-modified
+workflow,19,Programming Languages,Programming Languages
+whitespace,19,Programming Languages,Programming Languages
+high-dpi,19,unamed,high-dpi
+dvd-burning,19,Programming Languages,Programming Languages
+openpgp,19,unamed,openpgp
+session-restore,19,Programming Languages,Programming Languages
+vsphere,19,Programming Languages,Programming Languages
+pppoe,19,unamed,pppoe
+animation,19,unamed,animation
+3d,19,unamed,3d
+security-policy,19,Programming Languages,Programming Languages
+alignment,19,unamed,alignment
+recovery-partition,19,Programming Languages,Programming Languages
+multiple-computers,19,Programming Languages,Programming Languages
+opendns,19,Web & Application Servers,Web & Application Servers
+resource-monitor,19,Programming Languages,Programming Languages
+traffic-filtering,19,Programming Languages,Programming Languages
+gns3,19,unamed,gns3
+ddr,19,Programming Languages,Programming Languages
+sysctl,19,Programming Languages,Programming Languages
+godaddy,19,unamed,godaddy
+thermal-paste,19,Programming Languages,Programming Languages
+footers,19,Programming Languages,Programming Languages
+web-development,19,Web & Application Servers,Web & Application Servers
+block-device,19,Programming Languages,Programming Languages
+broadcom,19,Programming Languages,Programming Languages
+dropdownlist,19,Programming Languages,Programming Languages
+adsl,19,unamed,adsl
+linebreaks,19,Programming Languages,Programming Languages
+at,18,unamed,at
+alt,18,unamed,alt
+logitech-keyboard,18,Programming Languages,Programming Languages
+smime,18,unamed,smime
+telegram-messenger,18,Programming Languages,Programming Languages
+code-signing,18,Programming Languages,Programming Languages
+exiftool,18,unamed,exiftool
+graphics-tablet,18,Programming Languages,Programming Languages
+displaylink,18,Computer Components,Computer Components
+scheduling,18,Programming Languages,Programming Languages
+adblock,18,Programming Languages,Programming Languages
+dnf,18,unamed,dnf
+matlab,18,Programming Languages,Programming Languages
+debugger,18,Programming Languages,Programming Languages
+sudoers,18,Programming Languages,Programming Languages
+memtest,18,unamed,memtest
+optical-drive,18,Programming Languages,Programming Languages
+speedtest,18,Internet,Internet
+video-codecs,18,Programming Languages,Programming Languages
+uuid,18,unamed,uuid
+mklink,18,unamed,mklink
+findstr,18,Programming Languages,Programming Languages
+windows-95,18,Operating system,Operating system
+xinput,18,unamed,xinput
+clicking-sound,18,Programming Languages,Programming Languages
+network-monitoring,18,Programming Languages,Programming Languages
+media-creation-tool,18,Programming Languages,Programming Languages
+supermicro,18,Programming Languages,Programming Languages
+foxit-reader,18,Programming Languages,Programming Languages
+hardware-raid,18,Programming Languages,Programming Languages
+lid,18,unamed,lid
+gvim,18,unamed,gvim
+language-pack,18,Programming Languages,Programming Languages
+interrupts,18,Programming Languages,Programming Languages
+trojan,18,Programming Languages,Programming Languages
+mailto,18,unamed,mailto
+capslock,18,Programming Languages,Programming Languages
+optimus,18,unamed,optimus
+capture,18,Programming Languages,Programming Languages
+workgroup,18,Programming Languages,Programming Languages
+split-window,18,unamed,split-window
+refresh,18,Programming Languages,Programming Languages
+ddr3,18,Programming Languages,Programming Languages
+google-chrome-devtools,18,Programming Languages,Programming Languages
+chat,18,Programming Languages,Programming Languages
+cell-format,18,Programming Languages,Programming Languages
+mingw,18,unamed,mingw
+iperf,18,Programming Languages,Programming Languages
+framerate,18,Programming Languages,Programming Languages
+border,18,Programming Languages,Programming Languages
+tracking,18,Programming Languages,Programming Languages
+public-key-encryption,18,Programming Languages,Programming Languages
+dig,18,unamed,dig
+drawing,18,Programming Languages,Programming Languages
+initramfs-tools,18,Programming Languages,Programming Languages
+netgear-router,18,Programming Languages,Programming Languages
+broadcast,18,Programming Languages,Programming Languages
+mesh-networking,18,Programming Languages,Programming Languages
+netplan,18,Internet,Internet
+openldap,18,unamed,openldap
+phpmyadmin,18,Programming Languages,Programming Languages
+verification,18,Programming Languages,Programming Languages
+cisco-router,18,Programming Languages,Programming Languages
+openoffice-calc,18,Programming Languages,Programming Languages
+locate,17,Programming Languages,Programming Languages
+react.js,17,Programming Languages,Programming Languages
+openjdk,17,unamed,openjdk
+system-preferences,17,Programming Languages,Programming Languages
+keychain,17,Programming Languages,Programming Languages
+data-migration,17,Programming Languages,Programming Languages
+lg-monitor,17,Programming Languages,Programming Languages
+tree,17,Programming Languages,Programming Languages
+adobe-illustrator,17,Programming Languages,Programming Languages
+unmount,17,unamed,unmount
+parsing,17,Programming Languages,Programming Languages
+tesseract-ocr,17,Programming Languages,Programming Languages
+blender,17,Programming Languages,Programming Languages
+pdftk,17,unamed,pdftk
+stereo,17,Programming Languages,Programming Languages
+cloning,17,Programming Languages,Programming Languages
+focus,17,Programming Languages,Programming Languages
+acer,17,Programming Languages,Programming Languages
+title-bar,17,Programming Languages,Programming Languages
+802.11,17,unamed,802.11
+broadband,17,Programming Languages,Programming Languages
+username,17,Programming Languages,Programming Languages
+ctrl,17,Programming Languages,Programming Languages
+powercfg,17,Programming Languages,Programming Languages
+boot-manager,17,Programming Languages,Programming Languages
+routing-table,17,Programming Languages,Programming Languages
+synaptics-touchpad,17,Programming Languages,Programming Languages
+inkscape,17,Programming Languages,Programming Languages
+defragment,17,Programming Languages,Programming Languages
+scanning,17,Programming Languages,Programming Languages
+logout,17,unamed,logout
+sata-to-usb,17,Computer Components,Computer Components
+far-manager,17,Programming Languages,Programming Languages
+wireless-headset,17,Programming Languages,Programming Languages
+golang,17,Internet,Internet
+wireless-extender,17,Programming Languages,Programming Languages
+hdparm,17,Programming Languages,Programming Languages
+citrix-receiver,17,Programming Languages,Programming Languages
+avast,17,unamed,avast
+enclosures,17,Programming Languages,Programming Languages
+pptp,17,unamed,pptp
+performance-tuning,17,Programming Languages,Programming Languages
+sublime-text-2,17,unamed,sublime-text-2
+capacitor,17,Programming Languages,Programming Languages
+zfsonlinux,17,Operating system,Operating system
+wav,17,unamed,wav
+master,17,Programming Languages,Programming Languages
+truenas,17,Programming Languages,Programming Languages
+microsoft-power-automate-desktop,17,Microsoft,Microsoft
+page-numbers,17,Programming Languages,Programming Languages
+mobile-phone,17,unamed,mobile-phone
+dock,17,Programming Languages,Programming Languages
+mime-types,17,unamed,mime-types
+ssid,17,unamed,ssid
+denial-of-service,17,Programming Languages,Programming Languages
+avahi,17,unamed,avahi
+mail-server,17,Programming Languages,Programming Languages
+rhel-7,17,Programming Languages,Programming Languages
+tails,17,unamed,tails
+glibc,17,Programming Languages,Programming Languages
+irc,17,Programming Languages,Programming Languages
+microsoft-visio,17,Microsoft,Microsoft
+international,16,Programming Languages,Programming Languages
+ulimit,16,unamed,ulimit
+daisychaining,16,Programming Languages,Programming Languages
+forticlient,16,Programming Languages,Programming Languages
+mac-mini,16,Programming Languages,Programming Languages
+kernel-panic,16,Programming Languages,Programming Languages
+downgrade,16,Programming Languages,Programming Languages
+coreutils,16,Programming Languages,Programming Languages
+qbittorrent,16,Programming Languages,Programming Languages
+ebook,16,unamed,ebook
+neovim,16,unamed,neovim
+tiff,16,unamed,tiff
+exceptions,16,Programming Languages,Programming Languages
+sox,16,unamed,sox
+source-code,16,Programming Languages,Programming Languages
+hp-proliant,16,Programming Languages,Programming Languages
+contrast,16,Programming Languages,Programming Languages
+sfc,16,Programming Languages,Programming Languages
+protocol-handler,16,Programming Languages,Programming Languages
+google-sync,16,Programming Languages,Programming Languages
+odbc,16,Programming Languages,Programming Languages
+meetings,16,unamed,meetings
+simulation,16,unamed,simulation
+dir,16,Programming Languages,Programming Languages
+image-conversion,16,Programming Languages,Programming Languages
+microsoft-office-2010,16,Microsoft,Microsoft
+ftpm,16,unamed,ftpm
+clockspeed,16,Programming Languages,Programming Languages
+persistence,16,Programming Languages,Programming Languages
+jumplist,16,unamed,jumplist
+logrotate,16,Programming Languages,Programming Languages
+cronjob,16,Programming Languages,Programming Languages
+socks5,16,Programming Languages,Programming Languages
+msconfig,16,Programming Languages,Programming Languages
+dynamic-disk,16,Programming Languages,Programming Languages
+playback,16,Programming Languages,Programming Languages
+xbox360,16,unamed,xbox360
+windows-10-v1903,16,Operating system,Operating system
+wireless-adapter,16,Programming Languages,Programming Languages
+toshiba-laptop,16,Computer Components,Computer Components
+acronis-trueimage,16,Programming Languages,Programming Languages
+cut,16,Programming Languages,Programming Languages
+numlock,16,Programming Languages,Programming Languages
+switching,16,Programming Languages,Programming Languages
+text-to-speech,16,Programming Languages,Programming Languages
+samsung-laptop,16,Computer Components,Computer Components
+print-drivers,16,Operating system,Operating system
+bullets,16,unamed,bullets
+mobile-broadband,16,Programming Languages,Programming Languages
+workstation,16,Programming Languages,Programming Languages
+telephony,16,unamed,telephony
+flash-player,16,Programming Languages,Programming Languages
+chipset,16,Programming Languages,Programming Languages
+address,16,Programming Languages,Programming Languages
+dual-channel,16,Programming Languages,Programming Languages
+intel-nuc,16,Programming Languages,Programming Languages
+whitelist,16,unamed,whitelist
+google-compute-engine,16,Programming Languages,Programming Languages
+nameserver,16,Programming Languages,Programming Languages
+client-certificate,16,Programming Languages,Programming Languages
+xcopy,16,Programming Languages,Programming Languages
+outlook-web-access,16,Programming Languages,Programming Languages
+chroot-jail,16,Programming Languages,Programming Languages
+smbclient,16,Programming Languages,Programming Languages
+bonding,16,unamed,bonding
+strongswan,16,Programming Languages,Programming Languages
+logfiles,16,unamed,logfiles
+external,16,Programming Languages,Programming Languages
+ground,16,Programming Languages,Programming Languages
+physical-damage,16,Programming Languages,Programming Languages
+uri,16,Programming Languages,Programming Languages
+reverse-tunnel,16,Programming Languages,Programming Languages
+microsoft-word-2019,16,Microsoft,Microsoft
+openconnect,16,Programming Languages,Programming Languages
+802.11n,16,unamed,802.11n
+scroll-wheel,16,Programming Languages,Programming Languages
+lightdm,16,unamed,lightdm
+hub,16,unamed,hub
+xmodmap,16,unamed,xmodmap
+wpa-supplicant,16,Programming Languages,Programming Languages
+redundancy,16,Programming Languages,Programming Languages
+turbo-boost,16,Programming Languages,Programming Languages
+statistics,16,Programming Languages,Programming Languages
+countif,16,Programming Languages,Programming Languages
+phone,15,unamed,phone
+jdk,15,unamed,jdk
+mac-pro,15,Programming Languages,Programming Languages
+multicast,15,Programming Languages,Programming Languages
+httpd,15,unamed,httpd
+surround-sound,15,Programming Languages,Programming Languages
+hfs+,15,unamed,hfs+
+dmg-image,15,unamed,dmg-image
+passwd,15,unamed,passwd
+send-to,15,unamed,send-to
+file-conversion,15,Programming Languages,Programming Languages
+prefix,15,Programming Languages,Programming Languages
+netflix,15,unamed,netflix
+navigation,15,unamed,navigation
+debian-stretch,15,Operating system,Operating system
+ghostscript,15,Programming Languages,Programming Languages
+screen-scraping,15,Programming Languages,Programming Languages
+ransomware,15,Programming Languages,Programming Languages
+arguments,15,Programming Languages,Programming Languages
+wim,15,unamed,wim
+malware-detection,15,Programming Languages,Programming Languages
+less,15,unamed,less
+system32,15,unamed,system32
+umask,15,unamed,umask
+windbg,15,unamed,windbg
+autocad,15,Programming Languages,Programming Languages
+core,15,Programming Languages,Programming Languages
+imaging,15,unamed,imaging
+optane,15,unamed,optane
+advanced-format,15,Programming Languages,Programming Languages
+efs,15,unamed,efs
+system-monitoring,15,Programming Languages,Programming Languages
+elevation,15,unamed,elevation
+ribbon,15,Programming Languages,Programming Languages
+ics,15,Programming Languages,Programming Languages
+anydesk,15,unamed,anydesk
+split-tunnel,15,unamed,split-tunnel
+hyper-v-manager,15,Programming Languages,Programming Languages
+properties,15,Programming Languages,Programming Languages
+xargs,15,Programming Languages,Programming Languages
+epub,15,unamed,epub
+bcd,15,Programming Languages,Programming Languages
+color-depth,15,Programming Languages,Programming Languages
+dual-gpu,15,Computer Components,Computer Components
+virtual-reality,15,Programming Languages,Programming Languages
+guest-additions,15,unamed,guest-additions
+ps2,15,unamed,ps2
+mdt,15,unamed,mdt
+rtmp,15,Programming Languages,Programming Languages
+nvidia-rtx,15,Programming Languages,Programming Languages
+pinning,15,unamed,pinning
+hp-spectre,15,Programming Languages,Programming Languages
+download-manager,15,Programming Languages,Programming Languages
+ppp,15,unamed,ppp
+spyware,15,Programming Languages,Programming Languages
+windows-authentication,15,Operating system,Operating system
+external-drive,15,Programming Languages,Programming Languages
+process-hacker,15,Programming Languages,Programming Languages
+naming,15,unamed,naming
+speech-recognition,15,Programming Languages,Programming Languages
+action-center,15,Programming Languages,Programming Languages
+microsoft-surface-3,15,Microsoft,Microsoft
+dram,15,Programming Languages,Programming Languages
+fail2ban,15,unamed,fail2ban
+space,15,Programming Languages,Programming Languages
+x-windows,15,Operating system,Operating system
+plesk,15,unamed,plesk
+proc,15,Programming Languages,Programming Languages
+right-to-left,15,Programming Languages,Programming Languages
+x2go,15,unamed,x2go
+blank,15,Internet,Internet
+lamp,15,unamed,lamp
+hp-laserjet,15,Programming Languages,Programming Languages
+jre,15,Programming Languages,Programming Languages
+nordvpn,15,Programming Languages,Programming Languages
+usb-power-delivery,15,Programming Languages,Programming Languages
+webp,15,Web & Application Servers,Web & Application Servers
+url-rewriting,15,Programming Languages,Programming Languages
+superblock,15,Programming Languages,Programming Languages
+exec,15,Programming Languages,Programming Languages
+poweroff,15,Programming Languages,Programming Languages
+thunar,15,Programming Languages,Programming Languages
+jupyter,15,Programming Languages,Programming Languages
+bridge-router,15,Programming Languages,Programming Languages
+distortion,15,Programming Languages,Programming Languages
+terminator,15,Programming Languages,Programming Languages
+i3,15,unamed,i3
+stderr,15,Programming Languages,Programming Languages
+incremental-backup,15,Programming Languages,Programming Languages
+ps,15,unamed,ps
+mongodb,15,unamed,mongodb
+data-analysis,15,unamed,data-analysis
+htaccess,15,Programming Languages,Programming Languages
+client-server,15,Programming Languages,Programming Languages
+aes,15,unamed,aes
+wiring,15,Programming Languages,Programming Languages
+power-over-ethernet,15,Programming Languages,Programming Languages
+mini-displayport,15,Programming Languages,Programming Languages
+emoji-keyboard,14,Programming Languages,Programming Languages
+fortigate,14,Programming Languages,Programming Languages
+jdownloader,14,Programming Languages,Programming Languages
+unity3d,14,unamed,unity3d
+macbook-pro-retina,14,Programming Languages,Programming Languages
+trash,14,Programming Languages,Programming Languages
+wmi,14,unamed,wmi
+tcsh,14,Programming Languages,Programming Languages
+ibm-server,14,Programming Languages,Programming Languages
+vi,14,unamed,vi
+mintty,14,unamed,mintty
+lossless,14,Security,Security
+bluescreenview,14,Programming Languages,Programming Languages
+ecc,14,Programming Languages,Programming Languages
+stress-test,14,Programming Languages,Programming Languages
+ordering,14,Programming Languages,Programming Languages
+digital-audio,14,Audio,Audio
+on-screen-keyboard,14,Programming Languages,Programming Languages
+safely-remove-hardware,14,Programming Languages,Programming Languages
+multitasking,14,unamed,multitasking
+licensing,14,Programming Languages,Programming Languages
+buffer,14,Programming Languages,Programming Languages
+multi-factor-authentication,14,Programming Languages,Programming Languages
+remmina,14,Programming Languages,Programming Languages
+resizing,14,Programming Languages,Programming Languages
+auto-login,14,unamed,auto-login
+headphone-jack,14,Programming Languages,Programming Languages
+paging,14,unamed,paging
+nvidia-quadro,14,Programming Languages,Programming Languages
+total-commander,14,Programming Languages,Programming Languages
+git-for-windows,14,Operating system,Operating system
+vcxsrv,14,Programming Languages,Programming Languages
+access-control,14,Programming Languages,Programming Languages
+ps1,14,unamed,ps1
+hsts,14,unamed,hsts
+cisco-vpn-client,14,Programming Languages,Programming Languages
+l2tp,14,unamed,l2tp
+handle,14,unamed,handle
+voice,14,Programming Languages,Programming Languages
+energy,14,Programming Languages,Programming Languages
+configuration-managment,14,Programming Languages,Programming Languages
+windows-tabletpc,14,Operating system,Operating system
+zotero,14,Programming Languages,Programming Languages
+segmentation-fault,14,unamed,segmentation-fault
+hiren,14,Programming Languages,Programming Languages
+microsoft-word-2013,14,Microsoft,Microsoft
+sdk,14,unamed,sdk
+hpc,14,Programming Languages,Programming Languages
+clamav,14,Programming Languages,Programming Languages
+snmp,14,unamed,snmp
+xmp,14,unamed,xmp
+syntax,14,unamed,syntax
+certutil,14,Programming Languages,Programming Languages
+exclude,14,Programming Languages,Programming Languages
+pki,14,unamed,pki
+file-server,14,Programming Languages,Programming Languages
+libreoffice-impress,14,Programming Languages,Programming Languages
+media-server,14,Programming Languages,Programming Languages
+realvnc,14,Programming Languages,Programming Languages
+facebook,14,Programming Languages,Programming Languages
+quicktime,14,Programming Languages,Programming Languages
+aac,14,Programming Languages,Programming Languages
+bridging,14,Programming Languages,Programming Languages
+tail,14,unamed,tail
+exif,14,unamed,exif
+net-use,14,unamed,net-use
+pgadmin,14,unamed,pgadmin
+heatsink,14,unamed,heatsink
+x509,14,unamed,x509
+tftp,14,unamed,tftp
+xvfb,14,unamed,xvfb
+cdn,14,Programming Languages,Programming Languages
+gps,14,unamed,gps
+p2p,14,unamed,p2p
+maintenance,14,Programming Languages,Programming Languages
+gstreamer,14,Programming Languages,Programming Languages
+touch,14,Programming Languages,Programming Languages
+webmin,14,Web & Application Servers,Web & Application Servers
+sendmail,14,unamed,sendmail
+tomato,14,unamed,tomato
+mst,14,unamed,mst
+dell-poweredge,14,Programming Languages,Programming Languages
+winmerge,14,Programming Languages,Programming Languages
+power-delivery,14,Programming Languages,Programming Languages
+caldav,14,Programming Languages,Programming Languages
+netbeans,14,unamed,netbeans
+firefox-profile,13,Programming Languages,Programming Languages
+cisco-webex,13,Programming Languages,Programming Languages
+rtf,13,Programming Languages,Programming Languages
+typing,13,unamed,typing
+android-x86,13,Operating system,Operating system
+gnu-parallel,13,Programming Languages,Programming Languages
+calendar.app,13,Programming Languages,Programming Languages
+postman,13,unamed,postman
+x11vnc,13,Programming Languages,Programming Languages
+bsd,13,unamed,bsd
+self-extracting,13,Programming Languages,Programming Languages
+svchost,13,Programming Languages,Programming Languages
+cut-and-paste,13,Programming Languages,Programming Languages
+microsoft-outlook-2019,13,Microsoft,Microsoft
+microsoft-paint,13,Microsoft,Microsoft
+bing,13,unamed,bing
+credentials-manager,13,Programming Languages,Programming Languages
+web-whatsapp,13,Web & Application Servers,Web & Application Servers
+octave,13,Programming Languages,Programming Languages
+pdfcreator,13,Programming Languages,Programming Languages
+vram,13,Programming Languages,Programming Languages
+numpad,13,unamed,numpad
+jitsi,13,unamed,jitsi
+swap-file,13,unamed,swap-file
+double-click,13,Programming Languages,Programming Languages
+snipping-tool,13,Internet,Internet
+regional-settings,13,Programming Languages,Programming Languages
+japanese,13,unamed,japanese
+bitdefender,13,Programming Languages,Programming Languages
+rs232,13,Programming Languages,Programming Languages
+disc,13,Programming Languages,Programming Languages
+wpa2,13,unamed,wpa2
+shared-access,13,Programming Languages,Programming Languages
+undo,13,unamed,undo
+user-experience,13,Programming Languages,Programming Languages
+aspect-ratio,13,Programming Languages,Programming Languages
+gpedit,13,unamed,gpedit
+volume-shadow-copy,13,Programming Languages,Programming Languages
+wamp,13,unamed,wamp
+delphi,13,unamed,delphi
+modern-ui,13,Programming Languages,Programming Languages
+mmc,13,Programming Languages,Programming Languages
+biometrics,13,Programming Languages,Programming Languages
+bypass,13,unamed,bypass
+factory-defaults,13,Programming Languages,Programming Languages
+winforms,13,Programming Languages,Programming Languages
+xperf,13,Programming Languages,Programming Languages
+browser-plugin,13,Programming Languages,Programming Languages
+udf,13,unamed,udf
+cpu-z,13,Programming Languages,Programming Languages
+lxd,13,unamed,lxd
+repository,13,Programming Languages,Programming Languages
+mediawiki,13,unamed,mediawiki
+zabbix,13,unamed,zabbix
+windows-2000,13,Operating system,Operating system
+razer-synapse,13,Programming Languages,Programming Languages
+webm,13,Web & Application Servers,Web & Application Servers
+jar,13,Programming Languages,Programming Languages
+microsoft-outlook-2013,13,Microsoft,Microsoft
+lynx,13,Web & Application Servers,Web & Application Servers
+dfs,13,unamed,dfs
+http-status-code-404,13,Programming Languages,Programming Languages
+file-comparison,13,Programming Languages,Programming Languages
+muxer,13,Programming Languages,Programming Languages
+surge-protection,13,Programming Languages,Programming Languages
+alpine-mail,13,unamed,alpine-mail
+cipher,13,Programming Languages,Programming Languages
+xdg,13,unamed,xdg
+google-accounts,13,Programming Languages,Programming Languages
+kde-plasma-workspace,13,Programming Languages,Programming Languages
+ubuntu-14.04,13,Operating system,Operating system
+cable-modem,13,Programming Languages,Programming Languages
+connection-sharing,13,Programming Languages,Programming Languages
+fedora-33,13,Operating system,Operating system
+cpu-throttling,13,Programming Languages,Programming Languages
+authorized-keys,13,Programming Languages,Programming Languages
+cname,13,Programming Languages,Programming Languages
+pacman,13,Programming Languages,Programming Languages
+xorg.conf,13,Programming Languages,Programming Languages
+mtu,13,unamed,mtu
+grafana,13,Programming Languages,Programming Languages
+keepalive,13,unamed,keepalive
+mono,13,unamed,mono
+modprobe,13,Programming Languages,Programming Languages
+yocto-project,13,Programming Languages,Programming Languages
+lxde,13,unamed,lxde
+multi-threaded,13,Programming Languages,Programming Languages
+scsi,13,Programming Languages,Programming Languages
+ftps,13,unamed,ftps
+google-wifi,13,unamed,google-wifi
+unifi,13,unamed,unifi
+visual-studio-2022,13,unamed,visual-studio-2022
+openstack,13,Programming Languages,Programming Languages
+802.11ac,13,Programming Languages,Programming Languages
+cat6,13,Programming Languages,Programming Languages
+cpu-cooler,13,Programming Languages,Programming Languages
+vmdk,13,unamed,vmdk
+parental-controls,12,Programming Languages,Programming Languages
+office-for-mac,12,Programming Languages,Programming Languages
+osx-yosemite,12,unamed,osx-yosemite
+stat,12,unamed,stat
+brute-force,12,Programming Languages,Programming Languages
+pf,12,unamed,pf
+aircrack-ng,12,Programming Languages,Programming Languages
+removable-media,12,Programming Languages,Programming Languages
+gdb,12,unamed,gdb
+journalctl,12,Programming Languages,Programming Languages
+flutter,12,Programming Languages,Programming Languages
+dkim,12,unamed,dkim
+matplotlib,12,unamed,matplotlib
+file-compare,12,Programming Languages,Programming Languages
+man,12,unamed,man
+ux,12,unamed,ux
+write-protect,12,Programming Languages,Programming Languages
+standby,12,unamed,standby
+ipconfig,12,Programming Languages,Programming Languages
+intel-haxm,12,unamed,intel-haxm
+alt-code,12,Programming Languages,Programming Languages
+eject,12,Programming Languages,Programming Languages
+irq,12,Programming Languages,Programming Languages
+tightvnc,12,Programming Languages,Programming Languages
+autocorrect,12,Programming Languages,Programming Languages
+bridged,12,Programming Languages,Programming Languages
+your-phone,12,Programming Languages,Programming Languages
+failover,12,Programming Languages,Programming Languages
+windows-to-go,12,Operating system,Operating system
+multiple-instances,12,Programming Languages,Programming Languages
+windows-10-v1803,12,Operating system,Operating system
+volume-label,12,unamed,volume-label
+font-smoothing,12,unamed,font-smoothing
+windows-10-preview,12,Operating system,Operating system
+storage-pool,12,Programming Languages,Programming Languages
+foobar2000,12,Programming Languages,Programming Languages
+.bash-profile,12,Programming Languages,Programming Languages
+scrollbar,12,Programming Languages,Programming Languages
+groove-music,12,Programming Languages,Programming Languages
+bootmgr,12,Programming Languages,Programming Languages
+runtime,12,Programming Languages,Programming Languages
+mft,12,unamed,mft
+kaspersky,12,Programming Languages,Programming Languages
+wireless-hotspot,12,Programming Languages,Programming Languages
+physical-wear,12,Programming Languages,Programming Languages
+webstorm,12,Programming Languages,Programming Languages
+ps4,12,unamed,ps4
+license-key,12,Programming Languages,Programming Languages
+terminal-services,12,Programming Languages,Programming Languages
+phpstorm,12,Programming Languages,Programming Languages
+sophos,12,unamed,sophos
+lsusb,12,Computer Components,Computer Components
+ubuntu-22.04,12,Operating system,Operating system
+electric-shock,12,Programming Languages,Programming Languages
+df,12,unamed,df
+podman,12,unamed,podman
+animated-gif,12,unamed,animated-gif
+kleopatra,12,Programming Languages,Programming Languages
+netbios,12,Operating system,Operating system
+pst,12,unamed,pst
+software-activation,12,Programming Languages,Programming Languages
+auditd,12,unamed,auditd
+optimize,12,unamed,optimize
+lftp,12,unamed,lftp
+protected,12,Programming Languages,Programming Languages
+alpha-channel,12,Programming Languages,Programming Languages
+mate,12,unamed,mate
+typography,12,Programming Languages,Programming Languages
+ublock-origin,12,Programming Languages,Programming Languages
+sim,12,unamed,sim
+sms,12,unamed,sms
+sha1,12,unamed,sha1
+mplayer,12,Programming Languages,Programming Languages
+difftool,12,unamed,difftool
+duplicity,12,Programming Languages,Programming Languages
+sqlite,12,Programming Languages,Programming Languages
+inode,12,unamed,inode
+opus,12,unamed,opus
+source-routing,12,Programming Languages,Programming Languages
+bluez,12,unamed,bluez
+ttl,12,unamed,ttl
+dropbear,12,Programming Languages,Programming Languages
+watermark,12,Programming Languages,Programming Languages
+footnote,12,unamed,footnote
+cellular-internet,12,Programming Languages,Programming Languages
+iptv,12,Internet,Internet
+asuswrt-merlin,12,Programming Languages,Programming Languages
+hamachi,12,Programming Languages,Programming Languages
+static-routes,12,Programming Languages,Programming Languages
+data-visualization,12,unamed,data-visualization
+dban,12,unamed,dban
+microsoft-onenote-2016,12,Microsoft,Microsoft
+spotlight,11,unamed,spotlight
+disk-activity,11,Programming Languages,Programming Languages
+snort,11,Programming Languages,Programming Languages
+launch-agent,11,Programming Languages,Programming Languages
+socks,11,Programming Languages,Programming Languages
+refind,11,Programming Languages,Programming Languages
+hex-editor,11,Programming Languages,Programming Languages
+magnifier,11,Programming Languages,Programming Languages
+advertisements,11,Programming Languages,Programming Languages
+fax,11,unamed,fax
+sstp,11,unamed,sstp
+pathfinder,11,Programming Languages,Programming Languages
+ublock,11,Programming Languages,Programming Languages
+dpc,11,Programming Languages,Programming Languages
+msys,11,unamed,msys
+konsole,11,unamed,konsole
+tab-completion,11,Programming Languages,Programming Languages
+bitcoin,11,Programming Languages,Programming Languages
+vector-graphics,11,Programming Languages,Programming Languages
+noise-cancelling,11,Programming Languages,Programming Languages
+file-history,11,Programming Languages,Programming Languages
+junction,11,Programming Languages,Programming Languages
+greenshot,11,Programming Languages,Programming Languages
+hyper-threading,11,Programming Languages,Programming Languages
+minidumps,11,unamed,minidumps
+nircmd,11,Programming Languages,Programming Languages
+win10-fast-startup,11,Programming Languages,Programming Languages
+visual-studio-2010,11,unamed,visual-studio-2010
+winrm,11,Programming Languages,Programming Languages
+windows-re,11,Operating system,Operating system
+com-port,11,Programming Languages,Programming Languages
+file-location,11,Programming Languages,Programming Languages
+truetype-fonts,11,Microsoft,Microsoft
+nvm,11,unamed,nvm
+allocation-unit,11,Programming Languages,Programming Languages
+multiple-desktop,11,Internet,Internet
+init,11,unamed,init
+smb2,11,unamed,smb2
+igmp,11,unamed,igmp
+process-monitor,11,Programming Languages,Programming Languages
+10gbit,11,unamed,10gbit
+bcdboot,11,Programming Languages,Programming Languages
+clean-install,11,Programming Languages,Programming Languages
+persistent,11,Programming Languages,Programming Languages
+handwriting,11,Programming Languages,Programming Languages
+bitbucket.org,11,Programming Languages,Programming Languages
+msi-afterburner,11,Programming Languages,Programming Languages
+icecast,11,Programming Languages,Programming Languages
+mtp,11,unamed,mtp
+dump,11,unamed,dump
+subst,11,unamed,subst
+face-recognition,11,Programming Languages,Programming Languages
+palemoon,11,unamed,palemoon
+synergy,11,Programming Languages,Programming Languages
+white-screen,11,Programming Languages,Programming Languages
+energy-saving,11,Programming Languages,Programming Languages
+system-reserved-partition,11,Programming Languages,Programming Languages
+anti-malware,11,Programming Languages,Programming Languages
+activex,11,Programming Languages,Programming Languages
+network-discovery,11,Programming Languages,Programming Languages
+beep-code,11,Programming Languages,Programming Languages
+bare-metal,11,Programming Languages,Programming Languages
+keepassxc,11,Programming Languages,Programming Languages
+makefile,11,unamed,makefile
+phishing,11,unamed,phishing
+7za,11,unamed,7za
+unc,11,Programming Languages,Programming Languages
+online-backup,11,Programming Languages,Programming Languages
+logical-drive,11,Programming Languages,Programming Languages
+dmz,11,unamed,dmz
+azure-cli,11,Programming Languages,Programming Languages
+websocket,11,Programming Languages,Programming Languages
+static,11,Programming Languages,Programming Languages
+anti-aliasing,11,unamed,anti-aliasing
+posix,11,unamed,posix
+restrictions,11,Programming Languages,Programming Languages
+umount,11,unamed,umount
+5.1,11,unamed,5.1
+rds,11,Programming Languages,Programming Languages
+lsass,11,unamed,lsass
+nppexec,11,Programming Languages,Programming Languages
+escape-sequences,11,Programming Languages,Programming Languages
+podcasts,11,Programming Languages,Programming Languages
+clang,11,Programming Languages,Programming Languages
+optical-network-terminal,11,Programming Languages,Programming Languages
+rescue-disk,11,Programming Languages,Programming Languages
+spamassassin,11,unamed,spamassassin
+ata,11,unamed,ata
+threadripper,11,Programming Languages,Programming Languages
+xming,11,unamed,xming
+fastcgi,11,Programming Languages,Programming Languages
+gsm,11,unamed,gsm
+sip,11,Internet,Internet
+assembly,11,unamed,assembly
+swaywm,11,unamed,swaywm
+inotify,11,unamed,inotify
+xen,11,unamed,xen
+virsh,11,Programming Languages,Programming Languages
+kodi,11,unamed,kodi
+sound-editing,11,unamed,sound-editing
+gre,11,Programming Languages,Programming Languages
+kickstart,11,Programming Languages,Programming Languages
+mp4box,11,Audio,Audio
+amazon-vpc,11,Programming Languages,Programming Languages
+user-agent,11,Programming Languages,Programming Languages
+line-spacing,11,Programming Languages,Programming Languages
+usb-network-adapter,11,Programming Languages,Programming Languages
+pcap,11,Programming Languages,Programming Languages
+m2-connector,11,Programming Languages,Programming Languages
+dsl-modem,11,unamed,dsl-modem
+host-only,11,unamed,host-only
+mathjax,11,unamed,mathjax
+transform,11,Programming Languages,Programming Languages
+fixmbr,11,Programming Languages,Programming Languages
+bibliography,11,Programming Languages,Programming Languages
+launchctl,10,Programming Languages,Programming Languages
+quarantine,10,Programming Languages,Programming Languages
+lpr,10,Programming Languages,Programming Languages
+sticky-keys,10,Programming Languages,Programming Languages
+managed,10,unamed,managed
+apple-id,10,unamed,apple-id
+macports,10,Programming Languages,Programming Languages
+source-control,10,Programming Languages,Programming Languages
+yaml,10,unamed,yaml
+meld,10,unamed,meld
+terminal-emulator,10,Programming Languages,Programming Languages
+base64,10,unamed,base64
+bash-alias,10,System,System
+algorithm,10,Programming Languages,Programming Languages
+sparsefile,10,Programming Languages,Programming Languages
+exit-code,10,Programming Languages,Programming Languages
+directx,10,Programming Languages,Programming Languages
+windows-10-v1709,10,Operating system,Operating system
+linux-distributions,10,Operating system,Operating system
+crystaldiskinfo,10,Programming Languages,Programming Languages
+dolphin-file-manager,10,Programming Languages,Programming Languages
+autorun,10,Programming Languages,Programming Languages
+powershell-7.0,10,Programming Languages,Programming Languages
+powerpivot,10,Programming Languages,Programming Languages
+teracopy,10,Programming Languages,Programming Languages
+arduino,10,Programming Languages,Programming Languages
+bloatware,10,Programming Languages,Programming Languages
+smartctl,10,Programming Languages,Programming Languages
+sccm,10,Programming Languages,Programming Languages
+memory-card,10,Programming Languages,Programming Languages
+logitech-unifying-receiver,10,Programming Languages,Programming Languages
+powersave,10,Programming Languages,Programming Languages
+disk-monitoring,10,Programming Languages,Programming Languages
+ventoy,10,unamed,ventoy
+google-backup-and-sync,10,Programming Languages,Programming Languages
+screenresolution,10,Programming Languages,Programming Languages
+earbuds,10,Programming Languages,Programming Languages
+winapi,10,unamed,winapi
+mobile-hotspot,10,Internet,Internet
+hardware-virtualization,10,Programming Languages,Programming Languages
+fde,10,unamed,fde
+windows-pe,10,Operating system,Operating system
+toolbar,10,Programming Languages,Programming Languages
+zenbook,10,unamed,zenbook
+geolocation,10,Programming Languages,Programming Languages
+extended-desktop,10,unamed,extended-desktop
+proxy-server,10,Programming Languages,Programming Languages
+easybcd,10,Programming Languages,Programming Languages
+sage,10,unamed,sage
+processor-socket,10,Programming Languages,Programming Languages
+xeon,10,unamed,xeon
+memory-error,10,Programming Languages,Programming Languages
+frontend,10,Programming Languages,Programming Languages
+opencl,10,Programming Languages,Programming Languages
+mysql-workbench,10,Programming Languages,Programming Languages
+psql,10,Programming Languages,Programming Languages
+userscripts,10,Programming Languages,Programming Languages
+speedstep,10,Internet,Internet
+dbeaver,10,Programming Languages,Programming Languages
+log4j,10,unamed,log4j
+lto,10,unamed,lto
+gedit,10,unamed,gedit
+eps,10,unamed,eps
+utility,10,unamed,utility
+redis,10,Programming Languages,Programming Languages
+portable-harddrive,10,Programming Languages,Programming Languages
+cpufreq,10,Programming Languages,Programming Languages
+parser,10,Programming Languages,Programming Languages
+gnome-shell,10,System,System
+setuid,10,unamed,setuid
+xdotools,10,unamed,xdotools
+rclone,10,Programming Languages,Programming Languages
+nautilus,10,unamed,nautilus
+mitmproxy,10,Programming Languages,Programming Languages
+data-loss-prevention,10,Programming Languages,Programming Languages
+escaping,10,Programming Languages,Programming Languages
+app-armor,10,Programming Languages,Programming Languages
+evince,10,Programming Languages,Programming Languages
+cpu-cores,10,Programming Languages,Programming Languages
+power-consumption,10,Programming Languages,Programming Languages
+wps,10,unamed,wps
+packer,10,Programming Languages,Programming Languages
+xkb,10,unamed,xkb
+dosbox,10,unamed,dosbox
+openbsd,10,unamed,openbsd
+sparseimage,10,Programming Languages,Programming Languages
+known-hosts,10,unamed,known-hosts
+aptitude,10,unamed,aptitude
+gdm,10,unamed,gdm
+grammar,10,Programming Languages,Programming Languages
+asuswrt,10,Programming Languages,Programming Languages
+terraform,10,Programming Languages,Programming Languages
+aws-cloud9,10,Programming Languages,Programming Languages
+web-services,10,Programming Languages,Programming Languages
+shorewall,10,Programming Languages,Programming Languages
+centos-6,10,Operating system,Operating system
+dracut,10,Programming Languages,Programming Languages
+img,10,unamed,img
+virtualmin,10,Programming Languages,Programming Languages
+pppd,10,unamed,pppd
+packet-injection,10,Programming Languages,Programming Languages
+dde,10,unamed,dde
+playstation,10,unamed,playstation
+pcm,10,Programming Languages,Programming Languages
+osx-mavericks,10,Programming Languages,Programming Languages
+email-server,10,Programming Languages,Programming Languages
+tree-view,10,Programming Languages,Programming Languages
+vob,10,unamed,vob
+display-adapter,10,Programming Languages,Programming Languages
+duplex,10,unamed,duplex
+signal-strength,10,Programming Languages,Programming Languages
+info,10,unamed,info
+mask,10,unamed,mask
+authorization,10,Programming Languages,Programming Languages
+emf,10,unamed,emf
+rotate,10,Programming Languages,Programming Languages
+excel-auto-fill,10,Programming Languages,Programming Languages
+translation,10,Programming Languages,Programming Languages
+microsoft-excel-2003,10,Microsoft,Microsoft
+outlook.com,10,Programming Languages,Programming Languages
+reference-book,10,Programming Languages,Programming Languages
+dotfiles,9,unamed,dotfiles
+calibre,9,Programming Languages,Programming Languages
+hfs,9,unamed,hfs
+sparsebundle,9,Programming Languages,Programming Languages
+ssl-vpn,9,Internet,Internet
+launchd,9,Programming Languages,Programming Languages
+keychain-access,9,Programming Languages,Programming Languages
+dash,9,unamed,dash
+expect,9,Programming Languages,Programming Languages
+magic-trackpad,9,Programming Languages,Programming Languages
+watch,9,Programming Languages,Programming Languages
+ln,9,unamed,ln
+rust,9,Programming Languages,Programming Languages
+msmtp,9,unamed,msmtp
+winzip,9,Backup,Backup
+task-view,9,unamed,task-view
+resources,9,Programming Languages,Programming Languages
+widgets,9,unamed,widgets
+bluestacks,9,Programming Languages,Programming Languages
+directory-junction,9,Programming Languages,Programming Languages
+discrete-graphics,9,Programming Languages,Programming Languages
+front-panel,9,Programming Languages,Programming Languages
+windows-10-quick-access,9,Operating system,Operating system
+windows-photo-viewer,9,Operating system,Operating system
+pen,9,unamed,pen
+stylus,9,unamed,stylus
+bonjour,9,Programming Languages,Programming Languages
+start-screen,9,Programming Languages,Programming Languages
+cortana,9,Programming Languages,Programming Languages
+fiddler,9,Programming Languages,Programming Languages
+blacklist,9,Programming Languages,Programming Languages
+fsutil,9,unamed,fsutil
+tts,9,unamed,tts
+cleartype,9,Programming Languages,Programming Languages
+satellite,9,unamed,satellite
+windows-packagemanagement,9,Operating system,Operating system
+infrared,9,Programming Languages,Programming Languages
+keystrokes,9,Programming Languages,Programming Languages
+basic,9,Programming Languages,Programming Languages
+autostart,9,Programming Languages,Programming Languages
+metasploit,9,unamed,metasploit
+mute,9,unamed,mute
+logitech-headset,9,Programming Languages,Programming Languages
+evernote,9,Programming Languages,Programming Languages
+internet-explorer-11,9,Programming Languages,Programming Languages
+signal,9,unamed,signal
+local-groups,9,Programming Languages,Programming Languages
+desktop.ini,9,unamed,desktop.ini
+windows-10-apps,9,Operating system,Operating system
+aero,9,Programming Languages,Programming Languages
+web-filtering,9,Programming Languages,Programming Languages
+oculus-rift,9,Programming Languages,Programming Languages
+reminder,9,Programming Languages,Programming Languages
+mendeley,9,unamed,mendeley
+asio,9,unamed,asio
+user-management,9,Programming Languages,Programming Languages
+utorrent,9,Programming Languages,Programming Languages
+vulnerabilities,9,Programming Languages,Programming Languages
+canon-pixma,9,Programming Languages,Programming Languages
+adobe-lightroom,9,Programming Languages,Programming Languages
+pscp,9,Programming Languages,Programming Languages
+virtual-drive,9,Programming Languages,Programming Languages
+performance-monitor,9,Programming Languages,Programming Languages
+delayed-execution,9,Programming Languages,Programming Languages
+uasp,9,unamed,uasp
+smartphone,9,Programming Languages,Programming Languages
+content-type-association,9,Programming Languages,Programming Languages
+real-time,9,Programming Languages,Programming Languages
+components,9,Programming Languages,Programming Languages
+sodimm,9,unamed,sodimm
+uid,9,unamed,uid
+signal-app,9,unamed,signal-app
+teams,9,unamed,teams
+microsoft-forms,9,Microsoft,Microsoft
+splunk,9,unamed,splunk
+dm-crypt,9,Programming Languages,Programming Languages
+network-location,9,Programming Languages,Programming Languages
+bindings,9,unamed,bindings
+utc,9,Programming Languages,Programming Languages
+modifier-keys,9,Programming Languages,Programming Languages
+bulk,9,unamed,bulk
+viewer,9,Programming Languages,Programming Languages
+jq,9,unamed,jq
+solidworks,9,Programming Languages,Programming Languages
+chassis,9,Programming Languages,Programming Languages
+ms-sql,9,Programming Languages,Programming Languages
+shift,9,unamed,shift
+molex,9,unamed,molex
+usb-2,9,Computer Components,Computer Components
+named-pipe,9,Internet,Internet
+clickonce,9,Programming Languages,Programming Languages
+securecrt,9,Programming Languages,Programming Languages
+vmware-horizon,9,Programming Languages,Programming Languages
+webgl,9,Web & Application Servers,Web & Application Servers
+random-number-generator,9,Programming Languages,Programming Languages
+shred,9,Programming Languages,Programming Languages
+favicon,9,Programming Languages,Programming Languages
+aria2,9,Programming Languages,Programming Languages
+iframe,9,Programming Languages,Programming Languages
+captive-portal,9,Programming Languages,Programming Languages
+lastpass,9,unamed,lastpass
+wpa,9,unamed,wpa
+public-wifi,9,Programming Languages,Programming Languages
+domain-security,9,Programming Languages,Programming Languages
+cctv,9,Programming Languages,Programming Languages
+cors,9,Programming Languages,Programming Languages
+surveillance,9,Programming Languages,Programming Languages
+802.1x,9,unamed,802.1x
+cat5e,9,Programming Languages,Programming Languages
+fios,9,Operating system,Operating system
+firefox-developer-edition,9,Programming Languages,Programming Languages
+dbus,9,unamed,dbus
+iproute2,9,Programming Languages,Programming Languages
+xbindkeys,9,unamed,xbindkeys
+aix,9,unamed,aix
+jvm,9,unamed,jvm
+setxkbmap,9,unamed,setxkbmap
+undervolting,9,Programming Languages,Programming Languages
+egrep,9,Programming Languages,Programming Languages
+xmonad,9,unamed,xmonad
+urxvt,9,Programming Languages,Programming Languages
+freeipa,9,Programming Languages,Programming Languages
+squashfs,9,unamed,squashfs
+appimage,9,unamed,appimage
+winetricks,9,Programming Languages,Programming Languages
+dedicated-server,9,Programming Languages,Programming Languages
+ubuntu-21.10,9,Operating system,Operating system
+pipewire,9,Programming Languages,Programming Languages
+measurement,9,Programming Languages,Programming Languages
+mpeg,9,unamed,mpeg
+tld,9,unamed,tld
+exim,9,unamed,exim
+aws-ses,9,unamed,aws-ses
+dynamic-ip,9,Programming Languages,Programming Languages
+microsoft-word-2007,9,Microsoft,Microsoft
+gopro,9,Programming Languages,Programming Languages
+laser-printer,9,Programming Languages,Programming Languages
+maven,9,unamed,maven
+cabling,9,Programming Languages,Programming Languages
+ps2-keyboard,9,Programming Languages,Programming Languages
+osx-snow-leopard,9,Programming Languages,Programming Languages
+average,9,Programming Languages,Programming Languages
+microsoft-project,9,Microsoft,Microsoft
+visual-basic,9,Programming Languages,Programming Languages
+dax,9,unamed,dax
+error-logging,9,Programming Languages,Programming Languages
+shapes,9,unamed,shapes
+email-signature,9,Programming Languages,Programming Languages
+vcenter,9,Programming Languages,Programming Languages
+inkjet-printer,9,Programming Languages,Programming Languages
+gdisk,8,unamed,gdisk
+title,8,unamed,title
+iterm,8,Programming Languages,Programming Languages
+norton-internet-security,8,Programming Languages,Programming Languages
+osx-el-capitan,8,Programming Languages,Programming Languages
+vimrc,8,Programming Languages,Programming Languages
+zpool,8,unamed,zpool
+home-folder,8,Programming Languages,Programming Languages
+hdiutil,8,unamed,hdiutil
+yahoo-mail,8,unamed,yahoo-mail
+hotmail,8,unamed,hotmail
+iwork-numbers,8,Programming Languages,Programming Languages
+thunderbolt-networking,8,Programming Languages,Programming Languages
+ruby-on-rails,8,Programming Languages,Programming Languages
+browsing,8,Programming Languages,Programming Languages
+lacie,8,Programming Languages,Programming Languages
+lsof,8,unamed,lsof
+hadoop,8,unamed,hadoop
+migration-assistant,8,Programming Languages,Programming Languages
+albert,8,Programming Languages,Programming Languages
+nightlight,8,unamed,nightlight
+visual-studio-2017,8,unamed,visual-studio-2017
+microcontroller,8,Programming Languages,Programming Languages
+xz,8,unamed,xz
+compact-flash,8,Programming Languages,Programming Languages
+internet-sharing,8,Programming Languages,Programming Languages
+powertoys,8,Programming Languages,Programming Languages
+sane,8,unamed,sane
+power-options,8,Programming Languages,Programming Languages
+spdif,8,unamed,spdif
+intel-atom,8,unamed,intel-atom
+razer-mouse,8,Programming Languages,Programming Languages
+logitech-webcam,8,Programming Languages,Programming Languages
+32-vs-64-bit,8,unamed,32-vs-64-bit
+qwerty,8,Programming Languages,Programming Languages
+skype-for-business,8,Programming Languages,Programming Languages
+vt-x,8,unamed,vt-x
+hyperterminal,8,Programming Languages,Programming Languages
+wacom-one,8,Programming Languages,Programming Languages
+timeline,8,unamed,timeline
+rootkit,8,Programming Languages,Programming Languages
+cellular,8,Programming Languages,Programming Languages
+provider,8,Programming Languages,Programming Languages
+wsus,8,unamed,wsus
+lenovo-vantage,8,unamed,lenovo-vantage
+multi-function-printer,8,Programming Languages,Programming Languages
+ntoskrnl.exe,8,Programming Languages,Programming Languages
+scoop,8,Programming Languages,Programming Languages
+windows-10-v1809,8,Operating system,Operating system
+mouse-gestures,8,Programming Languages,Programming Languages
+previous-versions,8,Programming Languages,Programming Languages
+windows-10-calendar-app,8,Operating system,Operating system
+language-bar,8,Programming Languages,Programming Languages
+spice,8,Programming Languages,Programming Languages
+volume-license,8,Programming Languages,Programming Languages
+refs,8,Programming Languages,Programming Languages
+postscript,8,Programming Languages,Programming Languages
+disk2vhd,8,unamed,disk2vhd
+16-bit,8,unamed,16-bit
+presentations,8,Programming Languages,Programming Languages
+hdtv,8,unamed,hdtv
+smart-tv,8,Programming Languages,Programming Languages
+purge,8,Programming Languages,Programming Languages
+replication,8,Programming Languages,Programming Languages
+non-admin,8,unamed,non-admin
+gestures,8,Programming Languages,Programming Languages
+meteor,8,Programming Languages,Programming Languages
+file-filter,8,Programming Languages,Programming Languages
+compaq-laptop,8,Programming Languages,Programming Languages
+proftpd,8,Programming Languages,Programming Languages
+docker-swarm,8,Programming Languages,Programming Languages
+docker-registry,8,Programming Languages,Programming Languages
+prometheus,8,Programming Languages,Programming Languages
+device-mapper,8,Programming Languages,Programming Languages
+ink,8,unamed,ink
+powershell-core,8,Programming Languages,Programming Languages
+bitvise,8,unamed,bitvise
+queue,8,unamed,queue
+adk,8,unamed,adk
+iodine,8,unamed,iodine
+wslg,8,unamed,wslg
+sharpkeys,8,Programming Languages,Programming Languages
+remote-login,8,Programming Languages,Programming Languages
+avg-antivirus,8,Programming Languages,Programming Languages
+text-manipulation,8,Internet,Internet
+eset,8,unamed,eset
+windows-7-backup,8,Operating system,Operating system
+intel-pentium,8,unamed,intel-pentium
+soc,8,Programming Languages,Programming Languages
+orientation,8,Programming Languages,Programming Languages
+proprietary,8,Programming Languages,Programming Languages
+brackets,8,Programming Languages,Programming Languages
+passphrase,8,Programming Languages,Programming Languages
+document-automation,8,Programming Languages,Programming Languages
+mingw64,8,unamed,mingw64
+midnight-commander,8,Programming Languages,Programming Languages
+md5,8,unamed,md5
+nested-virtualization,8,Programming Languages,Programming Languages
+speech-to-text,8,Programming Languages,Programming Languages
+html-files,8,Programming Languages,Programming Languages
+jupyterlab,8,Programming Languages,Programming Languages
+terminal-server,8,Programming Languages,Programming Languages
+internet-filter,8,Programming Languages,Programming Languages
+unbound,8,unamed,unbound
+dmesg,8,unamed,dmesg
+xsane,8,unamed,xsane
+sha-2,8,unamed,sha-2
+transmission,8,Programming Languages,Programming Languages
+mpeg-dash,8,unamed,mpeg-dash
+wps-spreadsheet,8,Programming Languages,Programming Languages
+awesome-wm,8,unamed,awesome-wm
+card-reader,8,Programming Languages,Programming Languages
+nohup,8,unamed,nohup
+mjpeg,8,unamed,mjpeg
+maildir,8,Programming Languages,Programming Languages
+bgp,8,unamed,bgp
+ntfs-3g,8,unamed,ntfs-3g
+trackpoint,8,Programming Languages,Programming Languages
+asustor,8,Programming Languages,Programming Languages
+rhel-6,8,Programming Languages,Programming Languages
+wwan,8,unamed,wwan
+erp,8,Programming Languages,Programming Languages
+display-manager,8,Programming Languages,Programming Languages
+syslogd,8,unamed,syslogd
+htpc,8,Programming Languages,Programming Languages
+audio-output,8,Audio,Audio
+spf,8,unamed,spf
+cisco-packet-tracer,8,Programming Languages,Programming Languages
+equation-editor,8,Programming Languages,Programming Languages
+rebuild,8,Programming Languages,Programming Languages
+mpeg2,8,unamed,mpeg2
+hebrew,8,Programming Languages,Programming Languages
+autoit,8,unamed,autoit
+push,8,unamed,push
+gvfs,8,unamed,gvfs
+draytek,8,Programming Languages,Programming Languages
+ubiquity,8,unamed,ubiquity
+tshark,8,Programming Languages,Programming Languages
+iperf3,8,Programming Languages,Programming Languages
+digest,8,unamed,digest
+transparentproxy,8,Programming Languages,Programming Languages
+diagrams,8,Programming Languages,Programming Languages
+guest,8,unamed,guest
+rack,8,Programming Languages,Programming Languages
+iis-7,8,unamed,iis-7
+network-camera,8,Programming Languages,Programming Languages
+threading,8,Programming Languages,Programming Languages
+annotations,8,unamed,annotations
+transpose,8,Programming Languages,Programming Languages
+gantt,8,unamed,gantt
+word-wrap,8,Programming Languages,Programming Languages
+project-management,8,Programming Languages,Programming Languages
+pivot-chart,8,Programming Languages,Programming Languages
+qat,8,unamed,qat
+relay,8,Programming Languages,Programming Languages
+microsoft-outlook-2007,8,Microsoft,Microsoft
+docking,8,Programming Languages,Programming Languages
+imagej,8,unamed,imagej
+canvas,8,Programming Languages,Programming Languages
+defective-hardware,8,Programming Languages,Programming Languages
+visual-studio-2013,8,unamed,visual-studio-2013
+elinks,8,Web & Application Servers,Web & Application Servers
+vmware-server,8,Programming Languages,Programming Languages
+glib,8,unamed,glib
+cartridge,8,Programming Languages,Programming Languages
+cyberduck,7,Programming Languages,Programming Languages
+mogrify,7,Programming Languages,Programming Languages
+keylogger,7,Programming Languages,Programming Languages
+ditto,7,unamed,ditto
+preview.app,7,Programming Languages,Programming Languages
+airplay,7,Programming Languages,Programming Languages
+rails,7,Programming Languages,Programming Languages
+kindle,7,unamed,kindle
+render,7,Programming Languages,Programming Languages
+rpmbuild,7,Programming Languages,Programming Languages
+globbing,7,unamed,globbing
+vp9,7,unamed,vp9
+xxd,7,unamed,xxd
+reflink,7,Programming Languages,Programming Languages
+telemetry,7,Programming Languages,Programming Languages
+sharex,7,Programming Languages,Programming Languages
+timer,7,Programming Languages,Programming Languages
+wordpad,7,Programming Languages,Programming Languages
+weather,7,Programming Languages,Programming Languages
+windows-libraries,7,Operating system,Operating system
+xbox-game-dvr,7,Programming Languages,Programming Languages
+razer-keyboard,7,Programming Languages,Programming Languages
+focus-assist,7,Programming Languages,Programming Languages
+windows-spotlight,7,Operating system,Operating system
+favorites,7,Programming Languages,Programming Languages
+windows-restore,7,Operating system,Operating system
+bus,7,unamed,bus
+hybrid-sleep,7,Programming Languages,Programming Languages
+tooltip,7,Internet,Internet
+snipping,7,Internet,Internet
+user-switching,7,Programming Languages,Programming Languages
+media-keys,7,unamed,media-keys
+barcode-scanner,7,Programming Languages,Programming Languages
+queue-management,7,unamed,queue-management
+fixed-width,7,unamed,fixed-width
+narrator,7,Programming Languages,Programming Languages
+tortoise-svn,7,Programming Languages,Programming Languages
+partition-copy,7,Programming Languages,Programming Languages
+calculator,7,Programming Languages,Programming Languages
+microsoft-powerpoint-2016,7,Microsoft,Microsoft
+dlna,7,unamed,dlna
+print-server,7,Programming Languages,Programming Languages
+autounattend,7,unamed,autounattend
+redistributable,7,Programming Languages,Programming Languages
+fido2,7,unamed,fido2
+tortoise-git,7,Programming Languages,Programming Languages
+jumbo-frames,7,Programming Languages,Programming Languages
+windows-10-v21h2,7,Operating system,Operating system
+virtio,7,Programming Languages,Programming Languages
+image-formats,7,Programming Languages,Programming Languages
+windows-rt,7,Operating system,Operating system
+memory-usage,7,Programming Languages,Programming Languages
+app-menu,7,unamed,app-menu
+uptime,7,unamed,uptime
+remote-assistance,7,Programming Languages,Programming Languages
+virtual-network,7,Programming Languages,Programming Languages
+sql-server-2014,7,Programming Languages,Programming Languages
+puppylinux,7,Operating system,Operating system
+simulator,7,Programming Languages,Programming Languages
+dart,7,Programming Languages,Programming Languages
+shuffle,7,unamed,shuffle
+hotswapping,7,unamed,hotswapping
+a2dp,7,unamed,a2dp
+vt-d,7,unamed,vt-d
+lg-gram,7,Programming Languages,Programming Languages
+httrack,7,Programming Languages,Programming Languages
+processing,7,Programming Languages,Programming Languages
+commit,7,Programming Languages,Programming Languages
+netfilter,7,Programming Languages,Programming Languages
+msp,7,unamed,msp
+silent-install,7,unamed,silent-install
+inbox,7,unamed,inbox
+quota,7,unamed,quota
+usb-headset,7,Computer Components,Computer Components
+pause,7,unamed,pause
+bulk-rename,7,Programming Languages,Programming Languages
+decrypt,7,Programming Languages,Programming Languages
+alarm,7,Programming Languages,Programming Languages
+shared-libraries,7,Programming Languages,Programming Languages
+ssis,7,unamed,ssis
+roles,7,Programming Languages,Programming Languages
+msysgit,7,Audio,Audio
+6to4,7,unamed,6to4
+microsoft-office-2013,7,Microsoft,Microsoft
+tableau,7,unamed,tableau
+exchange-2013,7,Programming Languages,Programming Languages
+slate,7,unamed,slate
+ntpd,7,unamed,ntpd
+job-control,7,Programming Languages,Programming Languages
+voicemeeter,7,Programming Languages,Programming Languages
+expansion-cards,7,Programming Languages,Programming Languages
+minipci,7,Programming Languages,Programming Languages
+progress-bar,7,Programming Languages,Programming Languages
+portable-apps,7,Programming Languages,Programming Languages
+readline,7,Programming Languages,Programming Languages
+blogging,7,unamed,blogging
+deb,7,unamed,deb
+single-sign-on,7,unamed,single-sign-on
+screen-tearing,7,Programming Languages,Programming Languages
+privacy-extensions,7,Programming Languages,Programming Languages
+resource-management,7,Programming Languages,Programming Languages
+margins,7,Programming Languages,Programming Languages
+gmail-imap,7,unamed,gmail-imap
+architecture,7,Programming Languages,Programming Languages
+acrobat-pro-dc,7,Programming Languages,Programming Languages
+bufferbloat,7,Programming Languages,Programming Languages
+fontconfig,7,Programming Languages,Programming Languages
+lm-sensors,7,Programming Languages,Programming Languages
+nvidia-settings,7,unamed,nvidia-settings
+ksh,7,unamed,ksh
+mpeg4,7,unamed,mpeg4
+jackd,7,Programming Languages,Programming Languages
+rate-limits,7,Programming Languages,Programming Languages
+rom,7,Programming Languages,Programming Languages
+fat16,7,unamed,fat16
+freeradius,7,Programming Languages,Programming Languages
+parallel-port,7,Programming Languages,Programming Languages
+guid,7,unamed,guid
+qubes-os,7,unamed,qubes-os
+pure-ftpd,7,Programming Languages,Programming Languages
+initrd,7,Programming Languages,Programming Languages
+pkcs,7,Programming Languages,Programming Languages
+auto-detect,7,Programming Languages,Programming Languages
+desktop-environments,7,Programming Languages,Programming Languages
+photo-stitching,7,Programming Languages,Programming Languages
+dot-matrix-printer,7,Programming Languages,Programming Languages
+slackware,7,Programming Languages,Programming Languages
+lighttpd,7,unamed,lighttpd
+parted,7,Programming Languages,Programming Languages
+gid,7,unamed,gid
+gpsd,7,unamed,gpsd
+raspberry,7,Programming Languages,Programming Languages
+kmplayer,7,Programming Languages,Programming Languages
+analog,7,unamed,analog
+dv,7,unamed,dv
+about-config,7,Programming Languages,Programming Languages
+intranet,7,Programming Languages,Programming Languages
+hg,7,unamed,hg
+photorec,7,Programming Languages,Programming Languages
+id3,7,unamed,id3
+korean,7,Programming Languages,Programming Languages
+snippets,7,Internet,Internet
+ansi,7,unamed,ansi
+webauthn,7,Web & Application Servers,Web & Application Servers
+antenna,7,unamed,antenna
+slaac,7,Programming Languages,Programming Languages
+crc,7,Programming Languages,Programming Languages
+decoding,7,Programming Languages,Programming Languages
+magento,7,unamed,magento
+windows-ce,7,Operating system,Operating system
+esd,7,unamed,esd
+certificate-signing-request,7,Programming Languages,Programming Languages
+120hz,7,unamed,120hz
+underclock,7,Programming Languages,Programming Languages
+pata,7,unamed,pata
+zoneminder,7,Programming Languages,Programming Languages
+date-format,7,Programming Languages,Programming Languages
+ignore,7,Programming Languages,Programming Languages
+microsoft-visio-2016,7,Microsoft,Microsoft
+join,7,unamed,join
+validation,7,unamed,validation
+textfiles,7,unamed,textfiles
+named-ranges,7,Programming Languages,Programming Languages
+jira,7,Programming Languages,Programming Languages
+typo3,7,unamed,typo3
+procmail,7,Programming Languages,Programming Languages
+restructuredtext,7,Programming Languages,Programming Languages
+non-ascii,7,Programming Languages,Programming Languages
+proofing,7,Programming Languages,Programming Languages
+screen-reader,7,Programming Languages,Programming Languages
+sharepoint-online,7,Microsoft,Microsoft
+1password,7,Programming Languages,Programming Languages
+google-calendar,7,Programming Languages,Programming Languages
+rewrite,7,Programming Languages,Programming Languages
+mode,7,unamed,mode
+backspace,7,Programming Languages,Programming Languages
+vim-plugins,7,unamed,vim-plugins
+pidgin,7,unamed,pidgin
+imovie,6,unamed,imovie
+sourcetree,6,Programming Languages,Programming Languages
+heroku,6,Programming Languages,Programming Languages
+netatalk,6,unamed,netatalk
+3.5mm,6,unamed,3.5mm
+xquartz,6,Programming Languages,Programming Languages
+console.app,6,Programming Languages,Programming Languages
+hp-deskjet,6,unamed,hp-deskjet
+mono-framework,6,Programming Languages,Programming Languages
+usb-controller,6,Programming Languages,Programming Languages
+m4a,6,unamed,m4a
+maya,6,unamed,maya
+restic,6,Programming Languages,Programming Languages
+neo4j,6,unamed,neo4j
+x264,6,unamed,x264
+bzip2,6,Backup,Backup
+armbian,6,Programming Languages,Programming Languages
+spinup,6,unamed,spinup
+computer-name,6,Programming Languages,Programming Languages
+winsxs,6,unamed,winsxs
+tab-groups,6,Programming Languages,Programming Languages
+xnview,6,unamed,xnview
+microsoft-family-safety,6,Microsoft,Microsoft
+pipelining,6,Internet,Internet
+mouse-wheel,6,unamed,mouse-wheel
+windirstat,6,Programming Languages,Programming Languages
+windows-7-upgrade,6,Operating system,Operating system
+mouse-buttons,6,unamed,mouse-buttons
+paragon,6,Programming Languages,Programming Languages
+fast-user-switching,6,Programming Languages,Programming Languages
+windows.old,6,Operating system,Operating system
+wep,6,unamed,wep
+classic-shell,6,Programming Languages,Programming Languages
+uwf,6,unamed,uwf
+affinity,6,unamed,affinity
+joystick,6,Programming Languages,Programming Languages
+windows-mail,6,Operating system,Operating system
+ad-hoc-network,6,Programming Languages,Programming Languages
+devcon,6,Programming Languages,Programming Languages
+keyboard-navigation,6,Programming Languages,Programming Languages
+recent-items,6,Programming Languages,Programming Languages
+jbod,6,unamed,jbod
+intel-core-i3,6,Programming Languages,Programming Languages
+audio-normalization,6,Programming Languages,Programming Languages
+software-conflict,6,Programming Languages,Programming Languages
+picture-import-wizard,6,Programming Languages,Programming Languages
+remoteapp,6,Programming Languages,Programming Languages
+ntfs-junction,6,Programming Languages,Programming Languages
+winlogon.exe,6,unamed,winlogon.exe
+hijack,6,Programming Languages,Programming Languages
+windows-shell,6,Operating system,Operating system
+magic-packet,6,Programming Languages,Programming Languages
+token,6,unamed,token
+aero-snap,6,Programming Languages,Programming Languages
+lithium-ion,6,unamed,lithium-ion
+midi,6,unamed,midi
+adware,6,Programming Languages,Programming Languages
+answerfile,6,Programming Languages,Programming Languages
+decompile,6,Programming Languages,Programming Languages
+krita,6,Programming Languages,Programming Languages
+kitty,6,unamed,kitty
+firefox-quantum,6,Programming Languages,Programming Languages
+dial-up,6,unamed,dial-up
+vss,6,unamed,vss
+salesforce,6,Programming Languages,Programming Languages
+freefilesync,6,Programming Languages,Programming Languages
+winamp,6,unamed,winamp
+double-commander,6,Programming Languages,Programming Languages
+appwiz.cpl,6,Programming Languages,Programming Languages
+usb-to-sata,6,Computer Components,Computer Components
+cpu-cache,6,Programming Languages,Programming Languages
+memory-speed,6,Programming Languages,Programming Languages
+writing,6,Programming Languages,Programming Languages
+timing,6,unamed,timing
+haswell,6,unamed,haswell
+memory-timings,6,Programming Languages,Programming Languages
+guacamole,6,Programming Languages,Programming Languages
+virtuabox,6,Programming Languages,Programming Languages
+pull,6,unamed,pull
+juniper,6,Programming Languages,Programming Languages
+multi-homed,6,unamed,multi-homed
+ci,6,Programming Languages,Programming Languages
+freepbx,6,Programming Languages,Programming Languages
+hexdump,6,unamed,hexdump
+dell-g3,6,unamed,dell-g3
+windows-10-v20h1,6,Operating system,Operating system
+optical-media,6,Programming Languages,Programming Languages
+boot-to-vhd,6,System,System
+backblaze,6,Programming Languages,Programming Languages
+speedfan,6,Internet,Internet
+acronis-diskdirector,6,Programming Languages,Programming Languages
+owncloud,6,Programming Languages,Programming Languages
+edid,6,unamed,edid
+sdelete,6,unamed,sdelete
+dsn,6,unamed,dsn
+trusted-root-ca,6,Programming Languages,Programming Languages
+visual-effects,6,Programming Languages,Programming Languages
+intellisense,6,unamed,intellisense
+tape,6,unamed,tape
+easeus-partition-manager,6,Programming Languages,Programming Languages
+spark,6,Programming Languages,Programming Languages
+sysadmin,6,unamed,sysadmin
+clevo,6,Programming Languages,Programming Languages
+pci-x,6,Programming Languages,Programming Languages
+powershell-3.0,6,Programming Languages,Programming Languages
+clink,6,Programming Languages,Programming Languages
+interaction,6,Programming Languages,Programming Languages
+powershell-2.0,6,Programming Languages,Programming Languages
+media-info,6,unamed,media-info
+http-status-code-500,6,Programming Languages,Programming Languages
+avisynth,6,unamed,avisynth
+mkdir,6,Programming Languages,Programming Languages
+webarchive,6,Programming Languages,Programming Languages
+google-hangouts,6,unamed,google-hangouts
+google-maps,6,unamed,google-maps
+doh,6,unamed,doh
+omnibox,6,unamed,omnibox
+google-apps-script,6,Programming Languages,Programming Languages
+google-chrome-os-flex,6,Programming Languages,Programming Languages
+cloudready,6,Programming Languages,Programming Languages
+bots,6,unamed,bots
+config-files,6,Programming Languages,Programming Languages
+opensc,6,Programming Languages,Programming Languages
+captcha,6,Programming Languages,Programming Languages
+oauth2,6,unamed,oauth2
+spectre,6,Programming Languages,Programming Languages
+etcpasswd,6,Programming Languages,Programming Languages
+twitch,6,Programming Languages,Programming Languages
+physical-environment,6,Programming Languages,Programming Languages
+xinerama,6,Programming Languages,Programming Languages
+thunderbird-addon,6,Programming Languages,Programming Languages
+mini-itx,6,unamed,mini-itx
+policykit,6,Programming Languages,Programming Languages
+ubuntu-unity,6,Operating system,Operating system
+motion,6,unamed,motion
+wiki,6,unamed,wiki
+traffic-shaping,6,Programming Languages,Programming Languages
+infiniband,6,unamed,infiniband
+id,6,unamed,id
+virtual-webcam,6,Programming Languages,Programming Languages
+firefox-developer-tools,6,Programming Languages,Programming Languages
+ip6tables,6,Internet,Internet
+emule,6,unamed,emule
+nouveau,6,unamed,nouveau
+session-manager,6,Programming Languages,Programming Languages
+tcpreplay,6,Programming Languages,Programming Languages
+stunnel,6,unamed,stunnel
+installation-media,6,System,System
+domain-name-system,6,unamed,domain-name-system
+ogg,6,unamed,ogg
+to-do,6,unamed,to-do
+shared-hosting,6,Programming Languages,Programming Languages
+reliability,6,Programming Languages,Programming Languages
+password-generation,6,Programming Languages,Programming Languages
+labview,6,unamed,labview
+table-styles,6,unamed,table-styles
+page,6,unamed,page
+journaling,6,Programming Languages,Programming Languages
+qt5,6,unamed,qt5
+document-scanning,6,Programming Languages,Programming Languages
+flip,6,Internet,Internet
+bmp,6,unamed,bmp
+burn-in,6,Programming Languages,Programming Languages
+adobe-after-effects,6,Programming Languages,Programming Languages
+gnumeric,6,Programming Languages,Programming Languages
+linode,6,unamed,linode
+vdsl,6,unamed,vdsl
+rasberrypi,6,Programming Languages,Programming Languages
+adsl2+,6,unamed,adsl2+
+polybar,6,Programming Languages,Programming Languages
+opensolaris,6,Programming Languages,Programming Languages
+water-cooling,6,Programming Languages,Programming Languages
+amd-cpu,6,Programming Languages,Programming Languages
+cat7,6,Programming Languages,Programming Languages
+patch-panel,6,Programming Languages,Programming Languages
+http-2,6,unamed,http-2
+privoxy,6,Programming Languages,Programming Languages
+pcl,6,Programming Languages,Programming Languages
+filetype,6,unamed,filetype
+irssi,6,Programming Languages,Programming Languages
+label-printer,6,Programming Languages,Programming Languages
+lifespan,6,unamed,lifespan
+subscription,6,Programming Languages,Programming Languages
+team-foundation-server,6,Programming Languages,Programming Languages
+microsoft-excel-2011,6,Microsoft,Microsoft
+axis,6,unamed,axis
+excel-filter,6,Programming Languages,Programming Languages
+pdflatex,6,unamed,pdflatex
+xlsx,6,unamed,xlsx
+bitmaps,6,unamed,bitmaps
+flag,6,unamed,flag
+auto-reply,6,Programming Languages,Programming Languages
+udisks,6,unamed,udisks
+citations,6,Programming Languages,Programming Languages
+fresh-install,6,Programming Languages,Programming Languages
+meeting-request,6,Programming Languages,Programming Languages
+collaboration,6,Programming Languages,Programming Languages
+esata,6,unamed,esata
+google-cloud-storage,6,Programming Languages,Programming Languages
+microsoft-publisher,6,Microsoft,Microsoft
+couchdb,6,Programming Languages,Programming Languages
+document-management,6,Programming Languages,Programming Languages
+signature,6,Programming Languages,Programming Languages
+bell,6,unamed,bell
+security-groups,6,Programming Languages,Programming Languages
+sphinx,6,unamed,sphinx
+gnome-keyring,6,Programming Languages,Programming Languages
+music-management,6,Programming Languages,Programming Languages
+endian,5,unamed,endian
+alfred,5,Programming Languages,Programming Languages
+afp,5,unamed,afp
+google-dns,5,Web & Application Servers,Web & Application Servers
+coreaudio,5,Programming Languages,Programming Languages
+file-archiver,5,Programming Languages,Programming Languages
+rubygems,5,Programming Languages,Programming Languages
+appearance,5,Programming Languages,Programming Languages
+repeat-rate,5,Programming Languages,Programming Languages
+macos-sierra,5,Operating system,Operating system
+text-cursor,5,Programming Languages,Programming Languages
+.net-5,5,unamed,.net-5
+radio,5,Programming Languages,Programming Languages
+odoo,5,unamed,odoo
+microsoft-surface-pro-3,5,Microsoft,Microsoft
+recovery-console,5,Programming Languages,Programming Languages
+file-organization,5,Programming Languages,Programming Languages
+logoff,5,unamed,logoff
+airplane-mode,5,Programming Languages,Programming Languages
+task-switching,5,Programming Languages,Programming Languages
+quicklaunch,5,Programming Languages,Programming Languages
+media-player-classic,5,Programming Languages,Programming Languages
+print-screen,5,Programming Languages,Programming Languages
+profiling,5,Programming Languages,Programming Languages
+thinkcentre,5,Programming Languages,Programming Languages
+sticky-notes,5,Programming Languages,Programming Languages
+computer-behavior,5,Programming Languages,Programming Languages
+stuck-pixel,5,Programming Languages,Programming Languages
+webkit,5,Web & Application Servers,Web & Application Servers
+removable,5,Programming Languages,Programming Languages
+text-to-speech-voices,5,Programming Languages,Programming Languages
+ac3,5,Programming Languages,Programming Languages
+calibration,5,Programming Languages,Programming Languages
+login-script,5,Programming Languages,Programming Languages
+procmon,5,Programming Languages,Programming Languages
+webmail,5,Web & Application Servers,Web & Application Servers
+softphone,5,unamed,softphone
+out-of-memory,5,Programming Languages,Programming Languages
+windows-10s,5,Operating system,Operating system
+system-file,5,unamed,system-file
+equalizer,5,Programming Languages,Programming Languages
+pnp,5,unamed,pnp
+print-spooler,5,Programming Languages,Programming Languages
+english,5,unamed,english
+win32,5,unamed,win32
+msata,5,unamed,msata
+p2v,5,unamed,p2v
+epson-ecotank,5,Programming Languages,Programming Languages
+vhs,5,unamed,vhs
+wpad,5,unamed,wpad
+checkpoint-endpoint,5,Programming Languages,Programming Languages
+windows-key,5,Operating system,Operating system
+ccleaner,5,Programming Languages,Programming Languages
+jackett,5,Programming Languages,Programming Languages
+wait,5,unamed,wait
+rdesktop,5,Programming Languages,Programming Languages
+pdfedit,5,unamed,pdfedit
+input-method,5,unamed,input-method
+windows-embedded-7,5,Operating system,Operating system
+sdram,5,Programming Languages,Programming Languages
+computer-science,5,Programming Languages,Programming Languages
+cygwin-x,5,Programming Languages,Programming Languages
+amd-athlon,5,unamed,amd-athlon
+intel-core-i9,5,Programming Languages,Programming Languages
+sysmon,5,unamed,sysmon
+unetbootin,5,System,System
+regsvr32,5,Programming Languages,Programming Languages
+exploit,5,unamed,exploit
+copyright,5,Programming Languages,Programming Languages
+copy-protection,5,Programming Languages,Programming Languages
+adobe-flash,5,unamed,adobe-flash
+darwin,5,Programming Languages,Programming Languages
+dead-pixel,5,unamed,dead-pixel
+beyondcompare,5,Programming Languages,Programming Languages
+zebra-printer,5,Programming Languages,Programming Languages
+tampermonkey,5,Programming Languages,Programming Languages
+hotfix,5,unamed,hotfix
+review,5,Programming Languages,Programming Languages
+md5sum,5,unamed,md5sum
+issue-tracking,5,Programming Languages,Programming Languages
+warranty,5,Programming Languages,Programming Languages
+ipmi,5,Internet,Internet
+dds,5,unamed,dds
+mamp,5,unamed,mamp
+google-voice,5,Programming Languages,Programming Languages
+requestly,5,Programming Languages,Programming Languages
+waterfox,5,Programming Languages,Programming Languages
+file-shredding,5,Programming Languages,Programming Languages
+blob-storage,5,Programming Languages,Programming Languages
+bwrap,5,Programming Languages,Programming Languages
+netmask,5,unamed,netmask
+fedora-30,5,Operating system,Operating system
+zathura,5,Programming Languages,Programming Languages
+vifm,5,unamed,vifm
+ncurses,5,Programming Languages,Programming Languages
+vfat,5,unamed,vfat
+stdin,5,unamed,stdin
+csh,5,Programming Languages,Programming Languages
+ubuntu-multipass,5,Operating system,Operating system
+curlftpfs,5,Programming Languages,Programming Languages
+ssh-copy-id,5,Programming Languages,Programming Languages
+evolution,5,unamed,evolution
+terminal-multiplexer,5,Programming Languages,Programming Languages
+modeline,5,unamed,modeline
+preseed,5,Programming Languages,Programming Languages
+ffserver,5,Programming Languages,Programming Languages
+xauth,5,unamed,xauth
+superputty,5,Programming Languages,Programming Languages
+sshpass,5,Security,Security
+whm,5,unamed,whm
+openbox,5,unamed,openbox
+mips,5,Internet,Internet
+ndp,5,unamed,ndp
+avi,5,unamed,avi
+voiceover,5,Programming Languages,Programming Languages
+vorbis,5,Programming Languages,Programming Languages
+rca,5,Programming Languages,Programming Languages
+embedding,5,unamed,embedding
+speech,5,Programming Languages,Programming Languages
+fetchmail,5,Programming Languages,Programming Languages
+registrar,5,Programming Languages,Programming Languages
+sonicwall,5,Programming Languages,Programming Languages
+zonealarm,5,Programming Languages,Programming Languages
+digikam,5,unamed,digikam
+find-in-files,5,unamed,find-in-files
+llvm,5,unamed,llvm
+zenity,5,unamed,zenity
+nvenc,5,Programming Languages,Programming Languages
+album-art,5,Programming Languages,Programming Languages
+toner,5,Programming Languages,Programming Languages
+resharper,5,Programming Languages,Programming Languages
+gnome-42,5,unamed,gnome-42
+noip,5,Internet,Internet
+ppk,5,unamed,ppk
+honeypot,5,unamed,honeypot
+virtual-wifi,5,Programming Languages,Programming Languages
+rj-11,5,Programming Languages,Programming Languages
+groovy,5,Programming Languages,Programming Languages
+inputrc,5,Programming Languages,Programming Languages
+visual-studio-2015,5,unamed,visual-studio-2015
+gerrit,5,Programming Languages,Programming Languages
+crossover-cable,5,Programming Languages,Programming Languages
+netboot,5,System,System
+man-in-the-middle,5,unamed,man-in-the-middle
+composer,5,Programming Languages,Programming Languages
+sap,5,unamed,sap
+integration,5,Programming Languages,Programming Languages
+screws,5,Programming Languages,Programming Languages
+system-calls,5,Programming Languages,Programming Languages
+gnuplot,5,Web & Application Servers,Web & Application Servers
+syslinux,5,Operating system,Operating system
+all-in-one,5,unamed,all-in-one
+solver,5,Programming Languages,Programming Languages
+adobe-indesign,5,unamed,adobe-indesign
+lightning,5,unamed,lightning
+neomutt,5,unamed,neomutt
+mail-rule,5,Programming Languages,Programming Languages
+lotus-notes,5,unamed,lotus-notes
+minicom,5,Programming Languages,Programming Languages
+basic-disk,5,Programming Languages,Programming Languages
+hard-drive-cache,5,Programming Languages,Programming Languages
+landscape,5,Programming Languages,Programming Languages
+apt-cache,5,Programming Languages,Programming Languages
+glassfish,5,unamed,glassfish
+djvu,5,unamed,djvu
+xmouse,5,unamed,xmouse
+swf,5,unamed,swf
+sony-vegas,5,unamed,sony-vegas
+internet-explorer-8,5,Programming Languages,Programming Languages
+wikipedia,5,Internet,Internet
+projector,5,Programming Languages,Programming Languages
+raid-10,5,Programming Languages,Programming Languages
+form-fill,5,Programming Languages,Programming Languages
+drupal,5,Programming Languages,Programming Languages
+trendlines,5,Programming Languages,Programming Languages
+xslt,5,unamed,xslt
+lua,5,unamed,lua
+caret,4,Programming Languages,Programming Languages
+pwd,4,unamed,pwd
+superduper,4,Programming Languages,Programming Languages
+isight,4,unamed,isight
+unmounting,4,unamed,unmounting
+nx,4,unamed,nx
+apple-remote-desktop,4,Programming Languages,Programming Languages
+page-layout-view,4,unamed,page-layout-view
+macfuse,4,Programming Languages,Programming Languages
+system-info,4,unamed,system-info
+corestorage,4,Programming Languages,Programming Languages
+dead-keys,4,unamed,dead-keys
+kate,4,unamed,kate
+offlineimap,4,unamed,offlineimap
+mailing-lists,4,unamed,mailing-lists
+debian-jessie,4,Operating system,Operating system
+rosetta-stone,4,Programming Languages,Programming Languages
+w3m,4,unamed,w3m
+image-manipulation,4,Internet,Internet
+ripping,4,Programming Languages,Programming Languages
+kdenlive,4,unamed,kdenlive
+unwanted-application,4,Programming Languages,Programming Languages
+controlled-folder-access,4,Programming Languages,Programming Languages
+stretch,4,Programming Languages,Programming Languages
+crt,4,Programming Languages,Programming Languages
+autologon,4,unamed,autologon
+versioning,4,Programming Languages,Programming Languages
+pageant,4,unamed,pageant
+self-encrypting-drive,4,Programming Languages,Programming Languages
+security-center,4,Programming Languages,Programming Languages
+malwarebytes,4,Programming Languages,Programming Languages
+uwfmgr,4,Programming Languages,Programming Languages
+virtualization-based-security,4,Programming Languages,Programming Languages
+fences,4,Programming Languages,Programming Languages
+stardock,4,Programming Languages,Programming Languages
+windows-edition,4,Operating system,Operating system
+grayscale,4,Programming Languages,Programming Languages
+remote-shutdown,4,Programming Languages,Programming Languages
+elevated,4,unamed,elevated
+voice-command,4,Programming Languages,Programming Languages
+drobo,4,Programming Languages,Programming Languages
+cab,4,Programming Languages,Programming Languages
+scroll-lock,4,Programming Languages,Programming Languages
+github-desktop,4,Web & Application Servers,Web & Application Servers
+network-profiles,4,Programming Languages,Programming Languages
+limited-access,4,Programming Languages,Programming Languages
+adobe-reader-dc,4,Programming Languages,Programming Languages
+transfer-rate,4,Programming Languages,Programming Languages
+facebook-chat,4,Programming Languages,Programming Languages
+desktop-gadget,4,unamed,desktop-gadget
+rainmeter,4,Programming Languages,Programming Languages
+dell-studio,4,unamed,dell-studio
+normal-mode,4,Programming Languages,Programming Languages
+ranger,4,Programming Languages,Programming Languages
+displayfusion,4,Computer Components,Computer Components
+standard-user,4,Programming Languages,Programming Languages
+paper,4,Programming Languages,Programming Languages
+microsoft-driver-verifier,4,Microsoft,Microsoft
+peer-to-peer,4,Programming Languages,Programming Languages
+windows-iot-core,4,Operating system,Operating system
+.net-4.5,4,unamed,.net-4.5
+windows-nt-4,4,Operating system,Operating system
+plug-and-play,4,unamed,plug-and-play
+windows-mobile-device-center,4,Operating system,Operating system
+usb-audio,4,Computer Components,Computer Components
+knowledge-management,4,unamed,knowledge-management
+eye-strain,4,Programming Languages,Programming Languages
+widescreen,4,Programming Languages,Programming Languages
+revo-uninstaller,4,Programming Languages,Programming Languages
+powercli,4,Programming Languages,Programming Languages
+jboss,4,unamed,jboss
+lexmark-printer,4,Programming Languages,Programming Languages
+live-tiles,4,unamed,live-tiles
+hybrid-storage,4,Programming Languages,Programming Languages
+drive-bay,4,Programming Languages,Programming Languages
+microsoft-klc,4,Microsoft,Microsoft
+logitech-speakers,4,Programming Languages,Programming Languages
+opal,4,unamed,opal
+tablet-mode,4,unamed,tablet-mode
+serial-number,4,Programming Languages,Programming Languages
+flex,4,unamed,flex
+shadow-copy,4,Programming Languages,Programming Languages
+3dmark,4,Programming Languages,Programming Languages
+nvidia-gamestream,4,Programming Languages,Programming Languages
+norton-antivirus,4,Programming Languages,Programming Languages
+access-based-enumeration,4,Programming Languages,Programming Languages
+media-session,4,unamed,media-session
+sharepoint-server-2019,4,Microsoft,Microsoft
+nextdns,4,Web & Application Servers,Web & Application Servers
+notify-osd,4,unamed,notify-osd
+swappiness,4,unamed,swappiness
+fsb,4,unamed,fsb
+firejail,4,Programming Languages,Programming Languages
+v8,4,unamed,v8
+writes,4,Programming Languages,Programming Languages
+consul,4,Programming Languages,Programming Languages
+adobe-experience-manager,4,Programming Languages,Programming Languages
+lando,4,Internet,Internet
+imagex,4,unamed,imagex
+qr-code,4,Programming Languages,Programming Languages
+wix,4,unamed,wix
+process-monitoring,4,Programming Languages,Programming Languages
+ghc,4,Programming Languages,Programming Languages
+usb-pd,4,Computer Components,Computer Components
+yuv,4,unamed,yuv
+ntlm,4,unamed,ntlm
+rdc-manager,4,Programming Languages,Programming Languages
+devuan,4,unamed,devuan
+compose-key,4,Programming Languages,Programming Languages
+lame,4,unamed,lame
+vbr,4,Programming Languages,Programming Languages
+directshow,4,Programming Languages,Programming Languages
+prepend,4,Programming Languages,Programming Languages
+northbridge,4,Programming Languages,Programming Languages
+atx,4,unamed,atx
+soldering,4,Programming Languages,Programming Languages
+backticks,4,Programming Languages,Programming Languages
+microsoft-expression,4,Microsoft,Microsoft
+hudson,4,unamed,hudson
+wmv,4,unamed,wmv
+shell-extensions,4,System,System
+nppscript,4,Programming Languages,Programming Languages
+hplip,4,Internet,Internet
+special-locations,4,Programming Languages,Programming Languages
+rundll32.exe,4,Programming Languages,Programming Languages
+shell32.dll,4,System,System
+uss,4,unamed,uss
+saas,4,unamed,saas
+command-tab,4,Programming Languages,Programming Languages
+gotomypc,4,Programming Languages,Programming Languages
+bookmarklet,4,Programming Languages,Programming Languages
+apache-cordova,4,Programming Languages,Programming Languages
+safe-browsing,4,Programming Languages,Programming Languages
+duckduckgo,4,Programming Languages,Programming Languages
+softether,4,Programming Languages,Programming Languages
+linux-on-azure,4,Operating system,Operating system
+gamma,4,unamed,gamma
+google-app-engine,4,unamed,google-app-engine
+social-networking,4,Programming Languages,Programming Languages
+reloadevery,4,Programming Languages,Programming Languages
+limited-user-account,4,Programming Languages,Programming Languages
+nodes,4,unamed,nodes
+coaxial,4,Programming Languages,Programming Languages
+optical-cable,4,Programming Languages,Programming Languages
+usb-modem,4,Computer Components,Computer Components
+docsis,4,Programming Languages,Programming Languages
+system-backup,4,Programming Languages,Programming Languages
+graphviz,4,Programming Languages,Programming Languages
+mp3-player,4,Programming Languages,Programming Languages
+ssmtp,4,unamed,ssmtp
+hp-desktop-computer,4,Programming Languages,Programming Languages
+reverse-dns,4,Programming Languages,Programming Languages
+dns-cache,4,Programming Languages,Programming Languages
+keybase,4,unamed,keybase
+bubblewrap,4,Programming Languages,Programming Languages
+mailutils,4,unamed,mailutils
+code-blocks,4,Programming Languages,Programming Languages
+ieee802.1x,4,unamed,ieee802.1x
+wireless-roaming,4,Programming Languages,Programming Languages
+main-desktop-panel,4,unamed,main-desktop-panel
+hostadapter,4,Programming Languages,Programming Languages
+rdiff-backup,4,Programming Languages,Programming Languages
+fetch,4,Programming Languages,Programming Languages
+nagios,4,Operating system,Operating system
+blueman,4,unamed,blueman
+isolinux,4,Operating system,Operating system
+netbsd,4,unamed,netbsd
+eof,4,unamed,eof
+webforms,4,Programming Languages,Programming Languages
+cpu-load,4,Programming Languages,Programming Languages
+influxdb,4,unamed,influxdb
+xfce4-terminal,4,Programming Languages,Programming Languages
+devicesanddrives,4,Programming Languages,Programming Languages
+xdebug,4,Problems,Problems
+file-chooser,4,Programming Languages,Programming Languages
+multi-account-containers,4,Programming Languages,Programming Languages
+virtual-console,4,Programming Languages,Programming Languages
+strace,4,Programming Languages,Programming Languages
+powerpc,4,Programming Languages,Programming Languages
+mysql5,4,Programming Languages,Programming Languages
+ubuntu-19.10,4,Operating system,Operating system
+qmail,4,unamed,qmail
+libusb,4,Computer Components,Computer Components
+audio-cd,4,Programming Languages,Programming Languages
+magnet-links,4,Web & Application Servers,Web & Application Servers
+multiuser,4,Programming Languages,Programming Languages
+cgi,4,Programming Languages,Programming Languages
+vb6,4,unamed,vb6
+vpnc,4,Programming Languages,Programming Languages
+resampling,4,Programming Languages,Programming Languages
+upstart,4,Programming Languages,Programming Languages
+ubcd,4,Programming Languages,Programming Languages
+linphone,4,unamed,linphone
+file-monitoring,4,Programming Languages,Programming Languages
+intel-celeron,4,Programming Languages,Programming Languages
+start,4,Programming Languages,Programming Languages
+buffalo-nas,4,Backup,Backup
+alac,4,Programming Languages,Programming Languages
+.net-4.0,4,unamed,.net-4.0
+kdm,4,unamed,kdm
+ext,4,unamed,ext
+organizer-software,4,Programming Languages,Programming Languages
+bcache,4,Programming Languages,Programming Languages
+chef,4,Programming Languages,Programming Languages
+rsnapshot,4,Programming Languages,Programming Languages
+apm,4,unamed,apm
+opensuse-12.2,4,unamed,opensuse-12.2
+gparted-live,4,Programming Languages,Programming Languages
+dolbydigital,4,Audio,Audio
+multi-channel,4,Programming Languages,Programming Languages
+dnscrypt,4,Programming Languages,Programming Languages
+google-public-dns,4,Programming Languages,Programming Languages
+hulu,4,unamed,hulu
+windows-8.1-upgrade,4,Operating system,Operating system
+firefox-sync,4,Programming Languages,Programming Languages
+addons,4,unamed,addons
+vb.net,4,unamed,vb.net
+mass,4,unamed,mass
+libx264,4,unamed,libx264
+mpg,4,unamed,mpg
+bc,4,Programming Languages,Programming Languages
+compositing,4,Programming Languages,Programming Languages
+x265,4,unamed,x265
+layers,4,Programming Languages,Programming Languages
+altgr,4,Programming Languages,Programming Languages
+case-layout,4,Programming Languages,Programming Languages
+ssh-keygen,4,Security,Security
+ultravnc,4,Programming Languages,Programming Languages
+exceed,4,Programming Languages,Programming Languages
+xforwarding,4,Programming Languages,Programming Languages
+remote-execution,4,Programming Languages,Programming Languages
+kext,4,unamed,kext
+bundle,4,unamed,bundle
+wireless-card,4,Programming Languages,Programming Languages
+dual-band,4,unamed,dual-band
+wpa2-psk,4,unamed,wpa2-psk
+netmon,4,unamed,netmon
+802.1q,4,unamed,802.1q
+xpath,4,unamed,xpath
+head,4,unamed,head
+stty,4,unamed,stty
+blade,4,unamed,blade
+pim,4,unamed,pim
+rescue,4,Programming Languages,Programming Languages
+revision-control,4,Programming Languages,Programming Languages
+sqldeveloper,4,Programming Languages,Programming Languages
+branch,4,Programming Languages,Programming Languages
+checkpoint-firewall,4,Programming Languages,Programming Languages
+telecommunication,4,Programming Languages,Programming Languages
+teredo,4,Programming Languages,Programming Languages
+link-aggregation,4,Programming Languages,Programming Languages
+hsdpa,4,unamed,hsdpa
+voice-chat,4,Programming Languages,Programming Languages
+lede,4,unamed,lede
+generator,4,Programming Languages,Programming Languages
+notepad2,4,unamed,notepad2
+aoc-monitor,4,Programming Languages,Programming Languages
+color-printer,4,Programming Languages,Programming Languages
+http-status-codes,4,Programming Languages,Programming Languages
+osx-lion,4,unamed,osx-lion
+interix,4,Programming Languages,Programming Languages
+ntfsresize,4,Programming Languages,Programming Languages
+mathml,4,unamed,mathml
+https-everywhere,4,Programming Languages,Programming Languages
+kaby-lake,4,unamed,kaby-lake
+adobe-media-encoder,4,Programming Languages,Programming Languages
+logical-processor,4,Programming Languages,Programming Languages
+ghz,4,unamed,ghz
+disassembly,4,unamed,disassembly
+multi-processor,4,Programming Languages,Programming Languages
+confluence,4,Programming Languages,Programming Languages
+lint,4,unamed,lint
+virtual-machine-manager,4,Programming Languages,Programming Languages
+storcli,4,Programming Languages,Programming Languages
+plasma-tv,4,unamed,plasma-tv
+windows-home-server,4,Operating system,Operating system
+paper-tray,4,Programming Languages,Programming Languages
+ac-adapter,4,Programming Languages,Programming Languages
+stall,4,unamed,stall
+ceph,4,Programming Languages,Programming Languages
+bar-chart,4,Programming Languages,Programming Languages
+barcode,4,Programming Languages,Programming Languages
+microsoft-flow,4,Microsoft,Microsoft
+nest,4,unamed,nest
+windows-xp-mode,4,Operating system,Operating system
+shared-mailbox,4,Programming Languages,Programming Languages
+sieve,4,unamed,sieve
+yahoo-messenger,4,Programming Languages,Programming Languages
+continuous-operation,4,Programming Languages,Programming Languages
+dual-connections,4,Programming Languages,Programming Languages
+firewire,4,Programming Languages,Programming Languages
+append,4,unamed,append
+oracle-database,4,Programming Languages,Programming Languages
+openindiana,4,unamed,openindiana
+splash,4,unamed,splash
+system-repair-disc,4,Programming Languages,Programming Languages
+toshiba-hard-drive,4,Programming Languages,Programming Languages
+osd,4,unamed,osd
+autoindent,4,unamed,autoindent
+indent,4,unamed,indent
+wmf,4,unamed,wmf
+seagate,4,unamed,seagate
+mac-os-classic,4,Programming Languages,Programming Languages
+definition,4,unamed,definition
+recentx,4,Programming Languages,Programming Languages
+database-administration,4,Programming Languages,Programming Languages
+hp-officejet,4,Programming Languages,Programming Languages
+nlite,4,unamed,nlite
+hardware-selection,4,Programming Languages,Programming Languages
+drive-health,4,Programming Languages,Programming Languages
+appointments,4,unamed,appointments
+exchange-2016,4,Programming Languages,Programming Languages
+disk-controller,4,Programming Languages,Programming Languages
+san,4,unamed,san
+raid-z,4,Programming Languages,Programming Languages
+libreoffice-draw,4,Programming Languages,Programming Languages
+outline,4,unamed,outline
+avira,4,Programming Languages,Programming Languages
+exit,4,unamed,exit
+lacp,4,Programming Languages,Programming Languages
+publishing,4,unamed,publishing
+beamer,4,Programming Languages,Programming Languages
+fractal,4,Programming Languages,Programming Languages
+zim,4,unamed,zim
+microsoft-surface-pro-4,4,Microsoft,Microsoft
+vmware-tools,4,Programming Languages,Programming Languages
+wmctrl,4,Programming Languages,Programming Languages
+git-svn,4,Audio,Audio
+barebone,4,Programming Languages,Programming Languages
+tablet-pc,4,Programming Languages,Programming Languages
+high-resolution,4,Programming Languages,Programming Languages
+fedora-23,4,Operating system,Operating system
+hardware-limiting,4,Programming Languages,Programming Languages
+register,4,Programming Languages,Programming Languages
+steam-link,4,unamed,steam-link
+xmpp,4,unamed,xmpp
+texlive,4,unamed,texlive
+whiteboard,4,Programming Languages,Programming Languages
+alacritty,4,Programming Languages,Programming Languages
+reverse-tethering,4,Programming Languages,Programming Languages
+nomachine,4,Programming Languages,Programming Languages
+glusterfs,4,Programming Languages,Programming Languages
+vimscript,4,Programming Languages,Programming Languages
+solarized,4,Programming Languages,Programming Languages
+plaintext,4,unamed,plaintext
+freenode,4,Programming Languages,Programming Languages
+prime95,4,Programming Languages,Programming Languages
+kwin,4,unamed,kwin
+scala,4,Programming Languages,Programming Languages
+websphere,4,Programming Languages,Programming Languages
+ipython,4,Programming Languages,Programming Languages
+esxi5.5,4,unamed,esxi5.5
+zend,4,unamed,zend
+sourceforge,4,Programming Languages,Programming Languages
+innodb,4,unamed,innodb
+photoshop-cs6,4,Programming Languages,Programming Languages
+clustering,4,Programming Languages,Programming Languages
+thesaurus,4,Programming Languages,Programming Languages
+mod-rewrite,4,Programming Languages,Programming Languages
+image-viewer,4,Programming Languages,Programming Languages
+asp,4,unamed,asp
+dashlane,4,Internet,Internet
+manpages,4,unamed,manpages
+newsgroups,4,Programming Languages,Programming Languages
+ssrs,4,Programming Languages,Programming Languages
+microsoft-defender,3,Microsoft,Microsoft
+asl,3,unamed,asl
+git-gui,3,Audio,Audio
+osx-spaces,3,Programming Languages,Programming Languages
+mac-app-store,3,Programming Languages,Programming Languages
+acdsee,3,Programming Languages,Programming Languages
+filevault,3,unamed,filevault
+say,3,unamed,say
+system-profile,3,Programming Languages,Programming Languages
+miktex,3,unamed,miktex
+supervisord,3,Programming Languages,Programming Languages
+effective-permissions,3,Programming Languages,Programming Languages
+bz2,3,unamed,bz2
+reverse-engineer,3,Programming Languages,Programming Languages
+ableton-live,3,unamed,ableton-live
+remotefx,3,Programming Languages,Programming Languages
+psd,3,unamed,psd
+gnucash,3,Programming Languages,Programming Languages
+switchable-graphics,3,Programming Languages,Programming Languages
+guest-account,3,Programming Languages,Programming Languages
+winpcap,3,Programming Languages,Programming Languages
+everything,3,Programming Languages,Programming Languages
+windows-10-v1703,3,Operating system,Operating system
+viber,3,Programming Languages,Programming Languages
+snap-camera,3,Programming Languages,Programming Languages
+bom,3,unamed,bom
+windows-3.1,3,Operating system,Operating system
+roaming-profiles,3,Programming Languages,Programming Languages
+whea-logger,3,Programming Languages,Programming Languages
+cd-burning,3,Programming Languages,Programming Languages
+sql-management-studio,3,Programming Languages,Programming Languages
+mouse-keys,3,unamed,mouse-keys
+public-folders,3,Programming Languages,Programming Languages
+display-rotation,3,Programming Languages,Programming Languages
+irfanview,3,Programming Languages,Programming Languages
+deep-freeze,3,Programming Languages,Programming Languages
+seamless,3,unamed,seamless
+reparse-points,3,Programming Languages,Programming Languages
+ghost,3,unamed,ghost
+ctrl-alt-delete,3,Programming Languages,Programming Languages
+wma,3,unamed,wma
+realtimesync,3,Programming Languages,Programming Languages
+font-faces,3,Programming Languages,Programming Languages
+sync-center,3,Programming Languages,Programming Languages
+windows-live-mail,3,Operating system,Operating system
+hook,3,unamed,hook
+g-sync,3,Programming Languages,Programming Languages
+surface-2,3,Programming Languages,Programming Languages
+desktop-toolbar,3,Programming Languages,Programming Languages
+logitech,3,Programming Languages,Programming Languages
+amd-catalyst,3,Programming Languages,Programming Languages
+android12,3,Operating system,Operating system
+virtual-desktop-manager,3,Programming Languages,Programming Languages
+wireless-display,3,Programming Languages,Programming Languages
+visual-studio-2012,3,unamed,visual-studio-2012
+call,3,Programming Languages,Programming Languages
+side-loading,3,unamed,side-loading
+readyboost,3,Programming Languages,Programming Languages
+single-channel,3,Programming Languages,Programming Languages
+dual-core,3,Programming Languages,Programming Languages
+specifications,3,Programming Languages,Programming Languages
+rubymine,3,Programming Languages,Programming Languages
+nexpose,3,unamed,nexpose
+singularity-containers,3,Programming Languages,Programming Languages
+minikube,3,unamed,minikube
+ioctl,3,Programming Languages,Programming Languages
+wsh,3,unamed,wsh
+.wsf,3,unamed,.wsf
+u2f,3,unamed,u2f
+traktor,3,Programming Languages,Programming Languages
+unison,3,unamed,unison
+dokuwiki,3,unamed,dokuwiki
+stripe,3,Programming Languages,Programming Languages
+quicken,3,Programming Languages,Programming Languages
+carriage-return,3,Programming Languages,Programming Languages
+static-discharge,3,Programming Languages,Programming Languages
+git-annex,3,Audio,Audio
+chm,3,Programming Languages,Programming Languages
+freemind,3,Programming Languages,Programming Languages
+radius,3,Programming Languages,Programming Languages
+gis,3,unamed,gis
+change-tracking,3,Programming Languages,Programming Languages
+service-pack,3,Programming Languages,Programming Languages
+megaraid,3,Programming Languages,Programming Languages
+flowchart,3,Programming Languages,Programming Languages
+high-definition,3,unamed,high-definition
+fog,3,unamed,fog
+sumatra-pdf,3,Programming Languages,Programming Languages
+phoenix,3,unamed,phoenix
+installshield,3,unamed,installshield
+webgui,3,Web & Application Servers,Web & Application Servers
+meta-quest,3,unamed,meta-quest
+rhythmbox,3,Programming Languages,Programming Languages
+youtube-api,3,Audio,Audio
+keyword,3,Programming Languages,Programming Languages
+gdpr,3,Programming Languages,Programming Languages
+suricata,3,Programming Languages,Programming Languages
+fluxbox,3,unamed,fluxbox
+pager,3,Programming Languages,Programming Languages
+geany,3,unamed,geany
+scientific-linux,3,Operating system,Operating system
+graphicsmagick,3,Programming Languages,Programming Languages
+gdm3,3,unamed,gdm3
+asus-rog-zephyrus,3,Programming Languages,Programming Languages
+terminfo,3,Programming Languages,Programming Languages
+dsd,3,unamed,dsd
+sigint,3,unamed,sigint
+sshuttle,3,Security,Security
+roundcube,3,Programming Languages,Programming Languages
+aufs,3,unamed,aufs
+dj,3,unamed,dj
+unix-utils,3,Operating system,Operating system
+email-bounces,3,Programming Languages,Programming Languages
+linux-server,3,Operating system,Operating system
+epson-stylus,3,unamed,epson-stylus
+metacity,3,Programming Languages,Programming Languages
+can-bus,3,Programming Languages,Programming Languages
+sysvinit,3,unamed,sysvinit
+gunzip,3,Backup,Backup
+bose,3,unamed,bose
+creative,3,Programming Languages,Programming Languages
+amr,3,Programming Languages,Programming Languages
+xhost,3,unamed,xhost
+cmus,3,Programming Languages,Programming Languages
+joomla,3,unamed,joomla
+firefox-77,3,Programming Languages,Programming Languages
+indicator,3,Programming Languages,Programming Languages
+noscript,3,Programming Languages,Programming Languages
+awesomebar,3,Programming Languages,Programming Languages
+embedded-fonts,3,Microsoft,Microsoft
+motion-detection,3,Programming Languages,Programming Languages
+dolby-pro-logic,3,Programming Languages,Programming Languages
+audible,3,unamed,audible
+image-filter,3,Programming Languages,Programming Languages
+tiles,3,unamed,tiles
+flv,3,unamed,flv
+theora,3,Programming Languages,Programming Languages
+xvid,3,unamed,xvid
+m4v,3,unamed,m4v
+k3b,3,unamed,k3b
+daum-pot-player,3,Programming Languages,Programming Languages
+virtualdub,3,Programming Languages,Programming Languages
+vcd,3,Programming Languages,Programming Languages
+1080p,3,unamed,1080p
+chapters,3,Programming Languages,Programming Languages
+cloud-init,3,Programming Languages,Programming Languages
+google-authenticator,3,Programming Languages,Programming Languages
+hitachi,3,Programming Languages,Programming Languages
+byobu,3,unamed,byobu
+comodo-firewall,3,Programming Languages,Programming Languages
+wifi-transfer,3,Programming Languages,Programming Languages
+bluetooth-3.0,3,Computer Components,Computer Components
+aggregation,3,Programming Languages,Programming Languages
+port-redirection,3,Programming Languages,Programming Languages
+bt-infinity,3,unamed,bt-infinity
+.profile,3,Programming Languages,Programming Languages
+osascript,3,Programming Languages,Programming Languages
+uniq,3,unamed,uniq
+netbook,3,unamed,netbook
+acer-aspire-one,3,Programming Languages,Programming Languages
+protected-mode,3,Programming Languages,Programming Languages
+xps,3,unamed,xps
+intel-amt,3,unamed,intel-amt
+eeprom,3,Programming Languages,Programming Languages
+forking,3,Programming Languages,Programming Languages
+bibtex,3,unamed,bibtex
+gollum-wiki,3,unamed,gollum-wiki
+infrastructure,3,Programming Languages,Programming Languages
+syncthing,3,Programming Languages,Programming Languages
+netdiscover,3,Programming Languages,Programming Languages
+windows-mobile,3,Operating system,Operating system
+wired,3,Programming Languages,Programming Languages
+lsf,3,unamed,lsf
+adobe-creative-cloud,3,Programming Languages,Programming Languages
+metamorphosys,3,Programming Languages,Programming Languages
+jabber,3,Programming Languages,Programming Languages
+para-virtualization,3,Programming Languages,Programming Languages
+powertop,3,Programming Languages,Programming Languages
+cyberghost,3,Programming Languages,Programming Languages
+rvm,3,Programming Languages,Programming Languages
+windows-server-2003,3,Operating system,Operating system
+xsd,3,unamed,xsd
+google-analytics,3,Programming Languages,Programming Languages
+accounting,3,Programming Languages,Programming Languages
+rearrange,3,Programming Languages,Programming Languages
+spreadsheet-compare,3,Programming Languages,Programming Languages
+autodesk-inventor,3,Programming Languages,Programming Languages
+acceleration,3,Programming Languages,Programming Languages
+sieve-rules,3,Programming Languages,Programming Languages
+address-book,3,Programming Languages,Programming Languages
+import-mail,3,Programming Languages,Programming Languages
+exchange-2003,3,Programming Languages,Programming Languages
+kmail,3,unamed,kmail
+instant-messaging,3,unamed,instant-messaging
+imapsync,3,Programming Languages,Programming Languages
+distribution,3,Programming Languages,Programming Languages
+crunch,3,Programming Languages,Programming Languages
+lga775,3,unamed,lga775
+toad,3,unamed,toad
+xpra,3,Programming Languages,Programming Languages
+sidecar,3,Programming Languages,Programming Languages
+home-office,3,Programming Languages,Programming Languages
+personal-data,3,Programming Languages,Programming Languages
+geoip,3,Internet,Internet
+cpio,3,Programming Languages,Programming Languages
+case-mods,3,Programming Languages,Programming Languages
+sp3,3,unamed,sp3
+distribution-list,3,Programming Languages,Programming Languages
+sedutil,3,unamed,sedutil
+ngff,3,unamed,ngff
+vesa,3,unamed,vesa
+firebird,3,Programming Languages,Programming Languages
+legal,3,unamed,legal
+piracy,3,Programming Languages,Programming Languages
+abbyy,3,unamed,abbyy
+imgur,3,Programming Languages,Programming Languages
+keypad,3,unamed,keypad
+gradient,3,Programming Languages,Programming Languages
+norton-family,3,Programming Languages,Programming Languages
+syncback,3,Programming Languages,Programming Languages
+norton-ghost,3,Programming Languages,Programming Languages
+form-factor,3,Programming Languages,Programming Languages
+character-map,3,Programming Languages,Programming Languages
+nemo,3,unamed,nemo
+aircard,3,Programming Languages,Programming Languages
+3d-modeling,3,unamed,3d-modeling
+vectorworks,3,Programming Languages,Programming Languages
+epson-workforce,3,Programming Languages,Programming Languages
+xenserver,3,Programming Languages,Programming Languages
+multipath,3,Internet,Internet
+knoppix,3,unamed,knoppix
+wcf,3,Programming Languages,Programming Languages
+photoshop-action,3,Programming Languages,Programming Languages
+mainframe,3,Programming Languages,Programming Languages
+zos,3,unamed,zos
+ubuntu-12.04,3,Operating system,Operating system
+openrc,3,Programming Languages,Programming Languages
+umatrix,3,Programming Languages,Programming Languages
+osx-tiger,3,Programming Languages,Programming Languages
+ppc,3,Programming Languages,Programming Languages
+google-photos,3,unamed,google-photos
+word-count,3,Programming Languages,Programming Languages
+ctags,3,Programming Languages,Programming Languages
+weechat,3,Programming Languages,Programming Languages
+carddav,3,Programming Languages,Programming Languages
+live-meeting,3,unamed,live-meeting
+adobe-bridge,3,Programming Languages,Programming Languages
+monit,3,unamed,monit
+key-file,3,unamed,key-file
+ubuntu-10.04,3,Operating system,Operating system
+windows-audit-mode,3,Operating system,Operating system
+microsoft-access-2010,3,Microsoft,Microsoft
+apache-directory-studio,3,Programming Languages,Programming Languages
+emacsclient,3,Programming Languages,Programming Languages
+elisp,3,unamed,elisp
+org-mode,3,Programming Languages,Programming Languages
+moodle,3,unamed,moodle
+emoticons,3,Programming Languages,Programming Languages
+dvr,3,Programming Languages,Programming Languages
+ivms,3,unamed,ivms
+mediawiki-extension,3,unamed,mediawiki-extension
+3d-graphics,3,Programming Languages,Programming Languages
+chinese-input-method,3,Programming Languages,Programming Languages
+ime-quick,3,Programming Languages,Programming Languages
+windows-8-apps,3,Operating system,Operating system
+encfs,2,Programming Languages,Programming Languages
+textedit,2,unamed,textedit
+mission-control,2,Programming Languages,Programming Languages
+textmate,2,unamed,textmate
+adobe-xd,2,unamed,adobe-xd
+appletv,2,unamed,appletv
+redshift,2,Programming Languages,Programming Languages
+ansible-vault,2,unamed,ansible-vault
+working-directory,2,Programming Languages,Programming Languages
+sign-out,2,unamed,sign-out
+teamspeak,2,unamed,teamspeak
+microsoft-word-2003,2,Microsoft,Microsoft
+libicu,2,Programming Languages,Programming Languages
+touch-keyboard,2,Programming Languages,Programming Languages
+skype-for-windows-10,2,Operating system,Operating system
+armoury-crate,2,Programming Languages,Programming Languages
+system-modification,2,Programming Languages,Programming Languages
+zeroconf,2,Programming Languages,Programming Languages
+sql-server-2005,2,Programming Languages,Programming Languages
+kinect,2,Programming Languages,Programming Languages
+integrated-camera,2,Programming Languages,Programming Languages
+my-documents,2,Programming Languages,Programming Languages
+ngen,2,unamed,ngen
+mixer,2,Programming Languages,Programming Languages
+sandboxie,2,unamed,sandboxie
+.net-3.5,2,unamed,.net-3.5
+kakaotalk,2,unamed,kakaotalk
+photoshop-6,2,unamed,photoshop-6
+norton-360,2,Programming Languages,Programming Languages
+desktop-search,2,Programming Languages,Programming Languages
+applocker,2,Programming Languages,Programming Languages
+location-services,2,Programming Languages,Programming Languages
+windows-speech-recognition,2,Operating system,Operating system
+quickbooks,2,Programming Languages,Programming Languages
+xps-viewer,2,Programming Languages,Programming Languages
+adobe-air,2,Programming Languages,Programming Languages
+virtual-disk,2,Programming Languages,Programming Languages
+eyefinity,2,unamed,eyefinity
+case-sensitivity,2,Programming Languages,Programming Languages
+ddr2,2,Programming Languages,Programming Languages
+cad,2,Programming Languages,Programming Languages
+virtual-address-space,2,Programming Languages,Programming Languages
+oom,2,unamed,oom
+zram,2,Programming Languages,Programming Languages
+apipa,2,Internet,Internet
+nfc,2,Programming Languages,Programming Languages
+silent-cooling,2,Programming Languages,Programming Languages
+csved,2,Programming Languages,Programming Languages
+nvidia-dsr,2,Programming Languages,Programming Languages
+cool-n-quiet,2,Programming Languages,Programming Languages
+powershell-4.0,2,Programming Languages,Programming Languages
+unread-mail,2,Programming Languages,Programming Languages
+marquee,2,Programming Languages,Programming Languages
+msxml,2,unamed,msxml
+thumbnail-generator,2,Programming Languages,Programming Languages
+command-line-tool,2,Programming Languages,Programming Languages
+python-gui,2,Programming Languages,Programming Languages
+sun-java6-jdk,2,Programming Languages,Programming Languages
+windows-mobile-6,2,Operating system,Operating system
+reading-list,2,Programming Languages,Programming Languages
+google-chrome-canary,2,Programming Languages,Programming Languages
+mega,2,unamed,mega
+dragon-naturally-speaking,2,Programming Languages,Programming Languages
+google-bookmarks,2,Programming Languages,Programming Languages
+dynamics-ax,2,Programming Languages,Programming Languages
+vimium,2,unamed,vimium
+paypal,2,unamed,paypal
+ecryptfs,2,Programming Languages,Programming Languages
+xss,2,unamed,xss
+cvs,2,Programming Languages,Programming Languages
+dsdt,2,unamed,dsdt
+kernel-messages,2,Programming Languages,Programming Languages
+taskwarrior,2,Programming Languages,Programming Languages
+cntlm,2,Programming Languages,Programming Languages
+icinga2,2,Programming Languages,Programming Languages
+hdcp,2,Programming Languages,Programming Languages
+runlevel,2,Programming Languages,Programming Languages
+utilization,2,unamed,utilization
+machine-check-exception,2,Programming Languages,Programming Languages
+ripgrep,2,Programming Languages,Programming Languages
+dsa,2,unamed,dsa
+tracing,2,Programming Languages,Programming Languages
+snmpwalk,2,unamed,snmpwalk
+objective-c,2,Programming Languages,Programming Languages
+tcl,2,Programming Languages,Programming Languages
+oracle-12c,2,Programming Languages,Programming Languages
+slax,2,unamed,slax
+nmon,2,unamed,nmon
+transcription,2,Programming Languages,Programming Languages
+mpd,2,unamed,mpd
+amplification,2,Programming Languages,Programming Languages
+video-chat,2,Programming Languages,Programming Languages
+dns.ptr,2,Programming Languages,Programming Languages
+greasemonkey,2,Programming Languages,Programming Languages
+imacros,2,Programming Languages,Programming Languages
+flickr,2,Programming Languages,Programming Languages
+jmeter,2,Programming Languages,Programming Languages
+3ds-max,2,unamed,3ds-max
+xpdf,2,unamed,xpdf
+trackball,2,Programming Languages,Programming Languages
+blend,2,unamed,blend
+timelapse,2,unamed,timelapse
+divx,2,unamed,divx
+avchd,2,Programming Languages,Programming Languages
+multiplexing,2,Internet,Internet
+audiobook,2,Audio,Audio
+m4b,2,unamed,m4b
+deinterlace,2,Programming Languages,Programming Languages
+image-sprites,2,Programming Languages,Programming Languages
+vimeo,2,unamed,vimeo
+hugin,2,unamed,hugin
+mnemonics,2,Programming Languages,Programming Languages
+steganography,2,Programming Languages,Programming Languages
+crossover,2,Programming Languages,Programming Languages
+ipmsg,2,Internet,Internet
+slurm,2,Programming Languages,Programming Languages
+touch-typing,2,Programming Languages,Programming Languages
+compaq-desktop-computer,2,Programming Languages,Programming Languages
+nsis,2,unamed,nsis
+msmq,2,unamed,msmq
+note-taking,2,unamed,note-taking
+dashboard,2,Programming Languages,Programming Languages
+wrt54g,2,Programming Languages,Programming Languages
+math-input-panel,2,unamed,math-input-panel
+inf,2,unamed,inf
+intel-itanium,2,unamed,intel-itanium
+rogue,2,Programming Languages,Programming Languages
+expansion,2,unamed,expansion
+enigmail,2,unamed,enigmail
+monitor-settings,2,Programming Languages,Programming Languages
+bootsector,2,Programming Languages,Programming Languages
+rtorrent,2,Programming Languages,Programming Languages
+conky,2,Programming Languages,Programming Languages
+atom-feed,2,unamed,atom-feed
+snap-package,2,Programming Languages,Programming Languages
+checkout,2,Programming Languages,Programming Languages
+statusbar,2,Programming Languages,Programming Languages
+autofs,2,unamed,autofs
+kerio,2,Programming Languages,Programming Languages
+print-preview,2,Programming Languages,Programming Languages
+smart-quotes,2,Programming Languages,Programming Languages
+finance,2,Programming Languages,Programming Languages
+recursion,2,Programming Languages,Programming Languages
+goalseek,2,unamed,goalseek
+xls,2,unamed,xls
+expose,2,unamed,expose
+aol,2,unamed,aol
+exchange-2019,2,Programming Languages,Programming Languages
+bcc,2,Programming Languages,Programming Languages
+webclient,2,Programming Languages,Programming Languages
+mime-headers,2,Programming Languages,Programming Languages
+winmail.dat,2,unamed,winmail.dat
+protonmail,2,Programming Languages,Programming Languages
+ftdi,2,unamed,ftdi
+hotplug,2,unamed,hotplug
+vendor-id,2,Programming Languages,Programming Languages
+windows-7-restore,2,Operating system,Operating system
+acer-travelmate,2,Programming Languages,Programming Languages
+modding,2,unamed,modding
+sddm,2,unamed,sddm
+autoconf,2,Programming Languages,Programming Languages
+single-instance,2,Programming Languages,Programming Languages
+authoring,2,Programming Languages,Programming Languages
+ruler,2,Programming Languages,Programming Languages
+notation,2,unamed,notation
+dreamweaver,2,Programming Languages,Programming Languages
+advanced-query-syntax,2,Programming Languages,Programming Languages
+windows-10-1809,2,Operating system,Operating system
+risk,2,Programming Languages,Programming Languages
+hd-tune,2,unamed,hd-tune
+activesync,2,Programming Languages,Programming Languages
+autoarchive,2,Programming Languages,Programming Languages
+cached-exchange-mode,2,Programming Languages,Programming Languages
+sent-items,2,unamed,sent-items
+microsoft-outlook-2011,2,Microsoft,Microsoft
+logitech-setpoint,2,Programming Languages,Programming Languages
+outlook-addin,2,unamed,outlook-addin
+physical-security,2,Programming Languages,Programming Languages
+read-write,2,Programming Languages,Programming Languages
+opentype,2,unamed,opentype
+hunspell,2,unamed,hunspell
+worm,2,Programming Languages,Programming Languages
+csrss.exe,2,Programming Languages,Programming Languages
+transaction,2,Programming Languages,Programming Languages
+gnome-40,2,unamed,gnome-40
+windows-media-center,2,Operating system,Operating system
+easeus-todo-backup,2,Programming Languages,Programming Languages
+borg-backup,2,Programming Languages,Programming Languages
+memorystick,2,Programming Languages,Programming Languages
+control-characters,2,Programming Languages,Programming Languages
+gtk-windows,2,Operating system,Operating system
+cisco-jabber,2,Programming Languages,Programming Languages
+iis-8,2,unamed,iis-8
+spanish,2,unamed,spanish
+xbox-one,2,unamed,xbox-one
+virtual-keyboard,2,Programming Languages,Programming Languages
+german,2,Programming Languages,Programming Languages
+tee,2,unamed,tee
+raid6,2,Programming Languages,Programming Languages
+haskell,2,unamed,haskell
+init-script,2,Programming Languages,Programming Languages
+ichat,2,Programming Languages,Programming Languages
+icc,2,Programming Languages,Programming Languages
+stack,2,Programming Languages,Programming Languages
+mathematica,2,Programming Languages,Programming Languages
+microsoft-onedrive,2,Microsoft,Microsoft
+microsoft-office-2007,2,Microsoft,Microsoft
+yank,2,unamed,yank
+nosql-manager,2,Programming Languages,Programming Languages
+picasa,2,Programming Languages,Programming Languages
+apple-notes,2,unamed,apple-notes
+ergonomics,2,Programming Languages,Programming Languages
+angular-cli,2,Programming Languages,Programming Languages
+microsoft-office-2003,2,Microsoft,Microsoft
+office-deployment-tool,2,Programming Languages,Programming Languages
+phraseexpress,2,Programming Languages,Programming Languages
+ext3,2,unamed,ext3
+sdl,2,unamed,sdl
+mailx,2,unamed,mailx
+google-groups,2,Programming Languages,Programming Languages
+progress,2,Programming Languages,Programming Languages
+thermal-pads,2,Programming Languages,Programming Languages
+gpgpu,2,Computer Components,Computer Components
+libreoffice-base,2,Programming Languages,Programming Languages
+photoshop-cs5,2,Programming Languages,Programming Languages
+anti-spyware,2,Programming Languages,Programming Languages
+numa,2,unamed,numa
+supercomputer,2,Programming Languages,Programming Languages
+online-storage,2,Programming Languages,Programming Languages
+ntpdate,2,unamed,ntpdate
+classpath,2,Programming Languages,Programming Languages
+releases,2,Programming Languages,Programming Languages
+perfmon,2,Programming Languages,Programming Languages
+apacheds,2,Programming Languages,Programming Languages
+s3cmd,2,Programming Languages,Programming Languages
+visual-foxpro,2,Programming Languages,Programming Languages
+cpan,2,Programming Languages,Programming Languages
+microsoft-powerpoint-2010,2,Microsoft,Microsoft
+permalink,2,Programming Languages,Programming Languages
+polycom,2,Programming Languages,Programming Languages
+evil,2,unamed,evil
+status,2,unamed,status
+dvorak,2,Programming Languages,Programming Languages
+kinesis-advantage,2,unamed,kinesis-advantage
+zosmf,2,unamed,zosmf
+robots.txt,2,Programming Languages,Programming Languages
+autotools,2,unamed,autotools
+azcopy,2,Programming Languages,Programming Languages
+pdt,2,unamed,pdt
+smart-playlist,2,Programming Languages,Programming Languages
+aide,2,unamed,aide
+bamboo,2,unamed,bamboo
+oracle-11g,2,Programming Languages,Programming Languages
+google-talk,2,unamed,google-talk
+adium,2,unamed,adium
+home-theater,2,Programming Languages,Programming Languages
+sql-server-2008,2,Programming Languages,Programming Languages
+launchpad,1,Programming Languages,Programming Languages
+iwork-pages,1,Programming Languages,Programming Languages
+mdfind,1,unamed,mdfind
+e-texteditor,1,Programming Languages,Programming Languages
+slipstream,1,Programming Languages,Programming Languages
+balabolka,1,unamed,balabolka
+t-clock,1,Programming Languages,Programming Languages
+iphoto,1,Internet,Internet
+intel-core2,1,Programming Languages,Programming Languages
+mediamonkey,1,unamed,mediamonkey
+windows-live-messenger,1,Operating system,Operating system
+dcom,1,Programming Languages,Programming Languages
+off-screen,1,Programming Languages,Programming Languages
+ultraedit,1,Programming Languages,Programming Languages
+preview-pane,1,Programming Languages,Programming Languages
+automated-builds,1,unamed,automated-builds
+varnish,1,Programming Languages,Programming Languages
+cwrsync,1,Programming Languages,Programming Languages
+windows-experience-index,1,Operating system,Operating system
+bug.n,1,Problems,Problems
+smartnav,1,Programming Languages,Programming Languages
+i18n,1,unamed,i18n
+network-policy-server,1,Programming Languages,Programming Languages
+launcher,1,Programming Languages,Programming Languages
+avatar,1,Programming Languages,Programming Languages
+google-translate,1,Programming Languages,Programming Languages
+irc-bouncer,1,Programming Languages,Programming Languages
+zgrep,1,Programming Languages,Programming Languages
+perf,1,Programming Languages,Programming Languages
+jumper,1,Programming Languages,Programming Languages
+autoplay,1,unamed,autoplay
+geotagging,1,unamed,geotagging
+positional-parameter,1,Programming Languages,Programming Languages
+alternate-data-stream,1,Programming Languages,Programming Languages
+microsoft-powerpoint-2013,1,Microsoft,Microsoft
+fontforge,1,Programming Languages,Programming Languages
+m2ts,1,unamed,m2ts
+rxvt,1,Programming Languages,Programming Languages
+amazon-emr,1,Programming Languages,Programming Languages
+jfrog,1,Programming Languages,Programming Languages
+submodule,1,unamed,submodule
+wiimote,1,unamed,wiimote
+recycling,1,Programming Languages,Programming Languages
+direct-access,1,Programming Languages,Programming Languages
+wsl1,1,unamed,wsl1
+bochs,1,Programming Languages,Programming Languages
+heatmap,1,unamed,heatmap
+regression,1,Programming Languages,Programming Languages
+microsoft-office-2008,1,Microsoft,Microsoft
+currency-format,1,Programming Languages,Programming Languages
+redmine,1,Programming Languages,Programming Languages
+mkvtoolnix-gui,1,unamed,mkvtoolnix-gui
+mathtype,1,unamed,mathtype
+endnote,1,unamed,endnote
+word-processing,1,Programming Languages,Programming Languages
+custom-multilevel-lists,1,Programming Languages,Programming Languages
+thumbs.db,1,unamed,thumbs.db
+address-space-exhaustion,1,Programming Languages,Programming Languages
+search-folder,1,Programming Languages,Programming Languages
+out-of-office,1,Programming Languages,Programming Languages
+sidebar,1,Programming Languages,Programming Languages
+freebsd-ports,1,Programming Languages,Programming Languages
+cable-tester,1,Programming Languages,Programming Languages
+lazarus,1,Programming Languages,Programming Languages
+atapi,1,unamed,atapi
+desktop-management,1,unamed,desktop-management
+sua,1,unamed,sua
+anki,1,unamed,anki
+blackberry,1,Programming Languages,Programming Languages
+plantuml,1,Internet,Internet
+nushell,1,System,System
+windows-8-upgrade,1,Operating system,Operating system
+microsoft-onenote-2010,1,Microsoft,Microsoft
+nnoremap,1,Programming Languages,Programming Languages
+odt,1,unamed,odt
+melt,1,unamed,melt
+applet,1,unamed,applet
+braces,1,Programming Languages,Programming Languages
+fdupes,1,unamed,fdupes
+multiseat,1,unamed,multiseat
+openoffice-writer,1,Programming Languages,Programming Languages
+feed-reader,1,Programming Languages,Programming Languages
+sql-server-2016,1,Programming Languages,Programming Languages
+identity-management,1,unamed,identity-management
+handwriting-recognition,1,Programming Languages,Programming Languages
+low-profile,1,Programming Languages,Programming Languages
+sli,1,unamed,sli
+mercurial,1,Programming Languages,Programming Languages
+wannacrypt,1,Programming Languages,Programming Languages
+google-video,1,Computer Components,Computer Components
+trisquel,1,Programming Languages,Programming Languages
+shared-printer,1,Programming Languages,Programming Languages
+external-data,1,Programming Languages,Programming Languages
+google-sites,1,unamed,google-sites
+windows-easy-transfer,1,Operating system,Operating system
+notmuch,1,Programming Languages,Programming Languages
+openoffice-base,1,Programming Languages,Programming Languages
+adobe-creative-suite,1,Programming Languages,Programming Languages
+perlbrew,1,Programming Languages,Programming Languages
+mosh,1,unamed,mosh
+bin-cue-image,1,Programming Languages,Programming Languages
+deluge,1,unamed,deluge
+uml,1,unamed,uml
+microsoft-visio-2019,1,Microsoft,Microsoft
+hung,1,unamed,hung
+sysrq,1,Programming Languages,Programming Languages
+bbedit,1,unamed,bbedit
+photo-editing,1,unamed,photo-editing
+dash-shell,1,System,System
+lpt,1,unamed,lpt
+php5,1,Programming Languages,Programming Languages
+final-cut-pro,1,Programming Languages,Programming Languages
+heidisql,1,Programming Languages,Programming Languages
+soho,1,unamed,soho
+microsoft-access-2007,1,Microsoft,Microsoft
+sysbench,1,Programming Languages,Programming Languages
+yed,1,unamed,yed
+sql-server-2017,1,Programming Languages,Programming Languages
+sql-server-2012,1,Programming Languages,Programming Languages
+uget,1,unamed,uget
+microsoft-project-2013,1,Microsoft,Microsoft
+rollover,1,Programming Languages,Programming Languages
+charset,1,Programming Languages,Programming Languages
+vst,1,unamed,vst
+komodo,1,unamed,komodo
+perforce,1,Programming Languages,Programming Languages
+backup-exec,1,Programming Languages,Programming Languages
+mms,1,unamed,mms
+microsoft-powerpoint-2003,1,Microsoft,Microsoft
+microsoft-outlook-2003,1,Microsoft,Microsoft
+twisted-pair,1,Programming Languages,Programming Languages
+simulink,1,unamed,simulink
+google-earth,1,Programming Languages,Programming Languages
+cd-r,1,Programming Languages,Programming Languages
+mobi,1,unamed,mobi
+salesforce-chatter,1,Programming Languages,Programming Languages
+dbf,1,unamed,dbf
+edt,1,unamed,edt
+filemaker,1,Programming Languages,Programming Languages
+internet-radio,1,Programming Languages,Programming Languages
+liquidsoap,1,unamed,liquidsoap
