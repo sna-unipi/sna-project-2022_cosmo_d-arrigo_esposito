@@ -10,8 +10,8 @@ import pickle
 from statistics import mean, stdev
 import seaborn as sns
 
-path_img = "../DataSet SuperUsers/Graph_data/img_other_graph/"
-path_graph = "../DataSet SuperUsers/Graph_data/"
+path_img = "../DataSet FFF/Graph_data/img_other_graph/"
+path_graph = "../DataSet FFF/Graph_data/"
 
 def degree_dist(G, name, directory):
     hist = nx.degree_histogram(G)
