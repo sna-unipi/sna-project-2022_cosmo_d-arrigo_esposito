@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="landwirtschaft"/>
+<node id=" wasserdampf"/>
+<node id=" grüne"/>
+<node id="cducsu"/>
+<node id=" datteln4"/>
+<node id=" stopadani"/>
+<node id=" boycottsiemens"/>
+<node id="saarland"/>
+<node id=" berlin4future"/>
+<node id=" diegrünen"/>
+<node id="wahl"/>
+<node id="klimastreiks"/>
+<node id="klimastreik"/>
+<node id=" laueslüftchen"/>
+<node id=" klimaschutzplan"/>
+<node id=" klimahysterie"/>
+<node id=" atommüll"/>
+<node id="dortmund"/>
+<node id=" btw2021"/>
+<node id=" diellnke"/>
+<node id=" bringafriendfriday"/>
+<node id=" waermeinitiative"/>
+<node id=" bewegung"/>
+<node id=" elektroauto"/>
+<node id="kobe"/>
+<node id=" klimaziele"/>
+<node id=" kohlekompromiss"/>
+<node id="magdeburg"/>
+<node id="wissenschaft"/>
+<node id=" landwirtschaft"/>
+<node id=" vollgasindiekrise"/>
+<node id=" merkel"/>
+<node id=" dreads"/>
+<node id=" aufbruchsklima"/>
+<node id=" umweltschutz"/>
+<node id=" königsplatz"/>
+<node id="technikfeinden"/>
+<node id=" bz"/>
+<node id="wirtschaft"/>
+<node id=" neubauer"/>
+<node id=" energieunabhängigkeit"/>
+<node id="covid_19"/>
+<node id="nopegida"/>
+<node id=" polizei"/>
+<node id="frankfurt"/>
+<node id="giffey"/>
+<node id=" hass"/>
+<node id="bundesnotbremse"/>
+<node id=" querdenken"/>
+<node id="klimaaktivisten"/>
+<node id=" erneuerbaren"/>
+<node id="krefeld"/>
+<node id="gas"/>
+<node id="mahnwachelützerath"/>
+<node id=" münsterkannmehr"/>
+<node id=" tempolimit"/>
+<node id="welt"/>
+<node id=" sachsen"/>
+<node id=" streikenstattfeiern"/>
+<node id="sachsen"/>
+<node id=" duisburg"/>
+<node id="huber"/>
+<node id=" sharedichdrum"/>
+<node id="houseonfire"/>
+<node id=" python"/>
+<node id=" wirtschaft"/>
+<node id="garzweiler"/>
+<node id=" waldstattasphalt"/>
+<node id="hauptbahnhof"/>
+<node id=" klimabildung"/>
+<node id=" autofrei"/>
+<node id=" klimastreikwoche"/>
+<node id="zdf"/>
+<node id=" bewusstsein"/>
+<node id="manheim"/>
+<node id=" greta"/>
+<node id=" stromausfall"/>
+<node id="essen"/>
+<node id="satire"/>
+<node id=" arbeitsbedingungen"/>
+<node id=" un"/>
+<node id="greenpeace"/>
+<node id=" nicht_mein_endlager"/>
+<node id="leavenoonebehind"/>
+<node id=" öpnv"/>
+<node id=" siemens"/>
+<node id=" dannenroederforst"/>
+<node id=" peterwohlleben"/>
+<node id="refugees"/>
+<node id=" manheim"/>
+<node id="klimaunion"/>
+<node id=" steinmeier"/>
+<node id=" duh"/>
+<node id="keinea49"/>
+<node id=" zukunftneudenken"/>
+<node id="co2"/>
+<node id=" seuche"/>
+<node id=" netzstreikfuersklima"/>
+<node id=" by2020weriseup"/>
+<node id="klimaforscher"/>
+<node id=" klimajournalismus"/>
+<node id="klimawandels"/>
+<node id=" keinenmillimeternachrechts"/>
+<node id=" atomenergie"/>
+<node id=" politikern"/>
+<node id="spdbpt2019"/>
+<node id="geongineering"/>
+<node id=" umwelt"/>
+<node id="lanz"/>
+<node id=" akws"/>
+<node id="bverfg"/>
+<node id=" kommunalwahlen"/>
+<node id="öpnv"/>
+<node id=" spdvorsitz"/>
+<node id=" zwickau"/>
+<node id="mobilitätswende"/>
+<node id=" klimakatastrophe"/>
+<node id=" peaceandjustice"/>
+<node id="kohleausstieg"/>
+<node id="stopdatteln4"/>
+<node id=" lsa"/>
+<node id="b2210"/>
+<node id="schifffahrt"/>
+<node id="blackouts"/>
+<node id="restle"/>
+<node id=" klimapolitik"/>
+<node id="afd"/>
+<node id=" sanktpölten"/>
+<node id=" seebrücke"/>
+<node id=" cduunwaehlbar"/>
+<node id=" gruenermist"/>
+<node id="erneuerbare"/>
+<node id=" vielfalt"/>
+<node id=" alankurdî"/>
+<node id="münchen"/>
+<node id="klimaschutzgesetz"/>
+<node id=" solardeckel"/>
+<node id=" allefürsklima"/>
+<node id="meuthen"/>
+<node id="neustartklima"/>
+<node id="photovoltaik"/>
+<node id="energiearmut"/>
+<node id=" australien"/>
+<node id=" keingradweiter"/>
+<node id="gaskrise"/>
+<node id="unteilbar"/>
+<node id="sofamünster"/>
+<node id=" bayern"/>
+<node id="antifa"/>
+<node id="hamburgwaehltklima"/>
+<node id=" ceta"/>
+<node id=" nichtverhandelbar"/>
+<node id=" amk"/>
+<node id="klimapaket"/>
+<node id="klimanotfall"/>
+<node id=" laschetlügt"/>
+<node id="notmyklimapaket"/>
+<node id="klimagerechtigkeit"/>
+<node id=" diskriminierung"/>
+<node id=" neoliberalismus"/>
+<node id="solidarität"/>
+<node id=" wetter"/>
+<node id=" deutschlandabernormal"/>
+<node id="ökozial"/>
+<node id="laschet"/>
+<node id=" fffbleibtaktiv"/>
+<node id="publicclimateschool"/>
+<node id=" investitionen"/>
+<node id=" corona"/>
+<node id=" nichtmeinerbe"/>
+<node id=" klimaschutzmaßnahmen"/>
+<node id="dieerdebrennt"/>
+<node id="kohlekraftwerke"/>
+<node id="städtefürmenschen"/>
+<node id="rtl"/>
+<node id=" hilse"/>
+<node id=" atom"/>
+<node id="klimaprotest"/>
+<node id="witten"/>
+<node id="verkehrswende"/>
+<node id="nichtwienrw"/>
+<node id="gronau"/>
+<node id=" datteln"/>
+<node id=" kohlegesetz"/>
+<node id="illner"/>
+<node id="europa"/>
+<node id="nazis"/>
+<node id=" klimaneutralität"/>
+<node id=" k0301"/>
+<node id=" ernährungswende"/>
+<node id="wunderblokk"/>
+<node id=" liebig34"/>
+<node id="rotgrüne"/>
+<node id="granniesforfuture"/>
+<node id=" afdverbot"/>
+<node id=" bojanowski"/>
+<node id="erde"/>
+<node id="lehrermangel"/>
+<node id=" allegegenrwe"/>
+<node id=" flugscham"/>
+<node id="luft"/>
+<node id="muenchener"/>
+<node id=" fighteverycrisis"/>
+<node id=" demo"/>
+<node id=" brandenburg"/>
+<node id="annewill"/>
+<node id=" reformationsfeier"/>
+<node id="spd"/>
+<node id=" grenzschließungen"/>
+<node id=" bundesregierung"/>
+<node id=" solarenergie"/>
+<node id=" hhwahl"/>
+<node id=" changeforfuture"/>
+<node id="agrarwende"/>
+<node id="bildung"/>
+<node id=" makingparispossible"/>
+<node id=" funk"/>
+<node id="precht"/>
+<node id=" klimaabkommen"/>
+<node id=" regenerativeenergien"/>
+<node id=" allefür1komma5"/>
+<node id=" zhengzhou"/>
+<node id=" afd"/>
+<node id=" recycelbar"/>
+<node id="siemensfuelsfires"/>
+<node id="ggultras"/>
+<node id="klimasekte"/>
+<node id=" zerstörungdermarktwirtschaft"/>
+<node id=" fachkräftemangel"/>
+<node id="herauszumerstenmai"/>
+<node id="deutschlandausstieg"/>
+<node id=" gemeinsamsindwirstark"/>
+<node id="klimaschützer"/>
+<node id=" klimarettung"/>
+<node id=" neustartklima"/>
+<node id="demonstranten"/>
+<edge source="landwirtschaft" target=" klimaziele">
+  <data key="d0">1</data>
+</edge>
+<edge source=" wasserdampf" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source=" wasserdampf" target="luft">
+  <data key="d0">1</data>
+</edge>
+<edge source=" grüne" target="klimastreik">
+  <data key="d0">1</data>
+</edge>
+<edge source=" grüne" target="spd">
+  <data key="d0">4</data>
+</edge>
+<edge source=" grüne" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" grüne" target="antifa">
+  <data key="d0">1</data>
+</edge>
+<edge source=" grüne" target="lanz">
+  <data key="d0">1</data>
+</edge>
+<edge source="cducsu" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="cducsu" target="afd">
+  <data key="d0">2</data>
+</edge>
+<edge source=" datteln4" target="kohlekraftwerke">
+  <data key="d0">1</data>
+</edge>
+<edge source=" datteln4" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" datteln4" target="klimastreik">
+  <data key="d0">1</data>
+</edge>
+<edge source=" datteln4" target="laschet">
+  <data key="d0">1</data>
+</edge>
+<edge source=" stopadani" target="siemensfuelsfires">
+  <data key="d0">1</data>
+</edge>
+<edge source=" boycottsiemens" target="muenchener">
+  <data key="d0">1</data>
+</edge>
+<edge source="saarland" target=" neustartklima">
+  <data key="d0">1</data>
+</edge>
+<edge source=" berlin4future" target="unteilbar">
+  <data key="d0">1</data>
+</edge>
+<edge source=" diegrünen" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="wahl" target="laschet">
+  <data key="d0">1</data>
+</edge>
+<edge source="wahl" target=" btw2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreiks" target="klimastreik">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreiks" target=" akws">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" klimapolitik">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target=" keingradweiter">
+  <data key="d0">6</data>
+</edge>
+<edge source="klimastreik" target=" fighteverycrisis">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target=" klimahysterie">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target=" umwelt">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" brandenburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" greta">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" demo">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" laschetlügt">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" sachsen">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" wirtschaft">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" klimarettung">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" streikenstattfeiern">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" energieunabhängigkeit">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" peaceandjustice">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target=" ernährungswende">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" querdenken">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" bewusstsein">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" solarenergie">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" changeforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" königsplatz">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" münsterkannmehr">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" bewegung">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="afd">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target=" dreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" umweltschutz">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" atomenergie">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" bz">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" gemeinsamsindwirstark">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimastreik" target="geongineering">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="laschet">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="frankfurt">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" aufbruchsklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="welt">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" allefür1komma5">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="klimaprotest">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" wetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="giffey">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target="klimapaket">
+  <data key="d0">4</data>
+</edge>
+<edge source="klimastreik" target=" nichtmeinerbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastreik" target=" sharedichdrum">
+  <data key="d0">1</data>
+</edge>
+<edge source=" laueslüftchen" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimaschutzplan" target="klimawandels">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimahysterie" target="afd">
+  <data key="d0">2</data>
+</edge>
+<edge source=" klimahysterie" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source=" atommüll" target="gronau">
+  <data key="d0">1</data>
+</edge>
+<edge source=" atommüll" target="hauptbahnhof">
+  <data key="d0">1</data>
+</edge>
+<edge source="dortmund" target="antifa">
+  <data key="d0">1</data>
+</edge>
+<edge source="dortmund" target="witten">
+  <data key="d0">1</data>
+</edge>
+<edge source=" btw2021" target="laschet">
+  <data key="d0">1</data>
+</edge>
+<edge source=" diellnke" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" diellnke" target="klimasekte">
+  <data key="d0">1</data>
+</edge>
+<edge source=" bringafriendfriday" target="neustartklima">
+  <data key="d0">1</data>
+</edge>
+<edge source=" waermeinitiative" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source=" elektroauto" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source=" elektroauto" target="welt">
+  <data key="d0">1</data>
+</edge>
+<edge source="kobe" target="kohleausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source=" kohlekompromiss" target="sachsen">
+  <data key="d0">1</data>
+</edge>
+<edge source="magdeburg" target="lehrermangel">
+  <data key="d0">1</data>
+</edge>
+<edge source="wissenschaft" target="wissenschaft">
+  <data key="d0">1</data>
+</edge>
+<edge source=" landwirtschaft" target="klimagerechtigkeit">
+  <data key="d0">1</data>
+</edge>
+<edge source=" landwirtschaft" target="kohleausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source=" landwirtschaft" target="mobilitätswende">
+  <data key="d0">1</data>
+</edge>
+<edge source=" landwirtschaft" target="ökozial">
+  <data key="d0">1</data>
+</edge>
+<edge source=" vollgasindiekrise" target="gas">
+  <data key="d0">1</data>
+</edge>
+<edge source=" merkel" target="satire">
+  <data key="d0">1</data>
+</edge>
+<edge source=" merkel" target="klimasekte">
+  <data key="d0">1</data>
+</edge>
+<edge source="technikfeinden" target=" akws">
+  <data key="d0">1</data>
+</edge>
+<edge source="wirtschaft" target="illner">
+  <data key="d0">1</data>
+</edge>
+<edge source="wirtschaft" target=" investitionen">
+  <data key="d0">1</data>
+</edge>
+<edge source=" neubauer" target="klimaaktivisten">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target=" keingradweiter">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target=" greta">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target=" netzstreikfuersklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target=" fffbleibtaktiv">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target=" fachkräftemangel">
+  <data key="d0">1</data>
+</edge>
+<edge source="covid_19" target="stopdatteln4">
+  <data key="d0">1</data>
+</edge>
+<edge source="nopegida" target=" keinenmillimeternachrechts">
+  <data key="d0">1</data>
+</edge>
+<edge source=" polizei" target="münchen">
+  <data key="d0">1</data>
+</edge>
+<edge source="frankfurt" target=" seebrücke">
+  <data key="d0">1</data>
+</edge>
+<edge source=" hass" target="klimaunion">
+  <data key="d0">1</data>
+</edge>
+<edge source="bundesnotbremse" target="kohleausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source=" querdenken" target="b2210">
+  <data key="d0">1</data>
+</edge>
+<edge source=" erneuerbaren" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="krefeld" target=" duisburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="gas" target=" atomenergie">
+  <data key="d0">1</data>
+</edge>
+<edge source="gas" target=" atom">
+  <data key="d0">1</data>
+</edge>
+<edge source="mahnwachelützerath" target=" dannenroederforst">
+  <data key="d0">1</data>
+</edge>
+<edge source="mahnwachelützerath" target=" manheim">
+  <data key="d0">1</data>
+</edge>
+<edge source=" tempolimit" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="welt" target=" bojanowski">
+  <data key="d0">1</data>
+</edge>
+<edge source="welt" target="europa">
+  <data key="d0">1</data>
+</edge>
+<edge source="welt" target=" reformationsfeier">
+  <data key="d0">1</data>
+</edge>
+<edge source="huber" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="houseonfire" target="dieerdebrennt">
+  <data key="d0">1</data>
+</edge>
+<edge source=" python" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="garzweiler" target=" allegegenrwe">
+  <data key="d0">1</data>
+</edge>
+<edge source="garzweiler" target=" datteln">
+  <data key="d0">1</data>
+</edge>
+<edge source="garzweiler" target="essen">
+  <data key="d0">1</data>
+</edge>
+<edge source=" waldstattasphalt" target="verkehrswende">
+  <data key="d0">1</data>
+</edge>
+<edge source=" waldstattasphalt" target="kohleausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source=" waldstattasphalt" target="solidarität">
+  <data key="d0">1</data>
+</edge>
+<edge source=" waldstattasphalt" target="keinea49">
+  <data key="d0">3</data>
+</edge>
+<edge source="hauptbahnhof" target=" nicht_mein_endlager">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimabildung" target="publicclimateschool">
+  <data key="d0">1</data>
+</edge>
+<edge source=" autofrei" target="verkehrswende">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimastreikwoche" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimastreikwoche" target="publicclimateschool">
+  <data key="d0">1</data>
+</edge>
+<edge source="zdf" target=" un">
+  <data key="d0">1</data>
+</edge>
+<edge source="manheim" target=" dannenroederforst">
+  <data key="d0">1</data>
+</edge>
+<edge source=" greta" target="illner">
+  <data key="d0">1</data>
+</edge>
+<edge source=" greta" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" stromausfall" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" stromausfall" target="klimasekte">
+  <data key="d0">1</data>
+</edge>
+<edge source="essen" target=" datteln">
+  <data key="d0">1</data>
+</edge>
+<edge source="satire" target=" corona">
+  <data key="d0">1</data>
+</edge>
+<edge source=" arbeitsbedingungen" target="verkehrswende">
+  <data key="d0">1</data>
+</edge>
+<edge source=" arbeitsbedingungen" target="öpnv">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenpeace" target=" by2020weriseup">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenpeace" target=" siemens">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenpeace" target=" duh">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenpeace" target=" peterwohlleben">
+  <data key="d0">1</data>
+</edge>
+<edge source=" nicht_mein_endlager" target="gronau">
+  <data key="d0">1</data>
+</edge>
+<edge source=" nicht_mein_endlager" target="sofamünster">
+  <data key="d0">1</data>
+</edge>
+<edge source="leavenoonebehind" target=" alankurdî">
+  <data key="d0">1</data>
+</edge>
+<edge source=" öpnv" target="verkehrswende">
+  <data key="d0">2</data>
+</edge>
+<edge source=" dannenroederforst" target="keinea49">
+  <data key="d0">1</data>
+</edge>
+<edge source="refugees" target=" fachkräftemangel">
+  <data key="d0">1</data>
+</edge>
+<edge source=" steinmeier" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source=" zukunftneudenken" target="bildung">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" afd">
+  <data key="d0">2</data>
+</edge>
+<edge source="co2" target=" bundesregierung">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" by2020weriseup">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" klimaneutralität">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" seuche">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" investitionen">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="klimaforscher">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" politikern">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" klimaabkommen">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" klimaschutzmaßnahmen">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" makingparispossible">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target=" reformationsfeier">
+  <data key="d0">1</data>
+</edge>
+<edge source=" seuche" target="precht">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimajournalismus" target="laschet">
+  <data key="d0">1</data>
+</edge>
+<edge source=" keinenmillimeternachrechts" target="ggultras">
+  <data key="d0">1</data>
+</edge>
+<edge source="spdbpt2019" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source=" umwelt" target="klimaschützer">
+  <data key="d0">1</data>
+</edge>
+<edge source=" umwelt" target="schifffahrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="lanz" target=" zhengzhou">
+  <data key="d0">1</data>
+</edge>
+<edge source="lanz" target=" bojanowski">
+  <data key="d0">1</data>
+</edge>
+<edge source="bverfg" target=" bundesregierung">
+  <data key="d0">1</data>
+</edge>
+<edge source=" kommunalwahlen" target="verkehrswende">
+  <data key="d0">1</data>
+</edge>
+<edge source=" spdvorsitz" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" spdvorsitz" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source=" zwickau" target="nazis">
+  <data key="d0">1</data>
+</edge>
+<edge source=" klimakatastrophe" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" klimapolitik">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" keingradweiter">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" bundesregierung">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" kohlegesetz">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target="kohlekraftwerke">
+  <data key="d0">2</data>
+</edge>
+<edge source="kohleausstieg" target="photovoltaik">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target="klimaschutzgesetz">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" gruenermist">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" ceta">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohleausstieg" target=" solardeckel">
+  <data key="d0">1</data>
+</edge>
+<edge source=" lsa" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="blackouts" target="gaskrise">
+  <data key="d0">1</data>
+</edge>
+<edge source="restle" target=" funk">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" corona">
+  <data key="d0">2</data>
+</edge>
+<edge source="afd" target="klimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="illner">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="antifa">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" gemeinsamsindwirstark">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" deutschlandabernormal">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" cduunwaehlbar">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="bildung">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="meuthen">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target="klimanotfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" afdverbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" grenzschließungen">
+  <data key="d0">1</data>
+</edge>
+<edge source="afd" target=" hilse">
+  <data key="d0">1</data>
+</edge>
+<edge source=" sanktpölten" target="solidarität">
+  <data key="d0">1</data>
+</edge>
+<edge source=" gruenermist" target="deutschlandausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source="erneuerbare" target=" neustartklima">
+  <data key="d0">1</data>
+</edge>
+<edge source=" vielfalt" target="unteilbar">
+  <data key="d0">1</data>
+</edge>
+<edge source=" vielfalt" target="solidarität">
+  <data key="d0">1</data>
+</edge>
+<edge source="münchen" target=" allefürsklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="münchen" target=" bayern">
+  <data key="d0">1</data>
+</edge>
+<edge source="münchen" target="notmyklimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaschutzgesetz" target=" bundesregierung">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaschutzgesetz" target=" neustartklima">
+  <data key="d0">1</data>
+</edge>
+<edge source=" solardeckel" target="photovoltaik">
+  <data key="d0">1</data>
+</edge>
+<edge source=" allefürsklima" target="klimagerechtigkeit">
+  <data key="d0">2</data>
+</edge>
+<edge source=" allefürsklima" target="witten">
+  <data key="d0">1</data>
+</edge>
+<edge source="neustartklima" target=" flugscham">
+  <data key="d0">1</data>
+</edge>
+<edge source="neustartklima" target="notmyklimapaket">
+  <data key="d0">4</data>
+</edge>
+<edge source="neustartklima" target="wunderblokk">
+  <data key="d0">1</data>
+</edge>
+<edge source="energiearmut" target=" nichtverhandelbar">
+  <data key="d0">1</data>
+</edge>
+<edge source=" australien" target="rotgrüne">
+  <data key="d0">1</data>
+</edge>
+<edge source="antifa" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="antifa" target="klimagerechtigkeit">
+  <data key="d0">1</data>
+</edge>
+<edge source="hamburgwaehltklima" target=" hhwahl">
+  <data key="d0">1</data>
+</edge>
+<edge source=" amk" target="agrarwende">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimapaket" target=" neustartklima">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimapaket" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimapaket" target="notmyklimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimagerechtigkeit" target=" neustartklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimagerechtigkeit" target=" diskriminierung">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimagerechtigkeit" target=" zerstörungdermarktwirtschaft">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimagerechtigkeit" target=" neoliberalismus">
+  <data key="d0">1</data>
+</edge>
+<edge source="laschet" target="rtl">
+  <data key="d0">1</data>
+</edge>
+<edge source="laschet" target="annewill">
+  <data key="d0">1</data>
+</edge>
+<edge source=" fffbleibtaktiv" target="herauszumerstenmai">
+  <data key="d0">1</data>
+</edge>
+<edge source="publicclimateschool" target=" afd">
+  <data key="d0">1</data>
+</edge>
+<edge source="städtefürmenschen" target="verkehrswende">
+  <data key="d0">1</data>
+</edge>
+<edge source="nichtwienrw" target="spd">
+  <data key="d0">1</data>
+</edge>
+<edge source="illner" target=" afd">
+  <data key="d0">1</data>
+</edge>
+<edge source=" k0301" target="granniesforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source=" liebig34" target="demonstranten">
+  <data key="d0">1</data>
+</edge>
+<edge source="erde" target=" recycelbar">
+  <data key="d0">1</data>
+</edge>
+<edge source="erde" target=" regenerativeenergien">
+  <data key="d0">1</data>
+</edge>
+<edge source="spd" target=" gemeinsamsindwirstark">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>
