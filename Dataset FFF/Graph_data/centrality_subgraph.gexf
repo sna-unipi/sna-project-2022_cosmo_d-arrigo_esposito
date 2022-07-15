@@ -1,538 +1,943 @@
 <?xml version='1.0' encoding='utf-8'?>
-<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
   <meta lastmodifieddate="2022-07-15">
-    <creator>NetworkX 2.5</creator>
+    <creator>NetworkX 2.6.3</creator>
   </meta>
   <graph defaultedgetype="undirected" mode="static" name="">
-    <attributes mode="static" class="edge">
+    <attributes class="edge" mode="static">
       <attribute id="0" title="Count" type="long" />
     </attributes>
     <nodes>
-      <node id="climateaction" label="climateaction" />
-      <node id="fridayforfuture" label="fridayforfuture" />
-      <node id="klimakrise" label="klimakrise" />
-      <node id="fff" label="fff" />
-      <node id="climatestrike" label="climatestrike" />
-      <node id="climatejustice" label="climatejustice" />
-      <node id="climatestrikeonline" label="climatestrikeonline" />
-      <node id="climatecrisis" label="climatecrisis" />
       <node id="climateemergency" label="climateemergency" />
-      <node id="climatechange" label="climatechange" />
-      <node id="fridaysforfuture" label="fridaysforfuture" />
-      <node id="schoolstrike4climate" label="schoolstrike4climate" />
       <node id="klimaschutz" label="klimaschutz" />
-      <node id="gretathunberg" label="gretathunberg" />
-      <node id="fridayfeeling" label="fridayfeeling" />
-      <node id="climateactionnow" label="climateactionnow" />
-      <node id="fridaymotivation" label="fridaymotivation" />
       <node id="klimastreik" label="klimastreik" />
-      <node id="climate" label="climate" />
+      <node id="climatecrisis" label="climatecrisis" />
       <node id="klimawandel" label="klimawandel" />
+      <node id="gretathunberg" label="gretathunberg" />
+      <node id="climate" label="climate" />
+      <node id="climatejustice" label="climatejustice" />
+      <node id="fridayforfuture" label="fridayforfuture" />
+      <node id="schoolstrike4climate" label="schoolstrike4climate" />
+      <node id="climatestrikeonline" label="climatestrikeonline" />
+      <node id="extinctionrebellion" label="extinctionrebellion" />
+      <node id="climatechange" label="climatechange" />
+      <node id="fff" label="fff" />
+      <node id="klimakrise" label="klimakrise" />
+      <node id="fridaysforfuture" label="fridaysforfuture" />
+      <node id="climatestrike" label="climatestrike" />
+      <node id="climateaction" label="climateaction" />
+      <node id="fridaymotivation" label="fridaymotivation" />
+      <node id="climateactionnow" label="climateactionnow" />
     </nodes>
     <edges>
-      <edge source="climateaction" target="fridaysforfuture" id="0">
+      <edge id="0" source="climateemergency" target="climateaction">
         <attvalues>
-          <attvalue for="0" value="71" />
+          <attvalue for="0" value="296" />
         </attvalues>
       </edge>
-      <edge source="climateaction" target="climatecrisis" id="1">
+      <edge id="1" source="climateemergency" target="climatecrisis">
         <attvalues>
-          <attvalue for="0" value="29" />
+          <attvalue for="0" value="287" />
         </attvalues>
       </edge>
-      <edge source="climateaction" target="climatestrike" id="2">
+      <edge id="2" source="climateemergency" target="fridaysforfuture">
         <attvalues>
-          <attvalue for="0" value="120" />
+          <attvalue for="0" value="976" />
         </attvalues>
       </edge>
-      <edge source="climateaction" target="climatestrikeonline" id="3">
+      <edge id="3" source="climateemergency" target="climatestrike">
         <attvalues>
-          <attvalue for="0" value="99" />
+          <attvalue for="0" value="349" />
         </attvalues>
       </edge>
-      <edge source="climateaction" target="schoolstrike4climate" id="4">
-        <attvalues>
-          <attvalue for="0" value="5" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climatechange" id="5">
-        <attvalues>
-          <attvalue for="0" value="18" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climatejustice" id="6">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climateactionnow" id="7">
-        <attvalues>
-          <attvalue for="0" value="8" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climateaction" id="8">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="gretathunberg" id="9">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="fridayforfuture" id="10">
-        <attvalues>
-          <attvalue for="0" value="4" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climateemergency" id="11">
-        <attvalues>
-          <attvalue for="0" value="11" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="climate" id="12">
-        <attvalues>
-          <attvalue for="0" value="5" />
-        </attvalues>
-      </edge>
-      <edge source="climateaction" target="klimaschutz" id="13">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="climatestrike" id="14">
-        <attvalues>
-          <attvalue for="0" value="11" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="climatestrikeonline" id="15">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="climateactionnow" id="16">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="climateemergency" id="17">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="klimaschutz" id="18">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="fff" id="19">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fridayforfuture" target="klimastreik" id="20">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="klimakrise" target="klimawandel" id="21">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="klimakrise" target="gretathunberg" id="22">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="klimakrise" target="klimastreik" id="23">
-        <attvalues>
-          <attvalue for="0" value="7" />
-        </attvalues>
-      </edge>
-      <edge source="klimakrise" target="klimaschutz" id="24">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="fridaysforfuture" id="25">
-        <attvalues>
-          <attvalue for="0" value="24" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="klimawandel" id="26">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="gretathunberg" id="27">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="climateemergency" id="28">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="climate" id="29">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="klimastreik" id="30">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="fff" target="klimaschutz" id="31">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="fridaysforfuture" id="32">
-        <attvalues>
-          <attvalue for="0" value="634" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="climatecrisis" id="33">
-        <attvalues>
-          <attvalue for="0" value="81" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="climatestrike" id="34">
-        <attvalues>
-          <attvalue for="0" value="20" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="climatestrikeonline" id="35">
-        <attvalues>
-          <attvalue for="0" value="31" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="schoolstrike4climate" id="36">
-        <attvalues>
-          <attvalue for="0" value="49" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="climatechange" id="37">
-        <attvalues>
-          <attvalue for="0" value="28" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrike" target="climatejustice" id="38">
+      <edge id="4" source="climateemergency" target="climate">
         <attvalues>
           <attvalue for="0" value="53" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="climateactionnow" id="39">
+      <edge id="5" source="climateemergency" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="32" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="climateemergency" target="klimakrise">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="klimawandel" id="40">
+      <edge id="7" source="climateemergency" target="climateactionnow">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="119" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="gretathunberg" id="41">
+      <edge id="8" source="climateemergency" target="climatejustice">
         <attvalues>
-          <attvalue for="0" value="8" />
+          <attvalue for="0" value="76" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="climateemergency" id="42">
+      <edge id="9" source="climateemergency" target="climatestrikeonline">
         <attvalues>
-          <attvalue for="0" value="62" />
+          <attvalue for="0" value="173" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="climate" id="43">
+      <edge id="10" source="climateemergency" target="schoolstrike4climate">
         <attvalues>
-          <attvalue for="0" value="26" />
+          <attvalue for="0" value="51" />
         </attvalues>
       </edge>
-      <edge source="climatestrike" target="klimastreik" id="44">
-        <attvalues>
-          <attvalue for="0" value="11" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="fridaysforfuture" id="45">
-        <attvalues>
-          <attvalue for="0" value="34" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climatecrisis" id="46">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climatestrikeonline" id="47">
-        <attvalues>
-          <attvalue for="0" value="20" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="schoolstrike4climate" id="48">
-        <attvalues>
-          <attvalue for="0" value="19" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climatechange" id="49">
-        <attvalues>
-          <attvalue for="0" value="6" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climateemergency" id="50">
-        <attvalues>
-          <attvalue for="0" value="6" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climateactionnow" id="51">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="climate" id="52">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climatejustice" target="klimastreik" id="53">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrikeonline" target="fridaysforfuture" id="54">
-        <attvalues>
-          <attvalue for="0" value="308" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrikeonline" target="climatecrisis" id="55">
-        <attvalues>
-          <attvalue for="0" value="23" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrikeonline" target="climateemergency" id="56">
-        <attvalues>
-          <attvalue for="0" value="2" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrikeonline" target="gretathunberg" id="57">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="climatestrikeonline" target="klimaschutz" id="58">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climatecrisis" target="schoolstrike4climate" id="59">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </edge>
-      <edge source="climatecrisis" target="climatechange" id="60">
-        <attvalues>
-          <attvalue for="0" value="29" />
-        </attvalues>
-      </edge>
-      <edge source="climatecrisis" target="climateactionnow" id="61">
+      <edge id="11" source="climateemergency" target="fff">
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </edge>
-      <edge source="climatecrisis" target="gretathunberg" id="62">
+      <edge id="12" source="climateemergency" target="climatechange">
         <attvalues>
-          <attvalue for="0" value="9" />
+          <attvalue for="0" value="134" />
         </attvalues>
       </edge>
-      <edge source="climatecrisis" target="climateemergency" id="63">
+      <edge id="13" source="climateemergency" target="klimaschutz">
         <attvalues>
-          <attvalue for="0" value="15" />
+          <attvalue for="0" value="6" />
         </attvalues>
       </edge>
-      <edge source="climatecrisis" target="climate" id="64">
+      <edge id="14" source="climateemergency" target="klimawandel">
         <attvalues>
-          <attvalue for="0" value="8" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="fridaysforfuture" id="65">
+      <edge id="15" source="climateemergency" target="extinctionrebellion">
         <attvalues>
-          <attvalue for="0" value="48" />
+          <attvalue for="0" value="51" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="schoolstrike4climate" id="66">
+      <edge id="16" source="climateemergency" target="gretathunberg">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="40" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="climatechange" id="67">
+      <edge id="17" source="climateemergency" target="fridaymotivation">
         <attvalues>
-          <attvalue for="0" value="11" />
+          <attvalue for="0" value="3" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="climateactionnow" id="68">
+      <edge id="18" source="climateemergency" target="klimastreik">
         <attvalues>
-          <attvalue for="0" value="5" />
+          <attvalue for="0" value="6" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="gretathunberg" id="69">
+      <edge id="19" source="klimaschutz" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="klimaschutz" target="climatecrisis">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="klimaschutz" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="420" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="klimaschutz" target="climatestrike">
         <attvalues>
           <attvalue for="0" value="12" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="climate" id="70">
+      <edge id="23" source="klimaschutz" target="climate">
         <attvalues>
-          <attvalue for="0" value="9" />
+          <attvalue for="0" value="2" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="climateemergency" id="71">
+      <edge id="24" source="klimaschutz" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="klimaschutz" target="climatejustice">
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </edge>
-      <edge source="climateemergency" target="klimastreik" id="72">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climateemergency" target="klimaschutz" id="73">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="climatechange" target="fridaysforfuture" id="74">
-        <attvalues>
-          <attvalue for="0" value="63" />
-        </attvalues>
-      </edge>
-      <edge source="climatechange" target="climate" id="75">
+      <edge id="26" source="klimaschutz" target="climatestrikeonline">
         <attvalues>
           <attvalue for="0" value="5" />
         </attvalues>
       </edge>
-      <edge source="climatechange" target="climateactionnow" id="76">
+      <edge id="27" source="klimaschutz" target="climatechange">
         <attvalues>
-          <attvalue for="0" value="3" />
+          <attvalue for="0" value="5" />
         </attvalues>
       </edge>
-      <edge source="climatechange" target="klimastreik" id="77">
+      <edge id="28" source="klimaschutz" target="gretathunberg">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="8" />
         </attvalues>
       </edge>
-      <edge source="fridaysforfuture" target="schoolstrike4climate" id="78">
-        <attvalues>
-          <attvalue for="0" value="110" />
-        </attvalues>
-      </edge>
-      <edge source="fridaysforfuture" target="climateactionnow" id="79">
-        <attvalues>
-          <attvalue for="0" value="20" />
-        </attvalues>
-      </edge>
-      <edge source="fridaysforfuture" target="fridayfeeling" id="80">
+      <edge id="29" source="klimaschutz" target="fridayforfuture">
         <attvalues>
           <attvalue for="0" value="17" />
         </attvalues>
       </edge>
-      <edge source="fridaysforfuture" target="klimawandel" id="81">
+      <edge id="30" source="klimaschutz" target="extinctionrebellion">
         <attvalues>
-          <attvalue for="0" value="21" />
+          <attvalue for="0" value="16" />
         </attvalues>
       </edge>
-      <edge source="fridaysforfuture" target="gretathunberg" id="82">
+      <edge id="31" source="klimaschutz" target="klimakrise">
         <attvalues>
-          <attvalue for="0" value="73" />
+          <attvalue for="0" value="79" />
         </attvalues>
       </edge>
-      <edge source="fridaysforfuture" target="fridaymotivation" id="83">
+      <edge id="32" source="klimaschutz" target="klimastreik">
+        <attvalues>
+          <attvalue for="0" value="74" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="klimaschutz" target="klimawandel">
+        <attvalues>
+          <attvalue for="0" value="46" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="klimaschutz" target="fff">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="klimastreik" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="klimastreik" target="climatecrisis">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="klimastreik" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="634" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="klimastreik" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="79" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="klimastreik" target="climate">
         <attvalues>
           <attvalue for="0" value="11" />
         </attvalues>
       </edge>
-      <edge source="fridaysforfuture" target="climate" id="84">
-        <attvalues>
-          <attvalue for="0" value="17" />
-        </attvalues>
-      </edge>
-      <edge source="fridaysforfuture" target="klimastreik" id="85">
-        <attvalues>
-          <attvalue for="0" value="84" />
-        </attvalues>
-      </edge>
-      <edge source="fridaysforfuture" target="klimaschutz" id="86">
-        <attvalues>
-          <attvalue for="0" value="53" />
-        </attvalues>
-      </edge>
-      <edge source="schoolstrike4climate" target="climate" id="87">
-        <attvalues>
-          <attvalue for="0" value="3" />
-        </attvalues>
-      </edge>
-      <edge source="schoolstrike4climate" target="klimastreik" id="88">
+      <edge id="40" source="klimastreik" target="climateactionnow">
         <attvalues>
           <attvalue for="0" value="1" />
         </attvalues>
       </edge>
-      <edge source="klimaschutz" target="climateactionnow" id="89">
+      <edge id="41" source="klimastreik" target="climatejustice">
         <attvalues>
-          <attvalue for="0" value="3" />
+          <attvalue for="0" value="15" />
         </attvalues>
       </edge>
-      <edge source="klimaschutz" target="klimawandel" id="90">
+      <edge id="42" source="klimastreik" target="climatestrikeonline">
         <attvalues>
           <attvalue for="0" value="7" />
         </attvalues>
       </edge>
-      <edge source="klimaschutz" target="gretathunberg" id="91">
-        <attvalues>
-          <attvalue for="0" value="1" />
-        </attvalues>
-      </edge>
-      <edge source="klimaschutz" target="klimastreik" id="92">
-        <attvalues>
-          <attvalue for="0" value="9" />
-        </attvalues>
-      </edge>
-      <edge source="klimaschutz" target="klimaschutz" id="93">
+      <edge id="43" source="klimastreik" target="schoolstrike4climate">
         <attvalues>
           <attvalue for="0" value="3" />
         </attvalues>
       </edge>
-      <edge source="gretathunberg" target="klimawandel" id="94">
+      <edge id="44" source="klimastreik" target="climatechange">
         <attvalues>
-          <attvalue for="0" value="3" />
+          <attvalue for="0" value="6" />
         </attvalues>
       </edge>
-      <edge source="gretathunberg" target="climate" id="95">
+      <edge id="45" source="klimastreik" target="gretathunberg">
         <attvalues>
-          <attvalue for="0" value="2" />
+          <attvalue for="0" value="7" />
         </attvalues>
       </edge>
-      <edge source="fridayfeeling" target="fridaymotivation" id="96">
+      <edge id="46" source="klimastreik" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="klimastreik" target="extinctionrebellion">
         <attvalues>
           <attvalue for="0" value="4" />
         </attvalues>
       </edge>
-      <edge source="klimastreik" target="klimawandel" id="97">
+      <edge id="48" source="klimastreik" target="klimakrise">
         <attvalues>
-          <attvalue for="0" value="3" />
+          <attvalue for="0" value="57" />
         </attvalues>
       </edge>
-      <edge source="klimastreik" target="climate" id="98">
+      <edge id="49" source="klimastreik" target="fff">
         <attvalues>
-          <attvalue for="0" value="1" />
+          <attvalue for="0" value="33" />
         </attvalues>
       </edge>
-      <edge source="climate" target="climate" id="99">
+      <edge id="50" source="klimastreik" target="klimawandel">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="climatecrisis" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="396" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="climatecrisis" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="1145" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="climatecrisis" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="climatecrisis" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="climatecrisis" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="410" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="climatecrisis" target="climate">
+        <attvalues>
+          <attvalue for="0" value="96" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="climatecrisis" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="120" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="climatecrisis" target="climatejustice">
+        <attvalues>
+          <attvalue for="0" value="94" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="climatecrisis" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="146" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="climatecrisis" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="105" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="climatecrisis" target="fff">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="climatecrisis" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="203" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="climatecrisis" target="klimawandel">
         <attvalues>
           <attvalue for="0" value="2" />
         </attvalues>
       </edge>
-      <edge source="klimawandel" target="klimawandel" id="100">
+      <edge id="64" source="climatecrisis" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="81" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="climatecrisis" target="gretathunberg">
+        <attvalues>
+          <attvalue for="0" value="33" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="climatecrisis" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="klimawandel" target="climateaction">
         <attvalues>
           <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="klimawandel" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="258" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="klimawandel" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="klimawandel" target="climate">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="klimawandel" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="klimawandel" target="climatejustice">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="klimawandel" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="klimawandel" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="klimawandel" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="klimawandel" target="gretathunberg">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="klimawandel" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="klimawandel" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="klimawandel" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="klimawandel" target="fff">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="gretathunberg" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="gretathunberg" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="433" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="gretathunberg" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="gretathunberg" target="climate">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="gretathunberg" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="gretathunberg" target="climatejustice">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="gretathunberg" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="gretathunberg" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="gretathunberg" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="gretathunberg" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="gretathunberg" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="gretathunberg" target="fff">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="gretathunberg" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="gretathunberg" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="climate" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="132" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="climate" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="318" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="climate" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="112" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="climate" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="climate" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="climate" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="climate" target="climatejustice">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="climate" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="climate" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="climate" target="fff">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="climate" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="climate" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="climate" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="climatejustice" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="115" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="climatejustice" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="498" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="climatejustice" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="194" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="climatejustice" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="climatejustice" target="fridayforfuture">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="climatejustice" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="climatejustice" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="99" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="climatejustice" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="climatejustice" target="fff">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="climatejustice" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="climatejustice" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="climatejustice" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="fridayforfuture" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="fridayforfuture" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="fridayforfuture" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="185" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="fridayforfuture" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="fridayforfuture" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="fridayforfuture" target="schoolstrike4climate">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="fridayforfuture" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="fridayforfuture" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="fridayforfuture" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="fridayforfuture" target="fff">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="fridayforfuture" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="schoolstrike4climate" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="99" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="schoolstrike4climate" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="1051" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="schoolstrike4climate" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="519" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="schoolstrike4climate" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="schoolstrike4climate" target="climatestrikeonline">
+        <attvalues>
+          <attvalue for="0" value="248" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="schoolstrike4climate" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="schoolstrike4climate" target="fff">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="schoolstrike4climate" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="schoolstrike4climate" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="schoolstrike4climate" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="climatestrikeonline" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="242" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="climatestrikeonline" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="1279" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="climatestrikeonline" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="277" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="climatestrikeonline" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="108" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="climatestrikeonline" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="climatestrikeonline" target="fff">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="climatestrikeonline" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="65" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="climatestrikeonline" target="extinctionrebellion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="extinctionrebellion" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="103" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="extinctionrebellion" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="374" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="extinctionrebellion" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="70" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="extinctionrebellion" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="extinctionrebellion" target="climatechange">
+        <attvalues>
+          <attvalue for="0" value="43" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="extinctionrebellion" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="extinctionrebellion" target="fff">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="climatechange" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="202" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="climatechange" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="734" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="climatechange" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="323" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="climatechange" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="climatechange" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="climatechange" target="fff">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="climatechange" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="fff" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="fff" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="373" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="fff" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="fff" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="fff" target="klimakrise">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="klimakrise" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="klimakrise" target="fridaysforfuture">
+        <attvalues>
+          <attvalue for="0" value="429" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="klimakrise" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="klimakrise" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="fridaysforfuture" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="1394" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="fridaysforfuture" target="climatestrike">
+        <attvalues>
+          <attvalue for="0" value="3641" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="fridaysforfuture" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="538" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="fridaysforfuture" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="146" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="climatestrike" target="climateaction">
+        <attvalues>
+          <attvalue for="0" value="521" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="climatestrike" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="202" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="climatestrike" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="climateaction" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="73" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="climateaction" target="fridaymotivation">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="fridaymotivation" target="climateactionnow">
+        <attvalues>
+          <attvalue for="0" value="2" />
         </attvalues>
       </edge>
     </edges>
