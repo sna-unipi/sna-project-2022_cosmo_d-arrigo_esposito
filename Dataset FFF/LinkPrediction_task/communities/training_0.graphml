@@ -1,1710 +1,2325 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
-<graph edgedefault="undirected"><node id="letterstotheearth"/>
-<node id="esahora"/>
-<node id="hedef1bucuk"/>
-<node id="grandparentsforfuture"/>
-<node id="futures"/>
-<node id="jee_neetcanwait"/>
-<node id="climteemergency"/>
-<node id="プラスチック"/>
-<node id="generationrestoration"/>
-<node id="perjantaitgretankanssa"/>
-<node id="votethiscapdown"/>
-<node id="keepthecoalinthehole"/>
-<node id="seattle"/>
-<node id="onlineclimatestrike"/>
-<node id="youthclimatestrike"/>
-<node id="animalliberation"/>
-<node id="cop"/>
-<node id="스트레이키즈"/>
-<node id="justiciaporelclima"/>
-<node id="batman"/>
-<node id="ecologicalcrisis"/>
-<node id="totalagm"/>
-<node id="biodiversité"/>
-<node id="victoriabc"/>
-<node id="stayhome"/>
-<node id="enoughisenough"/>
-<node id="worldoceansday"/>
-<node id="govegan"/>
-<node id="strikingfriday"/>
-<node id="ratifyparis"/>
-<node id="tibetclimatecrisis"/>
-<node id="globaldayofaction"/>
-<node id="justtransition"/>
-<node id="climatepeace"/>
-<node id="bagneux2020"/>
-<node id="makeecocideacrime"/>
-<node id="waadotworld"/>
-<node id="stopeacop"/>
-<node id="fridaysforfurture"/>
-<node id="everytreeisawin"/>
-<node id="unea5"/>
-<node id="ilmastovaalit"/>
-<node id="mapa"/>
-<node id="strongertogether"/>
-<node id="i̇klimacil"/>
-<node id="forpeopleforplanet"/>
-<node id="leadonclimate"/>
-<node id="карпати"/>
-<node id="week17"/>
-<node id="thereisnoplanetb"/>
-<node id="euusominhavozpeloclima"/>
-<node id="cop26"/>
-<node id="cop25madrid2019"/>
-<node id="climatedefenders"/>
-<node id="ckimatechange"/>
-<node id="reyesmagos"/>
-<node id="schoolstrike2021"/>
-<node id="worldclimateactivist"/>
-<node id="restoreourearth"/>
-<node id="politicsforfuture"/>
-<node id="bushfirerebellion"/>
-<node id="environmentalprotection"/>
-<node id="シューズアクション"/>
-<node id="urgency"/>
-<node id="worldenvironmentday"/>
-<node id="bsb"/>
-<node id="marcheclimat"/>
-<node id="faceforclimate"/>
-<node id="timetogrowup"/>
-<node id="tee"/>
-<node id="andrapradesh"/>
-<node id="fff_egypt"/>
-<node id="salud"/>
-<node id="withdrawthecap"/>
-<node id="save_tree"/>
-<node id="digitalstrikeoxford"/>
-<node id="manifencours"/>
-<node id="ebikes"/>
-<node id="changementclimatique"/>
-<node id="facetheclimateemergency"/>
-<node id="worldpeace"/>
-<node id="patrioxy"/>
-<node id="cambioclimatico"/>
-<node id="actforchange"/>
-<node id="savebuxwahasavelife"/>
-<node id="climatemobilization"/>
-<node id="criseclimática"/>
-<node id="parisionayla"/>
-<node id="gta"/>
-<node id="intergenerational"/>
-<node id="climatered"/>
-<node id="indigenousday"/>
-<node id="giustiziaclimatica"/>
-<node id="wewanttolive"/>
-<node id="climateaction"/>
-<node id="transiciónenergeticajusta"/>
-<node id="seriousness"/>
-<node id="huelgaporelclima"/>
-<node id="changeiscoming"/>
-<node id="tankerban"/>
-<node id="copon"/>
-<node id="sovereigntyday"/>
-<node id="no石油"/>
-<node id="3april"/>
-<node id="fairshare"/>
-<node id="stophs2"/>
-<node id="irtiturpeesta"/>
-<node id="fridaysforfuturehamburg"/>
-<node id="defendthedefenders"/>
-<node id="save_farmer_save_country"/>
-<node id="riseupmovement"/>
-<node id="savesoilbengaluru"/>
-<node id="fightclimateinjustice"/>
-<node id="schoolstrikeforclimate"/>
-<node id="fridaysforco2"/>
-<node id="buevdei̇klimgrevivar"/>
-<node id="justtransitionmossmorran"/>
-<node id="pollutersout"/>
-<node id="emergènciaclimàtica"/>
-<node id="noweci"/>
-<node id="29november"/>
-<node id="i̇kizderetaşocağıolmasın"/>
-<node id="cl"/>
-<node id="denkklimamit"/>
-<node id="myfuture"/>
-<node id="fridayforfuture"/>
-<node id="ourcommonhome"/>
-<node id="saveearth"/>
-<node id="technologyupdates"/>
-<node id="straykids"/>
-<node id="consigli"/>
-<node id="pulseofeurope"/>
-<node id="saveaareyforest"/>
-<node id="ahora"/>
-<node id="riseupmovt"/>
-<node id="peopleandplanet"/>
-<node id="inundaciones"/>
-<node id="tomradtke"/>
-<node id="dochooserenewables"/>
-<node id="edinburgh"/>
-<node id="twotreesaweek"/>
-<node id="cdnpoli"/>
-<node id="klimaat"/>
-<node id="northernireland"/>
-<node id="planetnotprofit"/>
-<node id="protectwildlife"/>
-<node id="linköping"/>
-<node id="listentothescience"/>
-<node id="letsdomore"/>
-<node id="handcramps"/>
-<node id="standwithworkers"/>
-<node id="weltklimakonferenz"/>
-<node id="climatemarch"/>
-<node id="gurgaon"/>
-<node id="greenrecovery"/>
-<node id="nomorelies"/>
-<node id="padredalloglio"/>
-<node id="withdraweia2020"/>
-<node id="climatehoax"/>
-<node id="tiredearth"/>
-<node id="togetherforourplanet"/>
-<node id="mountainsnotmines"/>
-<node id="keepmamaafricagreen"/>
-<node id="followbackfriday"/>
-<node id="crisisoninfiniteearths"/>
-<node id="strikeforclimate"/>
-<node id="togetherathome"/>
-<node id="week"/>
-<node id="cycloneamphan"/>
-<node id="coalfreenigeria"/>
-<node id="trudeau"/>
-<node id="savenatureforfuture"/>
-<node id="iklimacil"/>
-<node id="biodiversityday"/>
-<node id="genderequality"/>
-<node id="climatecrises"/>
-<node id="vanessa_vash"/>
-<node id="southafrica"/>
-<node id="ahmedsamirsantawy"/>
-<node id="2021year"/>
-<node id="thefuturewewant"/>
-<node id="1day"/>
-<node id="24s"/>
-<node id="sıcaklamücadeleet"/>
-<node id="climatestrikeonline"/>
-<node id="solarpanels"/>
-<node id="momoreemptyconferences"/>
+<graph edgedefault="undirected"><node id="onev1"/>
+<node id="weatherupdate"/>
 <node id="fffdigital"/>
-<node id="climatelive2021"/>
-<node id="bye2020"/>
-<node id="gulfstreamcollapse"/>
-<node id="jee2020"/>
-<node id="coscienza"/>
-<node id="noforestsnofuture"/>
-<node id="humanity"/>
-<node id="desertificationanddroughtday"/>
-<node id="flattenthecurve"/>
-<node id="bicycle"/>
-<node id="belfast"/>
-<node id="medioambiente"/>
-<node id="gurugram"/>
-<node id="strike"/>
-<node id="stopdeforestation"/>
-<node id="climatestike"/>
-<node id="rebelforlife"/>
-<node id="planttree"/>
-<node id="unga"/>
-<node id="patrickzaki"/>
-<node id="raffiwantsyou"/>
-<node id="changeclimate"/>
-<node id="saveourselves"/>
-<node id="azzolinabocciata"/>
-<node id="climatecricis"/>
-<node id="bcstorm"/>
-<node id="digitalstrikesapporo"/>
-<node id="abstractexpressionism"/>
-<node id="bristolys4c"/>
-<node id="klimafanatiker"/>
-<node id="klimaatverandering"/>
-<node id="internationalworkersday"/>
-<node id="savunucularısavun"/>
-<node id="занацпарки"/>
-<node id="climatestrikecanada"/>
-<node id="greencourse"/>
-<node id="freeassange"/>
-<node id="junkterrorbill"/>
-<node id="saveamazonia"/>
-<node id="day45"/>
-<node id="bastadefalsassoluciones"/>
-<node id="fightforfuture"/>
-<node id="actonfaso"/>
+<node id="savesoilbharat"/>
+<node id="2021year"/>
+<node id="mountainsnotmines"/>
+<node id="лісовіпожежі"/>
+<node id="justiceforstudent"/>
+<node id="ecologie"/>
+<node id="climatesolutions"/>
+<node id="buevdei̇klimgrevivar"/>
+<node id="cupcakesagainstcapitalism"/>
+<node id="tbttemmuz2019"/>
+<node id="stopfuellingwar"/>
+<node id="oldgrowth"/>
+<node id="onlineclimatestrike"/>
+<node id="amazoniasinfuego"/>
+<node id="thefuturewewant"/>
+<node id="savecongoforest_flora_fauna"/>
+<node id="escazúya"/>
+<node id="activist"/>
+<node id="everyday4future"/>
+<node id="ourfuture"/>
+<node id="shoes4climateavtion"/>
+<node id="seattleheatwave"/>
+<node id="mothernature"/>
+<node id="odetteph"/>
+<node id="climateclock"/>
 <node id="beyondcoal"/>
-<node id="kippraconference2022"/>
-<node id="savecalifornia"/>
-<node id="fridaysforfutureiwate"/>
-<node id="asiaforclimate"/>
-<node id="tweetme"/>
-<node id="否认气候危机的人是人类公敌"/>
-<node id="canyouhearusyet"/>
-<node id="quitfossilfuels"/>
-<node id="publichealth"/>
-<node id="handsoffourfuture"/>
-<node id="crisisclimatica"/>
-<node id="maketheconnection"/>
-<node id="veckobrevforfuture"/>
-<node id="trees4peace"/>
-<node id="forasalles"/>
-<node id="narmada"/>
-<node id="climatestrikela"/>
-<node id="ecologismo"/>
-<node id="denkeuropamit"/>
-<node id="postponejee_neet"/>
-<node id="温室効果ガス削減目標の大幅引き上げを求めます"/>
-<node id="xrfamilies"/>
-<node id="hs2rebellion"/>
-<node id="gretathurnberg"/>
-<node id="huh"/>
-<node id="senegal"/>
-<node id="manitoba"/>
-<node id="beingadad"/>
-<node id="fornature"/>
-<node id="plant"/>
-<node id="climatstreik"/>
-<node id="smrjs"/>
-<node id="bushfires"/>
+<node id="coralreef"/>
+<node id="bffuneralearthwake"/>
+<node id="kazdağlarınıkoru"/>
+<node id="timetoact"/>
+<node id="kenya"/>
 <node id="chapelhill"/>
-<node id="saveforest"/>
-<node id="strikeonline"/>
-<node id="writerlift"/>
-<node id="kamayparasaklima"/>
-<node id="spreadawareness"/>
-<node id="remarqabl"/>
-<node id="digitalprotest"/>
-<node id="vegansforfuture"/>
-<node id="tibet"/>
-<node id="shoolstrikeweekonline"/>
+<node id="pessoasnãolucro"/>
+<node id="strikeformentalhealth"/>
+<node id="5g"/>
+<node id="amazonfires"/>
+<node id="digitalstrikeph"/>
+<node id="savesoil"/>
+<node id="48th"/>
+<node id="digitalstrikeonline"/>
+<node id="revoluciónsostenible"/>
+<node id="urgency"/>
+<node id="greenparty"/>
+<node id="diamundialdelosoceanos"/>
+<node id="riverbankprotection"/>
+<node id="bautzen"/>
+<node id="fridaysforfuture"/>
+<node id="polluters"/>
+<node id="31st"/>
+<node id="genderequality"/>
+<node id="derechosdeniñosyniñas"/>
+<node id="belem"/>
+<node id="locustsattack"/>
+<node id="iwd2020"/>
+<node id="nucléaire"/>
+<node id="tiredearth"/>
+<node id="week13"/>
+<node id="cliamtestrike"/>
+<node id="coastalday2020"/>
+<node id="nextgen"/>
+<node id="42th"/>
+<node id="radtke"/>
+<node id="ragazzacci"/>
+<node id="newprofilepic"/>
+<node id="занацпарки"/>
+<node id="2doc"/>
+<node id="justíciaclimàtica"/>
+<node id="liverpool"/>
+<node id="indigenouslaw"/>
+<node id="onemillionofus"/>
+<node id="tour2019"/>
+<node id="animali"/>
+<node id="time4truth"/>
+<node id="39th"/>
+<node id="euco"/>
+<node id="exitcoalnow"/>
+<node id="greenhousegas"/>
+<node id="educacionambientalesrevolución"/>
+<node id="savetheamazon"/>
+<node id="saveourplanet"/>
+<node id="victoriabc"/>
+<node id="patrickzaki"/>
+<node id="junkterrorbill"/>
+<node id="amazonrainforest"/>
+<node id="43th"/>
+<node id="yyjtraffic"/>
+<node id="siochain"/>
+<node id="savetheplanet"/>
+<node id="fff_ukraine"/>
+<node id="moinmoin"/>
+<node id="grandparentsforfuture"/>
+<node id="climateawarenessaction"/>
+<node id="mentalhealthawarenessweek"/>
+<node id="actonyourpromises"/>
+<node id="chester"/>
+<node id="iklimgrevi"/>
+<node id="ecoanxiety"/>
+<node id="week21"/>
+<node id="gilgitbaltistan"/>
+<node id="coatofhopes"/>
+<node id="nofutureinfossilfuels"/>
+<node id="riccardo"/>
+<node id="fire"/>
+<node id="childrenareourfuture"/>
+<node id="enoughisenough"/>
+<node id="manitoba"/>
+<node id="forestsofhope"/>
+<node id="stopbeingfossilfools"/>
+<node id="savethecongorainforest"/>
+<node id="forests"/>
+<node id="вместезаклимат"/>
+<node id="earthday22"/>
+<node id="veckobrevforfuture"/>
 <node id="indigenouslivesmatter"/>
-<node id="finanztransaktionssteuer"/>
-<node id="fffsenegal"/>
-<node id="endclimatesilence"/>
+<node id="ilmastotwitter"/>
+<node id="loveletterstomotherearth"/>
+<node id="help"/>
+<node id="facciamorete"/>
+<node id="portsmouth"/>
+<node id="waterislife"/>
+<node id="congorainforest"/>
+<node id="strajkklimatyczny"/>
+<node id="cleavageforclimate"/>
+<node id="girls"/>
+<node id="glasgowclimatepact"/>
+<node id="farmersprotest"/>
+<node id="internationalhumanrightsday"/>
+<node id="netzeroneedsnuclear"/>
+<node id="savewildlife"/>
+<node id="florestasemcortes"/>
+<node id="ireland"/>
+<node id="strongtogether"/>
+<node id="indigenousrights"/>
+<node id="germanelection2021"/>
+<node id="savewesternghats"/>
+<node id="sinistra"/>
+<node id="attilahildmann"/>
+<node id="earthquake"/>
+<node id="scottishindependence"/>
+<node id="buildabetterfuture"/>
+<node id="hautsdeseine"/>
+<node id="cumbriacoalmine"/>
+<node id="viaggiare"/>
+<node id="satkhira"/>
+<node id="mapoli"/>
+<node id="notoredtagging"/>
+<node id="sistemiköktendeğiştir"/>
+<node id="unige"/>
+<node id="boycottpollutants"/>
+<node id="savecongoforest_fauna_flora"/>
+<node id="wearewatchingyou"/>
+<node id="gdp"/>
+<node id="tomradtke"/>
+<node id="treatacrisislikeacrisis"/>
+<node id="savehasdeo"/>
+<node id="novosibirsk"/>
+<node id="plastichearts"/>
+<node id="climateexp0"/>
+<node id="huelgaclimática"/>
+<node id="africaisnotadumpster"/>
+<node id="cumbresblancas"/>
+<node id="fossilfreefuture"/>
+<node id="abpoli"/>
+<node id="letindiabreathe"/>
+<node id="hometreegarden"/>
+<node id="mapa"/>
+<node id="valència"/>
+<node id="thanksgiving"/>
+<node id="striking"/>
+<node id="amtischmit"/>
+<node id="elokapina"/>
+<node id="emergenciaclimática"/>
+<node id="boomersforclimatejustice"/>
+<node id="savunucularısavun"/>
+<node id="stayathome"/>
+<node id="savezoka"/>
+<node id="clinate"/>
+<node id="rogerwakeupnow"/>
+<node id="sina"/>
+<node id="abstimmung"/>
+<node id="socialsummit"/>
+<node id="farmbills2020"/>
+<node id="webinar"/>
+<node id="fossilfools"/>
+<node id="dpareporter"/>
+<node id="iklimkriziburada"/>
+<node id="rapidreduction2030"/>
+<node id="youthclimatestrike"/>
+<node id="bye2020"/>
+<node id="elmshornsuoernormal"/>
+<node id="i̇stanbul"/>
+<node id="climatecrises"/>
+<node id="mpkongress"/>
+<node id="cop26glasow"/>
+<node id="stailcdigiteach"/>
+<node id="priorities"/>
+<node id="actintime"/>
+<node id="bcpoli"/>
+<node id="climatemw"/>
+<node id="neve"/>
+<node id="cdnpoli"/>
 <node id="petrolio"/>
-<node id="biodiversitycrisis"/>
-<node id="climatereparations"/>
+<node id="fusionenergy"/>
+<node id="municipales"/>
+<node id="forestfriday"/>
+<node id="nomowmay"/>
+<node id="shame"/>
+<node id="scottmorrison"/>
+<node id="bandeforestation"/>
+<node id="cumbresocialclima"/>
+<node id="notoracism"/>
+<node id="nowar"/>
+<node id="peoplenotprofit"/>
+<node id="kids"/>
+<node id="climateactionbill"/>
+<node id="bcstorm"/>
+<node id="deepstrike"/>
+<node id="ecologia"/>
+<node id="nomorelies"/>
+<node id="jfb"/>
+<node id="acab"/>
+<node id="fossilfuelssuck"/>
+<node id="saveourselves"/>
+<node id="unfitforoffice"/>
+<node id="groningen"/>
+<node id="crclimatestrikers"/>
+<node id="nomusiconadeadplanet"/>
+<node id="cosmokontrollverlust"/>
+<node id="keinea66"/>
+<node id="schoolstrikeweek"/>
+<node id="protectthearctic"/>
+<node id="ernährungswende"/>
+<node id="kulturelleaneignung"/>
+<node id="cycloneapmhan"/>
+<node id="youthled"/>
+<node id="burningpollutionnosolution"/>
+<node id="veganfortheplanet"/>
+<node id="lossanddamage"/>
+<node id="youthday"/>
+<node id="foodsecurity"/>
+<node id="noplanetb"/>
+<node id="wearestillhere"/>
+<node id="25s"/>
+<node id="fightfor1point"/>
+<node id="blocktddz"/>
+<node id="saveeia"/>
+<node id="nithyananda"/>
+<node id="flooding"/>
+<node id="inundaciones"/>
+<node id="frackoffpse"/>
+<node id="justiciaporelclima"/>
+<node id="acciónclimática"/>
+<node id="earthdayis365days"/>
+<node id="futuremobilitysummit"/>
+<node id="bagneux"/>
+<node id="straykids"/>
+<node id="injustice"/>
+<node id="xrfamilies"/>
 <node id="shuttheshites"/>
+<node id="spreadawareness"/>
+<node id="socialdistancing"/>
+<node id="transiciónenergética"/>
+<node id="nonfossilizziamoci"/>
+<node id="freepalaestine"/>
+<node id="thankyousafer"/>
+<node id="ahora"/>
+<node id="climatemarch"/>
+<node id="stormfff"/>
+<node id="strikeforaustralia"/>
+<node id="brighters"/>
+<node id="sevenworldsoneplanet"/>
+<node id="madarakaday"/>
+<node id="markuslanz"/>
+<node id="saveourforests"/>
+<node id="volt"/>
+<node id="cute"/>
+<node id="climatejusticeisnow"/>
+<node id="womenintech"/>
+<node id="savethesahel"/>
+<node id="sopitasxairelibre"/>
+<node id="linköping"/>
+<node id="bced"/>
+<node id="mumbaikars"/>
+<node id="sigmarsenke"/>
+<node id="climatefriday"/>
 <node id="sadhguru"/>
-<node id="katebernadette"/>
-<node id="propaganda"/>
-<node id="goinggreen"/>
-<node id="dayoftheafricanchild"/>
-<node id="animalrebellion"/>
-<node id="justtransitionnow"/>
-<node id="writingcommmunity"/>
+<node id="internetcensorship"/>
+<node id="ynetartcontest2022"/>
+<node id="fecherbleibt"/>
+<node id="backnang"/>
+<node id="congoforest"/>
+<node id="buongiornoatutti"/>
+<node id="week61"/>
+<node id="youthstrikeforclimate"/>
+<node id="radtkeleaks"/>
+<node id="austrianairline"/>
+<node id="planetnotprofit"/>
+<node id="farmersprotestdelhi2020"/>
+<node id="fossilfules"/>
+<node id="coastalroad"/>
+<node id="ahmedsamirsantawy"/>
+<node id="padredalloglio"/>
+<node id="museichehannostoffa"/>
+<node id="onlyoneearth"/>
+<node id="noeasy_iscoming"/>
+<node id="lostchildren"/>
+<node id="greatgreenwall"/>
+<node id="fffmapa"/>
+<node id="blacklivesmatter"/>
+<node id="davidattenborough"/>
+<node id="exeter"/>
+<node id="copforfuture"/>
+<node id="saveeverything"/>
+<node id="youth2030"/>
+<node id="oscarstembridge"/>
+<node id="desenraizaelsistema"/>
+<node id="fasting"/>
+<node id="noweymouthcompressor"/>
+<node id="grevepeloclima"/>
+<node id="python"/>
+<node id="justlookup"/>
+<node id="oneworld"/>
+<node id="haryana"/>
+<node id="filthyrich"/>
+<node id="climatebarbage"/>
+<node id="earthcleanup"/>
+<node id="forasalles"/>
+<node id="जयभीम_जयजौहार_जयकिसान"/>
+<node id="hs2rebellion"/>
+<node id="否认气候危机的人是人类公敌"/>
+<node id="anuna"/>
+<node id="freedomconvoy2022"/>
+<node id="climatestrikr"/>
+<node id="sovereigntyday"/>
+<node id="zittau"/>
+<node id="iamgreta"/>
+<node id="listentothescience"/>
+<node id="6dmarchaporelclima"/>
+<node id="stoppapreem"/>
+<node id="bursa"/>
+<node id="catsforfuture"/>
+<node id="climatestrikeonline"/>
+<node id="virtualstrike"/>
+<node id="mindthegap"/>
+<node id="time100"/>
+<node id="saveearth"/>
+<node id="savetheearth"/>
+<node id="кліматичнийстрайк"/>
+<node id="savedibangvalley"/>
+<node id="savecongoforestflora_fauna"/>
+<node id="climatered"/>
 <node id="resist250"/>
-<node id="fridaysforfutureafghanistan"/>
-<edge source="letterstotheearth" target="climateaction">
+<node id="iltempodioshø"/>
+<node id="fffdigitalstrike"/>
+<node id="pride"/>
+<node id="peat"/>
+<node id="huelgaglobalporelclima"/>
+<node id="altmaierknick"/>
+<node id="winteriscoming"/>
+<node id="rebeltrail"/>
+<node id="facetheclimatecrisis"/>
+<node id="savebaikal"/>
+<node id="solidarityeuropeanclimatestrike"/>
+<node id="saveforest"/>
+<node id="vanpoli"/>
+<node id="jee_neetcanwait"/>
+<node id="postponejee_neet"/>
+<node id="happyenvironmentday2020"/>
+<node id="laudatosi"/>
+<node id="i̇kizderetaşocağıolmasın"/>
+<node id="timepersonoftheyear2019"/>
+<node id="gulfstreamcollapse"/>
+<node id="veritapergiulioregeni"/>
+<node id="esahora"/>
+<node id="blogger"/>
+<node id="letusbeheard"/>
+<node id="elaguanosevende"/>
+<node id="colombiasos"/>
+<node id="mentalhealthmatters"/>
+<node id="standwithdisharavi"/>
+<node id="plastic"/>
+<node id="vanessa_vash"/>
+<node id="firstnations"/>
+<node id="climatedeedsnotwords"/>
+<node id="i̇klimgrevi2021"/>
+<node id="noexistevacunaparalacrisisclimatica"/>
+<node id="dontbesilenced"/>
+<node id="mpa"/>
+<node id="onebilliontreesforafrica"/>
+<node id="koalitionsgespraeche"/>
+<node id="savethetrees"/>
+<node id="ourcommonhome"/>
+<node id="indigenousday"/>
+<node id="internationalplasticbagfreeday"/>
+<node id="stiamorock"/>
+<node id="eco"/>
+<node id="greveduclimat"/>
+<node id="stopjackdaw"/>
+<node id="actonscience"/>
+<node id="worldpeace"/>
+<node id="huh"/>
+<node id="earthday"/>
+<node id="paronacionalcolombia"/>
+<node id="makeecocideacrime"/>
+<node id="belugagrads"/>
+<node id="frackedgas"/>
+<node id="fightallcrisis"/>
+<node id="zerocarbon"/>
+<node id="greece"/>
+<node id="forpeopleforplanet"/>
+<node id="klimastrejke"/>
+<node id="industrialists"/>
+<node id="riseuptogetherfromdrought"/>
+<node id="stoptmx"/>
+<node id="goals"/>
+<node id="stopglobalwarming"/>
+<node id="ipccreport2021"/>
+<node id="ultimatumcop25"/>
+<node id="bekind"/>
+<node id="cop"/>
+<node id="lönnemo"/>
+<node id="enteignung"/>
+<node id="東北大学"/>
+<edge source="onev1" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="letterstotheearth" target="fightclimateinjustice">
+<edge source="onev1" target="earthday">
   <data key="d0">1</data>
 </edge>
-<edge source="esahora" target="cambioclimatico">
+<edge source="weatherupdate" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="esahora" target="trees4peace">
+<edge source="fffdigital" target="fridaysforfuture">
+  <data key="d0">7</data>
+</edge>
+<edge source="fffdigital" target="climatestrikeonline">
+  <data key="d0">5</data>
+</edge>
+<edge source="fffdigital" target="fightallcrisis">
   <data key="d0">1</data>
 </edge>
-<edge source="hedef1bucuk" target="parisionayla">
+<edge source="savesoilbharat" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="savesoilbharat" target="sadhguru">
+  <data key="d0">1</data>
+</edge>
+<edge source="savesoilbharat" target="onlyoneearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="2021year" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="hedef1bucuk" target="ratifyparis">
+<edge source="mountainsnotmines" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="grandparentsforfuture" target="perjantaitgretankanssa">
+<edge source="mountainsnotmines" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="futures" target="climateaction">
+<edge source="лісовіпожежі" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="futures" target="fridayforfuture">
+<edge source="лісовіпожежі" target="кліматичнийстрайк">
   <data key="d0">1</data>
 </edge>
-<edge source="jee_neetcanwait" target="postponejee_neet">
+<edge source="justiceforstudent" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="climteemergency" target="facetheclimateemergency">
+<edge source="justiceforstudent" target="postponejee_neet">
   <data key="d0">1</data>
 </edge>
-<edge source="プラスチック" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="generationrestoration" target="worldenvironmentday">
-  <data key="d0">1</data>
-</edge>
-<edge source="generationrestoration" target="sadhguru">
-  <data key="d0">6</data>
-</edge>
-<edge source="generationrestoration" target="restoreourearth">
+<edge source="ecologie" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="generationrestoration" target="dayoftheafricanchild">
+<edge source="ecologie" target="bagneux">
   <data key="d0">1</data>
 </edge>
-<edge source="generationrestoration" target="togetherforourplanet">
+<edge source="ecologie" target="municipales">
   <data key="d0">1</data>
 </edge>
-<edge source="votethiscapdown" target="climatestrikeonline">
+<edge source="climatesolutions" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="votethiscapdown" target="facetheclimateemergency">
+<edge source="buevdei̇klimgrevivar" target="fridaysforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="buevdei̇klimgrevivar" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="cupcakesagainstcapitalism" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="tbttemmuz2019" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="tbttemmuz2019" target="catsforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopfuellingwar" target="fridaysforfuture">
   <data key="d0">3</data>
 </edge>
-<edge source="votethiscapdown" target="cop26">
+<edge source="stopfuellingwar" target="earthday">
   <data key="d0">1</data>
 </edge>
-<edge source="keepthecoalinthehole" target="greenrecovery">
-  <data key="d0">1</data>
-</edge>
-<edge source="seattle" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="seattle" target="flattenthecurve">
+<edge source="oldgrowth" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
 <edge source="onlineclimatestrike" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="onlineclimatestrike" target="facetheclimateemergency">
+<edge source="onlineclimatestrike" target="mindthegap">
+  <data key="d0">1</data>
+</edge>
+<edge source="amazoniasinfuego" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="amazoniasinfuego" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="thefuturewewant" target="fridaysforfuture">
+  <data key="d0">5</data>
+</edge>
+<edge source="thefuturewewant" target="kenya">
+  <data key="d0">1</data>
+</edge>
+<edge source="savecongoforest_flora_fauna" target="climatestrikeonline">
+  <data key="d0">3</data>
+</edge>
+<edge source="savecongoforest_flora_fauna" target="blacklivesmatter">
+  <data key="d0">1</data>
+</edge>
+<edge source="savecongoforest_flora_fauna" target="mentalhealthmatters">
+  <data key="d0">1</data>
+</edge>
+<edge source="savecongoforest_flora_fauna" target="hometreegarden">
+  <data key="d0">1</data>
+</edge>
+<edge source="savecongoforest_flora_fauna" target="everyday4future">
+  <data key="d0">1</data>
+</edge>
+<edge source="escazúya" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="youthclimatestrike" target="tibetclimatecrisis">
+<edge source="activist" target="ecoanxiety">
   <data key="d0">1</data>
 </edge>
-<edge source="animalliberation" target="climateaction">
+<edge source="ourfuture" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="animalliberation" target="facetheclimateemergency">
+<edge source="shoes4climateavtion" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="animalliberation" target="saveamazonia">
+<edge source="seattleheatwave" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="cop" target="cop26">
+<edge source="mothernature" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="odetteph" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateclock" target="fridaysforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateclock" target="actintime">
+  <data key="d0">1</data>
+</edge>
+<edge source="beyondcoal" target="strajkklimatyczny">
+  <data key="d0">1</data>
+</edge>
+<edge source="coralreef" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="cop" target="tiredearth">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop" target="changementclimatique">
-  <data key="d0">2</data>
-</edge>
-<edge source="스트레이키즈" target="straykids">
+<edge source="bffuneralearthwake" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="justiciaporelclima" target="climateaction">
+<edge source="kazdağlarınıkoru" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="justiciaporelclima" target="24s">
+<edge source="kazdağlarınıkoru" target="savetheamazon">
   <data key="d0">1</data>
 </edge>
-<edge source="batman" target="climateaction">
-  <data key="d0">1</data>
+<edge source="timetoact" target="fridaysforfuture">
+  <data key="d0">3</data>
 </edge>
-<edge source="batman" target="sadhguru">
-  <data key="d0">1</data>
-</edge>
-<edge source="ecologicalcrisis" target="rebelforlife">
-  <data key="d0">1</data>
-</edge>
-<edge source="ecologicalcrisis" target="actforchange">
-  <data key="d0">1</data>
-</edge>
-<edge source="totalagm" target="stopeacop">
-  <data key="d0">2</data>
-</edge>
-<edge source="totalagm" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="totalagm" target="facetheclimateemergency">
-  <data key="d0">2</data>
-</edge>
-<edge source="totalagm" target="endclimatesilence">
-  <data key="d0">1</data>
-</edge>
-<edge source="totalagm" target="forasalles">
-  <data key="d0">1</data>
-</edge>
-<edge source="biodiversité" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="biodiversité" target="bagneux2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="victoriabc" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="stayhome" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="stayhome" target="defendthedefenders">
-  <data key="d0">1</data>
-</edge>
-<edge source="stayhome" target="tiredearth">
-  <data key="d0">1</data>
-</edge>
-<edge source="stayhome" target="flattenthecurve">
+<edge source="kenya" target="fridaysforfuture">
   <data key="d0">7</data>
 </edge>
-<edge source="stayhome" target="pollutersout">
-  <data key="d0">7</data>
-</edge>
-<edge source="stayhome" target="senegal">
+<edge source="kenya" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="stayhome" target="iklimacil">
+<edge source="kenya" target="stayathome">
   <data key="d0">1</data>
 </edge>
-<edge source="enoughisenough" target="peopleandplanet">
+<edge source="chapelhill" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="worldoceansday" target="climateaction">
+<edge source="pessoasnãolucro" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="worldoceansday" target="sadhguru">
-  <data key="d0">3</data>
-</edge>
-<edge source="govegan" target="climateaction">
-  <data key="d0">4</data>
-</edge>
-<edge source="govegan" target="fridayforfuture">
+<edge source="pessoasnãolucro" target="peoplenotprofit">
   <data key="d0">1</data>
 </edge>
-<edge source="govegan" target="climatestrikecanada">
-  <data key="d0">1</data>
+<edge source="strikeformentalhealth" target="fridaysforfuture">
+  <data key="d0">21</data>
 </edge>
-<edge source="govegan" target="vegansforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="govegan" target="animalrebellion">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="withdrawthecap">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="changeiscoming">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="makeecocideacrime">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="saveamazonia">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="wewanttolive">
-  <data key="d0">1</data>
-</edge>
-<edge source="govegan" target="maketheconnection">
-  <data key="d0">1</data>
-</edge>
-<edge source="strikingfriday" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="ratifyparis" target="climatestrikeonline">
-  <data key="d0">3</data>
-</edge>
-<edge source="ratifyparis" target="facetheclimateemergency">
-  <data key="d0">3</data>
-</edge>
-<edge source="globaldayofaction" target="cop26">
-  <data key="d0">1</data>
-</edge>
-<edge source="globaldayofaction" target="fightclimateinjustice">
-  <data key="d0">1</data>
-</edge>
-<edge source="justtransition" target="climateaction">
-  <data key="d0">3</data>
-</edge>
-<edge source="justtransition" target="climatestrikeonline">
-  <data key="d0">4</data>
-</edge>
-<edge source="justtransition" target="facetheclimateemergency">
-  <data key="d0">1</data>
-</edge>
-<edge source="justtransition" target="flattenthecurve">
-  <data key="d0">1</data>
-</edge>
-<edge source="justtransition" target="standwithworkers">
-  <data key="d0">5</data>
-</edge>
-<edge source="justtransition" target="digitalstrikeoxford">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatepeace" target="thereisnoplanetb">
-  <data key="d0">1</data>
-</edge>
-<edge source="bagneux2020" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="makeecocideacrime" target="i̇kizderetaşocağıolmasın">
-  <data key="d0">1</data>
-</edge>
-<edge source="waadotworld" target="abstractexpressionism">
-  <data key="d0">1</data>
-</edge>
-<edge source="stopeacop" target="facetheclimateemergency">
-  <data key="d0">4</data>
-</edge>
-<edge source="stopeacop" target="riseupmovement">
-  <data key="d0">3</data>
-</edge>
-<edge source="stopeacop" target="riseupmovt">
-  <data key="d0">3</data>
-</edge>
-<edge source="stopeacop" target="vanessa_vash">
+<edge source="5g" target="fridaysforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="stopeacop" target="endclimatesilence">
+<edge source="5g" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="stopeacop" target="forasalles">
+<edge source="5g" target="fffdigitalstrike">
   <data key="d0">1</data>
 </edge>
-<edge source="fridaysforfurture" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="everytreeisawin" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="unea5" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="unea5" target="fornature">
-  <data key="d0">1</data>
-</edge>
-<edge source="ilmastovaalit" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="mapa" target="climatestrikeonline">
-  <data key="d0">5</data>
-</edge>
-<edge source="mapa" target="facetheclimateemergency">
-  <data key="d0">4</data>
-</edge>
-<edge source="mapa" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="mapa" target="riseupmovement">
-  <data key="d0">1</data>
-</edge>
-<edge source="mapa" target="flattenthecurve">
-  <data key="d0">1</data>
-</edge>
-<edge source="mapa" target="fffsenegal">
-  <data key="d0">1</data>
-</edge>
-<edge source="mapa" target="1day">
-  <data key="d0">1</data>
-</edge>
-<edge source="strongertogether" target="climatestrikeonline">
-  <data key="d0">6</data>
-</edge>
-<edge source="strongertogether" target="facetheclimateemergency">
-  <data key="d0">4</data>
-</edge>
-<edge source="strongertogether" target="withdrawthecap">
-  <data key="d0">3</data>
-</edge>
-<edge source="strongertogether" target="savenatureforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="i̇klimacil" target="sıcaklamücadeleet">
-  <data key="d0">1</data>
-</edge>
-<edge source="forpeopleforplanet" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="forpeopleforplanet" target="saveearth">
-  <data key="d0">1</data>
-</edge>
-<edge source="leadonclimate" target="cop26">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="week17" target="facetheclimateemergency">
-  <data key="d0">1</data>
-</edge>
-<edge source="week17" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="thereisnoplanetb" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="thereisnoplanetb" target="climatestrikeonline">
-  <data key="d0">10</data>
-</edge>
-<edge source="thereisnoplanetb" target="facetheclimateemergency">
-  <data key="d0">11</data>
-</edge>
-<edge source="thereisnoplanetb" target="riseupmovement">
-  <data key="d0">1</data>
-</edge>
-<edge source="thereisnoplanetb" target="fightforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="thereisnoplanetb" target="fridaysforfutureiwate">
-  <data key="d0">2</data>
-</edge>
-<edge source="euusominhavozpeloclima" target="criseclimática">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="climateaction">
-  <data key="d0">49</data>
-</edge>
-<edge source="cop26" target="climatestrikeonline">
-  <data key="d0">9</data>
-</edge>
-<edge source="cop26" target="facetheclimateemergency">
-  <data key="d0">6</data>
-</edge>
-<edge source="cop26" target="fridayforfuture">
-  <data key="d0">12</data>
-</edge>
-<edge source="cop26" target="fridaysforfuturehamburg">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="canyouhearusyet">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="togetherforourplanet">
-  <data key="d0">3</data>
-</edge>
-<edge source="cop26" target="remarqabl">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="schoolstrike2021">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop26" target="copon">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="bcstorm">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="tankerban">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="cl">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="climatelive2021">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop26" target="fairshare">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop26" target="momoreemptyconferences">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="tiredearth">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop26" target="justtransitionmossmorran">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="gurgaon">
-  <data key="d0">2</data>
-</edge>
-<edge source="cop26" target="flattenthecurve">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="pollutersout">
-  <data key="d0">5</data>
-</edge>
-<edge source="cop26" target="climatecrises">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop26" target="changementclimatique">
-  <data key="d0">1</data>
-</edge>
-<edge source="cop25madrid2019" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatedefenders" target="rebelforlife">
-  <data key="d0">2</data>
-</edge>
-<edge source="ckimatechange" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="reyesmagos" target="transiciónenergeticajusta">
-  <data key="d0">1</data>
-</edge>
-<edge source="schoolstrike2021" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="worldclimateactivist" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="restoreourearth" target="climateaction">
-  <data key="d0">2</data>
-</edge>
-<edge source="restoreourearth" target="facetheclimateemergency">
-  <data key="d0">3</data>
-</edge>
-<edge source="restoreourearth" target="sadhguru">
-  <data key="d0">3</data>
-</edge>
-<edge source="restoreourearth" target="plant">
-  <data key="d0">1</data>
-</edge>
-<edge source="restoreourearth" target="bicycle">
-  <data key="d0">1</data>
-</edge>
-<edge source="politicsforfuture" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="bushfirerebellion" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="bushfirerebellion" target="rebelforlife">
-  <data key="d0">1</data>
-</edge>
-<edge source="bushfirerebellion" target="no石油">
-  <data key="d0">1</data>
-</edge>
-<edge source="environmentalprotection" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="シューズアクション" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="urgency" target="seriousness">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldenvironmentday" target="climateaction">
-  <data key="d0">3</data>
-</edge>
-<edge source="worldenvironmentday" target="climatestrikeonline">
-  <data key="d0">5</data>
-</edge>
-<edge source="worldenvironmentday" target="sadhguru">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldenvironmentday" target="fornature">
-  <data key="d0">2</data>
-</edge>
-<edge source="worldenvironmentday" target="defendthedefenders">
-  <data key="d0">2</data>
-</edge>
-<edge source="worldenvironmentday" target="pollutersout">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldenvironmentday" target="keepmamaafricagreen">
-  <data key="d0">1</data>
-</edge>
-<edge source="bsb" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="marcheclimat" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="marcheclimat" target="gretathurnberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="marcheclimat" target="climatemarch">
-  <data key="d0">1</data>
-</edge>
-<edge source="faceforclimate" target="defendthedefenders">
-  <data key="d0">2</data>
-</edge>
-<edge source="timetogrowup" target="xrfamilies">
-  <data key="d0">1</data>
-</edge>
-<edge source="tee" target="fridayforfuture">
+<edge source="amazonfires" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="andrapradesh" target="climateaction">
+<edge source="amazonfires" target="makeecocideacrime">
   <data key="d0">1</data>
 </edge>
-<edge source="fff_egypt" target="climateaction">
+<edge source="amazonfires" target="wearewatchingyou">
   <data key="d0">1</data>
 </edge>
-<edge source="salud" target="climateaction">
+<edge source="amazonfires" target="amazonrainforest">
   <data key="d0">1</data>
-</edge>
-<edge source="withdrawthecap" target="climateaction">
-  <data key="d0">9</data>
-</edge>
-<edge source="withdrawthecap" target="facetheclimateemergency">
-  <data key="d0">13</data>
-</edge>
-<edge source="withdrawthecap" target="fridayforfuture">
-  <data key="d0">7</data>
-</edge>
-<edge source="withdrawthecap" target="savenatureforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="withdrawthecap" target="否认气候危机的人是人类公敌">
-  <data key="d0">1</data>
-</edge>
-<edge source="withdrawthecap" target="saveamazonia">
-  <data key="d0">1</data>
-</edge>
-<edge source="withdrawthecap" target="withdraweia2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="save_tree" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="digitalstrikeoxford" target="climatestrikeonline">
-  <data key="d0">4</data>
-</edge>
-<edge source="digitalstrikeoxford" target="standwithworkers">
-  <data key="d0">1</data>
-</edge>
-<edge source="manifencours" target="climatestrikecanada">
-  <data key="d0">1</data>
-</edge>
-<edge source="ebikes" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="ebikes" target="bicycle">
-  <data key="d0">1</data>
-</edge>
-<edge source="changementclimatique" target="klimaatverandering">
-  <data key="d0">1</data>
-</edge>
-<edge source="changementclimatique" target="day45">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="climateaction">
-  <data key="d0">114</data>
-</edge>
-<edge source="facetheclimateemergency" target="climatestrikeonline">
-  <data key="d0">205</data>
-</edge>
-<edge source="facetheclimateemergency" target="fridayforfuture">
-  <data key="d0">5</data>
-</edge>
-<edge source="facetheclimateemergency" target="schoolstrikeforclimate">
-  <data key="d0">7</data>
-</edge>
-<edge source="facetheclimateemergency" target="riseupmovement">
-  <data key="d0">10</data>
-</edge>
-<edge source="facetheclimateemergency" target="listentothescience">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="saveearth">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="week">
-  <data key="d0">3</data>
-</edge>
-<edge source="facetheclimateemergency" target="fornature">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="defendthedefenders">
-  <data key="d0">14</data>
-</edge>
-<edge source="facetheclimateemergency" target="endclimatesilence">
-  <data key="d0">4</data>
-</edge>
-<edge source="facetheclimateemergency" target="fairshare">
-  <data key="d0">3</data>
-</edge>
-<edge source="facetheclimateemergency" target="momoreemptyconferences">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="tiredearth">
-  <data key="d0">2</data>
-</edge>
-<edge source="facetheclimateemergency" target="justtransitionnow">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="flattenthecurve">
-  <data key="d0">42</data>
-</edge>
-<edge source="facetheclimateemergency" target="nomorelies">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="genderequality">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="pollutersout">
-  <data key="d0">2</data>
-</edge>
-<edge source="facetheclimateemergency" target="digitalprotest">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="forasalles">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="climatecrises">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="savenatureforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="否认气候危机的人是人类公敌">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="fightforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="mountainsnotmines">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="saveourselves">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="2021year">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="bye2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="fightclimateinjustice">
-  <data key="d0">7</data>
-</edge>
-<edge source="facetheclimateemergency" target="bushfires">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="saveamazonia">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="wewanttolive">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="save_farmer_save_country">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="handcramps">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="withdraweia2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="fffdigital">
-  <data key="d0">2</data>
-</edge>
-<edge source="facetheclimateemergency" target="greenrecovery">
-  <data key="d0">2</data>
-</edge>
-<edge source="facetheclimateemergency" target="climatered">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="chapelhill">
-  <data key="d0">1</data>
-</edge>
-<edge source="facetheclimateemergency" target="fridaysforfutureafghanistan">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldpeace" target="tibet">
-  <data key="d0">3</data>
-</edge>
-<edge source="patrioxy" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="patrioxy" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="cambioclimatico" target="fridayforfuture">
-  <data key="d0">5</data>
-</edge>
-<edge source="cambioclimatico" target="trees4peace">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambioclimatico" target="inundaciones">
-  <data key="d0">1</data>
-</edge>
-<edge source="savebuxwahasavelife" target="saveforest">
-  <data key="d0">3</data>
-</edge>
-<edge source="climatemobilization" target="raffiwantsyou">
-  <data key="d0">1</data>
-</edge>
-<edge source="criseclimática" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="gta" target="climateaction">
-  <data key="d0">2</data>
-</edge>
-<edge source="intergenerational" target="climateaction">
-  <data key="d0">1</data>
-</edge>
-<edge source="indigenousday" target="defendthedefenders">
-  <data key="d0">1</data>
-</edge>
-<edge source="giustiziaclimatica" target="fightclimateinjustice">
-  <data key="d0">1</data>
-</edge>
-<edge source="wewanttolive" target="rebelforlife">
-  <data key="d0">1</data>
-</edge>
-<edge source="wewanttolive" target="endclimatesilence">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="fridayforfuture">
-  <data key="d0">64</data>
-</edge>
-<edge source="climateaction" target="savesoilbengaluru">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="humanity">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="schoolstrikeforclimate">
-  <data key="d0">5</data>
-</edge>
-<edge source="climateaction" target="sadhguru">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="riseupmovement">
-  <data key="d0">7</data>
-</edge>
-<edge source="climateaction" target="followbackfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="klimaat">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="kippraconference2022">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="fridaysforfuturehamburg">
-  <data key="d0">19</data>
-</edge>
-<edge source="climateaction" target="spreadawareness">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="climatereparations">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="biodiversitycrisis">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="climatemarch">
-  <data key="d0">4</data>
-</edge>
-<edge source="climateaction" target="saveearth">
-  <data key="d0">6</data>
-</edge>
-<edge source="climateaction" target="week">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="dochooserenewables">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="crisisoninfiniteearths">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="cdnpoli">
-  <data key="d0">12</data>
 </edge>
-<edge source="climateaction" target="tiredearth">
+<edge source="digitalstrikeph" target="fridaysforfuture">
   <data key="d0">8</data>
 </edge>
-<edge source="climateaction" target="24s">
+<edge source="digitalstrikeph" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="unga">
+<edge source="digitalstrikeph" target="actonscience">
   <data key="d0">2</data>
 </edge>
-<edge source="climateaction" target="climatestike">
-  <data key="d0">1</data>
+<edge source="savesoil" target="fridaysforfuture">
+  <data key="d0">71</data>
 </edge>
-<edge source="climateaction" target="stopdeforestation">
-  <data key="d0">1</data>
+<edge source="savesoil" target="sadhguru">
+  <data key="d0">21</data>
 </edge>
-<edge source="climateaction" target="flattenthecurve">
-  <data key="d0">6</data>
-</edge>
-<edge source="climateaction" target="pollutersout">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="digitalprotest">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="planttree">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="saveaareyforest">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="beyondcoal">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="cycloneamphan">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="standwithworkers">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="温室効果ガス削減目標の大幅引き上げを求めます">
-  <data key="d0">6</data>
-</edge>
-<edge source="climateaction" target="digitalstrikesapporo">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="saveourselves">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="fightclimateinjustice">
-  <data key="d0">11</data>
-</edge>
-<edge source="climateaction" target="bushfires">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="saveamazonia">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="withdraweia2020">
-  <data key="d0">3</data>
-</edge>
-<edge source="climateaction" target="fffdigital">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateaction" target="greenrecovery">
+<edge source="savesoil" target="onlyoneearth">
   <data key="d0">5</data>
 </edge>
-<edge source="climateaction" target="1day">
+<edge source="savesoil" target="madarakaday">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="thefuturewewant">
+<edge source="savesoil" target="earthday">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="noweci">
+<edge source="savesoil" target="cute">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="desertificationanddroughtday">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateaction" target="climatehoax">
+<edge source="48th" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="climatecricis">
+<edge source="digitalstrikeonline" target="fridaysforfuture">
+  <data key="d0">5</data>
+</edge>
+<edge source="digitalstrikeonline" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="belfast">
-  <data key="d0">4</data>
-</edge>
-<edge source="climateaction" target="medioambiente">
+<edge source="revoluciónsostenible" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="goinggreen">
+<edge source="revoluciónsostenible" target="25s">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="climatstreik">
+<edge source="revoluciónsostenible" target="emergenciaclimática">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="no石油">
+<edge source="urgency" target="peoplenotprofit">
   <data key="d0">1</data>
 </edge>
-<edge source="climateaction" target="climatestrikecanada">
-  <data key="d0">9</data>
-</edge>
-<edge source="climateaction" target="29november">
+<edge source="urgency" target="nowar">
   <data key="d0">1</data>
 </edge>
-<edge source="huelgaporelclima" target="climatestrikeonline">
+<edge source="greenparty" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="changeiscoming" target="vegansforfuture">
+<edge source="diamundialdelosoceanos" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="changeiscoming" target="bristolys4c">
-  <data key="d0">2</data>
-</edge>
-<edge source="sovereigntyday" target="resist250">
+<edge source="riverbankprotection" target="fridaysforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="no石油" target="rebelforlife">
-  <data key="d0">1</data>
-</edge>
-<edge source="3april" target="handsoffourfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="fairshare" target="momoreemptyconferences">
-  <data key="d0">1</data>
-</edge>
-<edge source="fairshare" target="justtransitionmossmorran">
+<edge source="bautzen" target="fridaysforfuture">
   <data key="d0">3</data>
 </edge>
-<edge source="stophs2" target="hs2rebellion">
-  <data key="d0">6</data>
+<edge source="fridaysforfuture" target="peoplenotprofit">
+  <data key="d0">410</data>
 </edge>
-<edge source="stophs2" target="shuttheshites">
-  <data key="d0">1</data>
-</edge>
-<edge source="irtiturpeesta" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="fasting">
   <data key="d0">2</data>
 </edge>
-<edge source="defendthedefenders" target="climatestrikeonline">
-  <data key="d0">27</data>
-</edge>
-<edge source="defendthedefenders" target="fridayforfuture">
+<edge source="fridaysforfuture" target="striking">
   <data key="d0">1</data>
 </edge>
-<edge source="defendthedefenders" target="flattenthecurve">
-  <data key="d0">1</data>
+<edge source="fridaysforfuture" target="mindthegap">
+  <data key="d0">137</data>
 </edge>
-<edge source="defendthedefenders" target="pollutersout">
+<edge source="fridaysforfuture" target="plastic">
   <data key="d0">3</data>
 </edge>
-<edge source="defendthedefenders" target="digitalprotest">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="i̇kizderetaşocağıolmasın">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="fffdigital">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="actonfaso">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="indigenouslivesmatter">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="fridaysforfutureafghanistan">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="junkterrorbill">
-  <data key="d0">1</data>
-</edge>
-<edge source="defendthedefenders" target="savunucularısavun">
-  <data key="d0">2</data>
-</edge>
-<edge source="riseupmovement" target="climatestrikeonline">
-  <data key="d0">6</data>
-</edge>
-<edge source="riseupmovement" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="riseupmovement" target="schoolstrikeforclimate">
-  <data key="d0">1</data>
-</edge>
-<edge source="riseupmovement" target="planetnotprofit">
-  <data key="d0">1</data>
-</edge>
-<edge source="fightclimateinjustice" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="fightclimateinjustice" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="fightclimateinjustice" target="schoolstrikeforclimate">
-  <data key="d0">1</data>
-</edge>
-<edge source="fightclimateinjustice" target="flattenthecurve">
-  <data key="d0">1</data>
-</edge>
-<edge source="fightclimateinjustice" target="kamayparasaklima">
-  <data key="d0">14</data>
-</edge>
-<edge source="fightclimateinjustice" target="coalfreenigeria">
-  <data key="d0">1</data>
-</edge>
-<edge source="fightclimateinjustice" target="southafrica">
-  <data key="d0">1</data>
-</edge>
-<edge source="schoolstrikeforclimate" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="schoolstrikeforclimate" target="fridayforfuture">
+<edge source="fridaysforfuture" target="earthdayis365days">
   <data key="d0">3</data>
 </edge>
-<edge source="schoolstrikeforclimate" target="smrjs">
-  <data key="d0">2</data>
+<edge source="fridaysforfuture" target="climatestrikeonline">
+  <data key="d0">1279</data>
 </edge>
-<edge source="schoolstrikeforclimate" target="climatereparations">
-  <data key="d0">1</data>
+<edge source="fridaysforfuture" target="nowar">
+  <data key="d0">24</data>
 </edge>
-<edge source="schoolstrikeforclimate" target="edinburgh">
-  <data key="d0">1</data>
+<edge source="fridaysforfuture" target="stopjackdaw">
+  <data key="d0">5</data>
 </edge>
-<edge source="schoolstrikeforclimate" target="flattenthecurve">
-  <data key="d0">1</data>
+<edge source="fridaysforfuture" target="fffmapa">
+  <data key="d0">38</data>
 </edge>
-<edge source="schoolstrikeforclimate" target="southafrica">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaysforco2" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="buevdei̇klimgrevivar" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="pollutersout" target="climatestrikeonline">
-  <data key="d0">19</data>
-</edge>
-<edge source="pollutersout" target="flattenthecurve">
-  <data key="d0">8</data>
-</edge>
-<edge source="emergènciaclimàtica" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="cl" target="climatelive2021">
-  <data key="d0">1</data>
-</edge>
-<edge source="denkklimamit" target="pulseofeurope">
-  <data key="d0">1</data>
-</edge>
-<edge source="denkklimamit" target="denkeuropamit">
-  <data key="d0">1</data>
-</edge>
-<edge source="myfuture" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="sadhguru">
   <data key="d0">25</data>
 </edge>
-<edge source="fridayforfuture" target="humanity">
+<edge source="fridaysforfuture" target="riccardo">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="consigli">
+<edge source="fridaysforfuture" target="boomersforclimatejustice">
+  <data key="d0">55</data>
+</edge>
+<edge source="fridaysforfuture" target="lossanddamage">
+  <data key="d0">9</data>
+</edge>
+<edge source="fridaysforfuture" target="greenhousegas">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="climatemarch">
+<edge source="fridaysforfuture" target="stopglobalwarming">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="noplanetb">
+  <data key="d0">35</data>
+</edge>
+<edge source="fridaysforfuture" target="viaggiare">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="petrolio">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="crisisoninfiniteearths">
+<edge source="fridaysforfuture" target="girls">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="strikeforclimate">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="cdnpoli">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayforfuture" target="animalrebellion">
+<edge source="fridaysforfuture" target="riseuptogetherfromdrought">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="climatelive2021">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="rebelforlife">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="unga">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="crisisclimatica">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="saveaareyforest">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="strike">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="narmada">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="azzolinabocciata">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="keepmamaafricagreen">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="climatehoax">
+<edge source="fridaysforfuture" target="listentothescience">
   <data key="d0">7</data>
 </edge>
-<edge source="fridayforfuture" target="twotreesaweek">
-  <data key="d0">4</data>
+<edge source="fridaysforfuture" target="webinar">
+  <data key="d0">3</data>
 </edge>
-<edge source="fridayforfuture" target="letsdomore">
+<edge source="fridaysforfuture" target="spreadawareness">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="planetnotprofit">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="gretathurnberg">
-  <data key="d0">20</data>
-</edge>
-<edge source="fridayforfuture" target="writingcommmunity">
+<edge source="fridaysforfuture" target="fossilfools">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="tweetme">
+<edge source="fridaysforfuture" target="elmshornsuoernormal">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="climatestrikecanada">
+<edge source="fridaysforfuture" target="volt">
   <data key="d0">5</data>
 </edge>
-<edge source="fridayforfuture" target="coscienza">
+<edge source="fridaysforfuture" target="forpeopleforplanet">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="ynetartcontest2022">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="ecologismo">
+<edge source="fridaysforfuture" target="savetheplanet">
+  <data key="d0">26</data>
+</edge>
+<edge source="fridaysforfuture" target="saveearth">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="savethetrees">
   <data key="d0">1</data>
 </edge>
-<edge source="ourcommonhome" target="gulfstreamcollapse">
-  <data key="d0">1</data>
-</edge>
-<edge source="saveearth" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="actintime">
   <data key="d0">3</data>
 </edge>
-<edge source="technologyupdates" target="solarpanels">
+<edge source="fridaysforfuture" target="virtualstrike">
   <data key="d0">1</data>
 </edge>
-<edge source="pulseofeurope" target="denkeuropamit">
+<edge source="fridaysforfuture" target="freepalaestine">
   <data key="d0">1</data>
 </edge>
-<edge source="ahora" target="24s">
+<edge source="fridaysforfuture" target="vanessa_vash">
   <data key="d0">2</data>
 </edge>
-<edge source="riseupmovt" target="vanessa_vash">
-  <data key="d0">2</data>
-</edge>
-<edge source="tomradtke" target="klimafanatiker">
+<edge source="fridaysforfuture" target="time4truth">
   <data key="d0">1</data>
 </edge>
-<edge source="twotreesaweek" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="glasgowclimatepact">
   <data key="d0">1</data>
 </edge>
-<edge source="cdnpoli" target="climatestrikecanada">
-  <data key="d0">11</data>
-</edge>
-<edge source="cdnpoli" target="manitoba">
-  <data key="d0">3</data>
-</edge>
-<edge source="cdnpoli" target="trudeau">
+<edge source="fridaysforfuture" target="transiciónenergética">
   <data key="d0">1</data>
 </edge>
-<edge source="cdnpoli" target="huh">
+<edge source="fridaysforfuture" target="oscarstembridge">
   <data key="d0">1</data>
 </edge>
-<edge source="northernireland" target="belfast">
+<edge source="fridaysforfuture" target="cute">
   <data key="d0">1</data>
 </edge>
-<edge source="protectwildlife" target="climatestrikeonline">
-  <data key="d0">2</data>
-</edge>
-<edge source="linköping" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="fossilfuelssuck">
   <data key="d0">1</data>
 </edge>
-<edge source="listentothescience" target="flattenthecurve">
+<edge source="fridaysforfuture" target="brighters">
   <data key="d0">1</data>
 </edge>
-<edge source="standwithworkers" target="flattenthecurve">
+<edge source="fridaysforfuture" target="youthclimatestrike">
+  <data key="d0">10</data>
+</edge>
+<edge source="fridaysforfuture" target="kulturelleaneignung">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="climatebarbage">
   <data key="d0">1</data>
 </edge>
-<edge source="weltklimakonferenz" target="finanztransaktionssteuer">
+<edge source="fridaysforfuture" target="unige">
   <data key="d0">1</data>
 </edge>
-<edge source="climatemarch" target="gretathurnberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="greenrecovery" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="elokapina">
   <data key="d0">4</data>
 </edge>
-<edge source="greenrecovery" target="publichealth">
+<edge source="fridaysforfuture" target="frackedgas">
   <data key="d0">1</data>
 </edge>
-<edge source="padredalloglio" target="ahmedsamirsantawy">
+<edge source="fridaysforfuture" target="foodsecurity">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="week13">
   <data key="d0">1</data>
 </edge>
-<edge source="padredalloglio" target="patrickzaki">
+<edge source="fridaysforfuture" target="padredalloglio">
   <data key="d0">1</data>
 </edge>
-<edge source="padredalloglio" target="freeassange">
+<edge source="fridaysforfuture" target="patrickzaki">
   <data key="d0">1</data>
 </edge>
-<edge source="withdraweia2020" target="climatestrikeonline">
+<edge source="fridaysforfuture" target="veritapergiulioregeni">
   <data key="d0">1</data>
 </edge>
-<edge source="climatehoax" target="tiredearth">
+<edge source="fridaysforfuture" target="petrolio">
   <data key="d0">1</data>
 </edge>
-<edge source="climatehoax" target="propaganda">
+<edge source="fridaysforfuture" target="womenintech">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="siochain">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="stormfff">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="freedomconvoy2022">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fusionenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="ireland">
+  <data key="d0">7</data>
+</edge>
+<edge source="fridaysforfuture" target="justlookup">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="ernährungswende">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="kids">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="nomusiconadeadplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="blacklivesmatter">
+  <data key="d0">40</data>
+</edge>
+<edge source="fridaysforfuture" target="shame">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bcpoli">
+  <data key="d0">22</data>
+</edge>
+<edge source="fridaysforfuture" target="stoptmx">
+  <data key="d0">7</data>
+</edge>
+<edge source="fridaysforfuture" target="winteriscoming">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="industrialists">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="farmersprotest">
+  <data key="d0">8</data>
+</edge>
+<edge source="fridaysforfuture" target="जयभीम_जयजौहार_जयकिसान">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bcstorm">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="satkhira">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="gilgitbaltistan">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="scottishindependence">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="netzeroneedsnuclear">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="cop26glasow">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="elaguanosevende">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fossilfreefuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="markuslanz">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="koalitionsgespraeche">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fecherbleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="mpkongress">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="gdp">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="scottmorrison">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="anuna">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="tiredearth">
+  <data key="d0">34</data>
+</edge>
+<edge source="fridaysforfuture" target="huelgaglobalporelclima">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="ahora">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="justiciaporelclima">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="sistemiköktendeğiştir">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="i̇klimgrevi2021">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="desenraizaelsistema">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="esahora">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="huelgaclimática">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="ecologia">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="germanelection2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savetheearth">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="treatacrisislikeacrisis">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="ipccreport2021">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="belem">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="newprofilepic">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="polluters">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="nofutureinfossilfuels">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climatejusticeisnow">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="haryana">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="stopbeingfossilfools">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fossilfules">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="amtischmit">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="backnang">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="injustice">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="mpa">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fire">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="43th">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="42th">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="straykids">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="firstnations">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="lostchildren">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="nomorelies">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savewildlife">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="genderequality">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="39th">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="saveforest">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="fightfor1point">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="saveourplanet">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="schoolstrikeweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="veckobrevforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="futuremobilitysummit">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="forasalles">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="valència">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="climateexp0">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climateactionbill">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="nomowmay">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="colombiasos">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="paronacionalcolombia">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="actonyourpromises">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="iklimgrevi">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="enteignung">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="i̇kizderetaşocağıolmasın">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="makeecocideacrime">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="peat">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="31st">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="childrenareourfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="2doc">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="iamgreta">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="climatecrises">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="zittau">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="saveourforests">
+  <data key="d0">11</data>
+</edge>
+<edge source="fridaysforfuture" target="否认气候危机的人是人类公敌">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="justíciaclimàtica">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="oneworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="sinistra">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="standwithdisharavi">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="stayathome">
+  <data key="d0">72</data>
+</edge>
+<edge source="fridaysforfuture" target="time100">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="cumbriacoalmine">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="florestasemcortes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="nextgen">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="cosmokontrollverlust">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="plastichearts">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="saveourselves">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bekind">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="protectthearctic">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bye2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="noweymouthcompressor">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="mapoli">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="strongtogether">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="internationalhumanrightsday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="acciónclimática">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridaysforfuture" target="euco">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="mumbaikars">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="notoredtagging">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="farmersprotestdelhi2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="farmbills2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="facetheclimatecrisis">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="linköping">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="東北大学">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="greatgreenwall">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="coastalday2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="priorities">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="wearestillhere">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="earthquake">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="filthyrich">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="boycottpollutants">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="inundaciones">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="davidattenborough">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="cleavageforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="acab">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="abstimmung">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="attilahildmann">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="educacionambientalesrevolución">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="25s">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridaysforfuture" target="bursa">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="laudatosi">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="вместезаклимат">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="emergenciaclimática">
+  <data key="d0">15</data>
+</edge>
+<edge source="fridaysforfuture" target="altmaierknick">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="sigmarsenke">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="stoppapreem">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="forestsofhope">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climatered">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="iklimkriziburada">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="week21">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="amazonrainforest">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="savetheamazon">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="indigenouslivesmatter">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="postponejee_neet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="jee_neetcanwait">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="saveeia">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="youthday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="blogger">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="indigenousday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="frackoffpse">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="hs2rebellion">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="savebaikal">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="earthcleanup">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="letindiabreathe">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savezoka">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savethesahel">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="internetcensorship">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="veganfortheplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="shuttheshites">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savecongoforestflora_fauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="junkterrorbill">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="занацпарки">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="rebeltrail">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="austrianairline">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="blocktddz">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="happyenvironmentday2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savunucularısavun">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="notoracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="cycloneapmhan">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="climatefriday">
+  <data key="d0">7</data>
+</edge>
+<edge source="fridaysforfuture" target="mentalhealthawarenessweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savedibangvalley">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="bandeforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climatemw">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="buildabetterfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fightallcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="week61">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="fffdigitalstrike">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="novosibirsk">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="youthstrikeforclimate">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="stailcdigiteach">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="onemillionofus">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaysforfuture" target="lönnemo">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climatestrikr">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="iwd2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="grandparentsforfuture">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="forestfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="solidarityeuropeanclimatestrike">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="eco">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="buongiornoatutti">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="worldpeace">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="groningen">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="derechosdeniñosyniñas">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="radtkeleaks">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="climateawarenessaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="chester">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="xrfamilies">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="loveletterstomotherearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="letusbeheard">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="indigenouslaw">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="yyjtraffic">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="dontbesilenced">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="catsforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="sopitasxairelibre">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="cop">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="jfb">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridaysforfuture" target="belugagrads">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="help">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="radtke">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="sovereigntyday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="resist250">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="iltempodioshø">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="youthled">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="unfitforoffice">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="abpoli">
+  <data key="d0">8</data>
+</edge>
+<edge source="fridaysforfuture" target="greveduclimat">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="moinmoin">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="strikeforaustralia">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="thankyousafer">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="rogerwakeupnow">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="zerocarbon">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="i̇stanbul">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="congorainforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savethecongorainforest">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="congoforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="crclimatestrikers">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="neve">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="facciamorete">
+  <data key="d0">9</data>
+</edge>
+<edge source="fridaysforfuture" target="timepersonoftheyear2019">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="nithyananda">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="climatedeedsnotwords">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="cumbresocialclima">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="ultimatumcop25">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="6dmarchaporelclima">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bagneux">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="hautsdeseine">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="municipales">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="huh">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="strajkklimatyczny">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfuture" target="dpareporter">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="klimastrejke">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="exeter">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="liverpool">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="burningpollutionnosolution">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfuture" target="thanksgiving">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="museichehannostoffa">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="portsmouth">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="enoughisenough">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="deepstrike">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="cumbresblancas">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="goals">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="tour2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="stiamorock">
+  <data key="d0">8</data>
+</edge>
+<edge source="fridaysforfuture" target="python">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="savehasdeo">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="sevenworldsoneplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="animali">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="waterislife">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfuture" target="bced">
+  <data key="d0">2</data>
+</edge>
+<edge source="polluters" target="nofutureinfossilfuels">
+  <data key="d0">1</data>
+</edge>
+<edge source="derechosdeniñosyniñas" target="acciónclimática">
+  <data key="d0">1</data>
+</edge>
+<edge source="locustsattack" target="savewesternghats">
+  <data key="d0">1</data>
+</edge>
+<edge source="nucléaire" target="netzeroneedsnuclear">
   <data key="d0">1</data>
 </edge>
 <edge source="tiredearth" target="climatestrikeonline">
   <data key="d0">4</data>
 </edge>
+<edge source="tiredearth" target="blacklivesmatter">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiredearth" target="forests">
+  <data key="d0">1</data>
+</edge>
 <edge source="tiredearth" target="climatecrises">
   <data key="d0">1</data>
 </edge>
-<edge source="tiredearth" target="noforestsnofuture">
+<edge source="cliamtestrike" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="tiredearth" target="shoolstrikeweekonline">
+<edge source="cliamtestrike" target="saveearth">
   <data key="d0">1</data>
 </edge>
-<edge source="keepmamaafricagreen" target="climatestrikeonline">
+<edge source="cliamtestrike" target="treatacrisislikeacrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="ragazzacci" target="tour2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="ragazzacci" target="stiamorock">
+  <data key="d0">7</data>
+</edge>
+<edge source="занацпарки" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="2doc" target="iamgreta">
+  <data key="d0">1</data>
+</edge>
+<edge source="onemillionofus" target="climatestrikeonline">
   <data key="d0">2</data>
 </edge>
-<edge source="strikeforclimate" target="quitfossilfuels">
+<edge source="time4truth" target="actintime">
   <data key="d0">1</data>
 </edge>
-<edge source="strikeforclimate" target="southafrica">
+<edge source="time4truth" target="glasgowclimatepact">
   <data key="d0">1</data>
 </edge>
-<edge source="togetherathome" target="climatestrikeonline">
+<edge source="time4truth" target="transiciónenergética">
   <data key="d0">1</data>
 </edge>
-<edge source="cycloneamphan" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="biodiversityday" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="biodiversityday" target="fornature">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahmedsamirsantawy" target="patrickzaki">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahmedsamirsantawy" target="freeassange">
-  <data key="d0">1</data>
-</edge>
-<edge source="2021year" target="bye2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="thefuturewewant" target="climatestrikeonline">
-  <data key="d0">1</data>
-</edge>
-<edge source="thefuturewewant" target="fornature">
-  <data key="d0">1</data>
-</edge>
-<edge source="thefuturewewant" target="goinggreen">
-  <data key="d0">1</data>
-</edge>
-<edge source="1day" target="fffsenegal">
-  <data key="d0">1</data>
-</edge>
-<edge source="24s" target="bastadefalsassoluciones">
-  <data key="d0">4</data>
-</edge>
-<edge source="climatestrikeonline" target="fornature">
-  <data key="d0">6</data>
-</edge>
-<edge source="climatestrikeonline" target="endclimatesilence">
+<edge source="exitcoalnow" target="netzeroneedsnuclear">
   <data key="d0">2</data>
 </edge>
-<edge source="climatestrikeonline" target="flattenthecurve">
-  <data key="d0">67</data>
-</edge>
-<edge source="climatestrikeonline" target="gurugram">
-  <data key="d0">2</data>
-</edge>
-<edge source="climatestrikeonline" target="digitalprotest">
-  <data key="d0">2</data>
-</edge>
-<edge source="climatestrikeonline" target="veckobrevforfuture">
+<edge source="greenhousegas" target="rapidreduction2030">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="forasalles">
+<edge source="saveourplanet" target="savetheplanet">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="温室効果ガス削減目標の大幅引き上げを求めます">
+<edge source="victoriabc" target="mindthegap">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="strikeonline">
+<edge source="victoriabc" target="yyjtraffic">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="fffdigital">
-  <data key="d0">5</data>
-</edge>
-<edge source="climatestrikeonline" target="greencourse">
+<edge source="patrickzaki" target="nowar">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="actonfaso">
+<edge source="patrickzaki" target="padredalloglio">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="changeclimate">
+<edge source="patrickzaki" target="ahmedsamirsantawy">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="занацпарки">
+<edge source="patrickzaki" target="veritapergiulioregeni">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="desertificationanddroughtday">
+<edge source="junkterrorbill" target="blacklivesmatter">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="noforestsnofuture">
+<edge source="junkterrorbill" target="savethesahel">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="shoolstrikeweekonline">
+<edge source="junkterrorbill" target="savecongoforestflora_fauna">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikeonline" target="internationalworkersday">
+<edge source="amazonrainforest" target="makeecocideacrime">
   <data key="d0">1</data>
 </edge>
-<edge source="fffdigital" target="digitalprotest">
+<edge source="amazonrainforest" target="wearewatchingyou">
   <data key="d0">1</data>
 </edge>
-<edge source="fffdigital" target="fridaysforfutureafghanistan">
+<edge source="savetheplanet" target="peoplenotprofit">
   <data key="d0">1</data>
 </edge>
-<edge source="jee2020" target="postponejee_neet">
+<edge source="savetheplanet" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="noforestsnofuture" target="shoolstrikeweekonline">
+<edge source="savetheplanet" target="noplanetb">
   <data key="d0">1</data>
 </edge>
-<edge source="flattenthecurve" target="fornature">
+<edge source="savetheplanet" target="forpeopleforplanet">
   <data key="d0">1</data>
 </edge>
-<edge source="bicycle" target="plant">
+<edge source="savetheplanet" target="savethetrees">
   <data key="d0">1</data>
 </edge>
-<edge source="rebelforlife" target="endclimatesilence">
-  <data key="d0">2</data>
-</edge>
-<edge source="unga" target="gretathurnberg">
+<edge source="savetheplanet" target="childrenareourfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="patrickzaki" target="freeassange">
+<edge source="savetheplanet" target="saveourselves">
   <data key="d0">1</data>
 </edge>
-<edge source="climatecricis" target="beyondcoal">
+<edge source="savetheplanet" target="facciamorete">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikecanada" target="gretathurnberg">
-  <data key="d0">2</data>
-</edge>
-<edge source="climatestrikecanada" target="writingcommmunity">
+<edge source="fff_ukraine" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikecanada" target="huh">
+<edge source="mentalhealthawarenessweek" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="actonfaso" target="savecalifornia">
+<edge source="actonyourpromises" target="mindthegap">
   <data key="d0">1</data>
 </edge>
-<edge source="asiaforclimate" target="kamayparasaklima">
+<edge source="coatofhopes" target="cop26glasow">
+  <data key="d0">1</data>
+</edge>
+<edge source="fire" target="greece">
+  <data key="d0">1</data>
+</edge>
+<edge source="manitoba" target="cdnpoli">
   <data key="d0">3</data>
 </edge>
-<edge source="tweetme" target="writerlift">
+<edge source="stopbeingfossilfools" target="farmersprotest">
   <data key="d0">1</data>
 </edge>
-<edge source="climatestrikela" target="gretathurnberg">
+<edge source="forests" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="hs2rebellion" target="shuttheshites">
+<edge source="forests" target="cycloneapmhan">
   <data key="d0">1</data>
 </edge>
-<edge source="manitoba" target="endclimatesilence">
+<edge source="вместезаклимат" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="earthday22" target="earthday">
   <data key="d0">1</data>
 </edge>
-<edge source="beingadad" target="sadhguru">
+<edge source="veckobrevforfuture" target="climatestrikeonline">
   <data key="d0">1</data>
 </edge>
-<edge source="fornature" target="biodiversitycrisis">
+<edge source="indigenouslivesmatter" target="blacklivesmatter">
   <data key="d0">1</data>
 </edge>
-<edge source="writerlift" target="writingcommmunity">
+<edge source="indigenouslivesmatter" target="happyenvironmentday2020">
   <data key="d0">1</data>
 </edge>
-<edge source="digitalprotest" target="fridaysforfutureafghanistan">
+<edge source="ilmastotwitter" target="cleavageforclimate">
   <data key="d0">1</data>
 </edge>
-<edge source="vegansforfuture" target="animalrebellion">
+<edge source="loveletterstomotherearth" target="xrfamilies">
   <data key="d0">1</data>
 </edge>
-<edge source="sadhguru" target="dayoftheafricanchild">
+<edge source="glasgowclimatepact" target="peoplenotprofit">
   <data key="d0">1</data>
 </edge>
-<edge source="katebernadette" target="resist250">
+<edge source="glasgowclimatepact" target="actintime">
+  <data key="d0">1</data>
+</edge>
+<edge source="farmersprotest" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="ireland" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="ireland" target="noplanetb">
+  <data key="d0">1</data>
+</edge>
+<edge source="indigenousrights" target="stayathome">
+  <data key="d0">1</data>
+</edge>
+<edge source="indigenousrights" target="savunucularısavun">
+  <data key="d0">1</data>
+</edge>
+<edge source="indigenousrights" target="notoracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewesternghats" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="savewesternghats" target="savedibangvalley">
+  <data key="d0">2</data>
+</edge>
+<edge source="savewesternghats" target="bandeforestation">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewesternghats" target="climatemw">
+  <data key="d0">1</data>
+</edge>
+<edge source="sinistra" target="ecologia">
+  <data key="d0">1</data>
+</edge>
+<edge source="buildabetterfuture" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="hautsdeseine" target="bagneux">
+  <data key="d0">1</data>
+</edge>
+<edge source="hautsdeseine" target="municipales">
+  <data key="d0">1</data>
+</edge>
+<edge source="cumbriacoalmine" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="mapoli" target="noweymouthcompressor">
+  <data key="d0">2</data>
+</edge>
+<edge source="sistemiköktendeğiştir" target="i̇klimgrevi2021">
+  <data key="d0">2</data>
+</edge>
+<edge source="boycottpollutants" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="savecongoforest_fauna_flora" target="africaisnotadumpster">
+  <data key="d0">1</data>
+</edge>
+<edge source="wearewatchingyou" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="wearewatchingyou" target="makeecocideacrime">
+  <data key="d0">1</data>
+</edge>
+<edge source="tomradtke" target="radtkeleaks">
+  <data key="d0">2</data>
+</edge>
+<edge source="tomradtke" target="sina">
+  <data key="d0">1</data>
+</edge>
+<edge source="treatacrisislikeacrisis" target="climatestrikeonline">
+  <data key="d0">3</data>
+</edge>
+<edge source="treatacrisislikeacrisis" target="mindthegap">
+  <data key="d0">3</data>
+</edge>
+<edge source="treatacrisislikeacrisis" target="saveearth">
+  <data key="d0">3</data>
+</edge>
+<edge source="plastichearts" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="plastichearts" target="africaisnotadumpster">
+  <data key="d0">1</data>
+</edge>
+<edge source="huelgaclimática" target="emergenciaclimática">
+  <data key="d0">1</data>
+</edge>
+<edge source="africaisnotadumpster" target="climatestrikeonline">
+  <data key="d0">11</data>
+</edge>
+<edge source="abpoli" target="cdnpoli">
+  <data key="d0">4</data>
+</edge>
+<edge source="mapa" target="peoplenotprofit">
+  <data key="d0">1</data>
+</edge>
+<edge source="valència" target="noplanetb">
+  <data key="d0">1</data>
+</edge>
+<edge source="striking" target="fasting">
+  <data key="d0">1</data>
+</edge>
+<edge source="striking" target="mindthegap">
+  <data key="d0">1</data>
+</edge>
+<edge source="emergenciaclimática" target="25s">
+  <data key="d0">2</data>
+</edge>
+<edge source="boomersforclimatejustice" target="climatestrikeonline">
+  <data key="d0">54</data>
+</edge>
+<edge source="boomersforclimatejustice" target="earthday">
+  <data key="d0">1</data>
+</edge>
+<edge source="savunucularısavun" target="stayathome">
+  <data key="d0">1</data>
+</edge>
+<edge source="savunucularısavun" target="notoracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="stayathome" target="climatestrikeonline">
+  <data key="d0">62</data>
+</edge>
+<edge source="stayathome" target="socialdistancing">
+  <data key="d0">1</data>
+</edge>
+<edge source="stayathome" target="actonscience">
+  <data key="d0">1</data>
+</edge>
+<edge source="clinate" target="coastalroad">
+  <data key="d0">1</data>
+</edge>
+<edge source="socialsummit" target="cumbresocialclima">
+  <data key="d0">1</data>
+</edge>
+<edge source="farmbills2020" target="farmersprotestdelhi2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="dpareporter" target="klimastrejke">
+  <data key="d0">1</data>
+</edge>
+<edge source="youthclimatestrike" target="peoplenotprofit">
+  <data key="d0">1</data>
+</edge>
+<edge source="youthclimatestrike" target="cdnpoli">
+  <data key="d0">1</data>
+</edge>
+<edge source="stailcdigiteach" target="noplanetb">
+  <data key="d0">1</data>
+</edge>
+<edge source="actintime" target="peoplenotprofit">
+  <data key="d0">1</data>
+</edge>
+<edge source="actintime" target="transiciónenergética">
+  <data key="d0">1</data>
+</edge>
+<edge source="bcpoli" target="cdnpoli">
+  <data key="d0">12</data>
+</edge>
+<edge source="bcpoli" target="stoptmx">
+  <data key="d0">4</data>
+</edge>
+<edge source="bcpoli" target="vanpoli">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatemw" target="savedibangvalley">
+  <data key="d0">1</data>
+</edge>
+<edge source="cdnpoli" target="climatemarch">
+  <data key="d0">1</data>
+</edge>
+<edge source="cdnpoli" target="foodsecurity">
+  <data key="d0">1</data>
+</edge>
+<edge source="cdnpoli" target="huh">
+  <data key="d0">1</data>
+</edge>
+<edge source="cdnpoli" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="municipales" target="bagneux">
+  <data key="d0">1</data>
+</edge>
+<edge source="nomowmay" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="nomowmay" target="climateactionbill">
+  <data key="d0">1</data>
+</edge>
+<edge source="bandeforestation" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="bandeforestation" target="savedibangvalley">
+  <data key="d0">1</data>
+</edge>
+<edge source="cumbresocialclima" target="copforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="nowar" target="peoplenotprofit">
+  <data key="d0">1</data>
+</edge>
+<edge source="nowar" target="climatestrikeonline">
+  <data key="d0">17</data>
+</edge>
+<edge source="nowar" target="padredalloglio">
+  <data key="d0">1</data>
+</edge>
+<edge source="nowar" target="ahmedsamirsantawy">
+  <data key="d0">1</data>
+</edge>
+<edge source="nowar" target="veritapergiulioregeni">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplenotprofit" target="earthdayis365days">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplenotprofit" target="climatestrikeonline">
+  <data key="d0">7</data>
+</edge>
+<edge source="peoplenotprofit" target="lossanddamage">
+  <data key="d0">6</data>
+</edge>
+<edge source="peoplenotprofit" target="earthday">
+  <data key="d0">8</data>
+</edge>
+<edge source="peoplenotprofit" target="saveearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplenotprofit" target="transiciónenergética">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplenotprofit" target="brighters">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateactionbill" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="jfb" target="radtkeleaks">
+  <data key="d0">1</data>
+</edge>
+<edge source="acab" target="blacklivesmatter">
+  <data key="d0">1</data>
+</edge>
+<edge source="acab" target="pride">
+  <data key="d0">1</data>
+</edge>
+<edge source="nomusiconadeadplanet" target="noplanetb">
+  <data key="d0">1</data>
+</edge>
+<edge source="keinea66" target="koalitionsgespraeche">
+  <data key="d0">1</data>
+</edge>
+<edge source="keinea66" target="fecherbleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="schoolstrikeweek" target="mindthegap">
+  <data key="d0">1</data>
+</edge>
+<edge source="protectthearctic" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="cycloneapmhan" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="noplanetb" target="climatestrikeonline">
+  <data key="d0">5</data>
+</edge>
+<edge source="noplanetb" target="savethetrees">
+  <data key="d0">1</data>
+</edge>
+<edge source="fightfor1point" target="mindthegap">
+  <data key="d0">1</data>
+</edge>
+<edge source="blocktddz" target="blacklivesmatter">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveeia" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="saveeia" target="actonscience">
+  <data key="d0">1</data>
+</edge>
+<edge source="nithyananda" target="timepersonoftheyear2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="flooding" target="climatered">
+  <data key="d0">1</data>
+</edge>
+<edge source="frackoffpse" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthdayis365days" target="mindthegap">
+  <data key="d0">1</data>
+</edge>
+<edge source="straykids" target="noeasy_iscoming">
+  <data key="d0">1</data>
+</edge>
+<edge source="shuttheshites" target="hs2rebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="socialdistancing" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="socialdistancing" target="savethesahel">
+  <data key="d0">2</data>
+</edge>
+<edge source="nonfossilizziamoci" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatemarch" target="earthday">
+  <data key="d0">1</data>
+</edge>
+<edge source="savethesahel" target="blacklivesmatter">
+  <data key="d0">2</data>
+</edge>
+<edge source="savethesahel" target="savecongoforestflora_fauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="linköping" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="mumbaikars" target="coastalroad">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatefriday" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="sadhguru" target="onlyoneearth">
+  <data key="d0">6</data>
+</edge>
+<edge source="ynetartcontest2022" target="earthday">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahmedsamirsantawy" target="padredalloglio">
+  <data key="d0">1</data>
+</edge>
+<edge source="ahmedsamirsantawy" target="veritapergiulioregeni">
+  <data key="d0">1</data>
+</edge>
+<edge source="padredalloglio" target="veritapergiulioregeni">
+  <data key="d0">1</data>
+</edge>
+<edge source="lostchildren" target="firstnations">
+  <data key="d0">1</data>
+</edge>
+<edge source="greatgreenwall" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="greatgreenwall" target="onebilliontreesforafrica">
+  <data key="d0">1</data>
+</edge>
+<edge source="fffmapa" target="stopglobalwarming">
+  <data key="d0">1</data>
+</edge>
+<edge source="blacklivesmatter" target="pride">
+  <data key="d0">1</data>
+</edge>
+<edge source="blacklivesmatter" target="savecongoforestflora_fauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="blacklivesmatter" target="happyenvironmentday2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveeverything" target="huh">
+  <data key="d0">1</data>
+</edge>
+<edge source="youth2030" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="fasting" target="mindthegap">
+  <data key="d0">2</data>
+</edge>
+<edge source="grevepeloclima" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="grevepeloclima" target="forasalles">
+  <data key="d0">1</data>
+</edge>
+<edge source="haryana" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="hs2rebellion" target="rebeltrail">
+  <data key="d0">1</data>
+</edge>
+<edge source="sovereigntyday" target="resist250">
+  <data key="d0">1</data>
+</edge>
+<edge source="listentothescience" target="climatestrikeonline">
+  <data key="d0">2</data>
+</edge>
+<edge source="stoppapreem" target="climatestrikeonline">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="mindthegap">
+  <data key="d0">43</data>
+</edge>
+<edge source="climatestrikeonline" target="stopglobalwarming">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="saveearth">
+  <data key="d0">3</data>
+</edge>
+<edge source="climatestrikeonline" target="savetheearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="onebilliontreesforafrica">
+  <data key="d0">4</data>
+</edge>
+<edge source="climatestrikeonline" target="colombiasos">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="paronacionalcolombia">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="standwithdisharavi">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="bekind">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="actonscience">
+  <data key="d0">7</data>
+</edge>
+<edge source="climatestrikeonline" target="кліматичнийстрайк">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="noexistevacunaparalacrisisclimatica">
+  <data key="d0">3</data>
+</edge>
+<edge source="climatestrikeonline" target="internationalplasticbagfreeday">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="savedibangvalley">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="fightallcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeonline" target="fffdigitalstrike">
+  <data key="d0">2</data>
+</edge>
+<edge source="climatestrikeonline" target="lönnemo">
+  <data key="d0">1</data>
+</edge>
+<edge source="mindthegap" target="stopglobalwarming">
+  <data key="d0">1</data>
+</edge>
+<edge source="mindthegap" target="saveearth">
+  <data key="d0">4</data>
+</edge>
+<edge source="mindthegap" target="mpa">
+  <data key="d0">1</data>
+</edge>
+<edge source="mindthegap" target="onebilliontreesforafrica">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveearth" target="stopglobalwarming">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveearth" target="forpeopleforplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="jee_neetcanwait" target="postponejee_neet">
+  <data key="d0">1</data>
+</edge>
+<edge source="i̇kizderetaşocağıolmasın" target="makeecocideacrime">
+  <data key="d0">1</data>
+</edge>
+<edge source="gulfstreamcollapse" target="ourcommonhome">
+  <data key="d0">1</data>
+</edge>
+<edge source="colombiasos" target="paronacionalcolombia">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthday" target="forpeopleforplanet">
   <data key="d0">1</data>
 </edge>
 </graph></graphml>
