@@ -1,1320 +1,3438 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
-<graph edgedefault="undirected"><node id="konflikten"/>
-<node id="fff"/>
-<node id="waldstattasphalt"/>
-<node id="heimatschutz"/>
-<node id="dijon"/>
-<node id="zivilgesellschaft"/>
-<node id="südamerika"/>
-<node id="energiesparen"/>
-<node id="nazi"/>
-<node id="netzstreikfuersklima"/>
-<node id="servicetweet"/>
-<node id="spdvorsitz"/>
-<node id="konjunkturpaket"/>
-<node id="kohlekraftwerk"/>
-<node id="soros"/>
-<node id="kirche"/>
-<node id="bewusstsein"/>
-<node id="sogeht1komma5"/>
-<node id="telegram"/>
-<node id="alsfeld"/>
-<node id="totalitär"/>
-<node id="akws"/>
-<node id="makeparisreal"/>
-<node id="mönchengladbach"/>
-<node id="windkraftanlagen"/>
-<node id="astronaut"/>
-<node id="nichtmeinklimapaket"/>
-<node id="wärme"/>
-<node id="ardwahlarena"/>
-<node id="wef"/>
-<node id="lufthansa"/>
-<node id="bielefeld"/>
-<node id="energiekonzerne"/>
-<node id="grossekohlekoalition"/>
-<node id="wirfahrenzusammen"/>
-<node id="erneuerbareeneegien"/>
-<node id="steinmeier"/>
-<node id="klassenklimakampf"/>
-<node id="palmer"/>
-<node id="streiken"/>
-<node id="rezo"/>
-<node id="ökozial"/>
-<node id="frankfurt"/>
-<node id="keinea49"/>
-<node id="klimakoalition"/>
-<node id="robinwood"/>
-<node id="wahl2021"/>
-<node id="baerbockjetzterstrecht"/>
-<node id="hamburgklimawahl"/>
-<node id="ronjamaltzahn"/>
-<node id="klöckner"/>
-<node id="tod"/>
-<node id="gehtwählen"/>
-<node id="herrenloswald"/>
-<node id="hhbue2020"/>
-<node id="erdöl"/>
-<node id="gersweiler"/>
-<node id="energiepolitik"/>
-<node id="klimabubble"/>
-<node id="lithium"/>
-<node id="spiegelgates"/>
-<node id="rotorblätter"/>
-<node id="nicht_mein_endlager"/>
-<node id="niemehrcsu"/>
-<node id="großekohlekoalition"/>
-<node id="bundestagswahl"/>
-<node id="zivilerungehorsam"/>
-<node id="sondergenehmigung"/>
-<node id="akw"/>
-<node id="naidoo"/>
-<node id="bäume"/>
-<node id="türkei"/>
-<node id="covidー19uk"/>
-<node id="umweltschutz"/>
-<node id="nettonull"/>
-<node id="nato"/>
-<node id="atomkraft"/>
-<node id="hitler"/>
-<node id="stromausfall"/>
-<node id="freivonöl"/>
-<node id="klimaschutzaktivisten"/>
-<node id="dorfspaziergang"/>
-<node id="meintwitterjubiläum"/>
-<node id="klimaprotesten"/>
-<node id="fachkräftemangel"/>
-<node id="merz"/>
-<node id="antifa"/>
-<node id="faktenfinder"/>
-<node id="neinzurafd"/>
-<node id="greta"/>
-<node id="lügenpresse"/>
-<node id="atom"/>
-<node id="witten"/>
-<node id="gerechtigkeitjetzt"/>
-<node id="equity"/>
-<node id="linksextremismus"/>
-<node id="niemehrcdu"/>
-<node id="annewill"/>
-<node id="followerpower"/>
-<node id="grünen"/>
-<node id="schwurbel"/>
-<node id="ms2310"/>
-<node id="kohleausstieg"/>
-<node id="koeln0401"/>
-<node id="windenergie"/>
-<node id="enercon"/>
-<node id="abfckprämie"/>
-<node id="neuesjahr"/>
-<node id="extremistisch"/>
-<node id="mauerfall"/>
-<node id="bombendrohungen"/>
-<node id="krippe"/>
-<node id="hitzerekorden"/>
-<node id="vergangenheitsbewältigung"/>
-<node id="solarpark"/>
-<node id="quaschning2go"/>
-<node id="quandt"/>
-<node id="duisburg"/>
-<node id="tasmanien"/>
-<node id="rackete"/>
-<node id="dnp14"/>
-<node id="parteien"/>
-<node id="sicherheitseinspeisesystem"/>
-<node id="klimaerwärmung"/>
-<node id="ab16jahre"/>
-<node id="brennstoffe"/>
-<node id="ukrainekrieg"/>
-<node id="g20"/>
-<node id="deutschunterricht"/>
-<node id="hamburgwaehltklima"/>
-<node id="putins"/>
-<node id="demoradio"/>
-<node id="vegetarier"/>
-<node id="1mai"/>
-<node id="konzert"/>
-<node id="covidー19"/>
-<node id="antarktis"/>
-<node id="ipcc"/>
-<node id="krieggegendrogen"/>
-<node id="autoprämie"/>
-<node id="regen"/>
-<node id="hannover"/>
-<node id="howdareyou"/>
-<node id="autowahnsinn"/>
-<node id="energiearmut"/>
-<node id="backlash"/>
-<node id="pendlerpauschale"/>
-<node id="freiheit"/>
-<node id="niemehrcducsu"/>
-<node id="covid2019"/>
-<node id="extremismus"/>
-<node id="gas"/>
-<node id="streikmituns"/>
-<node id="kohleeinstiegsgesetz"/>
-<node id="netzstreikfürsklima"/>
-<node id="klimaregierung"/>
-<node id="pegidawütet"/>
-<node id="lng"/>
-<node id="autogipfel"/>
-<node id="aktionschlagloch"/>
-<node id="luisaneubauer"/>
-<node id="livestreamforfuture"/>
-<node id="unbegleitete"/>
-<node id="wasserstoff"/>
-<node id="vw"/>
-<node id="dreads"/>
-<node id="rassismus"/>
-<node id="wetter"/>
-<node id="sachsen"/>
-<node id="coronavirusat"/>
-<node id="technikfeinden"/>
-<node id="tagderarbeit"/>
-<node id="co2gesetz"/>
-<node id="vmk"/>
-<node id="brokdorf"/>
-<node id="maischberger"/>
-<node id="r1mb"/>
-<node id="rtl"/>
-<node id="koalitionsverhandlungen"/>
-<node id="karneval"/>
-<node id="fckrwe"/>
-<node id="dieanstalt"/>
-<node id="terror"/>
-<node id="linkebpt"/>
-<node id="leipzig"/>
-<node id="rostock"/>
-<node id="coronazeit"/>
-<node id="shootingstar"/>
-<node id="altmaier"/>
-<node id="machtsendlich"/>
-<node id="klimaaktivisten"/>
-<node id="twlz"/>
-<node id="atommüll"/>
-<node id="parentsforfuture"/>
-<node id="fffhalle"/>
-<node id="radwege"/>
-<node id="skolstrejkförklimatet"/>
-<node id="maybritillner"/>
-<node id="heartlandlobby"/>
-<node id="klimafaschos"/>
-<node id="islamistischen"/>
-<node id="vollgasindiekrise"/>
-<node id="hh2102"/>
-<node id="eeg"/>
-<node id="milan"/>
-<node id="dannilebt"/>
-<node id="nichtverhandelbar"/>
-<node id="niedersachsen"/>
-<node id="jahr2020"/>
-<node id="veganer"/>
-<node id="haustür"/>
-<node id="bundestagswahl2021"/>
-<node id="bundesverfassungsgericht"/>
-<node id="afdiststaatszersetzend"/>
-<node id="meeresspiegel"/>
-<node id="plauen"/>
-<node id="windräder"/>
-<node id="davos2020"/>
-<node id="hhbue"/>
-<node id="drugpolicyreform"/>
-<node id="mädchen"/>
-<node id="aachen"/>
-<node id="antifacafé"/>
-<node id="settlercolonialism"/>
-<node id="ökofaschismus"/>
+<graph edgedefault="undirected"><node id="transito"/>
+<node id="thursdaymorning"/>
+<node id="saturdayvibes"/>
+<node id="healthy"/>
+<node id="牛肉"/>
+<node id="cuma"/>
+<node id="fridaykiss"/>
+<node id="mithileshbaria"/>
+<node id="未来のために肉食減らそう"/>
+<node id="thenationnews"/>
+<node id="chalukyadynasty"/>
+<node id="ff14"/>
+<node id="failure"/>
+<node id="garden"/>
+<node id="すき焼き"/>
+<node id="wet"/>
+<node id="invest"/>
+<node id="kills"/>
+<node id="museumweek2022"/>
+<node id="amman"/>
+<node id="savewildlife"/>
+<node id="finance"/>
+<node id="waahmuz"/>
+<node id="beauty"/>
+<node id="vaylatoken"/>
+<node id="ejecafetero"/>
+<node id="mrsindiarajasthan2019"/>
+<node id="newsqueen"/>
+<node id="interiordesign"/>
+<node id="friends"/>
+<node id="earthpix"/>
+<node id="germanmediart"/>
+<node id="gamedev"/>
+<node id="contestalert"/>
+<node id="sewaactivitiesbyashram"/>
+<node id="endpatriarchy"/>
+<node id="sociamedia"/>
+<node id="dogs"/>
+<node id="saladdays"/>
+<node id="fikafuntimes"/>
+<node id="sundayforfuture"/>
+<node id="vita"/>
+<node id="stopanimalabuse"/>
+<node id="rajajitigerreserve"/>
+<node id="changeiscoming"/>
+<node id="amigos"/>
+<node id="気候正義"/>
+<node id="indianarmy"/>
+<node id="fridayfitness"/>
+<node id="karma"/>
+<node id="vicentelopez"/>
+<node id="fridayvibes"/>
+<node id="target"/>
+<node id="december"/>
+<node id="gift"/>
+<node id="beaware"/>
+<node id="crueltyfree"/>
+<node id="ceo"/>
+<node id="contestofchampions"/>
+<node id="asprinkleofsorcery"/>
+<node id="wednesdaywisdom"/>
+<node id="indiaves"/>
+<node id="schools"/>
+<node id="vinter"/>
+<node id="homophobic"/>
+<node id="abandoned"/>
+<node id="weekendvibes"/>
+<node id="nextgenerationleaders"/>
+<node id="sundayshoutout"/>
+<node id="singleparents"/>
+<node id="december13th"/>
+<node id="山口県"/>
+<node id="cardano"/>
+<node id="fffsantiago"/>
+<node id="thefuturewechoose"/>
+<node id="positivemindset"/>
+<node id="唐揚げ"/>
+<node id="エコ"/>
+<node id="rest"/>
+<node id="twitterworld"/>
+<node id="lifemantrabypriya"/>
+<node id="caturday"/>
+<node id="wtf"/>
+<node id="diaryoftips"/>
+<node id="zeehindustanquotes"/>
+<node id="felizviernesatodos"/>
+<node id="lovewhereyoulive"/>
+<node id="compassionateliving"/>
+<node id="catsofinstagram"/>
+<node id="おうちご飯"/>
+<node id="6ix9ine"/>
+<node id="endspeciesism"/>
+<node id="sudhakongara"/>
+<node id="skincare"/>
+<node id="vegansforfuture"/>
+<node id="photography"/>
+<node id="armeniastrong"/>
+<node id="retweet"/>
+<node id="mutantfam"/>
+<node id="sadhguruquotes"/>
+<node id="review"/>
+<node id="trending"/>
+<node id="blog"/>
+<node id="quizzed"/>
+<node id="abstractart"/>
+<node id="tweetme"/>
+<node id="derechosdeniñosyniñas"/>
+<node id="dharshan"/>
+<node id="funfactfriday"/>
+<node id="ligue_des_optimistes"/>
+<node id="care"/>
+<node id="mediatrainer"/>
+<node id="foodblog"/>
+<node id="nojudgement"/>
+<node id="ecologie"/>
+<node id="climat"/>
+<node id="nftcommunity"/>
+<node id="surprise"/>
+<node id="exception"/>
+<node id="links"/>
+<node id="macysblackfriday"/>
+<node id="november1st"/>
+<node id="fridayforfuturechile"/>
+<node id="focus"/>
+<node id="ビーガン"/>
+<node id="happyvalentinesday"/>
+<node id="enjoyingeverydaylife"/>
+<node id="lacocinadeespaña"/>
+<node id="bigschoolsbirdwatch"/>
+<node id="byte"/>
+<node id="vivian"/>
+<node id="ees20"/>
+<node id="allstars7"/>
+<node id="राष्ट्रवादिराठौर"/>
+<node id="superm_jopping"/>
+<node id="contestalertindia"/>
+<node id="youtuber募集"/>
+<node id="retweetplease"/>
+<node id="heroes"/>
+<node id="昼ごはん"/>
+<node id="cardanowomen"/>
+<node id="abandonedplaces"/>
+<node id="owl"/>
+<node id="selfietime"/>
+<node id="dadijanki"/>
+<node id="sunshine"/>
+<node id="author"/>
+<node id="city"/>
+<node id="stopthegrind"/>
+<node id="pariserabkommen"/>
+<node id="nftcollector"/>
+<node id="tuesdaymotivation"/>
+<node id="wellbeing"/>
+<node id="captivity"/>
+<node id="chocolate"/>
+<node id="foodpics"/>
+<node id="aapkahealthbuddy"/>
+<node id="joker"/>
+<node id="motivation"/>
+<node id="dolphinday"/>
+<node id="something"/>
+<node id="pyarkiiyeekkahani"/>
+<node id="swadeshi"/>
+<node id="freakyfriday"/>
+<node id="nomoreemptypromisis"/>
+<node id="inspiration"/>
+<node id="forcefriday"/>
+<node id="birding"/>
+<node id="costabrava"/>
+<node id="landscape"/>
+<node id="बापूजी"/>
+<node id="enjoynature"/>
+<node id="justice"/>
+<node id="bird"/>
+<node id="ourplanet"/>
+<node id="like4like"/>
+<node id="おうちごはん"/>
+<node id="biodiversität"/>
+<node id="nature"/>
+<node id="牛丼"/>
+<node id="noanimaluse"/>
+<node id="italy"/>
+<node id="animalcruelty"/>
+<node id="supremeplay"/>
+<node id="timezone"/>
+<node id="vegan"/>
+<node id="agrarwende"/>
+<node id="cuomocommunity"/>
+<node id="rishikesh"/>
+<node id="klimastrategie"/>
+<node id="worklifebalance"/>
+<node id="emotions"/>
+<node id="planetaazul"/>
+<node id="fridayreads"/>
+<node id="thecorporatelady"/>
+<node id="venerdi13"/>
+<node id="leadership"/>
+<node id="cat"/>
+<node id="morningglory"/>
+<node id="swachhatajaarihai"/>
+<node id="frackboris"/>
+<node id="zorasarahcreates"/>
+<node id="cupofuji"/>
+<node id="विश्वविख्यातकवयित्रीडॉकविताकिरण"/>
+<node id="visitwarangal"/>
+<node id="stopthewar"/>
+<node id="पॉलीथिनहटाओपर्यावरणबचाओ"/>
+<node id="仙台麩"/>
+<node id="breakfastclub"/>
+<node id="stockedge"/>
+<node id="indicttrump"/>
+<node id="kohlsblackfriday"/>
+<node id="zorasarahblogs"/>
+<node id="iqrtg"/>
+<node id="bame"/>
+<node id="bepositive"/>
+<node id="dream"/>
+<node id="comingoutday"/>
+<node id="大豆ミート"/>
+<node id="gelecekiçinkediler"/>
+<node id="gardening"/>
+<node id="2local"/>
+<node id="saturday"/>
+<node id="fabulousfinn"/>
+<node id="気候危機対策に菜食を"/>
+<node id="marketingstrategy"/>
+<node id="getwellsoon"/>
+<node id="secret"/>
+<node id="goodmorningworld"/>
+<node id="islamaphobic"/>
+<node id="funnyvines"/>
+<node id="fridayfun"/>
+<node id="大学生協"/>
+<node id="feelings"/>
+<node id="acciónclimática"/>
+<node id="लखनऊ_विश्वविद्यालय"/>
+<node id="motivationalquotes"/>
+<node id="dogsoftwittter"/>
+<node id="quarantena"/>
+<node id="thatfridayfeeling"/>
+<node id="flowerpower"/>
+<node id="leftovers"/>
+<node id="fursuitfriday"/>
+<node id="2020vision"/>
+<node id="foodies"/>
+<node id="animalrebellion"/>
+<node id="spirituality"/>
+<node id="concepcion"/>
+<node id="gardenersworld"/>
+<node id="livelife"/>
+<node id="thursdayvibes"/>
+<node id="viviandsena"/>
+<node id="anime"/>
+<node id="medibuddy"/>
+<node id="気候危機"/>
+<node id="ocean"/>
+<node id="opseaworld"/>
+<node id="motivacion"/>
+<node id="nutorla"/>
+<node id="good"/>
+<node id="バレンタイン"/>
+<node id="farming"/>
+<node id="positivevibes"/>
+<node id="suku"/>
+<node id="horrorcommunity"/>
+<node id="gardeningtwitter"/>
+<node id="writerlift"/>
+<node id="speciesism"/>
+<node id="neverwalkalone"/>
+<node id="weekendwithbae"/>
+<node id="makeyouhappy"/>
 <node id="chile"/>
-<node id="prowaldgersweiler"/>
-<node id="priebshow"/>
-<node id="bürgerschaftswahl"/>
-<node id="klimafrage"/>
-<node id="joekaeser"/>
-<node id="rotgrün"/>
-<node id="allefürsklima"/>
-<node id="klimapledge"/>
-<node id="australien"/>
-<node id="spargel"/>
-<node id="frontal21"/>
-<node id="naturstattautobahnstruktur"/>
-<node id="krieg"/>
-<node id="klimawahl2020"/>
-<node id="wedare"/>
-<node id="spree"/>
-<node id="systemwandel"/>
-<node id="sterkibleibt"/>
-<node id="e4f"/>
-<node id="meetings"/>
-<node id="kreuzfahrtschiffe"/>
-<node id="halle"/>
-<node id="zentralstreik"/>
-<node id="alledoerferbleiben"/>
-<node id="klimaaktivistin"/>
-<node id="meatloaf"/>
-<node id="kanada"/>
-<node id="laueslüftchen"/>
-<node id="elektroauto"/>
-<node id="hatespeech"/>
-<node id="ac2106"/>
-<node id="oepnvbrauchtzukunft"/>
-<node id="fakenews"/>
-<node id="gashahnzu"/>
-<node id="öko"/>
-<node id="rebellionwave"/>
-<node id="bds"/>
-<node id="covid2019italia"/>
-<node id="hamburgwahl"/>
-<node id="sonnenfinsternis"/>
-<node id="datteln"/>
-<node id="gronau"/>
-<node id="haltdiefressebild"/>
-<node id="fahrrad"/>
-<edge source="konflikten" target="krieg">
+<node id="yyc"/>
+<node id="pakkanen"/>
+<node id="potd"/>
+<node id="स्वदेशी"/>
+<node id="tuesdaythoughts"/>
+<node id="ffs"/>
+<node id="mayday"/>
+<node id="municipales2020"/>
+<node id="beings"/>
+<node id="bestfridaynightplans"/>
+<node id="noracism"/>
+<node id="fortnite"/>
+<node id="cats"/>
+<node id="horrorfamily"/>
+<node id="business"/>
+<node id="kitten"/>
+<node id="now"/>
+<node id="animalrights"/>
+<node id="nfts"/>
+<node id="ernährungswende"/>
+<node id="aacc"/>
+<node id="beautytips"/>
+<node id="fridaythe13th"/>
+<node id="viernes"/>
+<node id="supremeplaymarket"/>
+<node id="winter"/>
+<node id="eat"/>
+<node id="worldanimalwelfareday"/>
+<node id="findesemana"/>
+<node id="हिंदी"/>
+<node id="funday"/>
+<node id="singlesrelationships"/>
+<node id="tbtjuly2019"/>
+<node id="worldbeeday"/>
+<node id="देशभक्त"/>
+<node id="saludparatodos"/>
+<node id="urbex"/>
+<node id="motivational"/>
+<node id="ceoquotes"/>
+<node id="cats4climate"/>
+<node id="productive"/>
+<node id="disinformation"/>
+<node id="fancyfriday"/>
+<node id="グリーンバーガー"/>
+<node id="twitch"/>
+<node id="marketingtips"/>
+<node id="fridaymood"/>
+<node id="area51storm"/>
+<node id="happy"/>
+<node id="gamer"/>
+<node id="traveltribe"/>
+<node id="iphone11"/>
+<node id="mentalhealth"/>
+<node id="denkmaldrübernach"/>
+<node id="fridaynight"/>
+<node id="hola"/>
+<node id="flashbackfridayz"/>
+<node id="goodmorning"/>
+<node id="買い物は投票"/>
+<node id="lucentennialcelebrations"/>
+<node id="streamacademyrt"/>
+<node id="seaspiracy"/>
+<node id="メリークリスマス"/>
+<node id="govegan"/>
+<node id="nichtakleubereinenkammscheren"/>
+<node id="atmosphere"/>
+<node id="quotes"/>
+<node id="womenintech"/>
+<node id="haveagoodday"/>
+<node id="someat"/>
+<node id="photographylovers"/>
+<node id="brekfast"/>
+<node id="millefoglie"/>
+<node id="読書の秋"/>
+<node id="プラントベース"/>
+<node id="temple"/>
+<node id="walmartblackfriday"/>
+<node id="birdwatching"/>
+<node id="travelcorridor"/>
+<node id="chillvibes"/>
+<node id="gvprakash"/>
+<node id="youtube"/>
+<node id="エシカル消費"/>
+<node id="weatherforecast"/>
+<node id="loveall"/>
+<node id="山口"/>
+<node id="empathie"/>
+<node id="opwhales"/>
+<node id="winner"/>
+<node id="tbttemmuz2019"/>
+<node id="ヴィーガン子育てバレンタイン"/>
+<node id="polarisierung"/>
+<node id="शुक्र_श्रीशक्ति"/>
+<node id="ambientemw"/>
+<node id="beinspired"/>
+<node id="dinner"/>
+<node id="womeninnfts"/>
+<node id="visu"/>
+<node id="गाजियाबाद"/>
+<node id="milch"/>
+<node id="सकारात्मक_संदेश"/>
+<node id="danishkaneria"/>
+<node id="playtime"/>
+<node id="climatemomentum"/>
+<node id="glitterglue"/>
+<node id="arresttrump"/>
+<node id="intention"/>
+<node id="standingwithukraine"/>
+<node id="pizza"/>
+<node id="finnslawpart2"/>
+<node id="villarrica"/>
+<node id="vya"/>
+<node id="singlelife"/>
+<node id="maketheconnection"/>
+<node id="sukirtikandpal"/>
+<node id="loveearth"/>
+<node id="ffxiv"/>
+<node id="fridaysforfuturesapporo"/>
+<node id="skincareroutine"/>
+<node id="abhiya"/>
+<node id="atacamadesert"/>
+<node id="feedtheworld"/>
+<node id="germantwitchrt"/>
+<node id="pie"/>
+<node id="nationaldolphinday"/>
+<node id="digitalmarketing"/>
+<node id="cooking"/>
+<node id="giveaway"/>
+<node id="indiaagainstpollution"/>
+<node id="pasta"/>
+<node id="myyoutubechannelwouldbe"/>
+<node id="games"/>
+<node id="zurich"/>
+<node id="theweekendfavour"/>
+<node id="degrowth"/>
+<node id="generationklima"/>
+<node id="funny"/>
+<node id="écologie"/>
+<node id="flowers"/>
+<node id="pourlefutur"/>
+<node id="offers"/>
+<node id="nationalendangeredspeciesday"/>
+<node id="peace"/>
+<node id="animalliberation"/>
+<node id="アースデイ"/>
+<node id="yum"/>
+<node id="thephotohour"/>
+<node id="stream"/>
+<node id="recipe"/>
+<node id="ff"/>
+<node id="win"/>
+<node id="jasonvoorhees"/>
+<node id="lifestyle"/>
+<node id="happyeaster"/>
+<node id="thursdaymotivation"/>
+<node id="dog"/>
+<node id="ココイチ"/>
+<node id="hautsdeseine"/>
+<node id="answer"/>
+<node id="いいにくいことを言う日"/>
+<node id="fashionista"/>
+<node id="animals"/>
+<node id="okenwachukwuma"/>
+<node id="indie"/>
+<node id="fleisch"/>
+<node id="ddquiz"/>
+<node id="youthworkwales"/>
+<node id="happybirthdayceo"/>
+<node id="wednesdaythoughts"/>
+<node id="narendramodi"/>
+<node id="blogging"/>
+<node id="catsontwitter"/>
+<node id="zorahosen"/>
+<node id="breakfast"/>
+<node id="boycott4future"/>
+<node id="friday13th"/>
+<node id="urdupoetry"/>
+<node id="sooraraipottru"/>
+<edge source="transito" target="vicentelopez">
   <data key="d0">1</data>
 </edge>
-<edge source="konflikten" target="windenergie">
+<edge source="thursdaymorning" target="waahmuz">
   <data key="d0">1</data>
 </edge>
-<edge source="konflikten" target="erdöl">
+<edge source="thursdaymorning" target="mithileshbaria">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="kohleausstieg">
-  <data key="d0">3</data>
-</edge>
-<edge source="fff" target="stromausfall">
+<edge source="thursdaymorning" target="urdupoetry">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="akw">
+<edge source="saturdayvibes" target="beauty">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="luisaneubauer">
-  <data key="d0">10</data>
-</edge>
-<edge source="fff" target="öko">
+<edge source="saturdayvibes" target="thursdayvibes">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="atomkraft">
+<edge source="saturdayvibes" target="yyc">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="klimaschutzaktivisten">
+<edge source="saturdayvibes" target="wednesdaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="bombendrohungen">
+<edge source="saturdayvibes" target="wednesdaywisdom">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="haltdiefressebild">
+<edge source="saturdayvibes" target="weekendvibes">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="klimaaktivisten">
+<edge source="saturdayvibes" target="positivevibes">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="hatespeech">
+<edge source="saturdayvibes" target="gamedev">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="hannover">
-  <data key="d0">6</data>
+<edge source="saturdayvibes" target="indie">
+  <data key="d0">1</data>
 </edge>
-<edge source="fff" target="australien">
+<edge source="saturdayvibes" target="gamer">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="games">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="positivemindset">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="swadeshi">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="bepositive">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="caturday">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="skincare">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="pizza">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="review">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayvibes" target="comingoutday">
+  <data key="d0">1</data>
+</edge>
+<edge source="healthy" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="healthy" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="healthy" target="nature">
   <data key="d0">2</data>
 </edge>
-<edge source="fff" target="grünen">
+<edge source="healthy" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="牛肉" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="牛肉" target="牛丼">
+  <data key="d0">1</data>
+</edge>
+<edge source="牛肉" target="ビーガン">
+  <data key="d0">1</data>
+</edge>
+<edge source="cuma" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaykiss" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="mithileshbaria" target="waahmuz">
+  <data key="d0">1</data>
+</edge>
+<edge source="mithileshbaria" target="urdupoetry">
+  <data key="d0">1</data>
+</edge>
+<edge source="未来のために肉食減らそう" target="vegan">
+  <data key="d0">3</data>
+</edge>
+<edge source="未来のために肉食減らそう" target="気候危機対策に菜食を">
+  <data key="d0">3</data>
+</edge>
+<edge source="未来のために肉食減らそう" target="大豆ミート">
+  <data key="d0">1</data>
+</edge>
+<edge source="未来のために肉食減らそう" target="someat">
+  <data key="d0">1</data>
+</edge>
+<edge source="未来のために肉食減らそう" target="唐揚げ">
+  <data key="d0">1</data>
+</edge>
+<edge source="thenationnews" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="thenationnews" target="fridaymood">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="amman">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="visitwarangal">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="ff14" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ff14" target="ffxiv">
+  <data key="d0">1</data>
+</edge>
+<edge source="ff14" target="writerlift">
+  <data key="d0">1</data>
+</edge>
+<edge source="failure" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="garden" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="garden" target="gardening">
+  <data key="d0">1</data>
+</edge>
+<edge source="garden" target="flowers">
+  <data key="d0">1</data>
+</edge>
+<edge source="すき焼き" target="仙台麩">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="sunshine">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="weatherforecast">
+  <data key="d0">1</data>
+</edge>
+<edge source="invest" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="invest" target="2local">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="dolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="captivity">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="stopthegrind">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="opseaworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="museumweek2022" target="ambientemw">
+  <data key="d0">1</data>
+</edge>
+<edge source="museumweek2022" target="vita">
+  <data key="d0">1</data>
+</edge>
+<edge source="amman" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="amman" target="visitwarangal">
+  <data key="d0">1</data>
+</edge>
+<edge source="amman" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewildlife" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewildlife" target="degrowth">
+  <data key="d0">1</data>
+</edge>
+<edge source="finance" target="city">
+  <data key="d0">1</data>
+</edge>
+<edge source="finance" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="finance" target="2local">
+  <data key="d0">1</data>
+</edge>
+<edge source="waahmuz" target="urdupoetry">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="emotions">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="care">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="goodmorningworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="armeniastrong">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="skincare">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="beauty" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="vaylatoken" target="vya">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="felizviernesatodos">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="joker">
+  <data key="d0">1</data>
+</edge>
+<edge source="mrsindiarajasthan2019" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="mrsindiarajasthan2019" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="mrsindiarajasthan2019" target="विश्वविख्यातकवयित्रीडॉकविताकिरण">
+  <data key="d0">1</data>
+</edge>
+<edge source="mrsindiarajasthan2019" target="indiaagainstpollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="mrsindiarajasthan2019" target="पॉलीथिनहटाओपर्यावरणबचाओ">
+  <data key="d0">1</data>
+</edge>
+<edge source="newsqueen" target="mediatrainer">
+  <data key="d0">1</data>
+</edge>
+<edge source="interiordesign" target="photography">
+  <data key="d0">1</data>
+</edge>
+<edge source="interiordesign" target="thursdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="interiordesign" target="fashionista">
+  <data key="d0">1</data>
+</edge>
+<edge source="interiordesign" target="abstractart">
+  <data key="d0">1</data>
+</edge>
+<edge source="friends" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="rishikesh">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="indiaves">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="gamer">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="retweetplease">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="denkmaldrübernach">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="nichtakleubereinenkammscheren">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="germantwitchrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="stream">
+  <data key="d0">1</data>
+</edge>
+<edge source="germanmediart" target="streamacademyrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamedev" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamedev" target="indie">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamedev" target="gamer">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalert" target="fridayfun">
+  <data key="d0">2</data>
+</edge>
+<edge source="contestalert" target="medibuddy">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalert" target="aapkahealthbuddy">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalert" target="winner">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalert" target="forcefriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="sewaactivitiesbyashram" target="fridayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="sewaactivitiesbyashram" target="गाजियाबाद">
+  <data key="d0">1</data>
+</edge>
+<edge source="endpatriarchy" target="degrowth">
+  <data key="d0">1</data>
+</edge>
+<edge source="sociamedia" target="business">
   <data key="d0">5</data>
 </edge>
-<edge source="fff" target="servicetweet">
+<edge source="sociamedia" target="marketingtips">
   <data key="d0">1</data>
 </edge>
-<edge source="fff" target="freiheit">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="maybritillner">
-  <data key="d0">2</data>
-</edge>
-<edge source="fff" target="greta">
-  <data key="d0">22</data>
-</edge>
-<edge source="fff" target="ronjamaltzahn">
-  <data key="d0">4</data>
-</edge>
-<edge source="fff" target="extremismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="allefürsklima">
-  <data key="d0">5</data>
-</edge>
-<edge source="fff" target="rackete">
-  <data key="d0">2</data>
-</edge>
-<edge source="fff" target="umweltschutz">
-  <data key="d0">8</data>
-</edge>
-<edge source="fff" target="maischberger">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="dnp14">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="g20">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="faktenfinder">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="nichtverhandelbar">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="rostock">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="bundestagswahl">
+<edge source="sociamedia" target="marketingstrategy">
   <data key="d0">6</data>
 </edge>
-<edge source="fff" target="twlz">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="wahl2021">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="gehtwählen">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="rtl">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="fakenews">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="zentralstreik">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="frankfurt">
-  <data key="d0">4</data>
-</edge>
-<edge source="fff" target="telegram">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="klimaerwärmung">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="linkebpt">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="radwege">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="vergangenheitsbewältigung">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="haustür">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="bundesverfassungsgericht">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="windenergie">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="autogipfel">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="waldstattasphalt">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="deutschunterricht">
-  <data key="d0">2</data>
-</edge>
-<edge source="fff" target="keinea49">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="covidー19">
-  <data key="d0">2</data>
-</edge>
-<edge source="fff" target="ökofaschismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="oepnvbrauchtzukunft">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="fahrrad">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="soros">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="solarpark">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="autoprämie">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="spargel">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="fachkräftemangel">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="naidoo">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="lügenpresse">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="hamburgwaehltklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="hh2102">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="joekaeser">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="spiegelgates">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="meatloaf">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="jahr2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="pegidawütet">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="krippe">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="laueslüftchen">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="klimabubble">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="nichtmeinklimapaket">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff" target="spdvorsitz">
-  <data key="d0">1</data>
-</edge>
-<edge source="waldstattasphalt" target="aktionschlagloch">
-  <data key="d0">1</data>
-</edge>
-<edge source="waldstattasphalt" target="keinea49">
+<edge source="sociamedia" target="digitalmarketing">
   <data key="d0">6</data>
 </edge>
-<edge source="waldstattasphalt" target="dannilebt">
+<edge source="sociamedia" target="blog">
+  <data key="d0">6</data>
+</edge>
+<edge source="dogs" target="vegan">
   <data key="d0">1</data>
 </edge>
-<edge source="waldstattasphalt" target="herrenloswald">
+<edge source="dogs" target="govegan">
   <data key="d0">1</data>
 </edge>
-<edge source="waldstattasphalt" target="rebellionwave">
+<edge source="dogs" target="animals">
   <data key="d0">1</data>
 </edge>
-<edge source="heimatschutz" target="islamistischen">
+<edge source="dogs" target="animalrights">
   <data key="d0">1</data>
 </edge>
-<edge source="dijon" target="niemehrcdu">
+<edge source="saladdays" target="fridayfitness">
   <data key="d0">1</data>
 </edge>
-<edge source="dijon" target="rezo">
+<edge source="saladdays" target="breakfast">
   <data key="d0">1</data>
 </edge>
-<edge source="zivilgesellschaft" target="kanada">
+<edge source="saladdays" target="breakfastclub">
   <data key="d0">1</data>
 </edge>
-<edge source="südamerika" target="luisaneubauer">
+<edge source="saladdays" target="pasta">
   <data key="d0">1</data>
 </edge>
-<edge source="südamerika" target="sonnenfinsternis">
+<edge source="saladdays" target="foodies">
   <data key="d0">1</data>
 </edge>
-<edge source="energiesparen" target="freivonöl">
+<edge source="fikafuntimes" target="iqrtg">
   <data key="d0">1</data>
 </edge>
-<edge source="nazi" target="hatespeech">
+<edge source="fikafuntimes" target="livelife">
   <data key="d0">1</data>
 </edge>
-<edge source="nazi" target="terror">
+<edge source="fikafuntimes" target="makeyouhappy">
   <data key="d0">1</data>
 </edge>
-<edge source="nazi" target="koeln0401">
+<edge source="fikafuntimes" target="enjoyingeverydaylife">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfuersklima" target="parentsforfuture">
+<edge source="sundayforfuture" target="ff">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfuersklima" target="halle">
+<edge source="vita" target="ambientemw">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfuersklima" target="netzstreikfürsklima">
-  <data key="d0">3</data>
-</edge>
-<edge source="netzstreikfuersklima" target="systemwandel">
+<edge source="stopanimalabuse" target="govegan">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfuersklima" target="klimawahl2020">
+<edge source="stopanimalabuse" target="aacc">
   <data key="d0">1</data>
 </edge>
-<edge source="servicetweet" target="kohleausstieg">
+<edge source="stopanimalabuse" target="compassionateliving">
   <data key="d0">1</data>
 </edge>
-<edge source="servicetweet" target="ipcc">
+<edge source="stopanimalabuse" target="maketheconnection">
   <data key="d0">1</data>
 </edge>
-<edge source="servicetweet" target="niemehrcdu">
+<edge source="stopanimalabuse" target="crueltyfree">
   <data key="d0">1</data>
 </edge>
-<edge source="servicetweet" target="sondergenehmigung">
+<edge source="rajajitigerreserve" target="thephotohour">
   <data key="d0">1</data>
 </edge>
-<edge source="servicetweet" target="elektroauto">
+<edge source="rajajitigerreserve" target="rishikesh">
   <data key="d0">1</data>
 </edge>
-<edge source="konjunkturpaket" target="autogipfel">
+<edge source="rajajitigerreserve" target="indiaves">
   <data key="d0">1</data>
 </edge>
-<edge source="kohlekraftwerk" target="kohleausstieg">
+<edge source="changeiscoming" target="govegan">
   <data key="d0">1</data>
 </edge>
-<edge source="kirche" target="hannover">
+<edge source="changeiscoming" target="vegansforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="kirche" target="fckrwe">
+<edge source="changeiscoming" target="milch">
   <data key="d0">1</data>
 </edge>
-<edge source="bewusstsein" target="allefürsklima">
+<edge source="amigos" target="recipe">
   <data key="d0">1</data>
 </edge>
-<edge source="sogeht1komma5" target="followerpower">
+<edge source="amigos" target="hola">
   <data key="d0">1</data>
 </edge>
-<edge source="sogeht1komma5" target="parteien">
+<edge source="amigos" target="lacocinadeespaña">
   <data key="d0">1</data>
 </edge>
-<edge source="alsfeld" target="twlz">
-  <data key="d0">1</data>
-</edge>
-<edge source="totalitär" target="extremistisch">
-  <data key="d0">1</data>
-</edge>
-<edge source="akws" target="greta">
-  <data key="d0">1</data>
-</edge>
-<edge source="akws" target="meetings">
-  <data key="d0">1</data>
-</edge>
-<edge source="akws" target="technikfeinden">
-  <data key="d0">1</data>
-</edge>
-<edge source="makeparisreal" target="equity">
-  <data key="d0">1</data>
-</edge>
-<edge source="mönchengladbach" target="datteln">
-  <data key="d0">1</data>
-</edge>
-<edge source="mönchengladbach" target="duisburg">
-  <data key="d0">1</data>
-</edge>
-<edge source="windkraftanlagen" target="windenergie">
-  <data key="d0">1</data>
-</edge>
-<edge source="windkraftanlagen" target="windräder">
-  <data key="d0">1</data>
-</edge>
-<edge source="astronaut" target="krieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="nichtmeinklimapaket" target="howdareyou">
+<edge source="気候正義" target="気候危機">
   <data key="d0">2</data>
 </edge>
-<edge source="wärme" target="atom">
-  <data key="d0">3</data>
-</edge>
-<edge source="wärme" target="co2gesetz">
+<edge source="indianarmy" target="danishkaneria">
   <data key="d0">1</data>
 </edge>
-<edge source="ardwahlarena" target="linksextremismus">
+<edge source="indianarmy" target="narendramodi">
   <data key="d0">1</data>
 </edge>
-<edge source="wef" target="davos2020">
+<edge source="indianarmy" target="राष्ट्रवादिराठौर">
   <data key="d0">1</data>
 </edge>
-<edge source="lufthansa" target="abfckprämie">
-  <data key="d0">1</data>
-</edge>
-<edge source="bielefeld" target="antifa">
-  <data key="d0">1</data>
-</edge>
-<edge source="bielefeld" target="ms2310">
-  <data key="d0">1</data>
-</edge>
-<edge source="energiekonzerne" target="kohleausstieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="grossekohlekoalition" target="kohleausstieg">
-  <data key="d0">2</data>
-</edge>
-<edge source="grossekohlekoalition" target="datteln">
-  <data key="d0">1</data>
-</edge>
-<edge source="grossekohlekoalition" target="niemehrcdu">
-  <data key="d0">1</data>
-</edge>
-<edge source="grossekohlekoalition" target="kohleeinstiegsgesetz">
+<edge source="fridayfitness" target="fridayvibes">
   <data key="d0">7</data>
 </edge>
-<edge source="wirfahrenzusammen" target="vmk">
+<edge source="fridayfitness" target="motivation">
   <data key="d0">1</data>
 </edge>
-<edge source="erneuerbareeneegien" target="tasmanien">
+<edge source="fridayfitness" target="breakfast">
   <data key="d0">1</data>
 </edge>
-<edge source="steinmeier" target="enercon">
+<edge source="fridayfitness" target="pasta">
   <data key="d0">1</data>
 </edge>
-<edge source="klassenklimakampf" target="howdareyou">
-  <data key="d0">2</data>
-</edge>
-<edge source="klassenklimakampf" target="tagderarbeit">
-  <data key="d0">2</data>
-</edge>
-<edge source="klassenklimakampf" target="r1mb">
-  <data key="d0">2</data>
-</edge>
-<edge source="palmer" target="greta">
-  <data key="d0">2</data>
-</edge>
-<edge source="streiken" target="chile">
-  <data key="d0">1</data>
-</edge>
-<edge source="rezo" target="kohleausstieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="rezo" target="niemehrcdu">
-  <data key="d0">1</data>
-</edge>
-<edge source="ökozial" target="kohleausstieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="frankfurt" target="grünen">
-  <data key="d0">1</data>
-</edge>
-<edge source="frankfurt" target="streikmituns">
-  <data key="d0">2</data>
-</edge>
-<edge source="keinea49" target="aktionschlagloch">
-  <data key="d0">4</data>
-</edge>
-<edge source="keinea49" target="dannilebt">
-  <data key="d0">1</data>
-</edge>
-<edge source="klimakoalition" target="koalitionsverhandlungen">
-  <data key="d0">1</data>
-</edge>
-<edge source="klimakoalition" target="nichtverhandelbar">
-  <data key="d0">2</data>
-</edge>
-<edge source="robinwood" target="spree">
-  <data key="d0">1</data>
-</edge>
-<edge source="wahl2021" target="bundestagswahl">
-  <data key="d0">1</data>
-</edge>
-<edge source="wahl2021" target="gehtwählen">
-  <data key="d0">1</data>
-</edge>
-<edge source="baerbockjetzterstrecht" target="niemehrcducsu">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamburgklimawahl" target="hamburgwahl">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamburgklimawahl" target="hamburgwaehltklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="klöckner" target="niemehrcdu">
-  <data key="d0">1</data>
-</edge>
-<edge source="klöckner" target="altmaier">
-  <data key="d0">1</data>
-</edge>
-<edge source="tod" target="krieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="hhbue2020" target="hhbue">
-  <data key="d0">1</data>
-</edge>
-<edge source="hhbue2020" target="ab16jahre">
-  <data key="d0">1</data>
-</edge>
-<edge source="erdöl" target="krieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="erdöl" target="windenergie">
-  <data key="d0">1</data>
-</edge>
-<edge source="gersweiler" target="parentsforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="gersweiler" target="prowaldgersweiler">
-  <data key="d0">1</data>
-</edge>
-<edge source="energiepolitik" target="elektroauto">
-  <data key="d0">1</data>
-</edge>
-<edge source="lithium" target="elektroauto">
-  <data key="d0">1</data>
-</edge>
-<edge source="spiegelgates" target="atomkraft">
-  <data key="d0">1</data>
-</edge>
-<edge source="rotorblätter" target="windenergie">
-  <data key="d0">1</data>
-</edge>
-<edge source="rotorblätter" target="windräder">
-  <data key="d0">1</data>
-</edge>
-<edge source="nicht_mein_endlager" target="gronau">
-  <data key="d0">1</data>
-</edge>
-<edge source="nicht_mein_endlager" target="atommüll">
-  <data key="d0">1</data>
-</edge>
-<edge source="niemehrcsu" target="altmaier">
-  <data key="d0">1</data>
-</edge>
-<edge source="großekohlekoalition" target="kohleausstieg">
-  <data key="d0">2</data>
-</edge>
-<edge source="großekohlekoalition" target="howdareyou">
-  <data key="d0">1</data>
-</edge>
-<edge source="großekohlekoalition" target="alledoerferbleiben">
-  <data key="d0">1</data>
-</edge>
-<edge source="großekohlekoalition" target="kohleeinstiegsgesetz">
-  <data key="d0">4</data>
-</edge>
-<edge source="bundestagswahl" target="hatespeech">
-  <data key="d0">1</data>
-</edge>
-<edge source="bundestagswahl" target="allefürsklima">
-  <data key="d0">3</data>
-</edge>
-<edge source="bundestagswahl" target="rtl">
-  <data key="d0">1</data>
-</edge>
-<edge source="bundestagswahl" target="klimapledge">
-  <data key="d0">1</data>
-</edge>
-<edge source="zivilerungehorsam" target="gerechtigkeitjetzt">
-  <data key="d0">1</data>
-</edge>
-<edge source="sondergenehmigung" target="kohleausstieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="sondergenehmigung" target="rotgrün">
-  <data key="d0">1</data>
-</edge>
-<edge source="akw" target="sicherheitseinspeisesystem">
-  <data key="d0">1</data>
-</edge>
-<edge source="bäume" target="parentsforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="bäume" target="prowaldgersweiler">
-  <data key="d0">1</data>
-</edge>
-<edge source="türkei" target="unbegleitete">
-  <data key="d0">1</data>
-</edge>
-<edge source="türkei" target="mädchen">
-  <data key="d0">1</data>
-</edge>
-<edge source="covidー19uk" target="coronavirusat">
-  <data key="d0">1</data>
-</edge>
-<edge source="covidー19uk" target="covid2019italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="umweltschutz" target="luisaneubauer">
-  <data key="d0">1</data>
-</edge>
-<edge source="umweltschutz" target="niemehrcdu">
-  <data key="d0">1</data>
-</edge>
-<edge source="umweltschutz" target="allefürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="umweltschutz" target="annewill">
-  <data key="d0">1</data>
-</edge>
-<edge source="umweltschutz" target="niemehrcducsu">
-  <data key="d0">1</data>
-</edge>
-<edge source="nettonull" target="kohleausstieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="nato" target="luisaneubauer">
-  <data key="d0">1</data>
-</edge>
-<edge source="nato" target="shootingstar">
-  <data key="d0">1</data>
-</edge>
-<edge source="atomkraft" target="gas">
-  <data key="d0">2</data>
-</edge>
-<edge source="atomkraft" target="atom">
-  <data key="d0">1</data>
-</edge>
-<edge source="atomkraft" target="vollgasindiekrise">
-  <data key="d0">1</data>
-</edge>
-<edge source="hitler" target="greta">
-  <data key="d0">1</data>
-</edge>
-<edge source="dorfspaziergang" target="alledoerferbleiben">
-  <data key="d0">1</data>
-</edge>
-<edge source="meintwitterjubiläum" target="konzert">
-  <data key="d0">1</data>
-</edge>
-<edge source="klimaprotesten" target="antarktis">
-  <data key="d0">1</data>
-</edge>
-<edge source="fachkräftemangel" target="spargel">
-  <data key="d0">1</data>
-</edge>
-<edge source="merz" target="halle">
-  <data key="d0">1</data>
-</edge>
-<edge source="merz" target="dieanstalt">
-  <data key="d0">1</data>
-</edge>
-<edge source="antifa" target="grünen">
-  <data key="d0">2</data>
-</edge>
-<edge source="antifa" target="extremismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="antifa" target="witten">
-  <data key="d0">1</data>
-</edge>
-<edge source="antifa" target="schwurbel">
-  <data key="d0">1</data>
-</edge>
-<edge source="antifa" target="ms2310">
-  <data key="d0">1</data>
-</edge>
-<edge source="antifa" target="antifacafé">
-  <data key="d0">1</data>
-</edge>
-<edge source="neinzurafd" target="afdiststaatszersetzend">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="rassismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="parentsforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="luisaneubauer">
-  <data key="d0">2</data>
-</edge>
-<edge source="greta" target="öko">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="grünen">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="skolstrejkförklimatet">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="milan">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="wetter">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="technikfeinden">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="regen">
-  <data key="d0">1</data>
-</edge>
-<edge source="greta" target="hitzerekorden">
-  <data key="d0">1</data>
-</edge>
-<edge source="lügenpresse" target="australien">
-  <data key="d0">1</data>
-</edge>
-<edge source="atom" target="gas">
-  <data key="d0">1</data>
-</edge>
-<edge source="atom" target="brokdorf">
-  <data key="d0">1</data>
-</edge>
-<edge source="atom" target="co2gesetz">
-  <data key="d0">1</data>
-</edge>
-<edge source="witten" target="allefürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="witten" target="ms2310">
-  <data key="d0">1</data>
-</edge>
-<edge source="linksextremismus" target="extremismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="niemehrcdu" target="altmaier">
-  <data key="d0">2</data>
-</edge>
-<edge source="niemehrcdu" target="kohleeinstiegsgesetz">
-  <data key="d0">1</data>
-</edge>
-<edge source="annewill" target="allefürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="followerpower" target="netzstreikfürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="grünen" target="extremismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="grünen" target="sachsen">
-  <data key="d0">1</data>
-</edge>
-<edge source="grünen" target="rtl">
-  <data key="d0">1</data>
-</edge>
-<edge source="grünen" target="hh2102">
-  <data key="d0">1</data>
-</edge>
-<edge source="kohleausstieg" target="altmaier">
+<edge source="fridayfitness" target="foodies">
   <data key="d0">1</data>
 </edge>
-<edge source="kohleausstieg" target="alledoerferbleiben">
+<edge source="fridayfitness" target="fridaymood">
   <data key="d0">5</data>
 </edge>
-<edge source="kohleausstieg" target="howdareyou">
+<edge source="karma" target="now">
   <data key="d0">1</data>
 </edge>
-<edge source="kohleausstieg" target="frontal21">
+<edge source="karma" target="2020vision">
   <data key="d0">1</data>
 </edge>
-<edge source="kohleausstieg" target="windenergie">
+<edge source="fridayvibes" target="nature">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridayvibes" target="ff">
   <data key="d0">1</data>
 </edge>
-<edge source="kohleausstieg" target="eeg">
+<edge source="fridayvibes" target="sadhguruquotes">
   <data key="d0">1</data>
 </edge>
-<edge source="kohleausstieg" target="rebellionwave">
-  <data key="d0">1</data>
-</edge>
-<edge source="kohleausstieg" target="kohleeinstiegsgesetz">
-  <data key="d0">8</data>
-</edge>
-<edge source="kohleausstieg" target="quaschning2go">
-  <data key="d0">1</data>
-</edge>
-<edge source="windenergie" target="australien">
-  <data key="d0">1</data>
-</edge>
-<edge source="windenergie" target="windräder">
-  <data key="d0">1</data>
-</edge>
-<edge source="abfckprämie" target="autogipfel">
+<edge source="fridayvibes" target="motivation">
   <data key="d0">3</data>
 </edge>
-<edge source="neuesjahr" target="halle">
-  <data key="d0">1</data>
-</edge>
-<edge source="neuesjahr" target="fffhalle">
-  <data key="d0">1</data>
-</edge>
-<edge source="mauerfall" target="freiheit">
-  <data key="d0">1</data>
-</edge>
-<edge source="hitzerekorden" target="wetter">
-  <data key="d0">1</data>
-</edge>
-<edge source="hitzerekorden" target="regen">
-  <data key="d0">1</data>
-</edge>
-<edge source="vergangenheitsbewältigung" target="haustür">
-  <data key="d0">1</data>
-</edge>
-<edge source="quandt" target="vw">
-  <data key="d0">1</data>
-</edge>
-<edge source="duisburg" target="datteln">
-  <data key="d0">1</data>
-</edge>
-<edge source="ab16jahre" target="hamburgwahl">
-  <data key="d0">1</data>
-</edge>
-<edge source="brennstoffe" target="davos2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="ukrainekrieg" target="putins">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamburgwaehltklima" target="hamburgwahl">
+<edge source="fridayvibes" target="photography">
   <data key="d0">2</data>
 </edge>
-<edge source="demoradio" target="allefürsklima">
+<edge source="fridayvibes" target="quotes">
   <data key="d0">1</data>
 </edge>
-<edge source="vegetarier" target="veganer">
-  <data key="d0">1</data>
-</edge>
-<edge source="1mai" target="tagderarbeit">
+<edge source="fridayvibes" target="happy">
   <data key="d0">2</data>
 </edge>
-<edge source="antarktis" target="fakenews">
+<edge source="fridayvibes" target="justice">
   <data key="d0">1</data>
 </edge>
-<edge source="antarktis" target="meeresspiegel">
+<edge source="fridayvibes" target="beings">
   <data key="d0">1</data>
 </edge>
-<edge source="ipcc" target="streikmituns">
+<edge source="fridayvibes" target="allstars7">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="worldbeeday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="endspeciesism">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="goodmorning">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridayvibes" target="lifemantrabypriya">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="gardening">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="weekendvibes">
   <data key="d0">2</data>
 </edge>
-<edge source="krieggegendrogen" target="drugpolicyreform">
+<edge source="fridayvibes" target="fridayfun">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridayvibes" target="gardenersworld">
   <data key="d0">1</data>
 </edge>
-<edge source="regen" target="wetter">
+<edge source="fridayvibes" target="sunshine">
   <data key="d0">1</data>
 </edge>
-<edge source="hannover" target="klimaaktivisten">
+<edge source="fridayvibes" target="weatherforecast">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="motivational">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="zeehindustanquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="thecorporatelady">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="worklifebalance">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="atmosphere">
   <data key="d0">2</data>
 </edge>
-<edge source="hannover" target="niedersachsen">
+<edge source="fridayvibes" target="trending">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="blog">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="foodies">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="care">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="goodmorningworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="fridaymood">
+  <data key="d0">9</data>
+</edge>
+<edge source="fridayvibes" target="something">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="productive">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="contestalertindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="quizzed">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="fortnite">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="flowers">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="cats">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="focus">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="friday13th">
   <data key="d0">2</data>
 </edge>
-<edge source="howdareyou" target="parentsforfuture">
+<edge source="fridayvibes" target="dinner">
   <data key="d0">1</data>
 </edge>
-<edge source="howdareyou" target="leipzig">
-  <data key="d0">1</data>
-</edge>
-<edge source="howdareyou" target="altmaier">
-  <data key="d0">1</data>
-</edge>
-<edge source="howdareyou" target="alledoerferbleiben">
-  <data key="d0">1</data>
-</edge>
-<edge source="howdareyou" target="kohleeinstiegsgesetz">
-  <data key="d0">2</data>
-</edge>
-<edge source="howdareyou" target="tagderarbeit">
-  <data key="d0">2</data>
-</edge>
-<edge source="howdareyou" target="r1mb">
-  <data key="d0">2</data>
-</edge>
-<edge source="howdareyou" target="wedare">
-  <data key="d0">1</data>
-</edge>
-<edge source="autowahnsinn" target="pendlerpauschale">
-  <data key="d0">1</data>
-</edge>
-<edge source="energiearmut" target="nichtverhandelbar">
-  <data key="d0">1</data>
-</edge>
-<edge source="backlash" target="hatespeech">
-  <data key="d0">1</data>
-</edge>
-<edge source="pendlerpauschale" target="allefürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="covid2019" target="netzstreikfürsklima">
-  <data key="d0">2</data>
-</edge>
-<edge source="covid2019" target="coronazeit">
-  <data key="d0">1</data>
-</edge>
-<edge source="covid2019" target="machtsendlich">
-  <data key="d0">1</data>
-</edge>
-<edge source="extremismus" target="luisaneubauer">
-  <data key="d0">1</data>
-</edge>
-<edge source="gas" target="luisaneubauer">
-  <data key="d0">2</data>
-</edge>
-<edge source="gas" target="krieg">
-  <data key="d0">1</data>
-</edge>
-<edge source="gas" target="gashahnzu">
-  <data key="d0">1</data>
-</edge>
-<edge source="gas" target="vollgasindiekrise">
-  <data key="d0">1</data>
-</edge>
-<edge source="gas" target="brokdorf">
-  <data key="d0">1</data>
-</edge>
-<edge source="gas" target="gronau">
-  <data key="d0">1</data>
-</edge>
-<edge source="kohleeinstiegsgesetz" target="altmaier">
-  <data key="d0">1</data>
-</edge>
-<edge source="kohleeinstiegsgesetz" target="alledoerferbleiben">
+<edge source="fridayvibes" target="fridaythe13th">
   <data key="d0">3</data>
 </edge>
-<edge source="netzstreikfürsklima" target="parentsforfuture">
+<edge source="fridayvibes" target="quarantena">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="sooraraipottru">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="sudhakongara">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="gvprakash">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="happybirthdayceo">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="ceoquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="ees20">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="okenwachukwuma">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="getwellsoon">
   <data key="d0">2</data>
 </edge>
-<edge source="netzstreikfürsklima" target="rostock">
-  <data key="d0">1</data>
-</edge>
-<edge source="netzstreikfürsklima" target="systemwandel">
-  <data key="d0">1</data>
-</edge>
-<edge source="netzstreikfürsklima" target="e4f">
-  <data key="d0">1</data>
-</edge>
-<edge source="netzstreikfürsklima" target="livestreamforfuture">
+<edge source="fridayvibes" target="heroes">
   <data key="d0">2</data>
 </edge>
-<edge source="netzstreikfürsklima" target="coronazeit">
+<edge source="fridayvibes" target="landscape">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfürsklima" target="machtsendlich">
+<edge source="fridayvibes" target="potd">
   <data key="d0">1</data>
 </edge>
-<edge source="netzstreikfürsklima" target="klimawahl2020">
+<edge source="fridayvibes" target="motivacion">
   <data key="d0">1</data>
 </edge>
-<edge source="klimaregierung" target="koalitionsverhandlungen">
+<edge source="fridayvibes" target="like4like">
   <data key="d0">1</data>
 </edge>
-<edge source="lng" target="wasserstoff">
-  <data key="d0">1</data>
-</edge>
-<edge source="autogipfel" target="vmk">
-  <data key="d0">1</data>
-</edge>
-<edge source="aktionschlagloch" target="alledoerferbleiben">
+<edge source="fridayvibes" target="fridayreads">
   <data key="d0">2</data>
 </edge>
-<edge source="luisaneubauer" target="haltdiefressebild">
+<edge source="fridayvibes" target="theweekendfavour">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="klimaaktivisten">
+<edge source="fridayvibes" target="ocean">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="terror">
+<edge source="fridayvibes" target="ffxiv">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="allefürsklima">
+<edge source="fridayvibes" target="writerlift">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="gashahnzu">
+<edge source="fridayvibes" target="tweetme">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="klimaaktivistin">
+<edge source="fridayvibes" target="saturday">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="shootingstar">
+<edge source="fridayvibes" target="bird">
   <data key="d0">1</data>
 </edge>
-<edge source="luisaneubauer" target="sonnenfinsternis">
+<edge source="fridayvibes" target="brekfast">
   <data key="d0">1</data>
 </edge>
-<edge source="unbegleitete" target="mädchen">
+<edge source="fridayvibes" target="millefoglie">
   <data key="d0">1</data>
 </edge>
-<edge source="dreads" target="rassismus">
+<edge source="fridayvibes" target="surprise">
   <data key="d0">1</data>
 </edge>
-<edge source="rassismus" target="priebshow">
+<edge source="fridayvibes" target="बापूजी">
   <data key="d0">1</data>
 </edge>
-<edge source="sachsen" target="plauen">
+<edge source="fridayvibes" target="worldanimalwelfareday">
   <data key="d0">1</data>
 </edge>
-<edge source="coronavirusat" target="covid2019italia">
+<edge source="fridayvibes" target="nutorla">
   <data key="d0">1</data>
 </edge>
-<edge source="tagderarbeit" target="r1mb">
+<edge source="fridayvibes" target="supremeplay">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="supremeplaymarket">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayvibes" target="timezone">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="funnyvines">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="byte">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="kohlsblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="target" target="anime">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="december13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="gift" target="giveaway">
+  <data key="d0">1</data>
+</edge>
+<edge source="gift" target="winner">
+  <data key="d0">1</data>
+</edge>
+<edge source="beaware" target="disinformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="crueltyfree" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="crueltyfree" target="aacc">
+  <data key="d0">1</data>
+</edge>
+<edge source="crueltyfree" target="compassionateliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="crueltyfree" target="maketheconnection">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="happybirthdayceo">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="ceoquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="ees20">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="okenwachukwuma">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestofchampions" target="ddquiz">
+  <data key="d0">1</data>
+</edge>
+<edge source="asprinkleofsorcery" target="zorasarahcreates">
+  <data key="d0">1</data>
+</edge>
+<edge source="asprinkleofsorcery" target="zorasarahblogs">
+  <data key="d0">1</data>
+</edge>
+<edge source="asprinkleofsorcery" target="zorahosen">
+  <data key="d0">1</data>
+</edge>
+<edge source="asprinkleofsorcery" target="retweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="skincare">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="indiaves" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="indiaves" target="rishikesh">
+  <data key="d0">1</data>
+</edge>
+<edge source="schools" target="bigschoolsbirdwatch">
+  <data key="d0">1</data>
+</edge>
+<edge source="vinter" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="vinter" target="pakkanen">
+  <data key="d0">1</data>
+</edge>
+<edge source="homophobic" target="islamaphobic">
+  <data key="d0">1</data>
+</edge>
+<edge source="homophobic" target="frackboris">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandoned" target="abandonedplaces">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandoned" target="urbex">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandoned" target="fursuitfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="weatherforecast">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="indie">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="gamer">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="games">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="intention">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="care">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="exception">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="goodmorningworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="getwellsoon">
+  <data key="d0">3</data>
+</edge>
+<edge source="weekendvibes" target="animalcruelty">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendvibes" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="nextgenerationleaders" target="bame">
+  <data key="d0">1</data>
+</edge>
+<edge source="sundayshoutout" target="positivevibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="sundayshoutout" target="positivemindset">
+  <data key="d0">1</data>
+</edge>
+<edge source="sundayshoutout" target="bepositive">
+  <data key="d0">1</data>
+</edge>
+<edge source="sundayshoutout" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="singleparents" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="singleparents" target="singlelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="singleparents" target="singlesrelationships">
+  <data key="d0">1</data>
+</edge>
+<edge source="december13th" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="山口県" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="山口県" target="山口">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardano" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardano" target="cardanowomen">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardano" target="womenintech">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardano" target="womeninnfts">
+  <data key="d0">1</data>
+</edge>
+<edge source="fffsantiago" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="thefuturewechoose" target="mayday">
+  <data key="d0">1</data>
+</edge>
+<edge source="thefuturewechoose" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="thefuturewechoose" target="dadijanki">
+  <data key="d0">1</data>
+</edge>
+<edge source="thefuturewechoose" target="spirituality">
   <data key="d0">2</data>
 </edge>
-<edge source="rtl" target="hatespeech">
+<edge source="thefuturewechoose" target="now">
   <data key="d0">1</data>
 </edge>
-<edge source="karneval" target="parentsforfuture">
+<edge source="thefuturewechoose" target="2020vision">
   <data key="d0">1</data>
 </edge>
-<edge source="terror" target="hatespeech">
+<edge source="positivemindset" target="शुक्र_श्रीशक्ति">
   <data key="d0">1</data>
 </edge>
-<edge source="terror" target="islamistischen">
+<edge source="positivemindset" target="swadeshi">
+  <data key="d0">3</data>
+</edge>
+<edge source="positivemindset" target="स्वदेशी">
   <data key="d0">1</data>
 </edge>
-<edge source="leipzig" target="parentsforfuture">
+<edge source="positivemindset" target="देशभक्त">
   <data key="d0">1</data>
 </edge>
-<edge source="leipzig" target="allefürsklima">
-  <data key="d0">1</data>
-</edge>
-<edge source="rostock" target="kreuzfahrtschiffe">
-  <data key="d0">1</data>
-</edge>
-<edge source="klimaaktivisten" target="bundestagswahl2021">
-  <data key="d0">1</data>
-</edge>
-<edge source="atommüll" target="gronau">
-  <data key="d0">1</data>
-</edge>
-<edge source="parentsforfuture" target="halle">
+<edge source="positivemindset" target="bepositive">
   <data key="d0">2</data>
 </edge>
-<edge source="parentsforfuture" target="systemwandel">
-  <data key="d0">1</data>
-</edge>
-<edge source="parentsforfuture" target="fffhalle">
+<edge source="positivemindset" target="सकारात्मक_संदेश">
   <data key="d0">2</data>
 </edge>
-<edge source="parentsforfuture" target="prowaldgersweiler">
+<edge source="唐揚げ" target="vegan">
   <data key="d0">1</data>
 </edge>
-<edge source="fffhalle" target="halle">
+<edge source="唐揚げ" target="気候危機対策に菜食を">
+  <data key="d0">1</data>
+</edge>
+<edge source="唐揚げ" target="大豆ミート">
+  <data key="d0">1</data>
+</edge>
+<edge source="唐揚げ" target="おうちご飯">
+  <data key="d0">1</data>
+</edge>
+<edge source="エコ" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="rest" target="chile">
+  <data key="d0">1</data>
+</edge>
+<edge source="rest" target="photography">
+  <data key="d0">1</data>
+</edge>
+<edge source="rest" target="viernes">
+  <data key="d0">1</data>
+</edge>
+<edge source="rest" target="atacamadesert">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitterworld" target="livelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="caturday" target="cats">
+  <data key="d0">1</data>
+</edge>
+<edge source="caturday" target="timezone">
+  <data key="d0">1</data>
+</edge>
+<edge source="wtf" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="wtf" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="wtf" target="animalrights">
+  <data key="d0">1</data>
+</edge>
+<edge source="wtf" target="animalcruelty">
+  <data key="d0">1</data>
+</edge>
+<edge source="wtf" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="diaryoftips" target="leftovers">
+  <data key="d0">1</data>
+</edge>
+<edge source="zeehindustanquotes" target="motivationalquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="zeehindustanquotes" target="motivational">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="hola">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="lacocinadeespaña">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="area51storm">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="iphone11">
+  <data key="d0">1</data>
+</edge>
+<edge source="lovewhereyoulive" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="lovewhereyoulive" target="mentalhealth">
+  <data key="d0">1</data>
+</edge>
+<edge source="lovewhereyoulive" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="compassionateliving" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="catsofinstagram" target="cat">
+  <data key="d0">1</data>
+</edge>
+<edge source="catsofinstagram" target="catsontwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="おうちご飯" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="おうちご飯" target="プラントベース">
+  <data key="d0">1</data>
+</edge>
+<edge source="6ix9ine" target="area51storm">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="vegan">
+  <data key="d0">3</data>
+</edge>
+<edge source="endspeciesism" target="govegan">
+  <data key="d0">2</data>
+</edge>
+<edge source="endspeciesism" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="beings">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="allstars7">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="endspeciesism" target="animals">
+  <data key="d0">2</data>
+</edge>
+<edge source="endspeciesism" target="animalrights">
+  <data key="d0">2</data>
+</edge>
+<edge source="endspeciesism" target="noanimaluse">
+  <data key="d0">2</data>
+</edge>
+<edge source="sudhakongara" target="sooraraipottru">
+  <data key="d0">1</data>
+</edge>
+<edge source="sudhakongara" target="gvprakash">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegansforfuture" target="vegan">
+  <data key="d0">2</data>
+</edge>
+<edge source="vegansforfuture" target="govegan">
+  <data key="d0">3</data>
+</edge>
+<edge source="vegansforfuture" target="ernährungswende">
+  <data key="d0">2</data>
+</edge>
+<edge source="vegansforfuture" target="agrarwende">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegansforfuture" target="animalrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegansforfuture" target="milch">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="nature">
+  <data key="d0">2</data>
+</edge>
+<edge source="photography" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="ligue_des_optimistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="gardenersworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="owl">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="marketingtips">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="viernes">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="eat">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="travelcorridor">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="costabrava">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="atacamadesert">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="findesemana">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="thursdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="photography" target="fashionista">
+  <data key="d0">1</data>
+</edge>
+<edge source="retweet" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="retweet" target="boycott4future">
+  <data key="d0">1</data>
+</edge>
+<edge source="mutantfam" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="mutantfam" target="horrorfamily">
+  <data key="d0">1</data>
+</edge>
+<edge source="mutantfam" target="horrorcommunity">
+  <data key="d0">1</data>
+</edge>
+<edge source="mutantfam" target="freakyfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="sadhguruquotes" target="motivacion">
+  <data key="d0">1</data>
+</edge>
+<edge source="review" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="review" target="pizza">
+  <data key="d0">2</data>
+</edge>
+<edge source="trending" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="trending" target="stockedge">
+  <data key="d0">1</data>
+</edge>
+<edge source="blog" target="chocolate">
+  <data key="d0">1</data>
+</edge>
+<edge source="blog" target="business">
   <data key="d0">5</data>
 </edge>
-<edge source="maybritillner" target="fakenews">
-  <data key="d0">1</data>
+<edge source="blog" target="marketingstrategy">
+  <data key="d0">6</data>
 </edge>
-<edge source="heartlandlobby" target="frontal21">
-  <data key="d0">1</data>
+<edge source="blog" target="digitalmarketing">
+  <data key="d0">6</data>
 </edge>
-<edge source="klimafaschos" target="nichtverhandelbar">
-  <data key="d0">1</data>
+<edge source="blog" target="blogging">
+  <data key="d0">5</data>
 </edge>
-<edge source="hh2102" target="bürgerschaftswahl">
+<edge source="blog" target="author">
   <data key="d0">2</data>
 </edge>
-<edge source="eeg" target="alledoerferbleiben">
-  <data key="d0">1</data>
-</edge>
-<edge source="aachen" target="alledoerferbleiben">
-  <data key="d0">1</data>
-</edge>
-<edge source="settlercolonialism" target="bds">
+<edge source="blog" target="links">
   <data key="d0">2</data>
 </edge>
-<edge source="klimafrage" target="allefürsklima">
+<edge source="blog" target="foodies">
   <data key="d0">1</data>
 </edge>
-<edge source="joekaeser" target="australien">
+<edge source="blog" target="nomoreemptypromisis">
   <data key="d0">1</data>
 </edge>
-<edge source="allefürsklima" target="ac2106">
+<edge source="blog" target="friday13th">
   <data key="d0">1</data>
 </edge>
-<edge source="naturstattautobahnstruktur" target="sterkibleibt">
+<edge source="blog" target="dinner">
+  <data key="d0">2</data>
+</edge>
+<edge source="blog" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="blog" target="polarisierung">
+  <data key="d0">1</data>
+</edge>
+<edge source="quizzed" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="quizzed" target="contestalertindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="tweetme" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="tweetme" target="ffxiv">
+  <data key="d0">1</data>
+</edge>
+<edge source="tweetme" target="writerlift">
+  <data key="d0">1</data>
+</edge>
+<edge source="derechosdeniñosyniñas" target="acciónclimática">
+  <data key="d0">1</data>
+</edge>
+<edge source="derechosdeniñosyniñas" target="saludparatodos">
+  <data key="d0">1</data>
+</edge>
+<edge source="dharshan" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="dharshan" target="visitwarangal">
+  <data key="d0">1</data>
+</edge>
+<edge source="funfactfriday" target="italy">
+  <data key="d0">1</data>
+</edge>
+<edge source="funfactfriday" target="venerdi13">
+  <data key="d0">1</data>
+</edge>
+<edge source="ligue_des_optimistes" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="care" target="intention">
+  <data key="d0">1</data>
+</edge>
+<edge source="care" target="exception">
+  <data key="d0">1</data>
+</edge>
+<edge source="care" target="goodmorningworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="care" target="ourplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="blogging">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="foodies">
+  <data key="d0">2</data>
+</edge>
+<edge source="foodblog" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="bestfridaynightplans">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="foodpics">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodblog" target="fridaynight">
+  <data key="d0">1</data>
+</edge>
+<edge source="nojudgement" target="like4like">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecologie" target="climat">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecologie" target="municipales2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="climat" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="climat" target="écologie">
+  <data key="d0">1</data>
+</edge>
+<edge source="climat" target="hautsdeseine">
+  <data key="d0">1</data>
+</edge>
+<edge source="climat" target="municipales2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="climat" target="pourlefutur">
+  <data key="d0">1</data>
+</edge>
+<edge source="nftcommunity" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="nftcommunity" target="nftcollector">
+  <data key="d0">1</data>
+</edge>
+<edge source="nftcommunity" target="nfts">
+  <data key="d0">1</data>
+</edge>
+<edge source="surprise" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="exception" target="intention">
+  <data key="d0">1</data>
+</edge>
+<edge source="exception" target="goodmorningworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="links" target="author">
+  <data key="d0">2</data>
+</edge>
+<edge source="links" target="empathie">
+  <data key="d0">1</data>
+</edge>
+<edge source="macysblackfriday" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="macysblackfriday" target="byte">
+  <data key="d0">2</data>
+</edge>
+<edge source="macysblackfriday" target="funny">
+  <data key="d0">2</data>
+</edge>
+<edge source="macysblackfriday" target="kohlsblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="macysblackfriday" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="macysblackfriday" target="anime">
+  <data key="d0">1</data>
+</edge>
+<edge source="november1st" target="italy">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuturechile" target="chile">
+  <data key="d0">1</data>
+</edge>
+<edge source="ビーガン" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="ビーガン" target="気候危機対策に菜食を">
+  <data key="d0">1</data>
+</edge>
+<edge source="ビーガン" target="牛丼">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyvalentinesday" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyvalentinesday" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyvalentinesday" target="flowerpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="enjoyingeverydaylife" target="iqrtg">
+  <data key="d0">1</data>
+</edge>
+<edge source="enjoyingeverydaylife" target="makeyouhappy">
+  <data key="d0">1</data>
+</edge>
+<edge source="lacocinadeespaña" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="lacocinadeespaña" target="hola">
+  <data key="d0">1</data>
+</edge>
+<edge source="byte" target="funnyvines">
+  <data key="d0">2</data>
+</edge>
+<edge source="byte" target="funny">
+  <data key="d0">2</data>
+</edge>
+<edge source="byte" target="kohlsblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="byte" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="byte" target="anime">
+  <data key="d0">1</data>
+</edge>
+<edge source="vivian" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="vivian" target="pyarkiiyeekkahani">
+  <data key="d0">1</data>
+</edge>
+<edge source="vivian" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="vivian" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="vivian" target="viviandsena">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="happybirthdayceo">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="ceoquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="okenwachukwuma">
+  <data key="d0">1</data>
+</edge>
+<edge source="allstars7" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="allstars7" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="allstars7" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="allstars7" target="beings">
+  <data key="d0">1</data>
+</edge>
+<edge source="allstars7" target="worldbeeday">
+  <data key="d0">1</data>
+</edge>
+<edge source="राष्ट्रवादिराठौर" target="danishkaneria">
+  <data key="d0">1</data>
+</edge>
+<edge source="राष्ट्रवादिराठौर" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="superm_jopping" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="superm_jopping" target="joker">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalertindia" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="youtuber募集" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="youtuber募集" target="pizza">
+  <data key="d0">1</data>
+</edge>
+<edge source="retweetplease" target="denkmaldrübernach">
+  <data key="d0">1</data>
+</edge>
+<edge source="昼ごはん" target="気候危機対策に菜食を">
+  <data key="d0">1</data>
+</edge>
+<edge source="昼ごはん" target="グリーンバーガー">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardanowomen" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardanowomen" target="womenintech">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardanowomen" target="womeninnfts">
+  <data key="d0">1</data>
+</edge>
+<edge source="abandonedplaces" target="urbex">
+  <data key="d0">1</data>
+</edge>
+<edge source="owl" target="photographylovers">
+  <data key="d0">1</data>
+</edge>
+<edge source="owl" target="birding">
+  <data key="d0">1</data>
+</edge>
+<edge source="owl" target="birdwatching">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="fridayreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="pyarkiiyeekkahani">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="visu">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="dadijanki" target="mayday">
+  <data key="d0">1</data>
+</edge>
+<edge source="dadijanki" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="dadijanki" target="spirituality">
+  <data key="d0">1</data>
+</edge>
+<edge source="sunshine" target="weatherforecast">
+  <data key="d0">1</data>
+</edge>
+<edge source="city" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="city" target="2local">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="dolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="captivity">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthegrind" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="pariserabkommen" target="generationklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="nftcollector" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="tuesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="cupofuji">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="wellbeing" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="wellbeing" target="mentalhealth">
+  <data key="d0">1</data>
+</edge>
+<edge source="wellbeing" target="secret">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="dolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="captivity" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="chocolate" target="dinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="chocolate" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="foodies">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="bestfridaynightplans">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="cooking">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodpics" target="fridaynight">
+  <data key="d0">1</data>
+</edge>
+<edge source="aapkahealthbuddy" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="aapkahealthbuddy" target="funday">
+  <data key="d0">1</data>
+</edge>
+<edge source="joker" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="joker" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivation" target="quotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivation" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivation" target="विश्वविख्यातकवयित्रीडॉकविताकिरण">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivation" target="पॉलीथिनहटाओपर्यावरणबचाओ">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="justice">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="opseaworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="something" target="fridaymood">
+  <data key="d0">1</data>
+</edge>
+<edge source="pyarkiiyeekkahani" target="fridayreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="pyarkiiyeekkahani" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="pyarkiiyeekkahani" target="viviandsena">
+  <data key="d0">1</data>
+</edge>
+<edge source="pyarkiiyeekkahani" target="visu">
+  <data key="d0">1</data>
+</edge>
+<edge source="pyarkiiyeekkahani" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="swadeshi" target="शुक्र_श्रीशक्ति">
+  <data key="d0">1</data>
+</edge>
+<edge source="swadeshi" target="स्वदेशी">
+  <data key="d0">1</data>
+</edge>
+<edge source="swadeshi" target="देशभक्त">
+  <data key="d0">1</data>
+</edge>
+<edge source="swadeshi" target="bepositive">
+  <data key="d0">2</data>
+</edge>
+<edge source="freakyfriday" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="freakyfriday" target="horrorcommunity">
+  <data key="d0">1</data>
+</edge>
+<edge source="freakyfriday" target="jasonvoorhees">
+  <data key="d0">1</data>
+</edge>
+<edge source="inspiration" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="inspiration" target="quotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="inspiration" target="beinspired">
+  <data key="d0">1</data>
+</edge>
+<edge source="forcefriday" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="forcefriday" target="giveaway">
+  <data key="d0">1</data>
+</edge>
+<edge source="forcefriday" target="winner">
+  <data key="d0">1</data>
+</edge>
+<edge source="birding" target="photographylovers">
+  <data key="d0">1</data>
+</edge>
+<edge source="birding" target="birdwatching">
+  <data key="d0">1</data>
+</edge>
+<edge source="costabrava" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="costabrava" target="potd">
+  <data key="d0">1</data>
+</edge>
+<edge source="बापूजी" target="गाजियाबाद">
+  <data key="d0">1</data>
+</edge>
+<edge source="enjoynature" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="enjoynature" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="enjoynature" target="dog">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="vegan">
+  <data key="d0">2</data>
+</edge>
+<edge source="justice" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="beings">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="worldbeeday">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="opseaworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="justice" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="bird" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="おうちごはん" target="プラントベース">
   <data key="d0">3</data>
+</edge>
+<edge source="おうちごはん" target="エシカル消費">
+  <data key="d0">2</data>
+</edge>
+<edge source="おうちごはん" target="買い物は投票">
+  <data key="d0">1</data>
+</edge>
+<edge source="おうちごはん" target="気候危機対策に菜食を">
+  <data key="d0">3</data>
+</edge>
+<edge source="おうちごはん" target="大豆ミート">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiversität" target="nature">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="animals">
+  <data key="d0">2</data>
+</edge>
+<edge source="nature" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="gardenersworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="flowerpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="leadership">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="secret">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="mentalhealth">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="ocean">
+  <data key="d0">2</data>
+</edge>
+<edge source="nature" target="hautsdeseine">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="municipales2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="dog">
+  <data key="d0">1</data>
+</edge>
+<edge source="nature" target="dogsoftwittter">
+  <data key="d0">1</data>
+</edge>
+<edge source="noanimaluse" target="vegan">
+  <data key="d0">2</data>
+</edge>
+<edge source="noanimaluse" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="noanimaluse" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="noanimaluse" target="animals">
+  <data key="d0">2</data>
+</edge>
+<edge source="noanimaluse" target="animalrights">
+  <data key="d0">2</data>
+</edge>
+<edge source="noanimaluse" target="speciesism">
+  <data key="d0">2</data>
+</edge>
+<edge source="italy" target="venerdi13">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="vegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="animalrights">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="supremeplay" target="nutorla">
+  <data key="d0">1</data>
+</edge>
+<edge source="supremeplay" target="supremeplaymarket">
+  <data key="d0">1</data>
+</edge>
+<edge source="timezone" target="cats">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="govegan">
+  <data key="d0">9</data>
+</edge>
+<edge source="vegan" target="animals">
+  <data key="d0">5</data>
+</edge>
+<edge source="vegan" target="animalrights">
+  <data key="d0">6</data>
+</edge>
+<edge source="vegan" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="beings">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="opseaworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="fleisch">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="ernährungswende">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="気候危機対策に菜食を">
+  <data key="d0">4</data>
+</edge>
+<edge source="vegan" target="agrarwende">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="animalrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="someat">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="バレンタイン">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="ヴィーガン子育てバレンタイン">
+  <data key="d0">1</data>
+</edge>
+<edge source="vegan" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="agrarwende" target="ernährungswende">
+  <data key="d0">1</data>
+</edge>
+<edge source="agrarwende" target="animalrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="cuomocommunity" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="cuomocommunity" target="haveagoodday">
+  <data key="d0">1</data>
+</edge>
+<edge source="cuomocommunity" target="glitterglue">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimastrategie" target="generationklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="worklifebalance" target="thecorporatelady">
+  <data key="d0">1</data>
+</edge>
+<edge source="emotions" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="viviandsena">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="visu">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="quarantena">
+  <data key="d0">1</data>
+</edge>
+<edge source="leadership" target="feelings">
+  <data key="d0">1</data>
+</edge>
+<edge source="cat" target="fridayfun">
+  <data key="d0">1</data>
+</edge>
+<edge source="cat" target="catsontwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="good">
+  <data key="d0">1</data>
+</edge>
+<edge source="swachhatajaarihai" target="lifestyle">
+  <data key="d0">1</data>
+</edge>
+<edge source="frackboris" target="islamaphobic">
+  <data key="d0">1</data>
+</edge>
+<edge source="zorasarahcreates" target="zorasarahblogs">
+  <data key="d0">1</data>
+</edge>
+<edge source="zorasarahcreates" target="zorahosen">
+  <data key="d0">1</data>
+</edge>
+<edge source="विश्वविख्यातकवयित्रीडॉकविताकिरण" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="विश्वविख्यातकवयित्रीडॉकविताकिरण" target="indiaagainstpollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="विश्वविख्यातकवयित्रीडॉकविताकिरण" target="पॉलीथिनहटाओपर्यावरणबचाओ">
+  <data key="d0">1</data>
+</edge>
+<edge source="visitwarangal" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopthewar" target="standingwithukraine">
+  <data key="d0">1</data>
+</edge>
+<edge source="पॉलीथिनहटाओपर्यावरणबचाओ" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="仙台麩" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="breakfastclub" target="breakfast">
+  <data key="d0">1</data>
+</edge>
+<edge source="breakfastclub" target="pasta">
+  <data key="d0">1</data>
+</edge>
+<edge source="breakfastclub" target="foodies">
+  <data key="d0">1</data>
+</edge>
+<edge source="indicttrump" target="arresttrump">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="funnyvines">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="funny">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="anime">
+  <data key="d0">1</data>
+</edge>
+<edge source="zorasarahblogs" target="zorahosen">
+  <data key="d0">1</data>
+</edge>
+<edge source="iqrtg" target="livelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="iqrtg" target="makeyouhappy">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="स्वदेशी">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="सकारात्मक_संदेश">
+  <data key="d0">3</data>
+</edge>
+<edge source="bepositive" target="हिंदी">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="लखनऊ_विश्वविद्यालय">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="lucentennialcelebrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="dream" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="comingoutday" target="pizza">
+  <data key="d0">1</data>
+</edge>
+<edge source="大豆ミート" target="プラントベース">
+  <data key="d0">1</data>
+</edge>
+<edge source="大豆ミート" target="気候危機">
+  <data key="d0">2</data>
+</edge>
+<edge source="大豆ミート" target="気候危機対策に菜食を">
+  <data key="d0">2</data>
+</edge>
+<edge source="大豆ミート" target="ココイチ">
+  <data key="d0">1</data>
+</edge>
+<edge source="gelecekiçinkediler" target="tbtjuly2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="gelecekiçinkediler" target="cats4climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="gelecekiçinkediler" target="tbttemmuz2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardening" target="gardenersworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardening" target="flowers">
+  <data key="d0">1</data>
+</edge>
+<edge source="2local" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="fabulousfinn" target="finnslawpart2">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機対策に菜食を" target="気候危機">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機対策に菜食を" target="エシカル消費">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機対策に菜食を" target="グリーンバーガー">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機対策に菜食を" target="someat">
+  <data key="d0">1</data>
+</edge>
+<edge source="marketingstrategy" target="marketingtips">
+  <data key="d0">1</data>
+</edge>
+<edge source="marketingstrategy" target="digitalmarketing">
+  <data key="d0">6</data>
+</edge>
+<edge source="marketingstrategy" target="blogging">
+  <data key="d0">5</data>
+</edge>
+<edge source="getwellsoon" target="fridaynight">
+  <data key="d0">1</data>
+</edge>
+<edge source="secret" target="mentalhealth">
+  <data key="d0">1</data>
+</edge>
+<edge source="secret" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodmorningworld" target="intention">
+  <data key="d0">1</data>
+</edge>
+<edge source="funnyvines" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="funnyvines" target="funny">
+  <data key="d0">2</data>
+</edge>
+<edge source="funnyvines" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="funnyvines" target="anime">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="atmosphere">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="womenintech">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="womeninnfts">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="ffs">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="funday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="medibuddy">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="playtime">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="cats">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfun" target="catsontwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="大学生協" target="読書の秋">
+  <data key="d0">1</data>
+</edge>
+<edge source="acciónclimática" target="viernes">
+  <data key="d0">2</data>
+</edge>
+<edge source="acciónclimática" target="saludparatodos">
+  <data key="d0">1</data>
+</edge>
+<edge source="लखनऊ_विश्वविद्यालय" target="positivevibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="लखनऊ_विश्वविद्यालय" target="स्वदेशी">
+  <data key="d0">1</data>
+</edge>
+<edge source="लखनऊ_विश्वविद्यालय" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="लखनऊ_विश्वविद्यालय" target="हिंदी">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivationalquotes" target="motivational">
+  <data key="d0">1</data>
+</edge>
+<edge source="dogsoftwittter" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="dogsoftwittter" target="dog">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarantena" target="friday13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarantena" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="thatfridayfeeling" target="fancyfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="thatfridayfeeling" target="weekendwithbae">
+  <data key="d0">1</data>
+</edge>
+<edge source="thatfridayfeeling" target="chillvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerpower" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerpower" target="gardenersworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerpower" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="blogging">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="breakfast">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="pasta">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="friday13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="dinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="bestfridaynightplans">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="cooking">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="foodies" target="fridaynight">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalrebellion" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalrebellion" target="ernährungswende">
+  <data key="d0">1</data>
+</edge>
+<edge source="spirituality" target="mayday">
+  <data key="d0">1</data>
+</edge>
+<edge source="spirituality" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="spirituality" target="lifestyle">
+  <data key="d0">1</data>
+</edge>
+<edge source="spirituality" target="now">
+  <data key="d0">1</data>
+</edge>
+<edge source="concepcion" target="chile">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardenersworld" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardenersworld" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelife" target="makeyouhappy">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="opseaworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="viviandsena" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="anime" target="twitch">
+  <data key="d0">1</data>
+</edge>
+<edge source="anime" target="funny">
+  <data key="d0">1</data>
+</edge>
+<edge source="anime" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="medibuddy" target="funday">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機" target="エシカル消費">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機" target="買い物は投票">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機" target="アースデイ">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機" target="メリークリスマス">
+  <data key="d0">1</data>
+</edge>
+<edge source="気候危機" target="fridaysforfuturesapporo">
+  <data key="d0">2</data>
+</edge>
+<edge source="気候危機" target="いいにくいことを言う日">
+  <data key="d0">1</data>
+</edge>
+<edge source="opseaworld" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="opseaworld" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="opseaworld" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="opseaworld" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivacion" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="バレンタイン" target="animalrights">
+  <data key="d0">1</data>
+</edge>
+<edge source="バレンタイン" target="ヴィーガン子育てバレンタイン">
+  <data key="d0">1</data>
+</edge>
+<edge source="farming" target="animals">
+  <data key="d0">1</data>
+</edge>
+<edge source="farming" target="degrowth">
+  <data key="d0">1</data>
+</edge>
+<edge source="farming" target="tuesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivevibes" target="शुक्र_श्रीशक्ति">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivevibes" target="स्वदेशी">
+  <data key="d0">2</data>
+</edge>
+<edge source="positivevibes" target="देशभक्त">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivevibes" target="सकारात्मक_संदेश">
+  <data key="d0">3</data>
+</edge>
+<edge source="positivevibes" target="हिंदी">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivevibes" target="lucentennialcelebrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="suku" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="horrorcommunity" target="fridaythe13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="horrorcommunity" target="jasonvoorhees">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardeningtwitter" target="thephotohour">
+  <data key="d0">1</data>
+</edge>
+<edge source="writerlift" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="writerlift" target="ffxiv">
+  <data key="d0">1</data>
+</edge>
+<edge source="speciesism" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="speciesism" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="speciesism" target="animals">
+  <data key="d0">2</data>
+</edge>
+<edge source="speciesism" target="animalrights">
+  <data key="d0">2</data>
+</edge>
+<edge source="neverwalkalone" target="loveearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="neverwalkalone" target="loveall">
+  <data key="d0">1</data>
+</edge>
+<edge source="weekendwithbae" target="chillvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="chile" target="viernes">
+  <data key="d0">1</data>
+</edge>
+<edge source="chile" target="findesemana">
+  <data key="d0">1</data>
+</edge>
+<edge source="chile" target="villarrica">
+  <data key="d0">1</data>
+</edge>
+<edge source="pakkanen" target="winter">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="शुक्र_श्रीशक्ति">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="देशभक्त">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="lucentennialcelebrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaythoughts" target="animals">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaythoughts" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffs" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="mayday" target="peace">
+  <data key="d0">1</data>
+</edge>
+<edge source="municipales2020" target="hautsdeseine">
+  <data key="d0">1</data>
+</edge>
+<edge source="beings" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="beings" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="beings" target="worldbeeday">
+  <data key="d0">1</data>
+</edge>
+<edge source="bestfridaynightplans" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="bestfridaynightplans" target="cooking">
+  <data key="d0">1</data>
+</edge>
+<edge source="bestfridaynightplans" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="bestfridaynightplans" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="bestfridaynightplans" target="fridaynight">
+  <data key="d0">1</data>
+</edge>
+<edge source="noracism" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="fortnite" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="cats" target="kitten">
+  <data key="d0">1</data>
+</edge>
+<edge source="cats" target="catsontwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="business" target="digitalmarketing">
+  <data key="d0">5</data>
+</edge>
+<edge source="business" target="blogging">
+  <data key="d0">5</data>
+</edge>
+<edge source="kitten" target="catsontwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalrights" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalrights" target="animals">
+  <data key="d0">4</data>
+</edge>
+<edge source="animalrights" target="ヴィーガン子育てバレンタイン">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalrights" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="ernährungswende" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="aacc" target="govegan">
+  <data key="d0">2</data>
+</edge>
+<edge source="beautytips" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythe13th" target="friday13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythe13th" target="dinner">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythe13th" target="happybirthdayceo">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythe13th" target="ceoquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythe13th" target="okenwachukwuma">
+  <data key="d0">1</data>
+</edge>
+<edge source="winter" target="animals">
+  <data key="d0">1</data>
+</edge>
+<edge source="winter" target="dog">
+  <data key="d0">1</data>
+</edge>
+<edge source="eat" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="eat" target="travelcorridor">
+  <data key="d0">1</data>
+</edge>
+<edge source="findesemana" target="atacamadesert">
+  <data key="d0">1</data>
+</edge>
+<edge source="हिंदी" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="हिंदी" target="lucentennialcelebrations">
+  <data key="d0">1</data>
+</edge>
+<edge source="singlesrelationships" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="singlesrelationships" target="singlelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="tbtjuly2019" target="cats4climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="tbtjuly2019" target="tbttemmuz2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldbeeday" target="happy">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldbeeday" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="देशभक्त" target="शुक्र_श्रीशक्ति">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceoquotes" target="happybirthdayceo">
+  <data key="d0">1</data>
+</edge>
+<edge source="cats4climate" target="tbttemmuz2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="productive" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="productive" target="fridaymood">
+  <data key="d0">1</data>
+</edge>
+<edge source="fancyfriday" target="chillvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="グリーンバーガー" target="プラントベース">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="gamer">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="stream">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="streamacademyrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="funny">
+  <data key="d0">1</data>
+</edge>
+<edge source="twitch" target="walmartblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="marketingtips" target="digitalmarketing">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymood" target="goodmorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="happy" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="games">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="germantwitchrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="streamacademyrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="traveltribe" target="flashbackfridayz">
+  <data key="d0">1</data>
+</edge>
+<edge source="mentalhealth" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="denkmaldrübernach" target="nichtakleubereinenkammscheren">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaynight" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaynight" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaynight" target="cooking">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaynight" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaynight" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodmorning" target="glitterglue">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodmorning" target="travelcorridor">
+  <data key="d0">1</data>
+</edge>
+<edge source="買い物は投票" target="エシカル消費">
+  <data key="d0">1</data>
+</edge>
+<edge source="買い物は投票" target="アースデイ">
+  <data key="d0">1</data>
+</edge>
+<edge source="lucentennialcelebrations" target="सकारात्मक_संदेश">
+  <data key="d0">1</data>
+</edge>
+<edge source="streamacademyrt" target="youtube">
+  <data key="d0">1</data>
+</edge>
+<edge source="streamacademyrt" target="germantwitchrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="streamacademyrt" target="stream">
+  <data key="d0">1</data>
+</edge>
+<edge source="seaspiracy" target="govegan">
+  <data key="d0">1</data>
+</edge>
+<edge source="seaspiracy" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="seaspiracy" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="seaspiracy" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="animals">
+  <data key="d0">3</data>
+</edge>
+<edge source="govegan" target="animalliberation">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="degrowth">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="milch">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="maketheconnection">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="いいにくいことを言う日">
+  <data key="d0">1</data>
+</edge>
+<edge source="govegan" target="zurich">
+  <data key="d0">1</data>
+</edge>
+<edge source="atmosphere" target="brekfast">
+  <data key="d0">1</data>
+</edge>
+<edge source="quotes" target="beinspired">
+  <data key="d0">1</data>
+</edge>
+<edge source="womenintech" target="womeninnfts">
+  <data key="d0">1</data>
+</edge>
+<edge source="photographylovers" target="birdwatching">
+  <data key="d0">1</data>
+</edge>
+<edge source="プラントベース" target="エシカル消費">
+  <data key="d0">2</data>
+</edge>
+<edge source="gvprakash" target="sooraraipottru">
+  <data key="d0">1</data>
+</edge>
+<edge source="youtube" target="germantwitchrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="youtube" target="stream">
+  <data key="d0">1</data>
+</edge>
+<edge source="youtube" target="pizza">
+  <data key="d0">1</data>
+</edge>
+<edge source="エシカル消費" target="アースデイ">
+  <data key="d0">1</data>
+</edge>
+<edge source="opwhales" target="nationaldolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="opwhales" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="winner" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="dinner" target="friday13th">
+  <data key="d0">1</data>
+</edge>
+<edge source="visu" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="visu" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="milch" target="fleisch">
+  <data key="d0">1</data>
+</edge>
+<edge source="danishkaneria" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatemomentum" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="singlelife" target="answer">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="abhiya">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffxiv" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincareroutine" target="wednesdaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="feedtheworld" target="ff">
+  <data key="d0">1</data>
+</edge>
+<edge source="germantwitchrt" target="stream">
+  <data key="d0">1</data>
+</edge>
+<edge source="pie" target="cooking">
+  <data key="d0">1</data>
+</edge>
+<edge source="pie" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="nationaldolphinday" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="cooking" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="cooking" target="myyoutubechannelwouldbe">
+  <data key="d0">1</data>
+</edge>
+<edge source="cooking" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="giveaway" target="win">
+  <data key="d0">1</data>
+</edge>
+<edge source="indiaagainstpollution" target="narendramodi">
+  <data key="d0">1</data>
+</edge>
+<edge source="pasta" target="breakfast">
+  <data key="d0">1</data>
+</edge>
+<edge source="myyoutubechannelwouldbe" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="games" target="indie">
+  <data key="d0">1</data>
+</edge>
+<edge source="degrowth" target="animals">
+  <data key="d0">1</data>
+</edge>
+<edge source="degrowth" target="generationklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="yum" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="dog" target="animals">
+  <data key="d0">1</data>
+</edge>
+<edge source="okenwachukwuma" target="happybirthdayceo">
+  <data key="d0">1</data>
 </edge>
 </graph></graphml>
