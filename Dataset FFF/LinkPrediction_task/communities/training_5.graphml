@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="vogue"/>
+<node id="dougford"/>
+<node id="losinglife"/>
+<node id="adifferenceofopinion"/>
+<node id="nannassay"/>
+<node id="species"/>
+<node id="inktober2021"/>
+<node id="fundourfuturenotgas"/>
+<node id="death"/>
+<node id="time4truth"/>
+<node id="glasgowclimatepact"/>
+<node id="itsgettinghotinhere"/>
+<node id="sour"/>
+<node id="saveenvironment"/>
+<node id="bansingleuseplastic"/>
+<node id="lakes"/>
+<node id="kiddies"/>
+<node id="globalcitizen"/>
+<node id="climateclock"/>
+<node id="tiktokdance"/>
+<node id="gogreen"/>
+<node id="myalllakes"/>
+<node id="scary"/>
+<node id="5gcitizens"/>
+<node id="covidsafe"/>
+<node id="marvel"/>
+<node id="midcoastnannas"/>
+<node id="fossilfuelsarekillingus"/>
+<node id="missedyou"/>
+<node id="koalakiller"/>
+<node id="forster"/>
+<node id="rodent"/>
+<node id="bethechange"/>
+<node id="greed"/>
+<node id="sustentabilidad"/>
+<node id="extinctionisforever"/>
+<node id="rumors"/>
+<node id="notevengonnatry"/>
+<node id="parachutefortheplanet"/>
+<node id="money"/>
+<node id="endangered"/>
+<node id="greenenergy"/>
+<node id="huh"/>
+<node id="humansaretheproblem"/>
+<node id="humanchangenotclimatechange"/>
+<node id="politicsarekillingpeople"/>
+<node id="koalas"/>
+<node id="nswpol"/>
+<node id="fridaysforforest"/>
+<node id="halloween"/>
+<node id="lazygovernment"/>
+<node id="comics"/>
+<node id="drawing"/>
+<node id="watch"/>
+<node id="sootyowl"/>
+<node id="wecanbetter"/>
+<node id="renewablesnow"/>
+<node id="alarmed"/>
+<node id="wehavethetechnology"/>
+<node id="tuncurry"/>
+<node id="biripi"/>
+<node id="connect"/>
+<node id="basketball"/>
+<node id="comicsforclimate"/>
+<node id="inktober"/>
+<node id="earthneedsyou"/>
+<node id="pokélife"/>
+<node id="quail"/>
+<node id="dontgiveup"/>
+<node id="overshoot"/>
+<node id="saveeverything"/>
+<node id="alltherumorsaretrue"/>
+<node id="actintime"/>
+<node id="climatestrikeforster"/>
+<node id="crystal"/>
+<node id="ecosystem"/>
+<node id="pokemongotoronto"/>
+<node id="entrepsawards"/>
+<node id="animalsaredying"/>
+<node id="saveourkoalas"/>
+<node id="inktober2020"/>
+<node id="fixated"/>
+<node id="globalsolutions"/>
+<node id="ecologist"/>
+<node id="nswstategov"/>
+<node id="worimi"/>
+<node id="holdthemaccountable"/>
+<node id="coderedforhumanity"/>
+<node id="globalcrisis"/>
+<node id="wecandobetter"/>
+<edge source="vogue" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="vogue" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="vogue" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="vogue" target="wecanbetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="vogue" target="earthneedsyou">
+  <data key="d0">1</data>
+</edge>
+<edge source="dougford" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dougford" target="huh">
+  <data key="d0">1</data>
+</edge>
+<edge source="dougford" target="pokemongotoronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="dougford" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="dougford" target="pokélife">
+  <data key="d0">1</data>
+</edge>
+<edge source="losinglife" target="greenenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="losinglife" target="gogreen">
+  <data key="d0">2</data>
+</edge>
+<edge source="losinglife" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="losinglife" target="comics">
+  <data key="d0">3</data>
+</edge>
+<edge source="losinglife" target="comicsforclimate">
+  <data key="d0">3</data>
+</edge>
+<edge source="losinglife" target="humanchangenotclimatechange">
+  <data key="d0">3</data>
+</edge>
+<edge source="losinglife" target="species">
+  <data key="d0">1</data>
+</edge>
+<edge source="losinglife" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="losinglife" target="humansaretheproblem">
+  <data key="d0">1</data>
+</edge>
+<edge source="losinglife" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="adifferenceofopinion" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="adifferenceofopinion" target="gogreen">
+  <data key="d0">1</data>
+</edge>
+<edge source="adifferenceofopinion" target="greed">
+  <data key="d0">1</data>
+</edge>
+<edge source="adifferenceofopinion" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="adifferenceofopinion" target="money">
+  <data key="d0">1</data>
+</edge>
+<edge source="nannassay" target="midcoastnannas">
+  <data key="d0">1</data>
+</edge>
+<edge source="nannassay" target="biripi">
+  <data key="d0">1</data>
+</edge>
+<edge source="nannassay" target="coderedforhumanity">
+  <data key="d0">1</data>
+</edge>
+<edge source="nannassay" target="fundourfuturenotgas">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="wehavethetechnology">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="humanchangenotclimatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="species" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="inktober2021" target="endangered">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="inktober">
+  <data key="d0">8</data>
+</edge>
+<edge source="inktober2021" target="drawing">
+  <data key="d0">8</data>
+</edge>
+<edge source="inktober2021" target="connect">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="sour">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="watch">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="crystal">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober2021" target="lakes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="biripi">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="coderedforhumanity">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="fridaysforforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="forster">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="climatestrikeforster">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="kiddies">
+  <data key="d0">1</data>
+</edge>
+<edge source="fundourfuturenotgas" target="renewablesnow">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="halloween">
+  <data key="d0">1</data>
+</edge>
+<edge source="death" target="scary">
+  <data key="d0">1</data>
+</edge>
+<edge source="time4truth" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="time4truth" target="actintime">
+  <data key="d0">1</data>
+</edge>
+<edge source="time4truth" target="glasgowclimatepact">
+  <data key="d0">1</data>
+</edge>
+<edge source="glasgowclimatepact" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="glasgowclimatepact" target="actintime">
+  <data key="d0">1</data>
+</edge>
+<edge source="itsgettinghotinhere" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="itsgettinghotinhere" target="gogreen">
+  <data key="d0">1</data>
+</edge>
+<edge source="itsgettinghotinhere" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="itsgettinghotinhere" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="itsgettinghotinhere" target="marvel">
+  <data key="d0">1</data>
+</edge>
+<edge source="sour" target="inktober">
+  <data key="d0">1</data>
+</edge>
+<edge source="sour" target="drawing">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveenvironment" target="gogreen">
+  <data key="d0">1</data>
+</edge>
+<edge source="bansingleuseplastic" target="gogreen">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="inktober">
+  <data key="d0">2</data>
+</edge>
+<edge source="lakes" target="inktober2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="lakes" target="crystal">
+  <data key="d0">1</data>
+</edge>
+<edge source="kiddies" target="renewablesnow">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="humanchangenotclimatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="extinctionisforever">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="politicsarekillingpeople">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalcitizen" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateclock" target="actintime">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiktokdance" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiktokdance" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiktokdance" target="wecanbetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="tiktokdance" target="earthneedsyou">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="greed">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="globalcrisis">
+  <data key="d0">2</data>
+</edge>
+<edge source="gogreen" target="comics">
+  <data key="d0">3</data>
+</edge>
+<edge source="gogreen" target="comicsforclimate">
+  <data key="d0">4</data>
+</edge>
+<edge source="gogreen" target="humanchangenotclimatechange">
+  <data key="d0">2</data>
+</edge>
+<edge source="gogreen" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="humansaretheproblem">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="marvel">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogreen" target="money">
+  <data key="d0">1</data>
+</edge>
+<edge source="myalllakes" target="koalas">
+  <data key="d0">1</data>
+</edge>
+<edge source="myalllakes" target="koalakiller">
+  <data key="d0">1</data>
+</edge>
+<edge source="scary" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="scary" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="5gcitizens" target="entrepsawards">
+  <data key="d0">1</data>
+</edge>
+<edge source="covidsafe" target="saveourkoalas">
+  <data key="d0">1</data>
+</edge>
+<edge source="covidsafe" target="nswstategov">
+  <data key="d0">1</data>
+</edge>
+<edge source="covidsafe" target="fridaysforforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="covidsafe" target="parachutefortheplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="marvel" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="marvel" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="marvel" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="midcoastnannas" target="fixated">
+  <data key="d0">1</data>
+</edge>
+<edge source="midcoastnannas" target="alarmed">
+  <data key="d0">1</data>
+</edge>
+<edge source="fossilfuelsarekillingus" target="comicsforclimate">
+  <data key="d0">2</data>
+</edge>
+<edge source="fossilfuelsarekillingus" target="dontgiveup">
+  <data key="d0">1</data>
+</edge>
+<edge source="missedyou" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="koalakiller" target="koalas">
+  <data key="d0">1</data>
+</edge>
+<edge source="forster" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="forster" target="climatestrikeforster">
+  <data key="d0">1</data>
+</edge>
+<edge source="rodent" target="inktober">
+  <data key="d0">1</data>
+</edge>
+<edge source="rodent" target="drawing">
+  <data key="d0">1</data>
+</edge>
+<edge source="rodent" target="inktober2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="bethechange" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="bethechange" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="bethechange" target="wecanbetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="greed" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="greed" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="greed" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="greed" target="money">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustentabilidad" target="ecologist">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionisforever" target="globalcrisis">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionisforever" target="comics">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionisforever" target="comicsforclimate">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionisforever" target="humanchangenotclimatechange">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionisforever" target="politicsarekillingpeople">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionisforever" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionisforever" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="rumors" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="rumors" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="rumors" target="wehavethetechnology">
+  <data key="d0">1</data>
+</edge>
+<edge source="rumors" target="alltherumorsaretrue">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="humanchangenotclimatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="notevengonnatry" target="lazygovernment">
+  <data key="d0">1</data>
+</edge>
+<edge source="money" target="greenenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="money" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="money" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="endangered" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="endangered" target="inktober">
+  <data key="d0">1</data>
+</edge>
+<edge source="endangered" target="drawing">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="comics">
+  <data key="d0">4</data>
+</edge>
+<edge source="greenenergy" target="comicsforclimate">
+  <data key="d0">5</data>
+</edge>
+<edge source="greenenergy" target="humanchangenotclimatechange">
+  <data key="d0">2</data>
+</edge>
+<edge source="greenenergy" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="humansaretheproblem">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="wecanbetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="earthneedsyou">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="huh">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="pokemongotoronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenenergy" target="pokélife">
+  <data key="d0">1</data>
+</edge>
+<edge source="huh" target="pokemongotoronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="huh" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="humansaretheproblem" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="humansaretheproblem" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="humansaretheproblem" target="humanchangenotclimatechange">
+  <data key="d0">1</data>
+</edge>
+<edge source="humansaretheproblem" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="globalcrisis">
+  <data key="d0">2</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="comics">
+  <data key="d0">5</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="comicsforclimate">
+  <data key="d0">5</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="wehavethetechnology">
+  <data key="d0">2</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="lazygovernment">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="politicsarekillingpeople">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="humanchangenotclimatechange" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="politicsarekillingpeople" target="comics">
+  <data key="d0">1</data>
+</edge>
+<edge source="politicsarekillingpeople" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="koalas" target="biripi">
+  <data key="d0">1</data>
+</edge>
+<edge source="nswpol" target="saveourkoalas">
+  <data key="d0">2</data>
+</edge>
+<edge source="nswpol" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="nswpol" target="tuncurry">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforforest" target="saveourkoalas">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforforest" target="nswstategov">
+  <data key="d0">1</data>
+</edge>
+<edge source="halloween" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="halloween" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="lazygovernment" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="lazygovernment" target="wehavethetechnology">
+  <data key="d0">1</data>
+</edge>
+<edge source="lazygovernment" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="lazygovernment" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="globalcrisis">
+  <data key="d0">4</data>
+</edge>
+<edge source="comics" target="comicsforclimate">
+  <data key="d0">11</data>
+</edge>
+<edge source="comics" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="wehavethetechnology">
+  <data key="d0">3</data>
+</edge>
+<edge source="comics" target="holdthemaccountable">
+  <data key="d0">2</data>
+</edge>
+<edge source="comics" target="alltherumorsaretrue">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="comics" target="dontgiveup">
+  <data key="d0">1</data>
+</edge>
+<edge source="drawing" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="drawing" target="inktober">
+  <data key="d0">11</data>
+</edge>
+<edge source="drawing" target="connect">
+  <data key="d0">1</data>
+</edge>
+<edge source="drawing" target="watch">
+  <data key="d0">1</data>
+</edge>
+<edge source="drawing" target="crystal">
+  <data key="d0">1</data>
+</edge>
+<edge source="drawing" target="inktober2020">
+  <data key="d0">3</data>
+</edge>
+<edge source="watch" target="inktober">
+  <data key="d0">1</data>
+</edge>
+<edge source="sootyowl" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="wecanbetter" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="alarmed" target="fixated">
+  <data key="d0">1</data>
+</edge>
+<edge source="wehavethetechnology" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="wehavethetechnology" target="comicsforclimate">
+  <data key="d0">3</data>
+</edge>
+<edge source="wehavethetechnology" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="wehavethetechnology" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="wehavethetechnology" target="basketball">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuncurry" target="saveourkoalas">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuncurry" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="biripi" target="coderedforhumanity">
+  <data key="d0">1</data>
+</edge>
+<edge source="basketball" target="comicsforclimate">
+  <data key="d0">1</data>
+</edge>
+<edge source="basketball" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="basketball" target="overshoot">
+  <data key="d0">1</data>
+</edge>
+<edge source="comicsforclimate" target="animalsaredying">
+  <data key="d0">1</data>
+</edge>
+<edge source="comicsforclimate" target="holdthemaccountable">
+  <data key="d0">3</data>
+</edge>
+<edge source="comicsforclimate" target="alltherumorsaretrue">
+  <data key="d0">1</data>
+</edge>
+<edge source="comicsforclimate" target="globalsolutions">
+  <data key="d0">1</data>
+</edge>
+<edge source="comicsforclimate" target="wecandobetter">
+  <data key="d0">1</data>
+</edge>
+<edge source="comicsforclimate" target="dontgiveup">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober" target="ecosystem">
+  <data key="d0">2</data>
+</edge>
+<edge source="inktober" target="quail">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober" target="crystal">
+  <data key="d0">1</data>
+</edge>
+<edge source="inktober" target="inktober2020">
+  <data key="d0">3</data>
+</edge>
+<edge source="pokélife" target="pokemongotoronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="pokélife" target="saveeverything">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontgiveup" target="holdthemaccountable">
+  <data key="d0">1</data>
+</edge>
+<edge source="overshoot" target="ecosystem">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveeverything" target="pokemongotoronto">
+  <data key="d0">1</data>
+</edge>
+<edge source="alltherumorsaretrue" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeforster" target="worimi">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalsaredying" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourkoalas" target="nswstategov">
+  <data key="d0">1</data>
+</edge>
+<edge source="globalsolutions" target="globalcrisis">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

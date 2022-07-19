@@ -1,0 +1,4696 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="galapagos"/>
+<node id="personenbeförderung"/>
+<node id="flightshame"/>
+<node id="wildliferescue"/>
+<node id="biomass"/>
+<node id="techno"/>
+<node id="norway"/>
+<node id="klimaproblem"/>
+<node id="exxonknew"/>
+<node id="sf"/>
+<node id="toxins"/>
+<node id="german"/>
+<node id="neckarwestheim"/>
+<node id="energytwitter"/>
+<node id="savesoildelhi"/>
+<node id="oksolar"/>
+<node id="okainkitui"/>
+<node id="agenda2030"/>
+<node id="peking"/>
+<node id="pickelhaube"/>
+<node id="engineering"/>
+<node id="heidelbergcement"/>
+<node id="verursacherprinzip"/>
+<node id="elections"/>
+<node id="joinin"/>
+<node id="leerflüge"/>
+<node id="green"/>
+<node id="trucks"/>
+<node id="bluecarbon"/>
+<node id="talkingclimate"/>
+<node id="gardens"/>
+<node id="earthhour2020"/>
+<node id="tacoma"/>
+<node id="marinelife"/>
+<node id="followbackrenewables"/>
+<node id="savewater"/>
+<node id="rustbelt"/>
+<node id="kenyan"/>
+<node id="dontchooseextinction"/>
+<node id="habeckruecktritt"/>
+<node id="climatesongs"/>
+<node id="buses"/>
+<node id="methane"/>
+<node id="demvoice1"/>
+<node id="jobs"/>
+<node id="investing"/>
+<node id="ar"/>
+<node id="environnement"/>
+<node id="geoengineering"/>
+<node id="lightsoff"/>
+<node id="stem"/>
+<node id="innovations"/>
+<node id="takeaction"/>
+<node id="follow"/>
+<node id="tritium"/>
+<node id="tamil"/>
+<node id="conversation"/>
+<node id="webelieveinaction"/>
+<node id="skill"/>
+<node id="nolympiaf4f"/>
+<node id="ng"/>
+<node id="china"/>
+<node id="democracy"/>
+<node id="jalshaktiabhiyan"/>
+<node id="sdg14"/>
+<node id="boat"/>
+<node id="rt"/>
+<node id="palmsteadslw"/>
+<node id="no石炭"/>
+<node id="panelsnotpipelines"/>
+<node id="scientists"/>
+<node id="dumpfossilfuels"/>
+<node id="wws"/>
+<node id="climatecardinals"/>
+<node id="tokyo2020"/>
+<node id="greenwashing"/>
+<node id="austria"/>
+<node id="generalelection"/>
+<node id="polluting"/>
+<node id="oscarstembridge"/>
+<node id="youngpeople"/>
+<node id="fbrparty"/>
+<node id="hintergründe"/>
+<node id="raeumung"/>
+<node id="saveourplanet"/>
+<node id="batman"/>
+<node id="peoplevsfossilfuels"/>
+<node id="reactor"/>
+<node id="saturdayforsolutions"/>
+<node id="flygskam"/>
+<node id="kalifornien"/>
+<node id="misinformation"/>
+<node id="air"/>
+<node id="milliarden"/>
+<node id="ug4ph"/>
+<node id="ycff"/>
+<node id="aractivismawards"/>
+<node id="stayathomeandstaysafe"/>
+<node id="solarpanel"/>
+<node id="endcoal"/>
+<node id="tippingpoint"/>
+<node id="netzero"/>
+<node id="manovra2020"/>
+<node id="sustainabilty"/>
+<node id="youmatter"/>
+<node id="disabilities"/>
+<node id="plantyourage"/>
+<node id="climatelitigation"/>
+<node id="journeyforsoil"/>
+<node id="tmx"/>
+<node id="ecofriendly"/>
+<node id="russia"/>
+<node id="greennewdeal"/>
+<node id="thirdindustrialrevolution"/>
+<node id="coal"/>
+<node id="sustainability"/>
+<node id="consumers"/>
+<node id="freshair"/>
+<node id="gnd"/>
+<node id="stadtstraße"/>
+<node id="us"/>
+<node id="economic"/>
+<node id="wind"/>
+<node id="plastic"/>
+<node id="islamaphobic"/>
+<node id="happyholi2022"/>
+<node id="think"/>
+<node id="singapore"/>
+<node id="go100re"/>
+<node id="sharingeconomy"/>
+<node id="cute"/>
+<node id="wsdf2020"/>
+<node id="nonhumanrights"/>
+<node id="landscapes"/>
+<node id="all4earth"/>
+<node id="emergency"/>
+<node id="human"/>
+<node id="saveger6"/>
+<node id="drawdown"/>
+<node id="carbone"/>
+<node id="zero"/>
+<node id="rebellionweek"/>
+<node id="germany"/>
+<node id="letstakethisoffline"/>
+<node id="ökorassismus"/>
+<node id="empowered"/>
+<node id="earthhouruk"/>
+<node id="fish"/>
+<node id="industry40"/>
+<node id="energytransition"/>
+<node id="ökoterrorismus"/>
+<node id="geothermal"/>
+<node id="wahlench19"/>
+<node id="dunedin"/>
+<node id="unhchr"/>
+<node id="heat"/>
+<node id="destruction"/>
+<node id="mauritius"/>
+<node id="zeitfragen"/>
+<node id="climatestrike4future"/>
+<node id="windpower"/>
+<node id="future"/>
+<node id="extinctionrebellion"/>
+<node id="crpd"/>
+<node id="smartliving"/>
+<node id="californians"/>
+<node id="left"/>
+<node id="doppeldenk"/>
+<node id="gretafornobel"/>
+<node id="gogretago"/>
+<node id="bcstorm"/>
+<node id="styrofoam"/>
+<node id="frischeluft"/>
+<node id="parenting"/>
+<node id="gashahnzu"/>
+<node id="heartland"/>
+<node id="5g"/>
+<node id="emobility"/>
+<node id="homophobic"/>
+<node id="lobaubleibt"/>
+<node id="klimasozialismus"/>
+<node id="denmark"/>
+<node id="leuven"/>
+<node id="africa"/>
+<node id="himalayas"/>
+<node id="bushfirerebellion"/>
+<node id="foremanameomoka"/>
+<node id="health"/>
+<node id="tepco"/>
+<node id="costs"/>
+<node id="russian"/>
+<node id="water"/>
+<node id="co2"/>
+<node id="blackouts"/>
+<node id="home"/>
+<node id="coventry"/>
+<node id="carlareemtsma"/>
+<node id="cleanenergy"/>
+<node id="sustainable"/>
+<node id="house"/>
+<node id="plantatree"/>
+<node id="activism"/>
+<node id="everydayforfuture"/>
+<node id="bildetbanden"/>
+<node id="siemensinfluencer"/>
+<node id="utopie"/>
+<node id="endracism"/>
+<node id="islands"/>
+<node id="sun"/>
+<node id="roberthabeck"/>
+<node id="environmental"/>
+<node id="vehicles"/>
+<node id="energy"/>
+<node id="getoutthevote"/>
+<node id="greens"/>
+<node id="re100"/>
+<node id="hamas"/>
+<node id="disinformation"/>
+<node id="rural"/>
+<node id="youthquake"/>
+<node id="nothingaboutuswithoutus"/>
+<node id="electricvehicles"/>
+<node id="treeplanting"/>
+<node id="pkw"/>
+<node id="talklandscape"/>
+<node id="worldwaterweek"/>
+<node id="apocalypse2020"/>
+<node id="sevenworldsoneplanet"/>
+<node id="shapeyourfuture"/>
+<node id="unga2019"/>
+<node id="atmosphäre"/>
+<node id="solarpower"/>
+<node id="everydropcounts"/>
+<node id="europeanunion"/>
+<node id="landscapeforfuture"/>
+<node id="heathrow"/>
+<node id="savesoilsavelife"/>
+<node id="cleantech"/>
+<node id="4ir"/>
+<node id="fbr"/>
+<node id="dutch"/>
+<node id="environmentally"/>
+<node id="nolympia"/>
+<node id="power"/>
+<node id="ev"/>
+<node id="räumung"/>
+<node id="carbo"/>
+<node id="russischesgas"/>
+<node id="frackboris"/>
+<node id="girlsinstem"/>
+<node id="sdgs"/>
+<node id="bildungbitte"/>
+<node id="仏"/>
+<node id="unstoppable"/>
+<node id="lobaucamp"/>
+<node id="maga2020"/>
+<node id="klimawahl2019"/>
+<node id="america"/>
+<node id="stopinthenameoflove"/>
+<node id="japan"/>
+<node id="efficiency"/>
+<node id="beachcleanup"/>
+<node id="kohlausstieg"/>
+<node id="fuelcells"/>
+<node id="renewbleenergy"/>
+<node id="newzealand"/>
+<node id="savewatersavelife"/>
+<node id="atoms4future"/>
+<node id="latinamerica"/>
+<node id="no石油"/>
+<node id="dearworldleaders"/>
+<node id="gasversorgung"/>
+<node id="buildings"/>
+<node id="innovation"/>
+<node id="israelunderattack"/>
+<node id="batteries"/>
+<node id="iot"/>
+<node id="global"/>
+<node id="eltville"/>
+<node id="extinctionrebellionlondon"/>
+<node id="buddha"/>
+<node id="b117"/>
+<node id="az"/>
+<node id="goodnighttwitterworld"/>
+<node id="storage"/>
+<node id="mothersfornuclear"/>
+<node id="land4life"/>
+<node id="ice"/>
+<node id="infographiken"/>
+<node id="transportation"/>
+<node id="earth"/>
+<node id="threatened"/>
+<node id="nuclear"/>
+<node id="renewable"/>
+<node id="waste"/>
+<node id="heatdome"/>
+<node id="antifaklima"/>
+<node id="schulbesuch"/>
+<node id="oil"/>
+<node id="climate"/>
+<node id="disruption"/>
+<node id="drought"/>
+<node id="california"/>
+<node id="pollution"/>
+<node id="akkus"/>
+<node id="fridaysforfutureusa"/>
+<node id="fossilfuel"/>
+<node id="renewableenegy"/>
+<node id="industry"/>
+<node id="technology"/>
+<node id="israel"/>
+<node id="soldaten"/>
+<node id="laueslüftchen"/>
+<node id="carbondioxide"/>
+<node id="worldpeace"/>
+<node id="climatesummit"/>
+<node id="illustrator"/>
+<node id="sendinglovefrompatagonia"/>
+<node id="economy"/>
+<node id="immigration"/>
+<node id="gretagonuclear"/>
+<node id="fossil"/>
+<node id="van"/>
+<node id="mixedreality"/>
+<node id="bbcqt"/>
+<node id="bus"/>
+<node id="fukushima"/>
+<node id="noise"/>
+<node id="pv"/>
+<node id="energyefficiency"/>
+<node id="glastonbury"/>
+<node id="smr"/>
+<node id="klimaapokalypse"/>
+<node id="zerowaste"/>
+<node id="climateelection"/>
+<node id="no3rdrunway"/>
+<node id="electricvehicle"/>
+<node id="tree"/>
+<node id="life"/>
+<node id="cimateaction"/>
+<node id="science"/>
+<node id="sauna"/>
+<node id="animalagriculture"/>
+<node id="lush"/>
+<node id="fahrrädern"/>
+<node id="pge"/>
+<node id="euw19"/>
+<node id="greenliving"/>
+<node id="frackedgas"/>
+<node id="hydrogen"/>
+<node id="nuklearia"/>
+<node id="happynewyear"/>
+<node id="bcflood"/>
+<node id="mobileapp"/>
+<node id="sähköauto"/>
+<node id="joebiden"/>
+<node id="cgl"/>
+<node id="climatcrisis"/>
+<node id="designthinking"/>
+<node id="inclusion"/>
+<node id="fuß"/>
+<node id="decarbonization"/>
+<node id="oceans"/>
+<node id="microgrid"/>
+<node id="palmoil"/>
+<node id="juttaditfurth"/>
+<node id="tedxstockholmcountdown"/>
+<node id="helmholtzklima"/>
+<node id="connect2earth"/>
+<node id="turbine"/>
+<node id="cduagainstfuture"/>
+<node id="cleatech"/>
+<node id="climatetech"/>
+<node id="africansrising"/>
+<node id="trains"/>
+<node id="environment"/>
+<node id="windwatersolar"/>
+<node id="energystorage"/>
+<node id="ship"/>
+<node id="control"/>
+<node id="eiadraft2020"/>
+<node id="racist"/>
+<edge source="galapagos" target="microgrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="galapagos" target="energystorage">
+  <data key="d0">1</data>
+</edge>
+<edge source="personenbeförderung" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="personenbeförderung" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="personenbeförderung" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="personenbeförderung" target="pkw">
+  <data key="d0">1</data>
+</edge>
+<edge source="personenbeförderung" target="schulbesuch">
+  <data key="d0">1</data>
+</edge>
+<edge source="flightshame" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="flightshame" target="flygskam">
+  <data key="d0">1</data>
+</edge>
+<edge source="wildliferescue" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="biomass" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="biomass" target="greenwashing">
+  <data key="d0">1</data>
+</edge>
+<edge source="techno" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="techno" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="techno" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="techno" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="techno" target="scientists">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="norway" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="norway" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="endcoal">
+  <data key="d0">1</data>
+</edge>
+<edge source="norway" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaproblem" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaproblem" target="milliarden">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaproblem" target="atmosphäre">
+  <data key="d0">1</data>
+</edge>
+<edge source="exxonknew" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="exxonknew" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="exxonknew" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="exxonknew" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="exxonknew" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="sf" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="sf" target="plastic">
+  <data key="d0">1</data>
+</edge>
+<edge source="sf" target="follow">
+  <data key="d0">1</data>
+</edge>
+<edge source="sf" target="styrofoam">
+  <data key="d0">1</data>
+</edge>
+<edge source="toxins" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="toxins" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="toxins" target="tacoma">
+  <data key="d0">1</data>
+</edge>
+<edge source="toxins" target="frackedgas">
+  <data key="d0">1</data>
+</edge>
+<edge source="german" target="russia">
+  <data key="d0">1</data>
+</edge>
+<edge source="german" target="america">
+  <data key="d0">1</data>
+</edge>
+<edge source="german" target="human">
+  <data key="d0">1</data>
+</edge>
+<edge source="german" target="roberthabeck">
+  <data key="d0">1</data>
+</edge>
+<edge source="neckarwestheim" target="saveger6">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytwitter" target="smr">
+  <data key="d0">1</data>
+</edge>
+<edge source="savesoildelhi" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="savesoildelhi" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="savesoildelhi" target="plantyourage">
+  <data key="d0">1</data>
+</edge>
+<edge source="oksolar" target="solarpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="okainkitui" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="okainkitui" target="foremanameomoka">
+  <data key="d0">1</data>
+</edge>
+<edge source="agenda2030" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="agenda2030" target="zeitfragen">
+  <data key="d0">1</data>
+</edge>
+<edge source="agenda2030" target="5g">
+  <data key="d0">1</data>
+</edge>
+<edge source="agenda2030" target="all4earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="peking" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="peking" target="china">
+  <data key="d0">1</data>
+</edge>
+<edge source="pickelhaube" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="pickelhaube" target="soldaten">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="wind">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="energy">
+  <data key="d0">3</data>
+</edge>
+<edge source="engineering" target="sdgs">
+  <data key="d0">3</data>
+</edge>
+<edge source="engineering" target="energytransition">
+  <data key="d0">4</data>
+</edge>
+<edge source="engineering" target="sustainability">
+  <data key="d0">4</data>
+</edge>
+<edge source="engineering" target="cleanenergy">
+  <data key="d0">3</data>
+</edge>
+<edge source="engineering" target="pollution">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="innovation">
+  <data key="d0">3</data>
+</edge>
+<edge source="engineering" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="extinctionrebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="climatetech">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="ev">
+  <data key="d0">2</data>
+</edge>
+<edge source="engineering" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="engineering" target="investing">
+  <data key="d0">1</data>
+</edge>
+<edge source="heidelbergcement" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="verursacherprinzip" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="verursacherprinzip" target="klimawahl2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="verursacherprinzip" target="wahlench19">
+  <data key="d0">1</data>
+</edge>
+<edge source="elections" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="elections" target="greens">
+  <data key="d0">1</data>
+</edge>
+<edge source="elections" target="democracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="joinin" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="joinin" target="b117">
+  <data key="d0">1</data>
+</edge>
+<edge source="leerflüge" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="demvoice1">
+  <data key="d0">3</data>
+</edge>
+<edge source="green" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="energytransition">
+  <data key="d0">6</data>
+</edge>
+<edge source="green" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="sustainability">
+  <data key="d0">8</data>
+</edge>
+<edge source="green" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="green" target="extinctionrebellion">
+  <data key="d0">4</data>
+</edge>
+<edge source="green" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="cleanenergy">
+  <data key="d0">5</data>
+</edge>
+<edge source="green" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="fossil">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="endcoal">
+  <data key="d0">3</data>
+</edge>
+<edge source="green" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="batteries">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="ecofriendly">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="ice">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="green" target="efficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="trucks" target="batteries">
+  <data key="d0">1</data>
+</edge>
+<edge source="bluecarbon" target="carbondioxide">
+  <data key="d0">1</data>
+</edge>
+<edge source="bluecarbon" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="talkingclimate" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardens" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardens" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardens" target="ug4ph">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardens" target="dutch">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="youngpeople">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="stayathomeandstaysafe">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="connect2earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="earthhouruk">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhour2020" target="lightsoff">
+  <data key="d0">1</data>
+</edge>
+<edge source="tacoma" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="tacoma" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="marinelife" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="marinelife" target="pollution">
+  <data key="d0">2</data>
+</edge>
+<edge source="marinelife" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="marinelife" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="marinelife" target="fish">
+  <data key="d0">1</data>
+</edge>
+<edge source="followbackrenewables" target="fbrparty">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="happyholi2022">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="saveourplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="takeaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="everydropcounts">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewater" target="jalshaktiabhiyan">
+  <data key="d0">1</data>
+</edge>
+<edge source="rustbelt" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="kenyan" target="africa">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontchooseextinction" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontchooseextinction" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontchooseextinction" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontchooseextinction" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="dontchooseextinction" target="dearworldleaders">
+  <data key="d0">1</data>
+</edge>
+<edge source="habeckruecktritt" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="habeckruecktritt" target="blackouts">
+  <data key="d0">1</data>
+</edge>
+<edge source="habeckruecktritt" target="gasversorgung">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatesongs" target="greennewdeal">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="buses" target="costs">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="carbondioxide">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="geoengineering">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="animalagriculture">
+  <data key="d0">1</data>
+</edge>
+<edge source="methane" target="tippingpoint">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="wind">
+  <data key="d0">5</data>
+</edge>
+<edge source="demvoice1" target="energy">
+  <data key="d0">12</data>
+</edge>
+<edge source="demvoice1" target="sdgs">
+  <data key="d0">31</data>
+</edge>
+<edge source="demvoice1" target="climate">
+  <data key="d0">18</data>
+</edge>
+<edge source="demvoice1" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="water">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="energytransition">
+  <data key="d0">21</data>
+</edge>
+<edge source="demvoice1" target="future">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="sustainability">
+  <data key="d0">24</data>
+</edge>
+<edge source="demvoice1" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="innovation">
+  <data key="d0">6</data>
+</edge>
+<edge source="demvoice1" target="africa">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="sustainable">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="co2">
+  <data key="d0">7</data>
+</edge>
+<edge source="demvoice1" target="extinctionrebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="denmark">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="science">
+  <data key="d0">3</data>
+</edge>
+<edge source="demvoice1" target="environment">
+  <data key="d0">4</data>
+</edge>
+<edge source="demvoice1" target="cleanenergy">
+  <data key="d0">3</data>
+</edge>
+<edge source="demvoice1" target="heat">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="jobs">
+  <data key="d0">3</data>
+</edge>
+<edge source="demvoice1" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="pollution">
+  <data key="d0">4</data>
+</edge>
+<edge source="demvoice1" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="storage">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="climatetech">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="ev">
+  <data key="d0">4</data>
+</edge>
+<edge source="demvoice1" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="energyefficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="boat">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="transportation">
+  <data key="d0">5</data>
+</edge>
+<edge source="demvoice1" target="sustainabilty">
+  <data key="d0">4</data>
+</edge>
+<edge source="demvoice1" target="germany">
+  <data key="d0">2</data>
+</edge>
+<edge source="demvoice1" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="polluting">
+  <data key="d0">1</data>
+</edge>
+<edge source="demvoice1" target="batteries">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="energy">
+  <data key="d0">6</data>
+</edge>
+<edge source="jobs" target="sdgs">
+  <data key="d0">6</data>
+</edge>
+<edge source="jobs" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="jobs" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="cleanenergy">
+  <data key="d0">4</data>
+</edge>
+<edge source="jobs" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="extinctionrebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="jobs" target="heat">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="sustainabilty">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="renewbleenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="jobs" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="investing" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="investing" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="investing" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="investing" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="5g">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="iot">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="mixedreality">
+  <data key="d0">1</data>
+</edge>
+<edge source="ar" target="4ir">
+  <data key="d0">1</data>
+</edge>
+<edge source="environnement" target="sdgs">
+  <data key="d0">3</data>
+</edge>
+<edge source="environnement" target="climate">
+  <data key="d0">4</data>
+</edge>
+<edge source="environnement" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="environnement" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="environnement" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="environnement" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="environnement" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="environnement" target="climatetech">
+  <data key="d0">1</data>
+</edge>
+<edge source="geoengineering" target="tippingpoint">
+  <data key="d0">1</data>
+</edge>
+<edge source="lightsoff" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="lightsoff" target="youngpeople">
+  <data key="d0">1</data>
+</edge>
+<edge source="lightsoff" target="connect2earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="lightsoff" target="earthhouruk">
+  <data key="d0">1</data>
+</edge>
+<edge source="stem" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="stem" target="girlsinstem">
+  <data key="d0">1</data>
+</edge>
+<edge source="stem" target="designthinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovations" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="pollution">
+  <data key="d0">2</data>
+</edge>
+<edge source="takeaction" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="renewable">
+  <data key="d0">2</data>
+</edge>
+<edge source="takeaction" target="saveourplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="waste">
+  <data key="d0">2</data>
+</edge>
+<edge source="takeaction" target="greenliving">
+  <data key="d0">2</data>
+</edge>
+<edge source="takeaction" target="treeplanting">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="everydropcounts">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="takeaction" target="jalshaktiabhiyan">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="plastic">
+  <data key="d0">1</data>
+</edge>
+<edge source="follow" target="styrofoam">
+  <data key="d0">1</data>
+</edge>
+<edge source="tritium" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="tritium" target="fukushima">
+  <data key="d0">1</data>
+</edge>
+<edge source="tritium" target="tepco">
+  <data key="d0">1</data>
+</edge>
+<edge source="tamil" target="gretafornobel">
+  <data key="d0">1</data>
+</edge>
+<edge source="conversation" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="webelieveinaction" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="webelieveinaction" target="wsdf2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="skill" target="turbine">
+  <data key="d0">1</data>
+</edge>
+<edge source="nolympiaf4f" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="nolympiaf4f" target="nolympia">
+  <data key="d0">2</data>
+</edge>
+<edge source="ng" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="ng" target="endcoal">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="endcoal">
+  <data key="d0">1</data>
+</edge>
+<edge source="china" target="us">
+  <data key="d0">1</data>
+</edge>
+<edge source="democracy" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="democracy" target="greens">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="saveourplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="everydropcounts">
+  <data key="d0">1</data>
+</edge>
+<edge source="jalshaktiabhiyan" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdg14" target="unga2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="sustainabilty">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="boat" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="rt" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="rt" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="cleanenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="rt" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="rt" target="endcoal">
+  <data key="d0">2</data>
+</edge>
+<edge source="palmsteadslw" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="palmsteadslw" target="talklandscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="palmsteadslw" target="landscapeforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="no石炭" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="no石炭" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="no石炭" target="bushfirerebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="no石炭" target="no石油">
+  <data key="d0">1</data>
+</edge>
+<edge source="panelsnotpipelines" target="climate">
+  <data key="d0">8</data>
+</edge>
+<edge source="panelsnotpipelines" target="greennewdeal">
+  <data key="d0">8</data>
+</edge>
+<edge source="scientists" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientists" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientists" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientists" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="scientists" target="ug4ph">
+  <data key="d0">1</data>
+</edge>
+<edge source="dumpfossilfuels" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="wws" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="wws" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="cleanenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="wws" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="wws" target="greennewdeal">
+  <data key="d0">2</data>
+</edge>
+<edge source="wws" target="coal">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatecardinals" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatecardinals" target="environmental">
+  <data key="d0">1</data>
+</edge>
+<edge source="tokyo2020" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="tokyo2020" target="no石油">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenwashing" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenwashing" target="extinctionrebellion">
+  <data key="d0">6</data>
+</edge>
+<edge source="austria" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="austria" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection" target="climateelection">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection" target="islamaphobic">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection" target="homophobic">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection" target="frackboris">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="polluting" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="polluting" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="polluting" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="endcoal">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="polluting" target="batteries">
+  <data key="d0">1</data>
+</edge>
+<edge source="oscarstembridge" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="youngpeople" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="youngpeople" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="youngpeople" target="connect2earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="youngpeople" target="earthhouruk">
+  <data key="d0">1</data>
+</edge>
+<edge source="fbrparty" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="fbrparty" target="fbr">
+  <data key="d0">1</data>
+</edge>
+<edge source="hintergründe" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="hintergründe" target="infographiken">
+  <data key="d0">1</data>
+</edge>
+<edge source="hintergründe" target="industry40">
+  <data key="d0">1</data>
+</edge>
+<edge source="raeumung" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="raeumung" target="sauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="raeumung" target="räumung">
+  <data key="d0">1</data>
+</edge>
+<edge source="raeumung" target="lobaubleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="raeumung" target="lobaucamp">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="climatestrike4future">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="everydropcounts">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveourplanet" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="batman" target="journeyforsoil">
+  <data key="d0">1</data>
+</edge>
+<edge source="batman" target="europeanunion">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplevsfossilfuels" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="peoplevsfossilfuels" target="activism">
+  <data key="d0">1</data>
+</edge>
+<edge source="reactor" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="reactor" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="reactor" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="reactor" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="reactor" target="turbine">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdayforsolutions" target="climatesummit">
+  <data key="d0">1</data>
+</edge>
+<edge source="kalifornien" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="misinformation" target="disinformation">
+  <data key="d0">1</data>
+</edge>
+<edge source="misinformation" target="electricvehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="air" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="storage">
+  <data key="d0">1</data>
+</edge>
+<edge source="air" target="endcoal">
+  <data key="d0">2</data>
+</edge>
+<edge source="milliarden" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="milliarden" target="atmosphäre">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="ug4ph" target="sdgs">
+  <data key="d0">5</data>
+</edge>
+<edge source="ug4ph" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="extinctionrebellion">
+  <data key="d0">5</data>
+</edge>
+<edge source="ug4ph" target="science">
+  <data key="d0">3</data>
+</edge>
+<edge source="ug4ph" target="cleantech">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="ug4ph" target="dutch">
+  <data key="d0">1</data>
+</edge>
+<edge source="ycff" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="aractivismawards" target="africa">
+  <data key="d0">1</data>
+</edge>
+<edge source="aractivismawards" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="aractivismawards" target="africansrising">
+  <data key="d0">1</data>
+</edge>
+<edge source="solarpanel" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="solarpanel" target="sustainability">
+  <data key="d0">1</data>
+</edge>
+<edge source="solarpanel" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="wind">
+  <data key="d0">19</data>
+</edge>
+<edge source="endcoal" target="energy">
+  <data key="d0">28</data>
+</edge>
+<edge source="endcoal" target="sdgs">
+  <data key="d0">31</data>
+</edge>
+<edge source="endcoal" target="climate">
+  <data key="d0">15</data>
+</edge>
+<edge source="endcoal" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="energytransition">
+  <data key="d0">50</data>
+</edge>
+<edge source="endcoal" target="future">
+  <data key="d0">8</data>
+</edge>
+<edge source="endcoal" target="sustainability">
+  <data key="d0">49</data>
+</edge>
+<edge source="endcoal" target="cleanenergy">
+  <data key="d0">41</data>
+</edge>
+<edge source="endcoal" target="pollution">
+  <data key="d0">9</data>
+</edge>
+<edge source="endcoal" target="greennewdeal">
+  <data key="d0">4</data>
+</edge>
+<edge source="endcoal" target="coal">
+  <data key="d0">10</data>
+</edge>
+<edge source="endcoal" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="water">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="innovation">
+  <data key="d0">4</data>
+</edge>
+<edge source="endcoal" target="co2">
+  <data key="d0">22</data>
+</edge>
+<edge source="endcoal" target="extinctionrebellion">
+  <data key="d0">33</data>
+</edge>
+<edge source="endcoal" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="storage">
+  <data key="d0">5</data>
+</edge>
+<edge source="endcoal" target="ev">
+  <data key="d0">3</data>
+</edge>
+<edge source="endcoal" target="energyefficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="sustainabilty">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="netzero">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="germany">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="cleantech">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="windwatersolar">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="us">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="power">
+  <data key="d0">3</data>
+</edge>
+<edge source="endcoal" target="ice">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="pge">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="cimateaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="emobility">
+  <data key="d0">3</data>
+</edge>
+<edge source="endcoal" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="islands">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="geothermal">
+  <data key="d0">2</data>
+</edge>
+<edge source="endcoal" target="az">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="endcoal" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="tippingpoint" target="unstoppable">
+  <data key="d0">1</data>
+</edge>
+<edge source="netzero" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="netzero" target="sdgs">
+  <data key="d0">2</data>
+</edge>
+<edge source="netzero" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="netzero" target="greennewdeal">
+  <data key="d0">1</data>
+</edge>
+<edge source="netzero" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="manovra2020" target="greennewdeal">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="wind">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainabilty" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainabilty" target="energy">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainabilty" target="sdgs">
+  <data key="d0">5</data>
+</edge>
+<edge source="sustainabilty" target="climate">
+  <data key="d0">5</data>
+</edge>
+<edge source="sustainabilty" target="future">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="cleanenergy">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainabilty" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="coal">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="extinctionrebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainabilty" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="ev">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainabilty" target="energyefficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="economic">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainabilty" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="youmatter" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="disabilities" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="disabilities" target="unga2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="disabilities" target="nothingaboutuswithoutus">
+  <data key="d0">1</data>
+</edge>
+<edge source="disabilities" target="crpd">
+  <data key="d0">1</data>
+</edge>
+<edge source="disabilities" target="inclusion">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantyourage" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatelitigation" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="journeyforsoil" target="savesoilsavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="journeyforsoil" target="cute">
+  <data key="d0">1</data>
+</edge>
+<edge source="tmx" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="tmx" target="unhchr">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecofriendly" target="climate">
+  <data key="d0">3</data>
+</edge>
+<edge source="ecofriendly" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecofriendly" target="sustainability">
+  <data key="d0">2</data>
+</edge>
+<edge source="ecofriendly" target="environment">
+  <data key="d0">3</data>
+</edge>
+<edge source="ecofriendly" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecofriendly" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="russia" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="coal">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="america">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="human">
+  <data key="d0">1</data>
+</edge>
+<edge source="russia" target="roberthabeck">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="wind">
+  <data key="d0">2</data>
+</edge>
+<edge source="greennewdeal" target="energy">
+  <data key="d0">9</data>
+</edge>
+<edge source="greennewdeal" target="climate">
+  <data key="d0">14</data>
+</edge>
+<edge source="greennewdeal" target="energytransition">
+  <data key="d0">9</data>
+</edge>
+<edge source="greennewdeal" target="sustainability">
+  <data key="d0">8</data>
+</edge>
+<edge source="greennewdeal" target="environment">
+  <data key="d0">4</data>
+</edge>
+<edge source="greennewdeal" target="cleanenergy">
+  <data key="d0">7</data>
+</edge>
+<edge source="greennewdeal" target="pollution">
+  <data key="d0">2</data>
+</edge>
+<edge source="greennewdeal" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="extinctionrebellion">
+  <data key="d0">6</data>
+</edge>
+<edge source="greennewdeal" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="newzealand">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="coal">
+  <data key="d0">2</data>
+</edge>
+<edge source="greennewdeal" target="cleantech">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="windwatersolar">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="go100re">
+  <data key="d0">3</data>
+</edge>
+<edge source="greennewdeal" target="land4life">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="thirdindustrialrevolution">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="unstoppable">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="landscapes">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="greennewdeal" target="dunedin">
+  <data key="d0">1</data>
+</edge>
+<edge source="thirdindustrialrevolution" target="sharingeconomy">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="wind">
+  <data key="d0">8</data>
+</edge>
+<edge source="coal" target="energy">
+  <data key="d0">8</data>
+</edge>
+<edge source="coal" target="energytransition">
+  <data key="d0">12</data>
+</edge>
+<edge source="coal" target="sustainability">
+  <data key="d0">9</data>
+</edge>
+<edge source="coal" target="environment">
+  <data key="d0">3</data>
+</edge>
+<edge source="coal" target="cleanenergy">
+  <data key="d0">9</data>
+</edge>
+<edge source="coal" target="pollution">
+  <data key="d0">3</data>
+</edge>
+<edge source="coal" target="oil">
+  <data key="d0">4</data>
+</edge>
+<edge source="coal" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="co2">
+  <data key="d0">3</data>
+</edge>
+<edge source="coal" target="extinctionrebellion">
+  <data key="d0">7</data>
+</edge>
+<edge source="coal" target="storage">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="us">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="renewbleenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="pge">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="coal" target="drawdown">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="energy">
+  <data key="d0">52</data>
+</edge>
+<edge source="sustainability" target="climate">
+  <data key="d0">42</data>
+</edge>
+<edge source="sustainability" target="earth">
+  <data key="d0">8</data>
+</edge>
+<edge source="sustainability" target="future">
+  <data key="d0">12</data>
+</edge>
+<edge source="sustainability" target="plastic">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="oceans">
+  <data key="d0">4</data>
+</edge>
+<edge source="sustainability" target="water">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="innovation">
+  <data key="d0">9</data>
+</edge>
+<edge source="sustainability" target="extinctionrebellion">
+  <data key="d0">51</data>
+</edge>
+<edge source="sustainability" target="denmark">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="science">
+  <data key="d0">10</data>
+</edge>
+<edge source="sustainability" target="life">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="environment">
+  <data key="d0">31</data>
+</edge>
+<edge source="sustainability" target="cleanenergy">
+  <data key="d0">69</data>
+</edge>
+<edge source="sustainability" target="heat">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="pollution">
+  <data key="d0">22</data>
+</edge>
+<edge source="sustainability" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="climatetech">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="russian">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="oil">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="transportation">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="fossil">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="germany">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="zero">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="batteries">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="coventry">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="technology">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainability" target="us">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="singapore">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="carbo">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="ice">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="emergency">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="gnd">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="cimateaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="zerowaste">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainability" target="decarbonization">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="costs">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="latinamerica">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="house">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="apocalypse2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="joebiden">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="islands">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="mauritius">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="fuelcells">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="environmentally">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainability" target="shapeyourfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="consumers" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="consumers" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="freshair" target="emobility">
+  <data key="d0">1</data>
+</edge>
+<edge source="freshair" target="frischeluft">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnd" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnd" target="sdgs">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnd" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnd" target="cleanenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="gnd" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnd" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="gnd" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="stadtstraße" target="lobaubleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="us" target="wind">
+  <data key="d0">2</data>
+</edge>
+<edge source="us" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="us" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="us" target="energytransition">
+  <data key="d0">2</data>
+</edge>
+<edge source="us" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="us" target="cleanenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="us" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="us" target="geothermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="wind">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="bcstorm">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="bcflood">
+  <data key="d0">1</data>
+</edge>
+<edge source="economic" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="energy">
+  <data key="d0">36</data>
+</edge>
+<edge source="wind" target="sdgs">
+  <data key="d0">24</data>
+</edge>
+<edge source="wind" target="climate">
+  <data key="d0">9</data>
+</edge>
+<edge source="wind" target="water">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="energytransition">
+  <data key="d0">38</data>
+</edge>
+<edge source="wind" target="future">
+  <data key="d0">4</data>
+</edge>
+<edge source="wind" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="innovation">
+  <data key="d0">3</data>
+</edge>
+<edge source="wind" target="africa">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="extinctionrebellion">
+  <data key="d0">21</data>
+</edge>
+<edge source="wind" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="environment">
+  <data key="d0">5</data>
+</edge>
+<edge source="wind" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="storage">
+  <data key="d0">4</data>
+</edge>
+<edge source="wind" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="oil">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="energyefficiency">
+  <data key="d0">3</data>
+</edge>
+<edge source="wind" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="power">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="disruption">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="renewable">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="islands">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="mauritius">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="geothermal">
+  <data key="d0">4</data>
+</edge>
+<edge source="wind" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="wind" target="efficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="wind" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="plastic" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="plastic" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="plastic" target="styrofoam">
+  <data key="d0">1</data>
+</edge>
+<edge source="plastic" target="beachcleanup">
+  <data key="d0">1</data>
+</edge>
+<edge source="islamaphobic" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="islamaphobic" target="climateelection">
+  <data key="d0">1</data>
+</edge>
+<edge source="islamaphobic" target="racist">
+  <data key="d0">1</data>
+</edge>
+<edge source="islamaphobic" target="homophobic">
+  <data key="d0">1</data>
+</edge>
+<edge source="islamaphobic" target="frackboris">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="germany">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="left">
+  <data key="d0">1</data>
+</edge>
+<edge source="think" target="greens">
+  <data key="d0">1</data>
+</edge>
+<edge source="singapore" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="singapore" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="singapore" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="singapore" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="go100re" target="climate">
+  <data key="d0">6</data>
+</edge>
+<edge source="go100re" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="go100re" target="smr">
+  <data key="d0">1</data>
+</edge>
+<edge source="go100re" target="dunedin">
+  <data key="d0">1</data>
+</edge>
+<edge source="go100re" target="letstakethisoffline">
+  <data key="d0">1</data>
+</edge>
+<edge source="cute" target="savesoilsavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="cute" target="europeanunion">
+  <data key="d0">1</data>
+</edge>
+<edge source="wsdf2020" target="youthquake">
+  <data key="d0">1</data>
+</edge>
+<edge source="nonhumanrights" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="nonhumanrights" target="palmoil">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscapes" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscapes" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="all4earth" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="all4earth" target="5g">
+  <data key="d0">1</data>
+</edge>
+<edge source="emergency" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="emergency" target="energytransition">
+  <data key="d0">1</data>
+</edge>
+<edge source="human" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="human" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="human" target="roberthabeck">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveger6" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveger6" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveger6" target="nuklearia">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveger6" target="mothersfornuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="saveger6" target="atoms4future">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbone" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="zero" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="zero" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="zero" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="zero" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="rebellionweek" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="germany" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="sdgs">
+  <data key="d0">4</data>
+</edge>
+<edge source="germany" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="germany" target="energytransition">
+  <data key="d0">4</data>
+</edge>
+<edge source="germany" target="environment">
+  <data key="d0">3</data>
+</edge>
+<edge source="germany" target="cleanenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="germany" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="extinctionrebellion">
+  <data key="d0">3</data>
+</edge>
+<edge source="germany" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="left">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="immigration">
+  <data key="d0">1</data>
+</edge>
+<edge source="germany" target="greens">
+  <data key="d0">2</data>
+</edge>
+<edge source="letstakethisoffline" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="letstakethisoffline" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="ökorassismus" target="extinctionrebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="ökorassismus" target="nolympia">
+  <data key="d0">1</data>
+</edge>
+<edge source="empowered" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="empowered" target="threatened">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthhouruk" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="fish" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="fish" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="energy">
+  <data key="d0">58</data>
+</edge>
+<edge source="energytransition" target="sdgs">
+  <data key="d0">80</data>
+</edge>
+<edge source="energytransition" target="climate">
+  <data key="d0">38</data>
+</edge>
+<edge source="energytransition" target="oceans">
+  <data key="d0">3</data>
+</edge>
+<edge source="energytransition" target="water">
+  <data key="d0">4</data>
+</edge>
+<edge source="energytransition" target="future">
+  <data key="d0">13</data>
+</edge>
+<edge source="energytransition" target="innovation">
+  <data key="d0">14</data>
+</edge>
+<edge source="energytransition" target="sustainable">
+  <data key="d0">4</data>
+</edge>
+<edge source="energytransition" target="science">
+  <data key="d0">6</data>
+</edge>
+<edge source="energytransition" target="environment">
+  <data key="d0">23</data>
+</edge>
+<edge source="energytransition" target="cleanenergy">
+  <data key="d0">84</data>
+</edge>
+<edge source="energytransition" target="heat">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="economy">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="pollution">
+  <data key="d0">20</data>
+</edge>
+<edge source="energytransition" target="storage">
+  <data key="d0">8</data>
+</edge>
+<edge source="energytransition" target="climatetech">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="ev">
+  <data key="d0">11</data>
+</edge>
+<edge source="energytransition" target="russian">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="oil">
+  <data key="d0">4</data>
+</edge>
+<edge source="energytransition" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="energyefficiency">
+  <data key="d0">5</data>
+</edge>
+<edge source="energytransition" target="solarpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="transportation">
+  <data key="d0">4</data>
+</edge>
+<edge source="energytransition" target="fossil">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="coventry">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="cleantech">
+  <data key="d0">3</data>
+</edge>
+<edge source="energytransition" target="israel">
+  <data key="d0">3</data>
+</edge>
+<edge source="energytransition" target="destruction">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="carbo">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="power">
+  <data key="d0">5</data>
+</edge>
+<edge source="energytransition" target="california">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="ice">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="costs">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="emobility">
+  <data key="d0">7</data>
+</edge>
+<edge source="energytransition" target="vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="latinamerica">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="renewable">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="mauritius">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="geothermal">
+  <data key="d0">2</data>
+</edge>
+<edge source="energytransition" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="energytransition" target="californians">
+  <data key="d0">1</data>
+</edge>
+<edge source="ökoterrorismus" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="geothermal" target="energy">
+  <data key="d0">3</data>
+</edge>
+<edge source="geothermal" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="geothermal" target="cleanenergy">
+  <data key="d0">3</data>
+</edge>
+<edge source="geothermal" target="extinctionrebellion">
+  <data key="d0">4</data>
+</edge>
+<edge source="geothermal" target="efficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="geothermal" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="wahlench19" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="wahlench19" target="klimawahl2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="dunedin" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dunedin" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="dunedin" target="newzealand">
+  <data key="d0">1</data>
+</edge>
+<edge source="unhchr" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="heat" target="sdgs">
+  <data key="d0">2</data>
+</edge>
+<edge source="heat" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="heat" target="fossil">
+  <data key="d0">1</data>
+</edge>
+<edge source="heat" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="heat" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="heat" target="health">
+  <data key="d0">2</data>
+</edge>
+<edge source="destruction" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="destruction" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="destruction" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="destruction" target="carbo">
+  <data key="d0">1</data>
+</edge>
+<edge source="mauritius" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="mauritius" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="mauritius" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="mauritius" target="extinctionrebellion">
+  <data key="d0">1</data>
+</edge>
+<edge source="windpower" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="energy">
+  <data key="d0">6</data>
+</edge>
+<edge source="future" target="sdgs">
+  <data key="d0">7</data>
+</edge>
+<edge source="future" target="climate">
+  <data key="d0">4</data>
+</edge>
+<edge source="future" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="co2">
+  <data key="d0">8</data>
+</edge>
+<edge source="future" target="extinctionrebellion">
+  <data key="d0">7</data>
+</edge>
+<edge source="future" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="environment">
+  <data key="d0">5</data>
+</edge>
+<edge source="future" target="cleanenergy">
+  <data key="d0">11</data>
+</edge>
+<edge source="future" target="pollution">
+  <data key="d0">3</data>
+</edge>
+<edge source="future" target="storage">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="ev">
+  <data key="d0">3</data>
+</edge>
+<edge source="future" target="energyefficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="future" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="power">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="future" target="turbine">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="energy">
+  <data key="d0">28</data>
+</edge>
+<edge source="extinctionrebellion" target="sdgs">
+  <data key="d0">28</data>
+</edge>
+<edge source="extinctionrebellion" target="climate">
+  <data key="d0">16</data>
+</edge>
+<edge source="extinctionrebellion" target="environment">
+  <data key="d0">14</data>
+</edge>
+<edge source="extinctionrebellion" target="pollution">
+  <data key="d0">11</data>
+</edge>
+<edge source="extinctionrebellion" target="oceans">
+  <data key="d0">4</data>
+</edge>
+<edge source="extinctionrebellion" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="innovation">
+  <data key="d0">6</data>
+</edge>
+<edge source="extinctionrebellion" target="africa">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="co2">
+  <data key="d0">28</data>
+</edge>
+<edge source="extinctionrebellion" target="science">
+  <data key="d0">6</data>
+</edge>
+<edge source="extinctionrebellion" target="economy">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionrebellion" target="health">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="fossilfuel">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="ev">
+  <data key="d0">4</data>
+</edge>
+<edge source="extinctionrebellion" target="energyefficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="solarpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="sauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="räumung">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="lobaubleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="lobaucamp">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="cleantech">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionrebellion" target="bildetbanden">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="israel">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="activism">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="electricvehicle">
+  <data key="d0">4</data>
+</edge>
+<edge source="extinctionrebellion" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="costs">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="africansrising">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="b117">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="latinamerica">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="house">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="klimaapokalypse">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="eltville">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="nolympia">
+  <data key="d0">5</data>
+</edge>
+<edge source="extinctionrebellion" target="utopie">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="home">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="stopinthenameoflove">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="bushfirerebellion">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="endracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="talklandscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="landscapeforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="no石油">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="az">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="renewableenegy">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="klimasozialismus">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="climatesummit">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="antifaklima">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="bildungbitte">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="getoutthevote">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="fuß">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="pkw">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="schulbesuch">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="extinctionrebellionlondon">
+  <data key="d0">3</data>
+</edge>
+<edge source="extinctionrebellion" target="fahrrädern">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="doppeldenk">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="sevenworldsoneplanet">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="rural">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="bbcqt">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="dutch">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="juttaditfurth">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="cduagainstfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="extinctionrebellion" target="efficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="extinctionrebellion" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="crpd" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="crpd" target="nothingaboutuswithoutus">
+  <data key="d0">1</data>
+</edge>
+<edge source="smartliving" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="smartliving" target="5g">
+  <data key="d0">1</data>
+</edge>
+<edge source="smartliving" target="iot">
+  <data key="d0">1</data>
+</edge>
+<edge source="californians" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="left" target="immigration">
+  <data key="d0">1</data>
+</edge>
+<edge source="left" target="greens">
+  <data key="d0">1</data>
+</edge>
+<edge source="gretafornobel" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="gretafornobel" target="climatcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="gogretago" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="bcstorm" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="bcstorm" target="bcflood">
+  <data key="d0">1</data>
+</edge>
+<edge source="bcstorm" target="heatdome">
+  <data key="d0">1</data>
+</edge>
+<edge source="styrofoam" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="styrofoam" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="frischeluft" target="emobility">
+  <data key="d0">1</data>
+</edge>
+<edge source="parenting" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="gashahnzu" target="carlareemtsma">
+  <data key="d0">1</data>
+</edge>
+<edge source="gashahnzu" target="russischesgas">
+  <data key="d0">1</data>
+</edge>
+<edge source="heartland" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="5g" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="5g" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="5g" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="5g" target="mixedreality">
+  <data key="d0">1</data>
+</edge>
+<edge source="emobility" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="emobility" target="environment">
+  <data key="d0">6</data>
+</edge>
+<edge source="emobility" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="emobility" target="pollution">
+  <data key="d0">3</data>
+</edge>
+<edge source="emobility" target="innovation">
+  <data key="d0">2</data>
+</edge>
+<edge source="emobility" target="co2">
+  <data key="d0">8</data>
+</edge>
+<edge source="emobility" target="ev">
+  <data key="d0">5</data>
+</edge>
+<edge source="emobility" target="transportation">
+  <data key="d0">2</data>
+</edge>
+<edge source="emobility" target="costs">
+  <data key="d0">1</data>
+</edge>
+<edge source="emobility" target="vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="emobility" target="renewableenegy">
+  <data key="d0">1</data>
+</edge>
+<edge source="homophobic" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="homophobic" target="racist">
+  <data key="d0">1</data>
+</edge>
+<edge source="homophobic" target="frackboris">
+  <data key="d0">1</data>
+</edge>
+<edge source="lobaubleibt" target="sauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="lobaubleibt" target="räumung">
+  <data key="d0">1</data>
+</edge>
+<edge source="lobaubleibt" target="lobaucamp">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimasozialismus" target="sendinglovefrompatagonia">
+  <data key="d0">1</data>
+</edge>
+<edge source="denmark" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="leuven" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="leuven" target="everydayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="africa" target="water">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="sustainable">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="activism">
+  <data key="d0">1</data>
+</edge>
+<edge source="africa" target="africansrising">
+  <data key="d0">1</data>
+</edge>
+<edge source="himalayas" target="co2">
+  <data key="d0">2</data>
+</edge>
+<edge source="himalayas" target="worldpeace">
+  <data key="d0">2</data>
+</edge>
+<edge source="himalayas" target="仏">
+  <data key="d0">2</data>
+</edge>
+<edge source="himalayas" target="buddha">
+  <data key="d0">2</data>
+</edge>
+<edge source="bushfirerebellion" target="endracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="bushfirerebellion" target="no石油">
+  <data key="d0">1</data>
+</edge>
+<edge source="foremanameomoka" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="health" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="tepco" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="tepco" target="fukushima">
+  <data key="d0">1</data>
+</edge>
+<edge source="costs" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="costs" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="costs" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="costs" target="co2">
+  <data key="d0">1</data>
+</edge>
+<edge source="costs" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="russian" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="russian" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="energy">
+  <data key="d0">4</data>
+</edge>
+<edge source="water" target="sdgs">
+  <data key="d0">4</data>
+</edge>
+<edge source="water" target="climate">
+  <data key="d0">4</data>
+</edge>
+<edge source="water" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="cleanenergy">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="innovation">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="sustainable">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="co2">
+  <data key="d0">3</data>
+</edge>
+<edge source="water" target="storage">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="worldwaterweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="palmoil">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="everydropcounts">
+  <data key="d0">1</data>
+</edge>
+<edge source="water" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="energy">
+  <data key="d0">19</data>
+</edge>
+<edge source="co2" target="climate">
+  <data key="d0">15</data>
+</edge>
+<edge source="co2" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="environment">
+  <data key="d0">20</data>
+</edge>
+<edge source="co2" target="cleanenergy">
+  <data key="d0">32</data>
+</edge>
+<edge source="co2" target="fossil">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="innovation">
+  <data key="d0">6</data>
+</edge>
+<edge source="co2" target="science">
+  <data key="d0">3</data>
+</edge>
+<edge source="co2" target="life">
+  <data key="d0">2</data>
+</edge>
+<edge source="co2" target="storage">
+  <data key="d0">3</data>
+</edge>
+<edge source="co2" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="batteries">
+  <data key="d0">2</data>
+</edge>
+<edge source="co2" target="coventry">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="cleantech">
+  <data key="d0">2</data>
+</edge>
+<edge source="co2" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="power">
+  <data key="d0">2</data>
+</edge>
+<edge source="co2" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="renewbleenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="vehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="latinamerica">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="house">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="worldpeace">
+  <data key="d0">3</data>
+</edge>
+<edge source="co2" target="kohlausstieg">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="atmosphäre">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="laueslüftchen">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="fuß">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="pkw">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="efficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2" target="buddha">
+  <data key="d0">2</data>
+</edge>
+<edge source="blackouts" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="blackouts" target="gasversorgung">
+  <data key="d0">1</data>
+</edge>
+<edge source="home" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="cleanenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="coventry" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="sdgs">
+  <data key="d0">52</data>
+</edge>
+<edge source="cleanenergy" target="climate">
+  <data key="d0">19</data>
+</edge>
+<edge source="cleanenergy" target="environment">
+  <data key="d0">14</data>
+</edge>
+<edge source="cleanenergy" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="innovation">
+  <data key="d0">9</data>
+</edge>
+<edge source="cleanenergy" target="sustainable">
+  <data key="d0">3</data>
+</edge>
+<edge source="cleanenergy" target="science">
+  <data key="d0">6</data>
+</edge>
+<edge source="cleanenergy" target="life">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="economy">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="pollution">
+  <data key="d0">15</data>
+</edge>
+<edge source="cleanenergy" target="ev">
+  <data key="d0">5</data>
+</edge>
+<edge source="cleanenergy" target="oil">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="batteries">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="technology">
+  <data key="d0">3</data>
+</edge>
+<edge source="cleanenergy" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="carbo">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="power">
+  <data key="d0">5</data>
+</edge>
+<edge source="cleanenergy" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="sun">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="cimateaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="house">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="az">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="global">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleanenergy" target="efficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleanenergy" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="sdgs">
+  <data key="d0">4</data>
+</edge>
+<edge source="sustainable" target="climate">
+  <data key="d0">7</data>
+</edge>
+<edge source="sustainable" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainable" target="zerowaste">
+  <data key="d0">2</data>
+</edge>
+<edge source="sustainable" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="innovation">
+  <data key="d0">3</data>
+</edge>
+<edge source="sustainable" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="plantatree">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="sustainable" target="treeplanting">
+  <data key="d0">1</data>
+</edge>
+<edge source="house" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="house" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="plantatree" target="treeplanting">
+  <data key="d0">1</data>
+</edge>
+<edge source="activism" target="happynewyear">
+  <data key="d0">1</data>
+</edge>
+<edge source="activism" target="illustrator">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydayforfuture" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="siemensinfluencer" target="microgrid">
+  <data key="d0">1</data>
+</edge>
+<edge source="siemensinfluencer" target="energystorage">
+  <data key="d0">1</data>
+</edge>
+<edge source="islands" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="islands" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="islands" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="islands" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="sun" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="roberthabeck" target="energy">
+  <data key="d0">1</data>
+</edge>
+<edge source="roberthabeck" target="america">
+  <data key="d0">1</data>
+</edge>
+<edge source="environmental" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="vehicles" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="vehicles" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="vehicles" target="ev">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="sdgs">
+  <data key="d0">41</data>
+</edge>
+<edge source="energy" target="climate">
+  <data key="d0">26</data>
+</edge>
+<edge source="energy" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="innovation">
+  <data key="d0">10</data>
+</edge>
+<edge source="energy" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="environment">
+  <data key="d0">5</data>
+</edge>
+<edge source="energy" target="pollution">
+  <data key="d0">13</data>
+</edge>
+<edge source="energy" target="storage">
+  <data key="d0">8</data>
+</edge>
+<edge source="energy" target="ev">
+  <data key="d0">4</data>
+</edge>
+<edge source="energy" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="energyefficiency">
+  <data key="d0">4</data>
+</edge>
+<edge source="energy" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="newzealand">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="cleantech">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="technology">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="power">
+  <data key="d0">4</data>
+</edge>
+<edge source="energy" target="renewbleenergy">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="renewable">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="az">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="energy" target="efficiency">
+  <data key="d0">2</data>
+</edge>
+<edge source="energy" target="re100">
+  <data key="d0">1</data>
+</edge>
+<edge source="greens" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="greens" target="immigration">
+  <data key="d0">1</data>
+</edge>
+<edge source="hamas" target="israel">
+  <data key="d0">2</data>
+</edge>
+<edge source="disinformation" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="disinformation" target="electricvehicles">
+  <data key="d0">1</data>
+</edge>
+<edge source="nothingaboutuswithoutus" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="nothingaboutuswithoutus" target="inclusion">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="treeplanting" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkw" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkw" target="fuß">
+  <data key="d0">1</data>
+</edge>
+<edge source="talklandscape" target="landscapeforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="apocalypse2020" target="maga2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="apocalypse2020" target="joebiden">
+  <data key="d0">1</data>
+</edge>
+<edge source="solarpower" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydropcounts" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydropcounts" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydropcounts" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydropcounts" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="everydropcounts" target="savewatersavelife">
+  <data key="d0">1</data>
+</edge>
+<edge source="heathrow" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleantech" target="sdgs">
+  <data key="d0">2</data>
+</edge>
+<edge source="cleantech" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleantech" target="innovation">
+  <data key="d0">3</data>
+</edge>
+<edge source="cleantech" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="cleantech" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="4ir" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="4ir" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="4ir" target="iot">
+  <data key="d0">1</data>
+</edge>
+<edge source="4ir" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="fbr" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="dutch" target="sdgs">
+  <data key="d0">1</data>
+</edge>
+<edge source="nolympia" target="lush">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="sdgs">
+  <data key="d0">4</data>
+</edge>
+<edge source="power" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="power" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="innovation">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="energyefficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="california">
+  <data key="d0">1</data>
+</edge>
+<edge source="power" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="ev" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="ev" target="sdgs">
+  <data key="d0">12</data>
+</edge>
+<edge source="ev" target="environment">
+  <data key="d0">6</data>
+</edge>
+<edge source="ev" target="pollution">
+  <data key="d0">8</data>
+</edge>
+<edge source="ev" target="innovation">
+  <data key="d0">4</data>
+</edge>
+<edge source="ev" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ev" target="storage">
+  <data key="d0">2</data>
+</edge>
+<edge source="ev" target="sähköauto">
+  <data key="d0">1</data>
+</edge>
+<edge source="ev" target="bus">
+  <data key="d0">2</data>
+</edge>
+<edge source="ev" target="transportation">
+  <data key="d0">7</data>
+</edge>
+<edge source="ev" target="decarbonization">
+  <data key="d0">1</data>
+</edge>
+<edge source="räumung" target="lobaucamp">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbo" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="frackboris" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="frackboris" target="racist">
+  <data key="d0">1</data>
+</edge>
+<edge source="girlsinstem" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="girlsinstem" target="designthinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="hydrogen">
+  <data key="d0">5</data>
+</edge>
+<edge source="sdgs" target="earth">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="oceans">
+  <data key="d0">3</data>
+</edge>
+<edge source="sdgs" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="innovation">
+  <data key="d0">13</data>
+</edge>
+<edge source="sdgs" target="science">
+  <data key="d0">11</data>
+</edge>
+<edge source="sdgs" target="life">
+  <data key="d0">3</data>
+</edge>
+<edge source="sdgs" target="environment">
+  <data key="d0">16</data>
+</edge>
+<edge source="sdgs" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="pollution">
+  <data key="d0">16</data>
+</edge>
+<edge source="sdgs" target="fossilfuel">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="storage">
+  <data key="d0">6</data>
+</edge>
+<edge source="sdgs" target="climatetech">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="oil">
+  <data key="d0">4</data>
+</edge>
+<edge source="sdgs" target="japan">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="energyefficiency">
+  <data key="d0">5</data>
+</edge>
+<edge source="sdgs" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="bus">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="transportation">
+  <data key="d0">6</data>
+</edge>
+<edge source="sdgs" target="fossil">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="drought">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="batteries">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="technology">
+  <data key="d0">3</data>
+</edge>
+<edge source="sdgs" target="israel">
+  <data key="d0">2</data>
+</edge>
+<edge source="sdgs" target="renewbleenergy">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="decarbonization">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="trains">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="pv">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="buildings">
+  <data key="d0">1</data>
+</edge>
+<edge source="sdgs" target="climatcrisis">
+  <data key="d0">1</data>
+</edge>
+<edge source="仏" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="仏" target="worldpeace">
+  <data key="d0">2</data>
+</edge>
+<edge source="仏" target="buddha">
+  <data key="d0">2</data>
+</edge>
+<edge source="lobaucamp" target="sauna">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="fukushima">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="designthinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="japan" target="no石油">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewbleenergy" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewbleenergy" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="newzealand" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewatersavelife" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewatersavelife" target="renewable">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewatersavelife" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewatersavelife" target="waste">
+  <data key="d0">1</data>
+</edge>
+<edge source="savewatersavelife" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="latinamerica" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="gasversorgung" target="nuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="pollution">
+  <data key="d0">4</data>
+</edge>
+<edge source="innovation" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="climatetech">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="transportation">
+  <data key="d0">2</data>
+</edge>
+<edge source="innovation" target="technology">
+  <data key="d0">4</data>
+</edge>
+<edge source="innovation" target="iot">
+  <data key="d0">2</data>
+</edge>
+<edge source="innovation" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="innovation" target="mixedreality">
+  <data key="d0">1</data>
+</edge>
+<edge source="israelunderattack" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="batteries" target="transportation">
+  <data key="d0">1</data>
+</edge>
+<edge source="batteries" target="life">
+  <data key="d0">2</data>
+</edge>
+<edge source="batteries" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="iot" target="technology">
+  <data key="d0">1</data>
+</edge>
+<edge source="iot" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="iot" target="mixedreality">
+  <data key="d0">1</data>
+</edge>
+<edge source="global" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="buddha" target="worldpeace">
+  <data key="d0">2</data>
+</edge>
+<edge source="az" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodnighttwitterworld" target="earth">
+  <data key="d0">1</data>
+</edge>
+<edge source="storage" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="storage" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="storage" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="ice" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="transportation" target="environment">
+  <data key="d0">2</data>
+</edge>
+<edge source="transportation" target="pollution">
+  <data key="d0">3</data>
+</edge>
+<edge source="transportation" target="oil">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="transportation" target="trains">
+  <data key="d0">1</data>
+</edge>
+<edge source="earth" target="climate">
+  <data key="d0">7</data>
+</edge>
+<edge source="earth" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="earth" target="science">
+  <data key="d0">2</data>
+</edge>
+<edge source="earth" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="threatened" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="nuclear" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="nuclear" target="science">
+  <data key="d0">2</data>
+</edge>
+<edge source="nuclear" target="gretagonuclear">
+  <data key="d0">1</data>
+</edge>
+<edge source="nuclear" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="nuclear" target="turbine">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewable" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewable" target="pollution">
+  <data key="d0">3</data>
+</edge>
+<edge source="renewable" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewable" target="energyefficiency">
+  <data key="d0">1</data>
+</edge>
+<edge source="renewable" target="waste">
+  <data key="d0">2</data>
+</edge>
+<edge source="renewable" target="greenliving">
+  <data key="d0">2</data>
+</edge>
+<edge source="waste" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="waste" target="pollution">
+  <data key="d0">2</data>
+</edge>
+<edge source="waste" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="waste" target="greenliving">
+  <data key="d0">2</data>
+</edge>
+<edge source="heatdome" target="climate">
+  <data key="d0">1</data>
+</edge>
+<edge source="heatdome" target="bcflood">
+  <data key="d0">1</data>
+</edge>
+<edge source="schulbesuch" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="climate">
+  <data key="d0">2</data>
+</edge>
+<edge source="oil" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="pollution">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="frackedgas">
+  <data key="d0">1</data>
+</edge>
+<edge source="oil" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="hydrogen">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="oceans">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="cleatech">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="glastonbury">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="science">
+  <data key="d0">6</data>
+</edge>
+<edge source="climate" target="environment">
+  <data key="d0">10</data>
+</edge>
+<edge source="climate" target="pollution">
+  <data key="d0">7</data>
+</edge>
+<edge source="climate" target="climatetech">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="van">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="fossil">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="israel">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="helmholtzklima">
+  <data key="d0">2</data>
+</edge>
+<edge source="climate" target="bcflood">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="pge">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="cimateaction">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="zerowaste">
+  <data key="d0">3</data>
+</edge>
+<edge source="climate" target="climateelection">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="tedxstockholmcountdown">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="fridaysforfutureusa">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="racist">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="industry">
+  <data key="d0">1</data>
+</edge>
+<edge source="climate" target="no3rdrunway">
+  <data key="d0">1</data>
+</edge>
+<edge source="disruption" target="akkus">
+  <data key="d0">1</data>
+</edge>
+<edge source="drought" target="fossil">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="environment">
+  <data key="d0">10</data>
+</edge>
+<edge source="pollution" target="oceans">
+  <data key="d0">3</data>
+</edge>
+<edge source="pollution" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="economy">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="noise">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="decarbonization">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="trains">
+  <data key="d0">1</data>
+</edge>
+<edge source="pollution" target="greenliving">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaysforfutureusa" target="zerowaste">
+  <data key="d0">1</data>
+</edge>
+<edge source="fossilfuel" target="cgl">
+  <data key="d0">1</data>
+</edge>
+<edge source="fossilfuel" target="climatesummit">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="hydrogen">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="designthinking">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="technology" target="mixedreality">
+  <data key="d0">1</data>
+</edge>
+<edge source="carbondioxide" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldpeace" target="environment">
+  <data key="d0">3</data>
+</edge>
+<edge source="economy" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="van" target="bus">
+  <data key="d0">1</data>
+</edge>
+<edge source="mixedreality" target="mobileapp">
+  <data key="d0">1</data>
+</edge>
+<edge source="bus" target="life">
+  <data key="d0">1</data>
+</edge>
+<edge source="bus" target="fuß">
+  <data key="d0">1</data>
+</edge>
+<edge source="zerowaste" target="tree">
+  <data key="d0">1</data>
+</edge>
+<edge source="zerowaste" target="greenliving">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateelection" target="racist">
+  <data key="d0">1</data>
+</edge>
+<edge source="tree" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="tree" target="greenliving">
+  <data key="d0">2</data>
+</edge>
+<edge source="life" target="science">
+  <data key="d0">1</data>
+</edge>
+<edge source="cimateaction" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="hydrogen">
+  <data key="d0">3</data>
+</edge>
+<edge source="science" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="science" target="turbine">
+  <data key="d0">1</data>
+</edge>
+<edge source="euw19" target="energystorage">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenliving" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="hydrogen" target="ship">
+  <data key="d0">1</data>
+</edge>
+<edge source="microgrid" target="energystorage">
+  <data key="d0">1</data>
+</edge>
+<edge source="palmoil" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="connect2earth" target="environment">
+  <data key="d0">1</data>
+</edge>
+<edge source="turbine" target="control">
+  <data key="d0">1</data>
+</edge>
+<edge source="environment" target="eiadraft2020">
+  <data key="d0">1</data>
+</edge>
+</graph></graphml>

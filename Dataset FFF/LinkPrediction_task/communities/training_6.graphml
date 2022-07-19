@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="feuerwerksverbot"/>
+<node id="stopturkeydefendrojava"/>
+<node id="fightdreadlockracism"/>
+<node id="nazisraus"/>
+<node id="meuthen"/>
+<node id="dresdenfüralle"/>
+<node id="fffhalle"/>
+<node id="hungerstreik"/>
+<node id="huber"/>
+<node id="silvester2019"/>
+<node id="antifamagazin"/>
+<node id="mohring"/>
+<node id="fridaysforco2"/>
+<node id="niewieder"/>
+<node id="k0612"/>
+<node id="neuerwe"/>
+<node id="abendland"/>
+<node id="kemmerich"/>
+<node id="pilgerstatthetze"/>
+<node id="feierabend"/>
+<node id="augsburg"/>
+<node id="naziwatchgoe"/>
+<node id="ypg"/>
+<node id="ramelow"/>
+<node id="hirte"/>
+<node id="boellerverbot"/>
+<node id="koeln"/>
+<node id="fcknzs"/>
+<node id="bonnerjugendbewegung"/>
+<node id="ltw19"/>
+<node id="böller"/>
+<node id="clique"/>
+<node id="jusos"/>
+<node id="keinenmillimeternachrechts"/>
+<node id="satire"/>
+<node id="solidaritätmitrojava"/>
+<node id="handicap"/>
+<node id="omas_gegen_dreadlocks"/>
+<node id="feuerwerk"/>
+<node id="b0802"/>
+<node id="le3112"/>
+<node id="kilmagerechtigkeit"/>
+<node id="tanzdemo"/>
+<node id="nopegidadd"/>
+<node id="halle"/>
+<node id="bundespolizei"/>
+<node id="connewitz"/>
+<node id="omagate"/>
+<node id="lecktmich"/>
+<node id="tvhalle"/>
+<node id="brotstattboeller"/>
+<node id="höckeisteinfaschist"/>
+<node id="neonazikalbitz"/>
+<node id="rweenteignen"/>
+<node id="müllsammelaktion"/>
+<node id="presseausweiss"/>
+<node id="lichtstatthetze"/>
+<node id="neonazi"/>
+<node id="yorkshirepatriots"/>
+<node id="neuesjahr"/>
+<node id="parents_for_undercut"/>
+<node id="nikolaus"/>
+<node id="lindnerrücktritt"/>
+<node id="koeln0401"/>
+<node id="dresdenneustadt"/>
+<node id="grünesneues"/>
+<node id="dd2210"/>
+<node id="nopasaran"/>
+<node id="linder"/>
+<node id="mitmenschenwürde"/>
+<node id="gauland"/>
+<edge source="feuerwerksverbot" target="boellerverbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerwerksverbot" target="silvester2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerwerksverbot" target="brotstattboeller">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerwerksverbot" target="fridaysforco2">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerwerksverbot" target="lecktmich">
+  <data key="d0">1</data>
+</edge>
+<edge source="stopturkeydefendrojava" target="solidaritätmitrojava">
+  <data key="d0">4</data>
+</edge>
+<edge source="fightdreadlockracism" target="omas_gegen_dreadlocks">
+  <data key="d0">1</data>
+</edge>
+<edge source="fightdreadlockracism" target="parents_for_undercut">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="fcknzs">
+  <data key="d0">4</data>
+</edge>
+<edge source="nazisraus" target="huber">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="gauland">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="neonazi">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="keinenmillimeternachrechts">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="ltw19">
+  <data key="d0">2</data>
+</edge>
+<edge source="nazisraus" target="neonazikalbitz">
+  <data key="d0">1</data>
+</edge>
+<edge source="nazisraus" target="handicap">
+  <data key="d0">1</data>
+</edge>
+<edge source="meuthen" target="fcknzs">
+  <data key="d0">1</data>
+</edge>
+<edge source="meuthen" target="gauland">
+  <data key="d0">1</data>
+</edge>
+<edge source="meuthen" target="ltw19">
+  <data key="d0">1</data>
+</edge>
+<edge source="dresdenfüralle" target="keinenmillimeternachrechts">
+  <data key="d0">8</data>
+</edge>
+<edge source="dresdenfüralle" target="pilgerstatthetze">
+  <data key="d0">1</data>
+</edge>
+<edge source="dresdenfüralle" target="mitmenschenwürde">
+  <data key="d0">8</data>
+</edge>
+<edge source="dresdenfüralle" target="dd2210">
+  <data key="d0">7</data>
+</edge>
+<edge source="dresdenfüralle" target="lichtstatthetze">
+  <data key="d0">8</data>
+</edge>
+<edge source="dresdenfüralle" target="dresdenneustadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="fffhalle" target="halle">
+  <data key="d0">5</data>
+</edge>
+<edge source="fffhalle" target="boellerverbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="fffhalle" target="grünesneues">
+  <data key="d0">1</data>
+</edge>
+<edge source="fffhalle" target="neuesjahr">
+  <data key="d0">1</data>
+</edge>
+<edge source="hungerstreik" target="bonnerjugendbewegung">
+  <data key="d0">1</data>
+</edge>
+<edge source="huber" target="fcknzs">
+  <data key="d0">1</data>
+</edge>
+<edge source="huber" target="handicap">
+  <data key="d0">1</data>
+</edge>
+<edge source="silvester2019" target="boellerverbot">
+  <data key="d0">1</data>
+</edge>
+<edge source="silvester2019" target="brotstattboeller">
+  <data key="d0">1</data>
+</edge>
+<edge source="silvester2019" target="feuerwerk">
+  <data key="d0">1</data>
+</edge>
+<edge source="antifamagazin" target="kilmagerechtigkeit">
+  <data key="d0">1</data>
+</edge>
+<edge source="antifamagazin" target="jusos">
+  <data key="d0">1</data>
+</edge>
+<edge source="mohring" target="niewieder">
+  <data key="d0">1</data>
+</edge>
+<edge source="mohring" target="kemmerich">
+  <data key="d0">1</data>
+</edge>
+<edge source="mohring" target="höckeisteinfaschist">
+  <data key="d0">1</data>
+</edge>
+<edge source="mohring" target="lindnerrücktritt">
+  <data key="d0">1</data>
+</edge>
+<edge source="mohring" target="ramelow">
+  <data key="d0">1</data>
+</edge>
+<edge source="niewieder" target="kemmerich">
+  <data key="d0">1</data>
+</edge>
+<edge source="niewieder" target="höckeisteinfaschist">
+  <data key="d0">1</data>
+</edge>
+<edge source="niewieder" target="linder">
+  <data key="d0">1</data>
+</edge>
+<edge source="niewieder" target="ramelow">
+  <data key="d0">1</data>
+</edge>
+<edge source="k0612" target="rweenteignen">
+  <data key="d0">1</data>
+</edge>
+<edge source="k0612" target="koeln">
+  <data key="d0">1</data>
+</edge>
+<edge source="k0612" target="neuerwe">
+  <data key="d0">1</data>
+</edge>
+<edge source="neuerwe" target="rweenteignen">
+  <data key="d0">2</data>
+</edge>
+<edge source="neuerwe" target="koeln">
+  <data key="d0">1</data>
+</edge>
+<edge source="neuerwe" target="nikolaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="neuerwe" target="tanzdemo">
+  <data key="d0">1</data>
+</edge>
+<edge source="abendland" target="fcknzs">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="b0802">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="hirte">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="höckeisteinfaschist">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="linder">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="lindnerrücktritt">
+  <data key="d0">1</data>
+</edge>
+<edge source="kemmerich" target="ramelow">
+  <data key="d0">1</data>
+</edge>
+<edge source="pilgerstatthetze" target="keinenmillimeternachrechts">
+  <data key="d0">1</data>
+</edge>
+<edge source="pilgerstatthetze" target="koeln0401">
+  <data key="d0">4</data>
+</edge>
+<edge source="pilgerstatthetze" target="feierabend">
+  <data key="d0">1</data>
+</edge>
+<edge source="pilgerstatthetze" target="mitmenschenwürde">
+  <data key="d0">1</data>
+</edge>
+<edge source="pilgerstatthetze" target="lichtstatthetze">
+  <data key="d0">1</data>
+</edge>
+<edge source="pilgerstatthetze" target="dresdenneustadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="feierabend" target="fcknzs">
+  <data key="d0">1</data>
+</edge>
+<edge source="feierabend" target="omagate">
+  <data key="d0">1</data>
+</edge>
+<edge source="feierabend" target="koeln0401">
+  <data key="d0">1</data>
+</edge>
+<edge source="augsburg" target="halle">
+  <data key="d0">1</data>
+</edge>
+<edge source="augsburg" target="ypg">
+  <data key="d0">1</data>
+</edge>
+<edge source="naziwatchgoe" target="fcknzs">
+  <data key="d0">1</data>
+</edge>
+<edge source="naziwatchgoe" target="neonazi">
+  <data key="d0">1</data>
+</edge>
+<edge source="ramelow" target="höckeisteinfaschist">
+  <data key="d0">1</data>
+</edge>
+<edge source="ramelow" target="linder">
+  <data key="d0">1</data>
+</edge>
+<edge source="hirte" target="b0802">
+  <data key="d0">1</data>
+</edge>
+<edge source="boellerverbot" target="halle">
+  <data key="d0">1</data>
+</edge>
+<edge source="boellerverbot" target="brotstattboeller">
+  <data key="d0">1</data>
+</edge>
+<edge source="boellerverbot" target="grünesneues">
+  <data key="d0">1</data>
+</edge>
+<edge source="boellerverbot" target="neuesjahr">
+  <data key="d0">1</data>
+</edge>
+<edge source="koeln" target="nikolaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="satire">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="omagate">
+  <data key="d0">4</data>
+</edge>
+<edge source="fcknzs" target="presseausweiss">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="bundespolizei">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="neonazi">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="keinenmillimeternachrechts">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="ltw19">
+  <data key="d0">3</data>
+</edge>
+<edge source="fcknzs" target="neonazikalbitz">
+  <data key="d0">1</data>
+</edge>
+<edge source="fcknzs" target="handicap">
+  <data key="d0">1</data>
+</edge>
+<edge source="ltw19" target="gauland">
+  <data key="d0">1</data>
+</edge>
+<edge source="ltw19" target="handicap">
+  <data key="d0">1</data>
+</edge>
+<edge source="böller" target="feuerwerk">
+  <data key="d0">1</data>
+</edge>
+<edge source="clique" target="neonazi">
+  <data key="d0">1</data>
+</edge>
+<edge source="keinenmillimeternachrechts" target="halle">
+  <data key="d0">1</data>
+</edge>
+<edge source="keinenmillimeternachrechts" target="dd2210">
+  <data key="d0">7</data>
+</edge>
+<edge source="keinenmillimeternachrechts" target="lichtstatthetze">
+  <data key="d0">8</data>
+</edge>
+<edge source="keinenmillimeternachrechts" target="dresdenneustadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="keinenmillimeternachrechts" target="neonazikalbitz">
+  <data key="d0">1</data>
+</edge>
+<edge source="omas_gegen_dreadlocks" target="parents_for_undercut">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerwerk" target="brotstattboeller">
+  <data key="d0">1</data>
+</edge>
+<edge source="le3112" target="connewitz">
+  <data key="d0">1</data>
+</edge>
+<edge source="tanzdemo" target="rweenteignen">
+  <data key="d0">1</data>
+</edge>
+<edge source="nopegidadd" target="halle">
+  <data key="d0">1</data>
+</edge>
+<edge source="nopegidadd" target="mitmenschenwürde">
+  <data key="d0">8</data>
+</edge>
+<edge source="nopegidadd" target="dd2210">
+  <data key="d0">7</data>
+</edge>
+<edge source="nopegidadd" target="lichtstatthetze">
+  <data key="d0">8</data>
+</edge>
+<edge source="nopegidadd" target="dresdenneustadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="grünesneues">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="neuesjahr">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="tvhalle">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="mitmenschenwürde">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="dd2210">
+  <data key="d0">1</data>
+</edge>
+<edge source="halle" target="lichtstatthetze">
+  <data key="d0">1</data>
+</edge>
+<edge source="bundespolizei" target="koeln0401">
+  <data key="d0">1</data>
+</edge>
+<edge source="bundespolizei" target="presseausweiss">
+  <data key="d0">1</data>
+</edge>
+<edge source="connewitz" target="müllsammelaktion">
+  <data key="d0">1</data>
+</edge>
+<edge source="omagate" target="koeln0401">
+  <data key="d0">4</data>
+</edge>
+<edge source="höckeisteinfaschist" target="linder">
+  <data key="d0">1</data>
+</edge>
+<edge source="höckeisteinfaschist" target="lindnerrücktritt">
+  <data key="d0">1</data>
+</edge>
+<edge source="neonazikalbitz" target="neonazi">
+  <data key="d0">1</data>
+</edge>
+<edge source="presseausweiss" target="koeln0401">
+  <data key="d0">1</data>
+</edge>
+<edge source="lichtstatthetze" target="mitmenschenwürde">
+  <data key="d0">8</data>
+</edge>
+<edge source="lichtstatthetze" target="dd2210">
+  <data key="d0">7</data>
+</edge>
+<edge source="lichtstatthetze" target="dresdenneustadt">
+  <data key="d0">1</data>
+</edge>
+<edge source="yorkshirepatriots" target="nopasaran">
+  <data key="d0">1</data>
+</edge>
+<edge source="lindnerrücktritt" target="linder">
+  <data key="d0">1</data>
+</edge>
+<edge source="dresdenneustadt" target="mitmenschenwürde">
+  <data key="d0">1</data>
+</edge>
+<edge source="dd2210" target="mitmenschenwürde">
+  <data key="d0">7</data>
+</edge>
+</graph></graphml>
