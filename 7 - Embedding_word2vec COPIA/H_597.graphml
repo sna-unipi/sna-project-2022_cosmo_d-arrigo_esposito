@@ -1,0 +1,4000 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="Count" attr.type="int"/>
+<key id="d0" for="node" attr.name="degree" attr.type="int"/>
+<graph edgedefault="undirected"><node id="parisagreement">
+  <data key="d0">60</data>
+</node>
+<node id="berlin">
+  <data key="d0">236</data>
+</node>
+<node id="art">
+  <data key="d0">113</data>
+</node>
+<node id="sustainability">
+  <data key="d0">261</data>
+</node>
+<node id="fossilfuels">
+  <data key="d0">98</data>
+</node>
+<node id="facetheclimateemergency">
+  <data key="d0">422</data>
+</node>
+<node id="cop25">
+  <data key="d0">162</data>
+</node>
+<node id="london">
+  <data key="d0">55</data>
+</node>
+<node id="water">
+  <data key="d0">60</data>
+</node>
+<node id="ilmastolakko">
+  <data key="d0">55</data>
+</node>
+<node id="climatechange">
+  <data key="d0">1034</data>
+</node>
+<node id="fridayvibes">
+  <data key="d0">241</data>
+</node>
+<node id="climatecrisis">
+  <data key="d0">1077</data>
+</node>
+<node id="covid19">
+  <data key="d0">232</data>
+</node>
+<node id="plasticpollution">
+  <data key="d0">57</data>
+</node>
+<node id="youthforclimate">
+  <data key="d0">57</data>
+</node>
+<node id="carbon">
+  <data key="d0">165</data>
+</node>
+<node id="greennewdeal">
+  <data key="d0">184</data>
+</node>
+<node id="cleanenergy">
+  <data key="d0">146</data>
+</node>
+<node id="co2">
+  <data key="d0">312</data>
+</node>
+<node id="energytransition">
+  <data key="d0">163</data>
+</node>
+<node id="peoplenotprofit">
+  <data key="d0">239</data>
+</node>
+<node id="climatestrikeonline">
+  <data key="d0">618</data>
+</node>
+<node id="globalcrisis">
+  <data key="d0">60</data>
+</node>
+<node id="coronavirus">
+  <data key="d0">146</data>
+</node>
+<node id="science">
+  <data key="d0">120</data>
+</node>
+<node id="climatestrike">
+  <data key="d0">2081</data>
+</node>
+<node id="suv">
+  <data key="d0">56</data>
+</node>
+<node id="renewableenergy">
+  <data key="d0">146</data>
+</node>
+<node id="atomkraft">
+  <data key="d0">56</data>
+</node>
+<node id="fridaysforfuture">
+  <data key="d0">8976</data>
+</node>
+<node id="climate">
+  <data key="d0">514</data>
+</node>
+<node id="siemens">
+  <data key="d0">59</data>
+</node>
+<node id="extinctionrebellion">
+  <data key="d0">534</data>
+</node>
+<node id="schoolstrikeforclimate">
+  <data key="d0">67</data>
+</node>
+<node id="nrw">
+  <data key="d0">53</data>
+</node>
+<node id="milano">
+  <data key="d0">60</data>
+</node>
+<node id="globalclimatestrike">
+  <data key="d0">349</data>
+</node>
+<node id="uk">
+  <data key="d0">55</data>
+</node>
+<node id="gretathunberg">
+  <data key="d0">653</data>
+</node>
+<node id="energy">
+  <data key="d0">142</data>
+</node>
+<node id="india">
+  <data key="d0">204</data>
+</node>
+<node id="floods">
+  <data key="d0">52</data>
+</node>
+<node id="nomoreemptypromises">
+  <data key="d0">261</data>
+</node>
+<node id="airpollution">
+  <data key="d0">51</data>
+</node>
+<node id="fridaythoughts">
+  <data key="d0">317</data>
+</node>
+<node id="planet">
+  <data key="d0">98</data>
+</node>
+<node id="canada">
+  <data key="d0">97</data>
+</node>
+<node id="ghg">
+  <data key="d0">55</data>
+</node>
+<node id="davos">
+  <data key="d0">57</data>
+</node>
+<node id="basilicata">
+  <data key="d0">55</data>
+</node>
+<node id="uprootthesystem">
+  <data key="d0">293</data>
+</node>
+<node id="cop26">
+  <data key="d0">277</data>
+</node>
+<node id="fff">
+  <data key="d0">659</data>
+</node>
+<node id="wildlife">
+  <data key="d0">54</data>
+</node>
+<node id="actnow">
+  <data key="d0">356</data>
+</node>
+<node id="environment">
+  <data key="d0">202</data>
+</node>
+<node id="digitalstrike">
+  <data key="d0">335</data>
+</node>
+<node id="earth">
+  <data key="d0">112</data>
+</node>
+<node id="fightfor1point5">
+  <data key="d0">186</data>
+</node>
+<node id="fridaymotivation">
+  <data key="d0">428</data>
+</node>
+<node id="climateaction">
+  <data key="d0">1302</data>
+</node>
+<node id="israel">
+  <data key="d0">59</data>
+</node>
+<node id="nyc">
+  <data key="d0">52</data>
+</node>
+<node id="future">
+  <data key="d0">112</data>
+</node>
+<node id="stopshell">
+  <data key="d0">52</data>
+</node>
+<node id="actonclimate">
+  <data key="d0">235</data>
+</node>
+<node id="hamburg">
+  <data key="d0">121</data>
+</node>
+<node id="justtransition">
+  <data key="d0">53</data>
+</node>
+<node id="fridayfeeling">
+  <data key="d0">410</data>
+</node>
+<node id="climatejustice">
+  <data key="d0">537</data>
+</node>
+<node id="climateactionnow">
+  <data key="d0">532</data>
+</node>
+<node id="roma">
+  <data key="d0">59</data>
+</node>
+<node id="climateemergency">
+  <data key="d0">913</data>
+</node>
+<node id="globalwarming">
+  <data key="d0">162</data>
+</node>
+<node id="pollution">
+  <data key="d0">136</data>
+</node>
+<node id="diesel">
+  <data key="d0">59</data>
+</node>
+<node id="wind">
+  <data key="d0">106</data>
+</node>
+<node id="nature">
+  <data key="d0">164</data>
+</node>
+<node id="vegan">
+  <data key="d0">120</data>
+</node>
+<edge source="parisagreement" target="climateaction">
+  <data key="d1">7</data>
+</edge>
+<edge source="parisagreement" target="climatecrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="parisagreement" target="fridaysforfuture">
+  <data key="d1">36</data>
+</edge>
+<edge source="parisagreement" target="climatestrike">
+  <data key="d1">7</data>
+</edge>
+<edge source="parisagreement" target="climate">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="parisagreement" target="climatejustice">
+  <data key="d1">2</data>
+</edge>
+<edge source="parisagreement" target="climatestrikeonline">
+  <data key="d1">2</data>
+</edge>
+<edge source="parisagreement" target="climatechange">
+  <data key="d1">3</data>
+</edge>
+<edge source="parisagreement" target="facetheclimateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="india">
+  <data key="d1">2</data>
+</edge>
+<edge source="parisagreement" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="extinctionrebellion">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="actonclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="parisagreement" target="fightfor1point5">
+  <data key="d1">5</data>
+</edge>
+<edge source="berlin" target="climatecrisis">
+  <data key="d1">5</data>
+</edge>
+<edge source="berlin" target="fridaysforfuture">
+  <data key="d1">116</data>
+</edge>
+<edge source="berlin" target="climatestrike">
+  <data key="d1">8</data>
+</edge>
+<edge source="berlin" target="climate">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="uprootthesystem">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="climatejustice">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="climatechange">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="facetheclimateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="nomoreemptypromises">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="co2">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="extinctionrebellion">
+  <data key="d1">6</data>
+</edge>
+<edge source="berlin" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="fff">
+  <data key="d1">11</data>
+</edge>
+<edge source="berlin" target="fightfor1point5">
+  <data key="d1">2</data>
+</edge>
+<edge source="berlin" target="globalclimatestrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="berlin" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="berlin" target="coronavirus">
+  <data key="d1">2</data>
+</edge>
+<edge source="art" target="climateaction">
+  <data key="d1">5</data>
+</edge>
+<edge source="art" target="fridaysforfuture">
+  <data key="d1">19</data>
+</edge>
+<edge source="art" target="climatestrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="art" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="climatechange">
+  <data key="d1">8</data>
+</edge>
+<edge source="art" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="science">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="fridayvibes">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="fridayfeeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="milano">
+  <data key="d1">3</data>
+</edge>
+<edge source="art" target="roma">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="art" target="london">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="fossilfuels">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="wind">
+  <data key="d1">33</data>
+</edge>
+<edge source="sustainability" target="energy">
+  <data key="d1">52</data>
+</edge>
+<edge source="sustainability" target="climateaction">
+  <data key="d1">126</data>
+</edge>
+<edge source="sustainability" target="renewableenergy">
+  <data key="d1">44</data>
+</edge>
+<edge source="sustainability" target="carbon">
+  <data key="d1">103</data>
+</edge>
+<edge source="sustainability" target="climatecrisis">
+  <data key="d1">88</data>
+</edge>
+<edge source="sustainability" target="fridaysforfuture">
+  <data key="d1">141</data>
+</edge>
+<edge source="sustainability" target="climatestrike">
+  <data key="d1">23</data>
+</edge>
+<edge source="sustainability" target="climate">
+  <data key="d1">42</data>
+</edge>
+<edge source="sustainability" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="climateemergency">
+  <data key="d1">19</data>
+</edge>
+<edge source="sustainability" target="climateactionnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="sustainability" target="uprootthesystem">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="earth">
+  <data key="d1">8</data>
+</edge>
+<edge source="sustainability" target="climatejustice">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="climatestrikeonline">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="climatechange">
+  <data key="d1">37</data>
+</edge>
+<edge source="sustainability" target="facetheclimateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="energytransition">
+  <data key="d1">100</data>
+</edge>
+<edge source="sustainability" target="future">
+  <data key="d1">12</data>
+</edge>
+<edge source="sustainability" target="globalwarming">
+  <data key="d1">6</data>
+</edge>
+<edge source="sustainability" target="water">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="co2">
+  <data key="d1">40</data>
+</edge>
+<edge source="sustainability" target="extinctionrebellion">
+  <data key="d1">51</data>
+</edge>
+<edge source="sustainability" target="uk">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="science">
+  <data key="d1">10</data>
+</edge>
+<edge source="sustainability" target="environment">
+  <data key="d1">31</data>
+</edge>
+<edge source="sustainability" target="nature">
+  <data key="d1">4</data>
+</edge>
+<edge source="sustainability" target="cleanenergy">
+  <data key="d1">69</data>
+</edge>
+<edge source="sustainability" target="pollution">
+  <data key="d1">22</data>
+</edge>
+<edge source="sustainability" target="ghg">
+  <data key="d1">13</data>
+</edge>
+<edge source="sustainability" target="actonclimate">
+  <data key="d1">11</data>
+</edge>
+<edge source="sustainability" target="india">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="floods">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="globalclimatestrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="globalcrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="greennewdeal">
+  <data key="d1">8</data>
+</edge>
+<edge source="sustainability" target="cop26">
+  <data key="d1">9</data>
+</edge>
+<edge source="sustainability" target="covid19">
+  <data key="d1">4</data>
+</edge>
+<edge source="sustainability" target="fridaythoughts">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="sustainability" target="israel">
+  <data key="d1">3</data>
+</edge>
+<edge source="sustainability" target="coronavirus">
+  <data key="d1">2</data>
+</edge>
+<edge source="sustainability" target="cop25">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="wind">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="energy">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="climateaction">
+  <data key="d1">9</data>
+</edge>
+<edge source="fossilfuels" target="renewableenergy">
+  <data key="d1">3</data>
+</edge>
+<edge source="fossilfuels" target="carbon">
+  <data key="d1">3</data>
+</edge>
+<edge source="fossilfuels" target="climatecrisis">
+  <data key="d1">18</data>
+</edge>
+<edge source="fossilfuels" target="fridaysforfuture">
+  <data key="d1">47</data>
+</edge>
+<edge source="fossilfuels" target="peoplenotprofit">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="climatestrike">
+  <data key="d1">13</data>
+</edge>
+<edge source="fossilfuels" target="climate">
+  <data key="d1">5</data>
+</edge>
+<edge source="fossilfuels" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="climateemergency">
+  <data key="d1">8</data>
+</edge>
+<edge source="fossilfuels" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="fossilfuels" target="uprootthesystem">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="planet">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="climatestrikeonline">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="climatechange">
+  <data key="d1">5</data>
+</edge>
+<edge source="fossilfuels" target="facetheclimateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="energytransition">
+  <data key="d1">3</data>
+</edge>
+<edge source="fossilfuels" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="cleanenergy">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="justtransition">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="ilmastolakko">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="nomoreemptypromises">
+  <data key="d1">2</data>
+</edge>
+<edge source="fossilfuels" target="greennewdeal">
+  <data key="d1">1</data>
+</edge>
+<edge source="fossilfuels" target="cop26">
+  <data key="d1">3</data>
+</edge>
+<edge source="fossilfuels" target="covid19">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="climateaction">
+  <data key="d1">114</data>
+</edge>
+<edge source="facetheclimateemergency" target="renewableenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="climatecrisis">
+  <data key="d1">81</data>
+</edge>
+<edge source="facetheclimateemergency" target="fridaysforfuture">
+  <data key="d1">691</data>
+</edge>
+<edge source="facetheclimateemergency" target="peoplenotprofit">
+  <data key="d1">18</data>
+</edge>
+<edge source="facetheclimateemergency" target="climatestrike">
+  <data key="d1">368</data>
+</edge>
+<edge source="facetheclimateemergency" target="climate">
+  <data key="d1">20</data>
+</edge>
+<edge source="facetheclimateemergency" target="actnow">
+  <data key="d1">34</data>
+</edge>
+<edge source="facetheclimateemergency" target="climateemergency">
+  <data key="d1">39</data>
+</edge>
+<edge source="facetheclimateemergency" target="climateactionnow">
+  <data key="d1">48</data>
+</edge>
+<edge source="facetheclimateemergency" target="uprootthesystem">
+  <data key="d1">76</data>
+</edge>
+<edge source="facetheclimateemergency" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="climatejustice">
+  <data key="d1">79</data>
+</edge>
+<edge source="facetheclimateemergency" target="planet">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="climatestrikeonline">
+  <data key="d1">205</data>
+</edge>
+<edge source="facetheclimateemergency" target="climatechange">
+  <data key="d1">60</data>
+</edge>
+<edge source="facetheclimateemergency" target="globalwarming">
+  <data key="d1">7</data>
+</edge>
+<edge source="facetheclimateemergency" target="fff">
+  <data key="d1">2</data>
+</edge>
+<edge source="facetheclimateemergency" target="schoolstrikeforclimate">
+  <data key="d1">7</data>
+</edge>
+<edge source="facetheclimateemergency" target="co2">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="extinctionrebellion">
+  <data key="d1">3</data>
+</edge>
+<edge source="facetheclimateemergency" target="digitalstrike">
+  <data key="d1">30</data>
+</edge>
+<edge source="facetheclimateemergency" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="facetheclimateemergency" target="science">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="fightfor1point5">
+  <data key="d1">53</data>
+</edge>
+<edge source="facetheclimateemergency" target="actonclimate">
+  <data key="d1">18</data>
+</edge>
+<edge source="facetheclimateemergency" target="india">
+  <data key="d1">72</data>
+</edge>
+<edge source="facetheclimateemergency" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="floods">
+  <data key="d1">2</data>
+</edge>
+<edge source="facetheclimateemergency" target="ilmastolakko">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="globalclimatestrike">
+  <data key="d1">10</data>
+</edge>
+<edge source="facetheclimateemergency" target="airpollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="facetheclimateemergency" target="globalcrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="facetheclimateemergency" target="nomoreemptypromises">
+  <data key="d1">105</data>
+</edge>
+<edge source="facetheclimateemergency" target="greennewdeal">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="cop26">
+  <data key="d1">6</data>
+</edge>
+<edge source="facetheclimateemergency" target="youthforclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="covid19">
+  <data key="d1">5</data>
+</edge>
+<edge source="facetheclimateemergency" target="plasticpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="facetheclimateemergency" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="climateaction">
+  <data key="d1">15</data>
+</edge>
+<edge source="cop25" target="renewableenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="carbon">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="climatecrisis">
+  <data key="d1">13</data>
+</edge>
+<edge source="cop25" target="fridaysforfuture">
+  <data key="d1">160</data>
+</edge>
+<edge source="cop25" target="climatestrike">
+  <data key="d1">38</data>
+</edge>
+<edge source="cop25" target="climate">
+  <data key="d1">4</data>
+</edge>
+<edge source="cop25" target="actnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="cop25" target="climateemergency">
+  <data key="d1">9</data>
+</edge>
+<edge source="cop25" target="climateactionnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="cop25" target="climatejustice">
+  <data key="d1">6</data>
+</edge>
+<edge source="cop25" target="climatechange">
+  <data key="d1">9</data>
+</edge>
+<edge source="cop25" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="gretathunberg">
+  <data key="d1">8</data>
+</edge>
+<edge source="cop25" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="cleanenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="cop26">
+  <data key="d1">3</data>
+</edge>
+<edge source="cop25" target="covid19">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="co2">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="extinctionrebellion">
+  <data key="d1">7</data>
+</edge>
+<edge source="cop25" target="actonclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="plasticpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop25" target="coronavirus">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="fridaysforfuture">
+  <data key="d1">6</data>
+</edge>
+<edge source="london" target="climatestrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="london" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="london" target="climatechange">
+  <data key="d1">3</data>
+</edge>
+<edge source="london" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="co2">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="extinctionrebellion">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="milano">
+  <data key="d1">1</data>
+</edge>
+<edge source="london" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="wind">
+  <data key="d1">2</data>
+</edge>
+<edge source="water" target="energy">
+  <data key="d1">4</data>
+</edge>
+<edge source="water" target="climateaction">
+  <data key="d1">3</data>
+</edge>
+<edge source="water" target="renewableenergy">
+  <data key="d1">3</data>
+</edge>
+<edge source="water" target="carbon">
+  <data key="d1">5</data>
+</edge>
+<edge source="water" target="climatecrisis">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="fridaysforfuture">
+  <data key="d1">9</data>
+</edge>
+<edge source="water" target="climate">
+  <data key="d1">4</data>
+</edge>
+<edge source="water" target="climateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="water" target="energytransition">
+  <data key="d1">4</data>
+</edge>
+<edge source="water" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="cleanenergy">
+  <data key="d1">3</data>
+</edge>
+<edge source="water" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="co2">
+  <data key="d1">3</data>
+</edge>
+<edge source="water" target="extinctionrebellion">
+  <data key="d1">1</data>
+</edge>
+<edge source="water" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="ilmastolakko" target="climateaction">
+  <data key="d1">8</data>
+</edge>
+<edge source="ilmastolakko" target="renewableenergy">
+  <data key="d1">2</data>
+</edge>
+<edge source="ilmastolakko" target="climatecrisis">
+  <data key="d1">6</data>
+</edge>
+<edge source="ilmastolakko" target="fridaysforfuture">
+  <data key="d1">94</data>
+</edge>
+<edge source="ilmastolakko" target="climatestrike">
+  <data key="d1">39</data>
+</edge>
+<edge source="ilmastolakko" target="climate">
+  <data key="d1">4</data>
+</edge>
+<edge source="ilmastolakko" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="ilmastolakko" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="ilmastolakko" target="climatestrikeonline">
+  <data key="d1">7</data>
+</edge>
+<edge source="ilmastolakko" target="climatechange">
+  <data key="d1">3</data>
+</edge>
+<edge source="ilmastolakko" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="ilmastolakko" target="fff">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="wind">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatechange" target="energy">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatechange" target="climateaction">
+  <data key="d1">202</data>
+</edge>
+<edge source="climatechange" target="renewableenergy">
+  <data key="d1">12</data>
+</edge>
+<edge source="climatechange" target="carbon">
+  <data key="d1">19</data>
+</edge>
+<edge source="climatechange" target="climatecrisis">
+  <data key="d1">203</data>
+</edge>
+<edge source="climatechange" target="fridaysforfuture">
+  <data key="d1">734</data>
+</edge>
+<edge source="climatechange" target="peoplenotprofit">
+  <data key="d1">9</data>
+</edge>
+<edge source="climatechange" target="climatestrike">
+  <data key="d1">323</data>
+</edge>
+<edge source="climatechange" target="climate">
+  <data key="d1">61</data>
+</edge>
+<edge source="climatechange" target="actnow">
+  <data key="d1">24</data>
+</edge>
+<edge source="climatechange" target="climateemergency">
+  <data key="d1">134</data>
+</edge>
+<edge source="climatechange" target="climateactionnow">
+  <data key="d1">49</data>
+</edge>
+<edge source="climatechange" target="uprootthesystem">
+  <data key="d1">26</data>
+</edge>
+<edge source="climatechange" target="earth">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatechange" target="climatejustice">
+  <data key="d1">45</data>
+</edge>
+<edge source="climatechange" target="planet">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatechange" target="climatestrikeonline">
+  <data key="d1">65</data>
+</edge>
+<edge source="climatechange" target="globalwarming">
+  <data key="d1">33</data>
+</edge>
+<edge source="climatechange" target="fff">
+  <data key="d1">11</data>
+</edge>
+<edge source="climatechange" target="fridayfeeling">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="schoolstrikeforclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="energytransition">
+  <data key="d1">19</data>
+</edge>
+<edge source="climatechange" target="future">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatechange" target="co2">
+  <data key="d1">12</data>
+</edge>
+<edge source="climatechange" target="extinctionrebellion">
+  <data key="d1">43</data>
+</edge>
+<edge source="climatechange" target="digitalstrike">
+  <data key="d1">33</data>
+</edge>
+<edge source="climatechange" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="gretathunberg">
+  <data key="d1">52</data>
+</edge>
+<edge source="climatechange" target="science">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatechange" target="environment">
+  <data key="d1">23</data>
+</edge>
+<edge source="climatechange" target="nature">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatechange" target="fightfor1point5">
+  <data key="d1">14</data>
+</edge>
+<edge source="climatechange" target="cleanenergy">
+  <data key="d1">12</data>
+</edge>
+<edge source="climatechange" target="pollution">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatechange" target="ghg">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="actonclimate">
+  <data key="d1">34</data>
+</edge>
+<edge source="climatechange" target="india">
+  <data key="d1">48</data>
+</edge>
+<edge source="climatechange" target="fridaymotivation">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatechange" target="fridayvibes">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="floods">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatechange" target="globalclimatestrike">
+  <data key="d1">29</data>
+</edge>
+<edge source="climatechange" target="milano">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatechange" target="airpollution">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatechange" target="globalcrisis">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatechange" target="nomoreemptypromises">
+  <data key="d1">29</data>
+</edge>
+<edge source="climatechange" target="greennewdeal">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatechange" target="cop26">
+  <data key="d1">33</data>
+</edge>
+<edge source="climatechange" target="youthforclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="covid19">
+  <data key="d1">12</data>
+</edge>
+<edge source="climatechange" target="fridaythoughts">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="plasticpollution">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatechange" target="roma">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="wildlife">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatechange" target="nyc">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatechange" target="canada">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="coronavirus">
+  <data key="d1">10</data>
+</edge>
+<edge source="climatechange" target="siemens">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatechange" target="davos">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatechange" target="basilicata">
+  <data key="d1">5</data>
+</edge>
+<edge source="fridayvibes" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="climateaction">
+  <data key="d1">4</data>
+</edge>
+<edge source="fridayvibes" target="climatecrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridayvibes" target="fridaysforfuture">
+  <data key="d1">80</data>
+</edge>
+<edge source="fridayvibes" target="climatestrike">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridayvibes" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayvibes" target="fridaymotivation">
+  <data key="d1">44</data>
+</edge>
+<edge source="fridayvibes" target="fridayfeeling">
+  <data key="d1">51</data>
+</edge>
+<edge source="fridayvibes" target="nature">
+  <data key="d1">6</data>
+</edge>
+<edge source="fridayvibes" target="vegan">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridayvibes" target="fridaythoughts">
+  <data key="d1">40</data>
+</edge>
+<edge source="climatecrisis" target="wind">
+  <data key="d1">29</data>
+</edge>
+<edge source="climatecrisis" target="energy">
+  <data key="d1">47</data>
+</edge>
+<edge source="climatecrisis" target="climateaction">
+  <data key="d1">396</data>
+</edge>
+<edge source="climatecrisis" target="renewableenergy">
+  <data key="d1">45</data>
+</edge>
+<edge source="climatecrisis" target="carbon">
+  <data key="d1">85</data>
+</edge>
+<edge source="climatecrisis" target="fridaysforfuture">
+  <data key="d1">1145</data>
+</edge>
+<edge source="climatecrisis" target="peoplenotprofit">
+  <data key="d1">31</data>
+</edge>
+<edge source="climatecrisis" target="climatestrike">
+  <data key="d1">410</data>
+</edge>
+<edge source="climatecrisis" target="climate">
+  <data key="d1">96</data>
+</edge>
+<edge source="climatecrisis" target="actnow">
+  <data key="d1">52</data>
+</edge>
+<edge source="climatecrisis" target="climateemergency">
+  <data key="d1">287</data>
+</edge>
+<edge source="climatecrisis" target="climateactionnow">
+  <data key="d1">120</data>
+</edge>
+<edge source="climatecrisis" target="uprootthesystem">
+  <data key="d1">62</data>
+</edge>
+<edge source="climatecrisis" target="globalwarming">
+  <data key="d1">26</data>
+</edge>
+<edge source="climatecrisis" target="earth">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatecrisis" target="climatejustice">
+  <data key="d1">94</data>
+</edge>
+<edge source="climatecrisis" target="planet">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatecrisis" target="climatestrikeonline">
+  <data key="d1">146</data>
+</edge>
+<edge source="climatecrisis" target="fff">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatecrisis" target="fridayfeeling">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatecrisis" target="schoolstrikeforclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatecrisis" target="energytransition">
+  <data key="d1">87</data>
+</edge>
+<edge source="climatecrisis" target="future">
+  <data key="d1">11</data>
+</edge>
+<edge source="climatecrisis" target="co2">
+  <data key="d1">39</data>
+</edge>
+<edge source="climatecrisis" target="extinctionrebellion">
+  <data key="d1">81</data>
+</edge>
+<edge source="climatecrisis" target="digitalstrike">
+  <data key="d1">61</data>
+</edge>
+<edge source="climatecrisis" target="uk">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatecrisis" target="gretathunberg">
+  <data key="d1">33</data>
+</edge>
+<edge source="climatecrisis" target="science">
+  <data key="d1">9</data>
+</edge>
+<edge source="climatecrisis" target="environment">
+  <data key="d1">29</data>
+</edge>
+<edge source="climatecrisis" target="nature">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatecrisis" target="fightfor1point5">
+  <data key="d1">34</data>
+</edge>
+<edge source="climatecrisis" target="cleanenergy">
+  <data key="d1">72</data>
+</edge>
+<edge source="climatecrisis" target="pollution">
+  <data key="d1">14</data>
+</edge>
+<edge source="climatecrisis" target="ghg">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatecrisis" target="actonclimate">
+  <data key="d1">54</data>
+</edge>
+<edge source="climatecrisis" target="vegan">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatecrisis" target="india">
+  <data key="d1">37</data>
+</edge>
+<edge source="climatecrisis" target="fridaymotivation">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatecrisis" target="justtransition">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatecrisis" target="floods">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatecrisis" target="globalclimatestrike">
+  <data key="d1">14</data>
+</edge>
+<edge source="climatecrisis" target="airpollution">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatecrisis" target="globalcrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatecrisis" target="nomoreemptypromises">
+  <data key="d1">35</data>
+</edge>
+<edge source="climatecrisis" target="greennewdeal">
+  <data key="d1">15</data>
+</edge>
+<edge source="climatecrisis" target="cop26">
+  <data key="d1">36</data>
+</edge>
+<edge source="climatecrisis" target="youthforclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatecrisis" target="covid19">
+  <data key="d1">18</data>
+</edge>
+<edge source="climatecrisis" target="fridaythoughts">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatecrisis" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatecrisis" target="plasticpollution">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatecrisis" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatecrisis" target="wildlife">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatecrisis" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatecrisis" target="canada">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatecrisis" target="coronavirus">
+  <data key="d1">16</data>
+</edge>
+<edge source="climatecrisis" target="siemens">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatecrisis" target="davos">
+  <data key="d1">2</data>
+</edge>
+<edge source="covid19" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="energy">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="climateaction">
+  <data key="d1">18</data>
+</edge>
+<edge source="covid19" target="renewableenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="carbon">
+  <data key="d1">4</data>
+</edge>
+<edge source="covid19" target="fridaysforfuture">
+  <data key="d1">95</data>
+</edge>
+<edge source="covid19" target="climatestrike">
+  <data key="d1">29</data>
+</edge>
+<edge source="covid19" target="climate">
+  <data key="d1">7</data>
+</edge>
+<edge source="covid19" target="actnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="covid19" target="climateemergency">
+  <data key="d1">8</data>
+</edge>
+<edge source="covid19" target="climateactionnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="covid19" target="climatejustice">
+  <data key="d1">5</data>
+</edge>
+<edge source="covid19" target="climatestrikeonline">
+  <data key="d1">19</data>
+</edge>
+<edge source="covid19" target="energytransition">
+  <data key="d1">5</data>
+</edge>
+<edge source="covid19" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="digitalstrike">
+  <data key="d1">6</data>
+</edge>
+<edge source="covid19" target="gretathunberg">
+  <data key="d1">3</data>
+</edge>
+<edge source="covid19" target="environment">
+  <data key="d1">3</data>
+</edge>
+<edge source="covid19" target="cleanenergy">
+  <data key="d1">4</data>
+</edge>
+<edge source="covid19" target="nomoreemptypromises">
+  <data key="d1">2</data>
+</edge>
+<edge source="covid19" target="greennewdeal">
+  <data key="d1">2</data>
+</edge>
+<edge source="covid19" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="fff">
+  <data key="d1">3</data>
+</edge>
+<edge source="covid19" target="co2">
+  <data key="d1">4</data>
+</edge>
+<edge source="covid19" target="extinctionrebellion">
+  <data key="d1">2</data>
+</edge>
+<edge source="covid19" target="science">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="nrw">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="actonclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="covid19" target="floods">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="canada">
+  <data key="d1">1</data>
+</edge>
+<edge source="covid19" target="coronavirus">
+  <data key="d1">16</data>
+</edge>
+<edge source="plasticpollution" target="climateaction">
+  <data key="d1">4</data>
+</edge>
+<edge source="plasticpollution" target="fridaysforfuture">
+  <data key="d1">13</data>
+</edge>
+<edge source="plasticpollution" target="climatestrike">
+  <data key="d1">4</data>
+</edge>
+<edge source="plasticpollution" target="climateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="plasticpollution" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="climatejustice">
+  <data key="d1">2</data>
+</edge>
+<edge source="plasticpollution" target="climatestrikeonline">
+  <data key="d1">2</data>
+</edge>
+<edge source="plasticpollution" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="cleanenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="extinctionrebellion">
+  <data key="d1">1</data>
+</edge>
+<edge source="plasticpollution" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="youthforclimate" target="climateaction">
+  <data key="d1">5</data>
+</edge>
+<edge source="youthforclimate" target="fridaysforfuture">
+  <data key="d1">20</data>
+</edge>
+<edge source="youthforclimate" target="peoplenotprofit">
+  <data key="d1">1</data>
+</edge>
+<edge source="youthforclimate" target="climatestrike">
+  <data key="d1">5</data>
+</edge>
+<edge source="youthforclimate" target="actnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="youthforclimate" target="climateemergency">
+  <data key="d1">5</data>
+</edge>
+<edge source="youthforclimate" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="youthforclimate" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="youthforclimate" target="climatestrikeonline">
+  <data key="d1">3</data>
+</edge>
+<edge source="youthforclimate" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="youthforclimate" target="nomoreemptypromises">
+  <data key="d1">3</data>
+</edge>
+<edge source="youthforclimate" target="globalclimatestrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="youthforclimate" target="fightfor1point5">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="wind">
+  <data key="d1">31</data>
+</edge>
+<edge source="carbon" target="energy">
+  <data key="d1">53</data>
+</edge>
+<edge source="carbon" target="climateaction">
+  <data key="d1">111</data>
+</edge>
+<edge source="carbon" target="renewableenergy">
+  <data key="d1">49</data>
+</edge>
+<edge source="carbon" target="fridaysforfuture">
+  <data key="d1">123</data>
+</edge>
+<edge source="carbon" target="peoplenotprofit">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="climatestrike">
+  <data key="d1">23</data>
+</edge>
+<edge source="carbon" target="climate">
+  <data key="d1">43</data>
+</edge>
+<edge source="carbon" target="climateemergency">
+  <data key="d1">16</data>
+</edge>
+<edge source="carbon" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="carbon" target="globalwarming">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="earth">
+  <data key="d1">5</data>
+</edge>
+<edge source="carbon" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="energytransition">
+  <data key="d1">103</data>
+</edge>
+<edge source="carbon" target="future">
+  <data key="d1">12</data>
+</edge>
+<edge source="carbon" target="co2">
+  <data key="d1">38</data>
+</edge>
+<edge source="carbon" target="extinctionrebellion">
+  <data key="d1">51</data>
+</edge>
+<edge source="carbon" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="carbon" target="science">
+  <data key="d1">7</data>
+</edge>
+<edge source="carbon" target="environment">
+  <data key="d1">23</data>
+</edge>
+<edge source="carbon" target="nature">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="cleanenergy">
+  <data key="d1">68</data>
+</edge>
+<edge source="carbon" target="pollution">
+  <data key="d1">18</data>
+</edge>
+<edge source="carbon" target="ghg">
+  <data key="d1">12</data>
+</edge>
+<edge source="carbon" target="actonclimate">
+  <data key="d1">8</data>
+</edge>
+<edge source="carbon" target="india">
+  <data key="d1">3</data>
+</edge>
+<edge source="carbon" target="suv">
+  <data key="d1">1</data>
+</edge>
+<edge source="carbon" target="floods">
+  <data key="d1">2</data>
+</edge>
+<edge source="carbon" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="carbon" target="greennewdeal">
+  <data key="d1">8</data>
+</edge>
+<edge source="carbon" target="cop26">
+  <data key="d1">7</data>
+</edge>
+<edge source="carbon" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="carbon" target="israel">
+  <data key="d1">3</data>
+</edge>
+<edge source="carbon" target="coronavirus">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="wind">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="energy">
+  <data key="d1">9</data>
+</edge>
+<edge source="greennewdeal" target="climateaction">
+  <data key="d1">15</data>
+</edge>
+<edge source="greennewdeal" target="renewableenergy">
+  <data key="d1">6</data>
+</edge>
+<edge source="greennewdeal" target="fridaysforfuture">
+  <data key="d1">73</data>
+</edge>
+<edge source="greennewdeal" target="climatestrike">
+  <data key="d1">28</data>
+</edge>
+<edge source="greennewdeal" target="climate">
+  <data key="d1">14</data>
+</edge>
+<edge source="greennewdeal" target="actnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="climateemergency">
+  <data key="d1">6</data>
+</edge>
+<edge source="greennewdeal" target="climateactionnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="greennewdeal" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="climatestrikeonline">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="energytransition">
+  <data key="d1">9</data>
+</edge>
+<edge source="greennewdeal" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="environment">
+  <data key="d1">4</data>
+</edge>
+<edge source="greennewdeal" target="cleanenergy">
+  <data key="d1">7</data>
+</edge>
+<edge source="greennewdeal" target="pollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="nomoreemptypromises">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="fff">
+  <data key="d1">3</data>
+</edge>
+<edge source="greennewdeal" target="co2">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="extinctionrebellion">
+  <data key="d1">6</data>
+</edge>
+<edge source="greennewdeal" target="science">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="ghg">
+  <data key="d1">1</data>
+</edge>
+<edge source="greennewdeal" target="actonclimate">
+  <data key="d1">5</data>
+</edge>
+<edge source="greennewdeal" target="vegan">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="globalclimatestrike">
+  <data key="d1">2</data>
+</edge>
+<edge source="greennewdeal" target="basilicata">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="wind">
+  <data key="d1">33</data>
+</edge>
+<edge source="cleanenergy" target="energy">
+  <data key="d1">45</data>
+</edge>
+<edge source="cleanenergy" target="climateaction">
+  <data key="d1">82</data>
+</edge>
+<edge source="cleanenergy" target="renewableenergy">
+  <data key="d1">46</data>
+</edge>
+<edge source="cleanenergy" target="fridaysforfuture">
+  <data key="d1">99</data>
+</edge>
+<edge source="cleanenergy" target="climatestrike">
+  <data key="d1">21</data>
+</edge>
+<edge source="cleanenergy" target="climate">
+  <data key="d1">19</data>
+</edge>
+<edge source="cleanenergy" target="climateemergency">
+  <data key="d1">16</data>
+</edge>
+<edge source="cleanenergy" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="cleanenergy" target="planet">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="climatestrikeonline">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="energytransition">
+  <data key="d1">84</data>
+</edge>
+<edge source="cleanenergy" target="future">
+  <data key="d1">11</data>
+</edge>
+<edge source="cleanenergy" target="environment">
+  <data key="d1">14</data>
+</edge>
+<edge source="cleanenergy" target="co2">
+  <data key="d1">32</data>
+</edge>
+<edge source="cleanenergy" target="extinctionrebellion">
+  <data key="d1">48</data>
+</edge>
+<edge source="cleanenergy" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="science">
+  <data key="d1">6</data>
+</edge>
+<edge source="cleanenergy" target="pollution">
+  <data key="d1">15</data>
+</edge>
+<edge source="cleanenergy" target="ghg">
+  <data key="d1">9</data>
+</edge>
+<edge source="cleanenergy" target="actonclimate">
+  <data key="d1">5</data>
+</edge>
+<edge source="cleanenergy" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="cop26">
+  <data key="d1">8</data>
+</edge>
+<edge source="cleanenergy" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="wildlife">
+  <data key="d1">1</data>
+</edge>
+<edge source="cleanenergy" target="coronavirus">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="wind">
+  <data key="d1">10</data>
+</edge>
+<edge source="co2" target="energy">
+  <data key="d1">19</data>
+</edge>
+<edge source="co2" target="climateaction">
+  <data key="d1">44</data>
+</edge>
+<edge source="co2" target="renewableenergy">
+  <data key="d1">22</data>
+</edge>
+<edge source="co2" target="fridaysforfuture">
+  <data key="d1">115</data>
+</edge>
+<edge source="co2" target="peoplenotprofit">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="climatestrike">
+  <data key="d1">18</data>
+</edge>
+<edge source="co2" target="climate">
+  <data key="d1">15</data>
+</edge>
+<edge source="co2" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="climateemergency">
+  <data key="d1">13</data>
+</edge>
+<edge source="co2" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="uprootthesystem">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="planet">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="climatestrikeonline">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="energytransition">
+  <data key="d1">44</data>
+</edge>
+<edge source="co2" target="future">
+  <data key="d1">8</data>
+</edge>
+<edge source="co2" target="gretathunberg">
+  <data key="d1">6</data>
+</edge>
+<edge source="co2" target="environment">
+  <data key="d1">20</data>
+</edge>
+<edge source="co2" target="pollution">
+  <data key="d1">8</data>
+</edge>
+<edge source="co2" target="nomoreemptypromises">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="cop26">
+  <data key="d1">5</data>
+</edge>
+<edge source="co2" target="globalwarming">
+  <data key="d1">4</data>
+</edge>
+<edge source="co2" target="fff">
+  <data key="d1">8</data>
+</edge>
+<edge source="co2" target="extinctionrebellion">
+  <data key="d1">28</data>
+</edge>
+<edge source="co2" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="science">
+  <data key="d1">3</data>
+</edge>
+<edge source="co2" target="nature">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="ghg">
+  <data key="d1">3</data>
+</edge>
+<edge source="co2" target="actonclimate">
+  <data key="d1">6</data>
+</edge>
+<edge source="co2" target="airpollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="globalcrisis">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="diesel">
+  <data key="d1">2</data>
+</edge>
+<edge source="co2" target="coronavirus">
+  <data key="d1">1</data>
+</edge>
+<edge source="co2" target="davos">
+  <data key="d1">2</data>
+</edge>
+<edge source="energytransition" target="wind">
+  <data key="d1">38</data>
+</edge>
+<edge source="energytransition" target="energy">
+  <data key="d1">58</data>
+</edge>
+<edge source="energytransition" target="climateaction">
+  <data key="d1">111</data>
+</edge>
+<edge source="energytransition" target="renewableenergy">
+  <data key="d1">51</data>
+</edge>
+<edge source="energytransition" target="fridaysforfuture">
+  <data key="d1">135</data>
+</edge>
+<edge source="energytransition" target="climatestrike">
+  <data key="d1">30</data>
+</edge>
+<edge source="energytransition" target="climate">
+  <data key="d1">38</data>
+</edge>
+<edge source="energytransition" target="climateemergency">
+  <data key="d1">23</data>
+</edge>
+<edge source="energytransition" target="earth">
+  <data key="d1">4</data>
+</edge>
+<edge source="energytransition" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="energytransition" target="globalwarming">
+  <data key="d1">2</data>
+</edge>
+<edge source="energytransition" target="future">
+  <data key="d1">13</data>
+</edge>
+<edge source="energytransition" target="extinctionrebellion">
+  <data key="d1">61</data>
+</edge>
+<edge source="energytransition" target="uk">
+  <data key="d1">2</data>
+</edge>
+<edge source="energytransition" target="science">
+  <data key="d1">6</data>
+</edge>
+<edge source="energytransition" target="environment">
+  <data key="d1">23</data>
+</edge>
+<edge source="energytransition" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="energytransition" target="pollution">
+  <data key="d1">20</data>
+</edge>
+<edge source="energytransition" target="ghg">
+  <data key="d1">11</data>
+</edge>
+<edge source="energytransition" target="actonclimate">
+  <data key="d1">6</data>
+</edge>
+<edge source="energytransition" target="india">
+  <data key="d1">3</data>
+</edge>
+<edge source="energytransition" target="floods">
+  <data key="d1">2</data>
+</edge>
+<edge source="energytransition" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="energytransition" target="nomoreemptypromises">
+  <data key="d1">1</data>
+</edge>
+<edge source="energytransition" target="cop26">
+  <data key="d1">8</data>
+</edge>
+<edge source="energytransition" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="energytransition" target="israel">
+  <data key="d1">3</data>
+</edge>
+<edge source="energytransition" target="coronavirus">
+  <data key="d1">3</data>
+</edge>
+<edge source="peoplenotprofit" target="climateaction">
+  <data key="d1">29</data>
+</edge>
+<edge source="peoplenotprofit" target="renewableenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="peoplenotprofit" target="fridaysforfuture">
+  <data key="d1">410</data>
+</edge>
+<edge source="peoplenotprofit" target="climatestrike">
+  <data key="d1">166</data>
+</edge>
+<edge source="peoplenotprofit" target="climate">
+  <data key="d1">8</data>
+</edge>
+<edge source="peoplenotprofit" target="actnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="peoplenotprofit" target="climateemergency">
+  <data key="d1">15</data>
+</edge>
+<edge source="peoplenotprofit" target="climateactionnow">
+  <data key="d1">24</data>
+</edge>
+<edge source="peoplenotprofit" target="uprootthesystem">
+  <data key="d1">48</data>
+</edge>
+<edge source="peoplenotprofit" target="globalwarming">
+  <data key="d1">3</data>
+</edge>
+<edge source="peoplenotprofit" target="climatejustice">
+  <data key="d1">17</data>
+</edge>
+<edge source="peoplenotprofit" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="peoplenotprofit" target="climatestrikeonline">
+  <data key="d1">7</data>
+</edge>
+<edge source="peoplenotprofit" target="fff">
+  <data key="d1">3</data>
+</edge>
+<edge source="peoplenotprofit" target="schoolstrikeforclimate">
+  <data key="d1">14</data>
+</edge>
+<edge source="peoplenotprofit" target="extinctionrebellion">
+  <data key="d1">2</data>
+</edge>
+<edge source="peoplenotprofit" target="digitalstrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="peoplenotprofit" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="peoplenotprofit" target="fightfor1point5">
+  <data key="d1">8</data>
+</edge>
+<edge source="peoplenotprofit" target="actonclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="peoplenotprofit" target="india">
+  <data key="d1">7</data>
+</edge>
+<edge source="peoplenotprofit" target="globalclimatestrike">
+  <data key="d1">19</data>
+</edge>
+<edge source="peoplenotprofit" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="peoplenotprofit" target="globalcrisis">
+  <data key="d1">2</data>
+</edge>
+<edge source="peoplenotprofit" target="nomoreemptypromises">
+  <data key="d1">5</data>
+</edge>
+<edge source="peoplenotprofit" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="climateaction">
+  <data key="d1">242</data>
+</edge>
+<edge source="climatestrikeonline" target="renewableenergy">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrikeonline" target="fridaysforfuture">
+  <data key="d1">1279</data>
+</edge>
+<edge source="climatestrikeonline" target="climatestrike">
+  <data key="d1">277</data>
+</edge>
+<edge source="climatestrikeonline" target="climate">
+  <data key="d1">25</data>
+</edge>
+<edge source="climatestrikeonline" target="actnow">
+  <data key="d1">25</data>
+</edge>
+<edge source="climatestrikeonline" target="climateemergency">
+  <data key="d1">173</data>
+</edge>
+<edge source="climatestrikeonline" target="climateactionnow">
+  <data key="d1">108</data>
+</edge>
+<edge source="climatestrikeonline" target="uprootthesystem">
+  <data key="d1">20</data>
+</edge>
+<edge source="climatestrikeonline" target="earth">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatestrikeonline" target="climatejustice">
+  <data key="d1">99</data>
+</edge>
+<edge source="climatestrikeonline" target="planet">
+  <data key="d1">17</data>
+</edge>
+<edge source="climatestrikeonline" target="fff">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatestrikeonline" target="schoolstrikeforclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="future">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="extinctionrebellion">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="digitalstrike">
+  <data key="d1">288</data>
+</edge>
+<edge source="climatestrikeonline" target="gretathunberg">
+  <data key="d1">9</data>
+</edge>
+<edge source="climatestrikeonline" target="science">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="environment">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatestrikeonline" target="fightfor1point5">
+  <data key="d1">40</data>
+</edge>
+<edge source="climatestrikeonline" target="ghg">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="actonclimate">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrikeonline" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="india">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrikeonline" target="hamburg">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="justtransition">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatestrikeonline" target="globalclimatestrike">
+  <data key="d1">12</data>
+</edge>
+<edge source="climatestrikeonline" target="airpollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="nomoreemptypromises">
+  <data key="d1">65</data>
+</edge>
+<edge source="climatestrikeonline" target="cop26">
+  <data key="d1">9</data>
+</edge>
+<edge source="climatestrikeonline" target="fridaythoughts">
+  <data key="d1">2</data>
+</edge>
+<edge source="climatestrikeonline" target="wildlife">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="canada">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatestrikeonline" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrikeonline" target="coronavirus">
+  <data key="d1">18</data>
+</edge>
+<edge source="globalcrisis" target="climateaction">
+  <data key="d1">7</data>
+</edge>
+<edge source="globalcrisis" target="fridaysforfuture">
+  <data key="d1">8</data>
+</edge>
+<edge source="globalcrisis" target="climatestrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalcrisis" target="climate">
+  <data key="d1">4</data>
+</edge>
+<edge source="globalcrisis" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="globalcrisis" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalcrisis" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalcrisis" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalcrisis" target="science">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalcrisis" target="actonclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalcrisis" target="globalwarming">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalcrisis" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="coronavirus" target="climateaction">
+  <data key="d1">17</data>
+</edge>
+<edge source="coronavirus" target="fridaysforfuture">
+  <data key="d1">68</data>
+</edge>
+<edge source="coronavirus" target="climatestrike">
+  <data key="d1">18</data>
+</edge>
+<edge source="coronavirus" target="climate">
+  <data key="d1">5</data>
+</edge>
+<edge source="coronavirus" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="coronavirus" target="climateemergency">
+  <data key="d1">7</data>
+</edge>
+<edge source="coronavirus" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="coronavirus" target="climatejustice">
+  <data key="d1">5</data>
+</edge>
+<edge source="coronavirus" target="digitalstrike">
+  <data key="d1">6</data>
+</edge>
+<edge source="coronavirus" target="gretathunberg">
+  <data key="d1">4</data>
+</edge>
+<edge source="coronavirus" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="coronavirus" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="coronavirus" target="extinctionrebellion">
+  <data key="d1">4</data>
+</edge>
+<edge source="coronavirus" target="actonclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="coronavirus" target="fff">
+  <data key="d1">2</data>
+</edge>
+<edge source="coronavirus" target="fightfor1point5">
+  <data key="d1">2</data>
+</edge>
+<edge source="science" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="energy">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="climateaction">
+  <data key="d1">11</data>
+</edge>
+<edge source="science" target="renewableenergy">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="fridaysforfuture">
+  <data key="d1">21</data>
+</edge>
+<edge source="science" target="climatestrike">
+  <data key="d1">6</data>
+</edge>
+<edge source="science" target="climate">
+  <data key="d1">6</data>
+</edge>
+<edge source="science" target="climateemergency">
+  <data key="d1">4</data>
+</edge>
+<edge source="science" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="science" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="science" target="extinctionrebellion">
+  <data key="d1">6</data>
+</edge>
+<edge source="science" target="actonclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="science" target="fridaythoughts">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrike" target="wind">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatestrike" target="energy">
+  <data key="d1">17</data>
+</edge>
+<edge source="climatestrike" target="climateaction">
+  <data key="d1">521</data>
+</edge>
+<edge source="climatestrike" target="renewableenergy">
+  <data key="d1">25</data>
+</edge>
+<edge source="climatestrike" target="fridaysforfuture">
+  <data key="d1">3641</data>
+</edge>
+<edge source="climatestrike" target="climate">
+  <data key="d1">112</data>
+</edge>
+<edge source="climatestrike" target="actnow">
+  <data key="d1">77</data>
+</edge>
+<edge source="climatestrike" target="climateemergency">
+  <data key="d1">349</data>
+</edge>
+<edge source="climatestrike" target="climateactionnow">
+  <data key="d1">202</data>
+</edge>
+<edge source="climatestrike" target="uprootthesystem">
+  <data key="d1">203</data>
+</edge>
+<edge source="climatestrike" target="globalwarming">
+  <data key="d1">24</data>
+</edge>
+<edge source="climatestrike" target="earth">
+  <data key="d1">10</data>
+</edge>
+<edge source="climatestrike" target="climatejustice">
+  <data key="d1">194</data>
+</edge>
+<edge source="climatestrike" target="planet">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="fff">
+  <data key="d1">34</data>
+</edge>
+<edge source="climatestrike" target="fridayfeeling">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatestrike" target="schoolstrikeforclimate">
+  <data key="d1">24</data>
+</edge>
+<edge source="climatestrike" target="future">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="extinctionrebellion">
+  <data key="d1">70</data>
+</edge>
+<edge source="climatestrike" target="digitalstrike">
+  <data key="d1">111</data>
+</edge>
+<edge source="climatestrike" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrike" target="gretathunberg">
+  <data key="d1">66</data>
+</edge>
+<edge source="climatestrike" target="environment">
+  <data key="d1">16</data>
+</edge>
+<edge source="climatestrike" target="nature">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="fightfor1point5">
+  <data key="d1">97</data>
+</edge>
+<edge source="climatestrike" target="pollution">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatestrike" target="ghg">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatestrike" target="actonclimate">
+  <data key="d1">72</data>
+</edge>
+<edge source="climatestrike" target="vegan">
+  <data key="d1">4</data>
+</edge>
+<edge source="climatestrike" target="india">
+  <data key="d1">187</data>
+</edge>
+<edge source="climatestrike" target="fridaymotivation">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="hamburg">
+  <data key="d1">33</data>
+</edge>
+<edge source="climatestrike" target="justtransition">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatestrike" target="floods">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="globalclimatestrike">
+  <data key="d1">82</data>
+</edge>
+<edge source="climatestrike" target="milano">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatestrike" target="airpollution">
+  <data key="d1">8</data>
+</edge>
+<edge source="climatestrike" target="nomoreemptypromises">
+  <data key="d1">151</data>
+</edge>
+<edge source="climatestrike" target="cop26">
+  <data key="d1">45</data>
+</edge>
+<edge source="climatestrike" target="fridaythoughts">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrike" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrike" target="roma">
+  <data key="d1">6</data>
+</edge>
+<edge source="climatestrike" target="nyc">
+  <data key="d1">7</data>
+</edge>
+<edge source="climatestrike" target="canada">
+  <data key="d1">10</data>
+</edge>
+<edge source="climatestrike" target="stopshell">
+  <data key="d1">24</data>
+</edge>
+<edge source="climatestrike" target="davos">
+  <data key="d1">1</data>
+</edge>
+<edge source="climatestrike" target="basilicata">
+  <data key="d1">4</data>
+</edge>
+<edge source="suv" target="fridaysforfuture">
+  <data key="d1">16</data>
+</edge>
+<edge source="suv" target="climate">
+  <data key="d1">1</data>
+</edge>
+<edge source="suv" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="suv" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="suv" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="suv" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="suv" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="renewableenergy" target="wind">
+  <data key="d1">24</data>
+</edge>
+<edge source="renewableenergy" target="energy">
+  <data key="d1">40</data>
+</edge>
+<edge source="renewableenergy" target="climateaction">
+  <data key="d1">66</data>
+</edge>
+<edge source="renewableenergy" target="fridaysforfuture">
+  <data key="d1">85</data>
+</edge>
+<edge source="renewableenergy" target="climate">
+  <data key="d1">16</data>
+</edge>
+<edge source="renewableenergy" target="climateemergency">
+  <data key="d1">20</data>
+</edge>
+<edge source="renewableenergy" target="climateactionnow">
+  <data key="d1">7</data>
+</edge>
+<edge source="renewableenergy" target="uprootthesystem">
+  <data key="d1">3</data>
+</edge>
+<edge source="renewableenergy" target="globalwarming">
+  <data key="d1">5</data>
+</edge>
+<edge source="renewableenergy" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="renewableenergy" target="planet">
+  <data key="d1">3</data>
+</edge>
+<edge source="renewableenergy" target="future">
+  <data key="d1">8</data>
+</edge>
+<edge source="renewableenergy" target="extinctionrebellion">
+  <data key="d1">43</data>
+</edge>
+<edge source="renewableenergy" target="digitalstrike">
+  <data key="d1">7</data>
+</edge>
+<edge source="renewableenergy" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="renewableenergy" target="environment">
+  <data key="d1">8</data>
+</edge>
+<edge source="renewableenergy" target="pollution">
+  <data key="d1">7</data>
+</edge>
+<edge source="renewableenergy" target="ghg">
+  <data key="d1">3</data>
+</edge>
+<edge source="renewableenergy" target="actonclimate">
+  <data key="d1">4</data>
+</edge>
+<edge source="renewableenergy" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="renewableenergy" target="cop26">
+  <data key="d1">2</data>
+</edge>
+<edge source="renewableenergy" target="israel">
+  <data key="d1">3</data>
+</edge>
+<edge source="atomkraft" target="fridaysforfuture">
+  <data key="d1">10</data>
+</edge>
+<edge source="atomkraft" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaysforfuture" target="wind">
+  <data key="d1">44</data>
+</edge>
+<edge source="fridaysforfuture" target="energy">
+  <data key="d1">77</data>
+</edge>
+<edge source="fridaysforfuture" target="climateaction">
+  <data key="d1">1394</data>
+</edge>
+<edge source="fridaysforfuture" target="climate">
+  <data key="d1">318</data>
+</edge>
+<edge source="fridaysforfuture" target="actnow">
+  <data key="d1">226</data>
+</edge>
+<edge source="fridaysforfuture" target="climateemergency">
+  <data key="d1">976</data>
+</edge>
+<edge source="fridaysforfuture" target="climateactionnow">
+  <data key="d1">538</data>
+</edge>
+<edge source="fridaysforfuture" target="uprootthesystem">
+  <data key="d1">505</data>
+</edge>
+<edge source="fridaysforfuture" target="globalwarming">
+  <data key="d1">57</data>
+</edge>
+<edge source="fridaysforfuture" target="earth">
+  <data key="d1">24</data>
+</edge>
+<edge source="fridaysforfuture" target="climatejustice">
+  <data key="d1">498</data>
+</edge>
+<edge source="fridaysforfuture" target="planet">
+  <data key="d1">42</data>
+</edge>
+<edge source="fridaysforfuture" target="fff">
+  <data key="d1">373</data>
+</edge>
+<edge source="fridaysforfuture" target="fridayfeeling">
+  <data key="d1">151</data>
+</edge>
+<edge source="fridaysforfuture" target="schoolstrikeforclimate">
+  <data key="d1">53</data>
+</edge>
+<edge source="fridaysforfuture" target="future">
+  <data key="d1">27</data>
+</edge>
+<edge source="fridaysforfuture" target="extinctionrebellion">
+  <data key="d1">374</data>
+</edge>
+<edge source="fridaysforfuture" target="digitalstrike">
+  <data key="d1">414</data>
+</edge>
+<edge source="fridaysforfuture" target="uk">
+  <data key="d1">5</data>
+</edge>
+<edge source="fridaysforfuture" target="gretathunberg">
+  <data key="d1">433</data>
+</edge>
+<edge source="fridaysforfuture" target="nrw">
+  <data key="d1">16</data>
+</edge>
+<edge source="fridaysforfuture" target="environment">
+  <data key="d1">73</data>
+</edge>
+<edge source="fridaysforfuture" target="nature">
+  <data key="d1">37</data>
+</edge>
+<edge source="fridaysforfuture" target="fightfor1point5">
+  <data key="d1">191</data>
+</edge>
+<edge source="fridaysforfuture" target="pollution">
+  <data key="d1">36</data>
+</edge>
+<edge source="fridaysforfuture" target="ghg">
+  <data key="d1">15</data>
+</edge>
+<edge source="fridaysforfuture" target="actonclimate">
+  <data key="d1">145</data>
+</edge>
+<edge source="fridaysforfuture" target="vegan">
+  <data key="d1">27</data>
+</edge>
+<edge source="fridaysforfuture" target="india">
+  <data key="d1">225</data>
+</edge>
+<edge source="fridaysforfuture" target="fridaymotivation">
+  <data key="d1">146</data>
+</edge>
+<edge source="fridaysforfuture" target="hamburg">
+  <data key="d1">94</data>
+</edge>
+<edge source="fridaysforfuture" target="justtransition">
+  <data key="d1">17</data>
+</edge>
+<edge source="fridaysforfuture" target="floods">
+  <data key="d1">19</data>
+</edge>
+<edge source="fridaysforfuture" target="globalclimatestrike">
+  <data key="d1">299</data>
+</edge>
+<edge source="fridaysforfuture" target="milano">
+  <data key="d1">16</data>
+</edge>
+<edge source="fridaysforfuture" target="airpollution">
+  <data key="d1">15</data>
+</edge>
+<edge source="fridaysforfuture" target="nomoreemptypromises">
+  <data key="d1">323</data>
+</edge>
+<edge source="fridaysforfuture" target="cop26">
+  <data key="d1">230</data>
+</edge>
+<edge source="fridaysforfuture" target="fridaythoughts">
+  <data key="d1">127</data>
+</edge>
+<edge source="fridaysforfuture" target="diesel">
+  <data key="d1">10</data>
+</edge>
+<edge source="fridaysforfuture" target="israel">
+  <data key="d1">17</data>
+</edge>
+<edge source="fridaysforfuture" target="roma">
+  <data key="d1">17</data>
+</edge>
+<edge source="fridaysforfuture" target="wildlife">
+  <data key="d1">12</data>
+</edge>
+<edge source="fridaysforfuture" target="nyc">
+  <data key="d1">11</data>
+</edge>
+<edge source="fridaysforfuture" target="canada">
+  <data key="d1">40</data>
+</edge>
+<edge source="fridaysforfuture" target="stopshell">
+  <data key="d1">26</data>
+</edge>
+<edge source="fridaysforfuture" target="siemens">
+  <data key="d1">64</data>
+</edge>
+<edge source="fridaysforfuture" target="davos">
+  <data key="d1">25</data>
+</edge>
+<edge source="fridaysforfuture" target="basilicata">
+  <data key="d1">7</data>
+</edge>
+<edge source="climate" target="wind">
+  <data key="d1">9</data>
+</edge>
+<edge source="climate" target="energy">
+  <data key="d1">26</data>
+</edge>
+<edge source="climate" target="climateaction">
+  <data key="d1">132</data>
+</edge>
+<edge source="climate" target="actnow">
+  <data key="d1">9</data>
+</edge>
+<edge source="climate" target="climateemergency">
+  <data key="d1">53</data>
+</edge>
+<edge source="climate" target="climateactionnow">
+  <data key="d1">27</data>
+</edge>
+<edge source="climate" target="uprootthesystem">
+  <data key="d1">13</data>
+</edge>
+<edge source="climate" target="globalwarming">
+  <data key="d1">12</data>
+</edge>
+<edge source="climate" target="earth">
+  <data key="d1">7</data>
+</edge>
+<edge source="climate" target="climatejustice">
+  <data key="d1">20</data>
+</edge>
+<edge source="climate" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="climate" target="fff">
+  <data key="d1">3</data>
+</edge>
+<edge source="climate" target="fridayfeeling">
+  <data key="d1">6</data>
+</edge>
+<edge source="climate" target="schoolstrikeforclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="climate" target="future">
+  <data key="d1">4</data>
+</edge>
+<edge source="climate" target="extinctionrebellion">
+  <data key="d1">16</data>
+</edge>
+<edge source="climate" target="digitalstrike">
+  <data key="d1">14</data>
+</edge>
+<edge source="climate" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="climate" target="gretathunberg">
+  <data key="d1">11</data>
+</edge>
+<edge source="climate" target="environment">
+  <data key="d1">10</data>
+</edge>
+<edge source="climate" target="nature">
+  <data key="d1">4</data>
+</edge>
+<edge source="climate" target="fightfor1point5">
+  <data key="d1">2</data>
+</edge>
+<edge source="climate" target="pollution">
+  <data key="d1">7</data>
+</edge>
+<edge source="climate" target="ghg">
+  <data key="d1">7</data>
+</edge>
+<edge source="climate" target="actonclimate">
+  <data key="d1">20</data>
+</edge>
+<edge source="climate" target="india">
+  <data key="d1">11</data>
+</edge>
+<edge source="climate" target="fridaymotivation">
+  <data key="d1">4</data>
+</edge>
+<edge source="climate" target="justtransition">
+  <data key="d1">2</data>
+</edge>
+<edge source="climate" target="globalclimatestrike">
+  <data key="d1">5</data>
+</edge>
+<edge source="climate" target="nomoreemptypromises">
+  <data key="d1">5</data>
+</edge>
+<edge source="climate" target="cop26">
+  <data key="d1">21</data>
+</edge>
+<edge source="climate" target="fridaythoughts">
+  <data key="d1">3</data>
+</edge>
+<edge source="climate" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="climate" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="climate" target="stopshell">
+  <data key="d1">2</data>
+</edge>
+<edge source="siemens" target="extinctionrebellion">
+  <data key="d1">3</data>
+</edge>
+<edge source="siemens" target="fff">
+  <data key="d1">3</data>
+</edge>
+<edge source="siemens" target="hamburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="siemens" target="davos">
+  <data key="d1">1</data>
+</edge>
+<edge source="extinctionrebellion" target="wind">
+  <data key="d1">21</data>
+</edge>
+<edge source="extinctionrebellion" target="energy">
+  <data key="d1">28</data>
+</edge>
+<edge source="extinctionrebellion" target="climateaction">
+  <data key="d1">103</data>
+</edge>
+<edge source="extinctionrebellion" target="actnow">
+  <data key="d1">9</data>
+</edge>
+<edge source="extinctionrebellion" target="climateemergency">
+  <data key="d1">51</data>
+</edge>
+<edge source="extinctionrebellion" target="climateactionnow">
+  <data key="d1">7</data>
+</edge>
+<edge source="extinctionrebellion" target="uprootthesystem">
+  <data key="d1">15</data>
+</edge>
+<edge source="extinctionrebellion" target="earth">
+  <data key="d1">3</data>
+</edge>
+<edge source="extinctionrebellion" target="climatejustice">
+  <data key="d1">6</data>
+</edge>
+<edge source="extinctionrebellion" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="extinctionrebellion" target="future">
+  <data key="d1">7</data>
+</edge>
+<edge source="extinctionrebellion" target="digitalstrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="extinctionrebellion" target="gretathunberg">
+  <data key="d1">4</data>
+</edge>
+<edge source="extinctionrebellion" target="environment">
+  <data key="d1">14</data>
+</edge>
+<edge source="extinctionrebellion" target="pollution">
+  <data key="d1">11</data>
+</edge>
+<edge source="extinctionrebellion" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="extinctionrebellion" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="extinctionrebellion" target="cop26">
+  <data key="d1">2</data>
+</edge>
+<edge source="extinctionrebellion" target="globalwarming">
+  <data key="d1">10</data>
+</edge>
+<edge source="extinctionrebellion" target="fff">
+  <data key="d1">15</data>
+</edge>
+<edge source="extinctionrebellion" target="uk">
+  <data key="d1">1</data>
+</edge>
+<edge source="extinctionrebellion" target="ghg">
+  <data key="d1">7</data>
+</edge>
+<edge source="extinctionrebellion" target="actonclimate">
+  <data key="d1">9</data>
+</edge>
+<edge source="extinctionrebellion" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="extinctionrebellion" target="globalclimatestrike">
+  <data key="d1">6</data>
+</edge>
+<edge source="extinctionrebellion" target="israel">
+  <data key="d1">2</data>
+</edge>
+<edge source="extinctionrebellion" target="wildlife">
+  <data key="d1">1</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="climateaction">
+  <data key="d1">5</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="actnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="uprootthesystem">
+  <data key="d1">7</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="climatejustice">
+  <data key="d1">6</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="digitalstrike">
+  <data key="d1">2</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="actonclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="schoolstrikeforclimate" target="globalclimatestrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="nrw" target="gretathunberg">
+  <data key="d1">1</data>
+</edge>
+<edge source="milano" target="climateaction">
+  <data key="d1">1</data>
+</edge>
+<edge source="milano" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="milano" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="milano" target="globalclimatestrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="milano" target="roma">
+  <data key="d1">2</data>
+</edge>
+<edge source="milano" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="energy">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="climateaction">
+  <data key="d1">33</data>
+</edge>
+<edge source="globalclimatestrike" target="actnow">
+  <data key="d1">8</data>
+</edge>
+<edge source="globalclimatestrike" target="climateemergency">
+  <data key="d1">15</data>
+</edge>
+<edge source="globalclimatestrike" target="climateactionnow">
+  <data key="d1">9</data>
+</edge>
+<edge source="globalclimatestrike" target="uprootthesystem">
+  <data key="d1">29</data>
+</edge>
+<edge source="globalclimatestrike" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="climatejustice">
+  <data key="d1">12</data>
+</edge>
+<edge source="globalclimatestrike" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalclimatestrike" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="digitalstrike">
+  <data key="d1">16</data>
+</edge>
+<edge source="globalclimatestrike" target="gretathunberg">
+  <data key="d1">8</data>
+</edge>
+<edge source="globalclimatestrike" target="india">
+  <data key="d1">6</data>
+</edge>
+<edge source="globalclimatestrike" target="nomoreemptypromises">
+  <data key="d1">18</data>
+</edge>
+<edge source="globalclimatestrike" target="cop26">
+  <data key="d1">7</data>
+</edge>
+<edge source="globalclimatestrike" target="actonclimate">
+  <data key="d1">9</data>
+</edge>
+<edge source="globalclimatestrike" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="fridayfeeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="fightfor1point5">
+  <data key="d1">7</data>
+</edge>
+<edge source="globalclimatestrike" target="hamburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalclimatestrike" target="roma">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalclimatestrike" target="nyc">
+  <data key="d1">2</data>
+</edge>
+<edge source="uk" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="uk" target="energy">
+  <data key="d1">1</data>
+</edge>
+<edge source="uk" target="climateaction">
+  <data key="d1">1</data>
+</edge>
+<edge source="uk" target="climateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="uk" target="gretathunberg">
+  <data key="d1">2</data>
+</edge>
+<edge source="uk" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="uk" target="cop26">
+  <data key="d1">2</data>
+</edge>
+<edge source="uk" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="climateaction">
+  <data key="d1">31</data>
+</edge>
+<edge source="gretathunberg" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="climateemergency">
+  <data key="d1">40</data>
+</edge>
+<edge source="gretathunberg" target="climateactionnow">
+  <data key="d1">10</data>
+</edge>
+<edge source="gretathunberg" target="uprootthesystem">
+  <data key="d1">4</data>
+</edge>
+<edge source="gretathunberg" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="climatejustice">
+  <data key="d1">8</data>
+</edge>
+<edge source="gretathunberg" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="globalwarming">
+  <data key="d1">8</data>
+</edge>
+<edge source="gretathunberg" target="fff">
+  <data key="d1">19</data>
+</edge>
+<edge source="gretathunberg" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="actonclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="gretathunberg" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="hamburg">
+  <data key="d1">4</data>
+</edge>
+<edge source="gretathunberg" target="nomoreemptypromises">
+  <data key="d1">3</data>
+</edge>
+<edge source="gretathunberg" target="cop26">
+  <data key="d1">13</data>
+</edge>
+<edge source="gretathunberg" target="diesel">
+  <data key="d1">2</data>
+</edge>
+<edge source="gretathunberg" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="roma">
+  <data key="d1">1</data>
+</edge>
+<edge source="gretathunberg" target="nyc">
+  <data key="d1">2</data>
+</edge>
+<edge source="gretathunberg" target="davos">
+  <data key="d1">4</data>
+</edge>
+<edge source="gretathunberg" target="basilicata">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy" target="wind">
+  <data key="d1">36</data>
+</edge>
+<edge source="energy" target="climateaction">
+  <data key="d1">66</data>
+</edge>
+<edge source="energy" target="climateemergency">
+  <data key="d1">12</data>
+</edge>
+<edge source="energy" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="energy" target="future">
+  <data key="d1">6</data>
+</edge>
+<edge source="energy" target="environment">
+  <data key="d1">5</data>
+</edge>
+<edge source="energy" target="pollution">
+  <data key="d1">13</data>
+</edge>
+<edge source="energy" target="ghg">
+  <data key="d1">6</data>
+</edge>
+<edge source="energy" target="actonclimate">
+  <data key="d1">12</data>
+</edge>
+<edge source="energy" target="india">
+  <data key="d1">1</data>
+</edge>
+<edge source="energy" target="cop26">
+  <data key="d1">4</data>
+</edge>
+<edge source="energy" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="climateaction">
+  <data key="d1">33</data>
+</edge>
+<edge source="india" target="actnow">
+  <data key="d1">18</data>
+</edge>
+<edge source="india" target="climateemergency">
+  <data key="d1">31</data>
+</edge>
+<edge source="india" target="climateactionnow">
+  <data key="d1">25</data>
+</edge>
+<edge source="india" target="uprootthesystem">
+  <data key="d1">26</data>
+</edge>
+<edge source="india" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="climatejustice">
+  <data key="d1">5</data>
+</edge>
+<edge source="india" target="planet">
+  <data key="d1">5</data>
+</edge>
+<edge source="india" target="environment">
+  <data key="d1">3</data>
+</edge>
+<edge source="india" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="nature">
+  <data key="d1">2</data>
+</edge>
+<edge source="india" target="fightfor1point5">
+  <data key="d1">10</data>
+</edge>
+<edge source="india" target="floods">
+  <data key="d1">7</data>
+</edge>
+<edge source="india" target="airpollution">
+  <data key="d1">4</data>
+</edge>
+<edge source="india" target="nomoreemptypromises">
+  <data key="d1">56</data>
+</edge>
+<edge source="india" target="cop26">
+  <data key="d1">4</data>
+</edge>
+<edge source="india" target="fridaythoughts">
+  <data key="d1">1</data>
+</edge>
+<edge source="india" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="floods" target="climateaction">
+  <data key="d1">6</data>
+</edge>
+<edge source="floods" target="actnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="floods" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="floods" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="floods" target="uprootthesystem">
+  <data key="d1">2</data>
+</edge>
+<edge source="floods" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="floods" target="environment">
+  <data key="d1">2</data>
+</edge>
+<edge source="floods" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="nomoreemptypromises" target="climateaction">
+  <data key="d1">73</data>
+</edge>
+<edge source="nomoreemptypromises" target="actnow">
+  <data key="d1">11</data>
+</edge>
+<edge source="nomoreemptypromises" target="climateemergency">
+  <data key="d1">22</data>
+</edge>
+<edge source="nomoreemptypromises" target="climateactionnow">
+  <data key="d1">25</data>
+</edge>
+<edge source="nomoreemptypromises" target="uprootthesystem">
+  <data key="d1">20</data>
+</edge>
+<edge source="nomoreemptypromises" target="climatejustice">
+  <data key="d1">26</data>
+</edge>
+<edge source="nomoreemptypromises" target="planet">
+  <data key="d1">2</data>
+</edge>
+<edge source="nomoreemptypromises" target="digitalstrike">
+  <data key="d1">14</data>
+</edge>
+<edge source="nomoreemptypromises" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="nomoreemptypromises" target="fff">
+  <data key="d1">2</data>
+</edge>
+<edge source="nomoreemptypromises" target="fightfor1point5">
+  <data key="d1">43</data>
+</edge>
+<edge source="nomoreemptypromises" target="actonclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="nomoreemptypromises" target="airpollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="nomoreemptypromises" target="cop26">
+  <data key="d1">10</data>
+</edge>
+<edge source="nomoreemptypromises" target="canada">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="climateaction">
+  <data key="d1">5</data>
+</edge>
+<edge source="airpollution" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="airpollution" target="uprootthesystem">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="environment">
+  <data key="d1">2</data>
+</edge>
+<edge source="airpollution" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="airpollution" target="fff">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridaythoughts" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaythoughts" target="climateaction">
+  <data key="d1">7</data>
+</edge>
+<edge source="fridaythoughts" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaythoughts" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaythoughts" target="fridaymotivation">
+  <data key="d1">74</data>
+</edge>
+<edge source="fridaythoughts" target="fridayfeeling">
+  <data key="d1">66</data>
+</edge>
+<edge source="fridaythoughts" target="nature">
+  <data key="d1">4</data>
+</edge>
+<edge source="fridaythoughts" target="vegan">
+  <data key="d1">4</data>
+</edge>
+<edge source="planet" target="climateaction">
+  <data key="d1">8</data>
+</edge>
+<edge source="planet" target="actnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="planet" target="climateactionnow">
+  <data key="d1">14</data>
+</edge>
+<edge source="planet" target="uprootthesystem">
+  <data key="d1">1</data>
+</edge>
+<edge source="planet" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="planet" target="climatejustice">
+  <data key="d1">3</data>
+</edge>
+<edge source="planet" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="planet" target="digitalstrike">
+  <data key="d1">17</data>
+</edge>
+<edge source="planet" target="environment">
+  <data key="d1">1</data>
+</edge>
+<edge source="planet" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="planet" target="cop26">
+  <data key="d1">1</data>
+</edge>
+<edge source="planet" target="wildlife">
+  <data key="d1">5</data>
+</edge>
+<edge source="canada" target="climateaction">
+  <data key="d1">2</data>
+</edge>
+<edge source="canada" target="climateemergency">
+  <data key="d1">5</data>
+</edge>
+<edge source="canada" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="canada" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="ghg" target="wind">
+  <data key="d1">4</data>
+</edge>
+<edge source="ghg" target="climateaction">
+  <data key="d1">12</data>
+</edge>
+<edge source="ghg" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="ghg" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="ghg" target="earth">
+  <data key="d1">1</data>
+</edge>
+<edge source="ghg" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="ghg" target="digitalstrike">
+  <data key="d1">2</data>
+</edge>
+<edge source="ghg" target="environment">
+  <data key="d1">3</data>
+</edge>
+<edge source="ghg" target="pollution">
+  <data key="d1">4</data>
+</edge>
+<edge source="ghg" target="cop26">
+  <data key="d1">4</data>
+</edge>
+<edge source="ghg" target="actonclimate">
+  <data key="d1">2</data>
+</edge>
+<edge source="davos" target="climateaction">
+  <data key="d1">1</data>
+</edge>
+<edge source="davos" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="davos" target="climateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="davos" target="fff">
+  <data key="d1">5</data>
+</edge>
+<edge source="basilicata" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="uprootthesystem" target="climateaction">
+  <data key="d1">69</data>
+</edge>
+<edge source="uprootthesystem" target="actnow">
+  <data key="d1">18</data>
+</edge>
+<edge source="uprootthesystem" target="climateemergency">
+  <data key="d1">42</data>
+</edge>
+<edge source="uprootthesystem" target="climateactionnow">
+  <data key="d1">34</data>
+</edge>
+<edge source="uprootthesystem" target="globalwarming">
+  <data key="d1">11</data>
+</edge>
+<edge source="uprootthesystem" target="earth">
+  <data key="d1">2</data>
+</edge>
+<edge source="uprootthesystem" target="climatejustice">
+  <data key="d1">36</data>
+</edge>
+<edge source="uprootthesystem" target="fff">
+  <data key="d1">1</data>
+</edge>
+<edge source="uprootthesystem" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="uprootthesystem" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="uprootthesystem" target="fightfor1point5">
+  <data key="d1">23</data>
+</edge>
+<edge source="uprootthesystem" target="actonclimate">
+  <data key="d1">12</data>
+</edge>
+<edge source="uprootthesystem" target="hamburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="uprootthesystem" target="cop26">
+  <data key="d1">32</data>
+</edge>
+<edge source="cop26" target="wind">
+  <data key="d1">2</data>
+</edge>
+<edge source="cop26" target="climateaction">
+  <data key="d1">49</data>
+</edge>
+<edge source="cop26" target="actnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="cop26" target="climateemergency">
+  <data key="d1">32</data>
+</edge>
+<edge source="cop26" target="climateactionnow">
+  <data key="d1">9</data>
+</edge>
+<edge source="cop26" target="climatejustice">
+  <data key="d1">15</data>
+</edge>
+<edge source="cop26" target="digitalstrike">
+  <data key="d1">5</data>
+</edge>
+<edge source="cop26" target="environment">
+  <data key="d1">4</data>
+</edge>
+<edge source="cop26" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="cop26" target="fightfor1point5">
+  <data key="d1">3</data>
+</edge>
+<edge source="cop26" target="actonclimate">
+  <data key="d1">7</data>
+</edge>
+<edge source="fff" target="climateaction">
+  <data key="d1">13</data>
+</edge>
+<edge source="fff" target="actnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="fff" target="climateemergency">
+  <data key="d1">5</data>
+</edge>
+<edge source="fff" target="climateactionnow">
+  <data key="d1">5</data>
+</edge>
+<edge source="fff" target="climatejustice">
+  <data key="d1">4</data>
+</edge>
+<edge source="fff" target="digitalstrike">
+  <data key="d1">1</data>
+</edge>
+<edge source="fff" target="environment">
+  <data key="d1">5</data>
+</edge>
+<edge source="fff" target="pollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="fff" target="israel">
+  <data key="d1">1</data>
+</edge>
+<edge source="fff" target="globalwarming">
+  <data key="d1">2</data>
+</edge>
+<edge source="fff" target="nature">
+  <data key="d1">4</data>
+</edge>
+<edge source="fff" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="fff" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="fff" target="hamburg">
+  <data key="d1">7</data>
+</edge>
+<edge source="fff" target="roma">
+  <data key="d1">1</data>
+</edge>
+<edge source="fff" target="wildlife">
+  <data key="d1">1</data>
+</edge>
+<edge source="wildlife" target="climateaction">
+  <data key="d1">2</data>
+</edge>
+<edge source="wildlife" target="actnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="wildlife" target="climateemergency">
+  <data key="d1">2</data>
+</edge>
+<edge source="wildlife" target="globalwarming">
+  <data key="d1">1</data>
+</edge>
+<edge source="wildlife" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="actnow" target="climateaction">
+  <data key="d1">29</data>
+</edge>
+<edge source="actnow" target="climateemergency">
+  <data key="d1">52</data>
+</edge>
+<edge source="actnow" target="climateactionnow">
+  <data key="d1">9</data>
+</edge>
+<edge source="actnow" target="climatejustice">
+  <data key="d1">22</data>
+</edge>
+<edge source="actnow" target="fridayfeeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="actnow" target="future">
+  <data key="d1">3</data>
+</edge>
+<edge source="actnow" target="digitalstrike">
+  <data key="d1">13</data>
+</edge>
+<edge source="actnow" target="fightfor1point5">
+  <data key="d1">6</data>
+</edge>
+<edge source="actnow" target="actonclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="actnow" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="actnow" target="justtransition">
+  <data key="d1">1</data>
+</edge>
+<edge source="environment" target="wind">
+  <data key="d1">5</data>
+</edge>
+<edge source="environment" target="climateaction">
+  <data key="d1">32</data>
+</edge>
+<edge source="environment" target="climateemergency">
+  <data key="d1">12</data>
+</edge>
+<edge source="environment" target="climateactionnow">
+  <data key="d1">3</data>
+</edge>
+<edge source="environment" target="earth">
+  <data key="d1">4</data>
+</edge>
+<edge source="environment" target="climatejustice">
+  <data key="d1">2</data>
+</edge>
+<edge source="environment" target="future">
+  <data key="d1">5</data>
+</edge>
+<edge source="environment" target="digitalstrike">
+  <data key="d1">3</data>
+</edge>
+<edge source="environment" target="globalwarming">
+  <data key="d1">8</data>
+</edge>
+<edge source="environment" target="nature">
+  <data key="d1">11</data>
+</edge>
+<edge source="environment" target="pollution">
+  <data key="d1">10</data>
+</edge>
+<edge source="environment" target="actonclimate">
+  <data key="d1">5</data>
+</edge>
+<edge source="environment" target="fridaymotivation">
+  <data key="d1">1</data>
+</edge>
+<edge source="environment" target="diesel">
+  <data key="d1">1</data>
+</edge>
+<edge source="environment" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="digitalstrike" target="climateaction">
+  <data key="d1">44</data>
+</edge>
+<edge source="digitalstrike" target="climateemergency">
+  <data key="d1">35</data>
+</edge>
+<edge source="digitalstrike" target="climateactionnow">
+  <data key="d1">69</data>
+</edge>
+<edge source="digitalstrike" target="earth">
+  <data key="d1">3</data>
+</edge>
+<edge source="digitalstrike" target="climatejustice">
+  <data key="d1">38</data>
+</edge>
+<edge source="digitalstrike" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="digitalstrike" target="fightfor1point5">
+  <data key="d1">12</data>
+</edge>
+<edge source="digitalstrike" target="actonclimate">
+  <data key="d1">7</data>
+</edge>
+<edge source="digitalstrike" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="digitalstrike" target="justtransition">
+  <data key="d1">4</data>
+</edge>
+<edge source="digitalstrike" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="climateaction">
+  <data key="d1">12</data>
+</edge>
+<edge source="earth" target="climateemergency">
+  <data key="d1">6</data>
+</edge>
+<edge source="earth" target="climateactionnow">
+  <data key="d1">4</data>
+</edge>
+<edge source="earth" target="globalwarming">
+  <data key="d1">4</data>
+</edge>
+<edge source="earth" target="climatejustice">
+  <data key="d1">3</data>
+</edge>
+<edge source="earth" target="fridayfeeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="fightfor1point5">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="actonclimate">
+  <data key="d1">1</data>
+</edge>
+<edge source="earth" target="fridaymotivation">
+  <data key="d1">2</data>
+</edge>
+<edge source="fightfor1point5" target="climateaction">
+  <data key="d1">41</data>
+</edge>
+<edge source="fightfor1point5" target="climateemergency">
+  <data key="d1">14</data>
+</edge>
+<edge source="fightfor1point5" target="climateactionnow">
+  <data key="d1">24</data>
+</edge>
+<edge source="fightfor1point5" target="climatejustice">
+  <data key="d1">14</data>
+</edge>
+<edge source="fightfor1point5" target="actonclimate">
+  <data key="d1">3</data>
+</edge>
+<edge source="fightfor1point5" target="globalwarming">
+  <data key="d1">6</data>
+</edge>
+<edge source="fightfor1point5" target="hamburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="fightfor1point5" target="stopshell">
+  <data key="d1">3</data>
+</edge>
+<edge source="fridaymotivation" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaymotivation" target="climateaction">
+  <data key="d1">10</data>
+</edge>
+<edge source="fridaymotivation" target="climateemergency">
+  <data key="d1">3</data>
+</edge>
+<edge source="fridaymotivation" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridaymotivation" target="climatejustice">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridaymotivation" target="future">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridaymotivation" target="fridayfeeling">
+  <data key="d1">75</data>
+</edge>
+<edge source="fridaymotivation" target="nature">
+  <data key="d1">6</data>
+</edge>
+<edge source="fridaymotivation" target="vegan">
+  <data key="d1">4</data>
+</edge>
+<edge source="climateaction" target="wind">
+  <data key="d1">42</data>
+</edge>
+<edge source="climateaction" target="climateemergency">
+  <data key="d1">296</data>
+</edge>
+<edge source="climateaction" target="climateactionnow">
+  <data key="d1">73</data>
+</edge>
+<edge source="climateaction" target="globalwarming">
+  <data key="d1">21</data>
+</edge>
+<edge source="climateaction" target="climatejustice">
+  <data key="d1">115</data>
+</edge>
+<edge source="climateaction" target="fridayfeeling">
+  <data key="d1">9</data>
+</edge>
+<edge source="climateaction" target="future">
+  <data key="d1">18</data>
+</edge>
+<edge source="climateaction" target="nature">
+  <data key="d1">13</data>
+</edge>
+<edge source="climateaction" target="pollution">
+  <data key="d1">25</data>
+</edge>
+<edge source="climateaction" target="actonclimate">
+  <data key="d1">49</data>
+</edge>
+<edge source="climateaction" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="climateaction" target="hamburg">
+  <data key="d1">19</data>
+</edge>
+<edge source="climateaction" target="justtransition">
+  <data key="d1">3</data>
+</edge>
+<edge source="climateaction" target="israel">
+  <data key="d1">3</data>
+</edge>
+<edge source="climateaction" target="roma">
+  <data key="d1">3</data>
+</edge>
+<edge source="climateaction" target="nyc">
+  <data key="d1">1</data>
+</edge>
+<edge source="climateaction" target="stopshell">
+  <data key="d1">1</data>
+</edge>
+<edge source="israel" target="wind">
+  <data key="d1">1</data>
+</edge>
+<edge source="israel" target="climateemergency">
+  <data key="d1">1</data>
+</edge>
+<edge source="nyc" target="fridayfeeling">
+  <data key="d1">2</data>
+</edge>
+<edge source="future" target="wind">
+  <data key="d1">4</data>
+</edge>
+<edge source="future" target="climateemergency">
+  <data key="d1">8</data>
+</edge>
+<edge source="future" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="future" target="pollution">
+  <data key="d1">3</data>
+</edge>
+<edge source="stopshell" target="climateemergency">
+  <data key="d1">12</data>
+</edge>
+<edge source="stopshell" target="climateactionnow">
+  <data key="d1">1</data>
+</edge>
+<edge source="stopshell" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="actonclimate" target="wind">
+  <data key="d1">3</data>
+</edge>
+<edge source="actonclimate" target="climateemergency">
+  <data key="d1">32</data>
+</edge>
+<edge source="actonclimate" target="climateactionnow">
+  <data key="d1">17</data>
+</edge>
+<edge source="actonclimate" target="climatejustice">
+  <data key="d1">10</data>
+</edge>
+<edge source="actonclimate" target="pollution">
+  <data key="d1">1</data>
+</edge>
+<edge source="actonclimate" target="globalwarming">
+  <data key="d1">8</data>
+</edge>
+<edge source="actonclimate" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="actonclimate" target="roma">
+  <data key="d1">1</data>
+</edge>
+<edge source="hamburg" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="hamburg" target="fridayfeeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayfeeling" target="climateemergency">
+  <data key="d1">6</data>
+</edge>
+<edge source="fridayfeeling" target="climateactionnow">
+  <data key="d1">2</data>
+</edge>
+<edge source="fridayfeeling" target="climatejustice">
+  <data key="d1">1</data>
+</edge>
+<edge source="fridayfeeling" target="nature">
+  <data key="d1">3</data>
+</edge>
+<edge source="fridayfeeling" target="vegan">
+  <data key="d1">3</data>
+</edge>
+<edge source="climatejustice" target="climateemergency">
+  <data key="d1">76</data>
+</edge>
+<edge source="climatejustice" target="climateactionnow">
+  <data key="d1">58</data>
+</edge>
+<edge source="climatejustice" target="globalwarming">
+  <data key="d1">5</data>
+</edge>
+<edge source="climatejustice" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="climateactionnow" target="climateemergency">
+  <data key="d1">119</data>
+</edge>
+<edge source="climateactionnow" target="globalwarming">
+  <data key="d1">4</data>
+</edge>
+<edge source="climateactionnow" target="nature">
+  <data key="d1">1</data>
+</edge>
+<edge source="climateactionnow" target="pollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="climateemergency" target="wind">
+  <data key="d1">6</data>
+</edge>
+<edge source="climateemergency" target="globalwarming">
+  <data key="d1">17</data>
+</edge>
+<edge source="climateemergency" target="nature">
+  <data key="d1">7</data>
+</edge>
+<edge source="climateemergency" target="pollution">
+  <data key="d1">7</data>
+</edge>
+<edge source="climateemergency" target="vegan">
+  <data key="d1">1</data>
+</edge>
+<edge source="globalwarming" target="pollution">
+  <data key="d1">2</data>
+</edge>
+<edge source="globalwarming" target="nature">
+  <data key="d1">4</data>
+</edge>
+<edge source="pollution" target="wind">
+  <data key="d1">11</data>
+</edge>
+<edge source="pollution" target="nature">
+  <data key="d1">2</data>
+</edge>
+<edge source="pollution" target="diesel">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
