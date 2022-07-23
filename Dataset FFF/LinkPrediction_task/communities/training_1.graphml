@@ -1,505 +1,497 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
-<graph edgedefault="undirected"><node id="bauernprotest"/>
-<node id="klimastreikhamburg"/>
-<node id="energiewende"/>
-<node id="seawatch3"/>
-<node id="afdp"/>
-<node id="wahlalter16"/>
-<node id="dieselgate"/>
-<node id="notstromaggregate"/>
-<node id="maaßen"/>
-<node id="frauenstreik"/>
-<node id="klimaliste"/>
-<node id="sanktpölten"/>
-<node id="do0211"/>
-<node id="zdf"/>
-<node id="lichtfest"/>
-<node id="shootingstar"/>
-<node id="nonazisdo"/>
-<node id="datteln4stoppen"/>
-<node id="deutschland"/>
-<node id="agrovoltaik"/>
-<node id="allesfuersklima"/>
-<node id="industrieprivilegien"/>
-<node id="zusammenwirksam"/>
-<node id="nuhr"/>
+<graph edgedefault="undirected"><node id="3k"/>
+<node id="mensch"/>
+<node id="schwerin"/>
+<node id="co2steuer"/>
+<node id="feuerdenscheuer"/>
+<node id="fairness"/>
+<node id="nordhalbkugel"/>
 <node id="niewiedercdu"/>
-<node id="mawaluetzerath"/>
-<node id="optimization"/>
-<node id="generationequality"/>
-<node id="sterbehilfe"/>
-<node id="freiburg"/>
-<node id="flüchlingskrise"/>
-<node id="rechtsterrorismus"/>
-<node id="video"/>
-<node id="grünermist"/>
-<node id="exitcoal"/>
-<node id="churchesforfuture"/>
-<node id="decoalonizeeurope"/>
-<node id="neindanke"/>
-<node id="kretschmann"/>
-<node id="mayday2025"/>
-<node id="criticalmassulm"/>
-<node id="fckrwe"/>
-<node id="klimafolgekosten"/>
-<node id="endcolonialism"/>
-<node id="cduvorsitz"/>
-<node id="gasnotstand"/>
-<node id="atomkraftneindanke"/>
-<node id="trump"/>
-<node id="gruene"/>
-<node id="bauern"/>
-<node id="turkey"/>
-<node id="gehwählen"/>
-<node id="ltwth19"/>
-<node id="zukunft"/>
-<node id="ulm"/>
-<node id="jena"/>
-<node id="niemehrcdu"/>
-<node id="demonstranten"/>
-<node id="experimentierfeld"/>
-<node id="münchen"/>
-<node id="energiekrise"/>
-<node id="merzverhindern"/>
-<node id="cduforfuture"/>
-<node id="ketzerei"/>
-<node id="niewiederdeutschland"/>
-<node id="ökodiktatur"/>
-<node id="landtagswahl"/>
-<node id="minipv"/>
-<node id="soli"/>
-<node id="kult"/>
-<node id="kirche"/>
-<node id="optimierung"/>
-<node id="sondergenehmigung"/>
-<node id="kemfert"/>
-<node id="precht"/>
-<node id="klimareligion"/>
-<node id="klimastreikhh"/>
-<node id="btw"/>
-<node id="osterholz"/>
-<node id="riseup"/>
-<node id="eeg"/>
-<node id="linksex"/>
-<node id="witten"/>
-<node id="aldi"/>
-<node id="fitfor55"/>
-<node id="unbegleitete"/>
-<node id="klartextklima"/>
-<node id="friedrichshain"/>
-<node id="endegelaende"/>
-<node id="klöckner"/>
-<node id="zehntausende"/>
-<node id="zivilenungehorsam"/>
-<node id="klimajugend"/>
-<node id="rassistin"/>
-<node id="servicetweet"/>
-<node id="teambodo"/>
-<node id="zookrefeld"/>
-<node id="atombomberneindanke"/>
-<node id="lecturesforfuture"/>
-<node id="ekd"/>
-<node id="migration"/>
-<node id="versammlungsgesetz"/>
-<node id="jahr2020"/>
-<node id="energie"/>
-<node id="rassismus"/>
-<node id="essen"/>
-<node id="protest"/>
 <node id="systemchangenotclimatechange"/>
-<node id="wohnen"/>
-<node id="keyenbergbleibt"/>
-<node id="forfuture"/>
-<node id="alteeiche"/>
-<node id="schwarzgrün"/>
-<node id="dus2503"/>
-<node id="abrüsten"/>
-<node id="waehlenab16"/>
-<node id="wedare"/>
-<node id="johannmayr"/>
-<node id="thüringen"/>
-<node id="germoney"/>
-<node id="neoliberal"/>
-<node id="kraftwerk"/>
-<node id="aktivistin"/>
-<node id="langstreckenluisa"/>
-<node id="linksextremismus"/>
-<node id="friedlicherevolution"/>
-<node id="wärme"/>
-<node id="luisaneubauer"/>
-<node id="panik"/>
-<node id="rettetdiealteeiche"/>
-<node id="windenergie"/>
-<node id="ard"/>
-<node id="erneuerbarer"/>
-<node id="rente"/>
-<node id="mondaysforfuture"/>
-<node id="dannenroederforst"/>
-<node id="solidarität"/>
-<node id="muc1402"/>
-<node id="nachhaltigkeit"/>
-<node id="düsseldorf"/>
-<node id="feministsforfuture"/>
-<node id="uspolitics"/>
-<node id="kitscengineersforfuture"/>
-<node id="klimaschützer"/>
-<node id="objektperspektiven"/>
-<edge source="bauernprotest" target="bauern">
+<node id="mühlendammbrücke"/>
+<node id="hambacherforst"/>
+<node id="klimaabkommen"/>
+<node id="alankurdî"/>
+<node id="endpatriarchy"/>
+<node id="klimahüpfer"/>
+<node id="istandwithukriane"/>
+<node id="moeritz"/>
+<node id="klimaschutzpaket"/>
+<node id="heterojunction"/>
+<node id="querlullies"/>
+<node id="hygienedemo"/>
+<node id="antideutsche"/>
+<node id="natur"/>
+<node id="konzert"/>
+<node id="spaltung"/>
+<node id="falschinfirmationen"/>
+<node id="manheim"/>
+<node id="piraten"/>
+<node id="atomkraftneindanke"/>
+<node id="gaslieferungen"/>
+<node id="porsche"/>
+<node id="klimakatastrophe"/>
+<node id="linz"/>
+<node id="elektro_kraxn"/>
+<node id="shootingstar"/>
+<node id="afdiststaatszersetzend"/>
+<node id="atomausstiegstoppen"/>
+<node id="magna"/>
+<node id="fdp"/>
+<node id="divestment"/>
+<node id="servicetweet"/>
+<node id="herbert"/>
+<node id="grenzschließungen"/>
+<node id="nowiwu"/>
+<node id="terror"/>
+<node id="wiesbaden"/>
+<node id="erderhitzung"/>
+<node id="technikfeinden"/>
+<node id="lützibleibt"/>
+<node id="staatsanwaltschaft"/>
+<node id="leavenoonebehind"/>
+<node id="schulen"/>
+<node id="notmyklimapaket"/>
+<node id="unteilbar"/>
+<node id="brennholz"/>
+<node id="flüchlingskrise"/>
+<node id="sogehtsächsisch"/>
+<node id="spargel"/>
+<node id="grünekhmer"/>
+<node id="diewoche"/>
+<node id="vielfalt"/>
+<node id="climateanalytics"/>
+<node id="weizsäcker"/>
+<node id="dielinke"/>
+<node id="waldspaziergang"/>
+<node id="wirbildenzukunft"/>
+<node id="niemehrcdu"/>
+<node id="klimapaketchen"/>
+<node id="toennis"/>
+<node id="embargoforpeace"/>
+<node id="kohleeinstiegsgesetz"/>
+<node id="covidioten"/>
+<node id="klimabewegung"/>
+<node id="klimadividende"/>
+<node id="blacklifematters"/>
+<node id="davos20"/>
+<node id="hungerstreik21"/>
+<node id="fluechtlinge"/>
+<node id="gaskrise"/>
+<node id="neueswirtschaftswunder"/>
+<node id="wef20"/>
+<node id="updateklimaenergie"/>
+<node id="pariserabkommen"/>
+<node id="haustür"/>
+<node id="salzburg"/>
+<node id="klimahysterie"/>
+<node id="nato"/>
+<node id="lindner"/>
+<node id="glaubnichtalles"/>
+<node id="diesmalgruen"/>
+<node id="meyerburger"/>
+<node id="klimacamp"/>
+<node id="dreads"/>
+<node id="dbdk20"/>
+<node id="neinzurafd"/>
+<node id="oberwestrich"/>
+<node id="autobahnindieklimakrise"/>
+<node id="rki"/>
+<node id="flüchtlinge"/>
+<node id="rezo"/>
+<node id="krefeld"/>
+<node id="mobilitaetswendejetzt"/>
+<node id="kernkraftwerke"/>
+<node id="selenskyj"/>
+<node id="lifegivingforests"/>
+<node id="klimaforscher"/>
+<node id="keineartweniger"/>
+<node id="continental"/>
+<node id="fridaysforhubraum"/>
+<node id="lüneburg"/>
+<node id="mlpd"/>
+<node id="scholpp"/>
+<node id="dreadlock"/>
+<node id="rossmann"/>
+<node id="kohlestopp"/>
+<node id="tagderdeutscheneinheit"/>
+<node id="spdvorsitz"/>
+<node id="waldschutz"/>
+<node id="twitterlehrerzimmer"/>
+<node id="luissa"/>
+<node id="tdi"/>
+<node id="duh"/>
+<node id="palmer"/>
+<node id="zwickau"/>
+<node id="nobordersnonation"/>
+<node id="klimaschmutzlobby"/>
+<node id="coronakrise"/>
+<node id="neuwahlen"/>
+<node id="verbrennerminister"/>
+<node id="klimastiftung"/>
+<node id="kernenergie"/>
+<node id="notstromaggregate"/>
+<node id="pipelineindiekrise"/>
+<node id="btw21"/>
+<edge source="3k" target="kernenergie">
   <data key="d0">1</data>
 </edge>
-<edge source="klimastreikhamburg" target="klimastreikhh">
+<edge source="mensch" target="natur">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="energiekrise">
+<edge source="schwerin" target="gaslieferungen">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="gruene">
+<edge source="schwerin" target="embargoforpeace">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="minipv">
-  <data key="d0">2</data>
-</edge>
-<edge source="energiewende" target="nachhaltigkeit">
+<edge source="co2steuer" target="klimahysterie">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="lecturesforfuture">
+<edge source="co2steuer" target="rezo">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="optimierung">
+<edge source="co2steuer" target="grünekhmer">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="energie">
+<edge source="co2steuer" target="fridaysforhubraum">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="agrovoltaik">
+<edge source="co2steuer" target="klimadividende">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="industrieprivilegien">
+<edge source="co2steuer" target="continental">
   <data key="d0">1</data>
 </edge>
-<edge source="energiewende" target="wärme">
+<edge source="feuerdenscheuer" target="notmyklimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="feuerdenscheuer" target="verbrennerminister">
+  <data key="d0">1</data>
+</edge>
+<edge source="fairness" target="spaltung">
+  <data key="d0">1</data>
+</edge>
+<edge source="nordhalbkugel" target="klimakatastrophe">
+  <data key="d0">1</data>
+</edge>
+<edge source="niewiedercdu" target="sogehtsächsisch">
+  <data key="d0">1</data>
+</edge>
+<edge source="systemchangenotclimatechange" target="klimakatastrophe">
+  <data key="d0">1</data>
+</edge>
+<edge source="systemchangenotclimatechange" target="krefeld">
+  <data key="d0">1</data>
+</edge>
+<edge source="systemchangenotclimatechange" target="neueswirtschaftswunder">
+  <data key="d0">1</data>
+</edge>
+<edge source="systemchangenotclimatechange" target="nowiwu">
+  <data key="d0">1</data>
+</edge>
+<edge source="systemchangenotclimatechange" target="linz">
+  <data key="d0">1</data>
+</edge>
+<edge source="mühlendammbrücke" target="notmyklimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="hambacherforst" target="btw21">
+  <data key="d0">1</data>
+</edge>
+<edge source="hambacherforst" target="manheim">
   <data key="d0">3</data>
 </edge>
-<edge source="energiewende" target="johannmayr">
+<edge source="klimaabkommen" target="klimakatastrophe">
   <data key="d0">1</data>
 </edge>
-<edge source="seawatch3" target="migration">
+<edge source="alankurdî" target="leavenoonebehind">
   <data key="d0">1</data>
 </edge>
-<edge source="seawatch3" target="flüchlingskrise">
+<edge source="endpatriarchy" target="unteilbar">
   <data key="d0">1</data>
 </edge>
-<edge source="afdp" target="thüringen">
+<edge source="klimahüpfer" target="nobordersnonation">
+  <data key="d0">1</data>
+</edge>
+<edge source="istandwithukriane" target="schulen">
+  <data key="d0">1</data>
+</edge>
+<edge source="moeritz" target="zwickau">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaschutzpaket" target="notmyklimapaket">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimaschutzpaket" target="niemehrcdu">
+  <data key="d0">1</data>
+</edge>
+<edge source="heterojunction" target="meyerburger">
+  <data key="d0">1</data>
+</edge>
+<edge source="querlullies" target="lindner">
+  <data key="d0">1</data>
+</edge>
+<edge source="querlullies" target="covidioten">
+  <data key="d0">1</data>
+</edge>
+<edge source="hygienedemo" target="glaubnichtalles">
+  <data key="d0">1</data>
+</edge>
+<edge source="antideutsche" target="mlpd">
+  <data key="d0">1</data>
+</edge>
+<edge source="konzert" target="salzburg">
+  <data key="d0">1</data>
+</edge>
+<edge source="falschinfirmationen" target="servicetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="manheim" target="oberwestrich">
+  <data key="d0">1</data>
+</edge>
+<edge source="manheim" target="waldspaziergang">
+  <data key="d0">1</data>
+</edge>
+<edge source="piraten" target="niemehrcdu">
+  <data key="d0">1</data>
+</edge>
+<edge source="piraten" target="dbdk20">
+  <data key="d0">1</data>
+</edge>
+<edge source="atomkraftneindanke" target="fdp">
+  <data key="d0">1</data>
+</edge>
+<edge source="atomkraftneindanke" target="dielinke">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaslieferungen" target="notstromaggregate">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaslieferungen" target="gaskrise">
+  <data key="d0">1</data>
+</edge>
+<edge source="porsche" target="fdp">
+  <data key="d0">1</data>
+</edge>
+<edge source="porsche" target="lindner">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="klimahysterie">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="servicetweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="lützibleibt">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="btw21">
+  <data key="d0">3</data>
+</edge>
+<edge source="klimakatastrophe" target="klimabewegung">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="selenskyj">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="rki">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="wiesbaden">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimakatastrophe" target="coronakrise">
   <data key="d0">2</data>
 </edge>
-<edge source="wahlalter16" target="waehlenab16">
+<edge source="klimakatastrophe" target="flüchlingskrise">
   <data key="d0">1</data>
 </edge>
-<edge source="dieselgate" target="zdf">
+<edge source="elektro_kraxn" target="klimahysterie">
+  <data key="d0">2</data>
+</edge>
+<edge source="shootingstar" target="nato">
   <data key="d0">1</data>
 </edge>
-<edge source="notstromaggregate" target="gasnotstand">
+<edge source="afdiststaatszersetzend" target="neinzurafd">
   <data key="d0">1</data>
 </edge>
-<edge source="maaßen" target="ard">
+<edge source="atomausstiegstoppen" target="technikfeinden">
   <data key="d0">1</data>
 </edge>
-<edge source="maaßen" target="zdf">
+<edge source="magna" target="klimahysterie">
   <data key="d0">1</data>
 </edge>
-<edge source="frauenstreik" target="protest">
-  <data key="d0">1</data>
-</edge>
-<edge source="frauenstreik" target="feministsforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="frauenstreik" target="zusammenwirksam">
-  <data key="d0">1</data>
-</edge>
-<edge source="klimaliste" target="kretschmann">
-  <data key="d0">1</data>
-</edge>
-<edge source="sanktpölten" target="solidarität">
-  <data key="d0">1</data>
-</edge>
-<edge source="do0211" target="nonazisdo">
-  <data key="d0">1</data>
-</edge>
-<edge source="zdf" target="aldi">
-  <data key="d0">1</data>
-</edge>
-<edge source="lichtfest" target="friedlicherevolution">
-  <data key="d0">1</data>
-</edge>
-<edge source="shootingstar" target="luisaneubauer">
-  <data key="d0">1</data>
-</edge>
-<edge source="datteln4stoppen" target="endegelaende">
-  <data key="d0">1</data>
-</edge>
-<edge source="deutschland" target="migration">
-  <data key="d0">1</data>
-</edge>
-<edge source="deutschland" target="windenergie">
-  <data key="d0">1</data>
-</edge>
-<edge source="deutschland" target="wärme">
-  <data key="d0">1</data>
-</edge>
-<edge source="deutschland" target="zookrefeld">
-  <data key="d0">1</data>
-</edge>
-<edge source="deutschland" target="linksex">
-  <data key="d0">1</data>
-</edge>
-<edge source="allesfuersklima" target="kitscengineersforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="industrieprivilegien" target="eeg">
-  <data key="d0">1</data>
-</edge>
-<edge source="zusammenwirksam" target="protest">
-  <data key="d0">1</data>
-</edge>
-<edge source="nuhr" target="gruene">
-  <data key="d0">1</data>
-</edge>
-<edge source="nuhr" target="ketzerei">
-  <data key="d0">1</data>
-</edge>
-<edge source="nuhr" target="kult">
-  <data key="d0">1</data>
-</edge>
-<edge source="niewiedercdu" target="nachhaltigkeit">
-  <data key="d0">1</data>
-</edge>
-<edge source="mawaluetzerath" target="endegelaende">
-  <data key="d0">1</data>
-</edge>
-<edge source="optimization" target="lecturesforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="optimization" target="optimierung">
-  <data key="d0">1</data>
-</edge>
-<edge source="generationequality" target="mondaysforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="sterbehilfe" target="rassismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="sterbehilfe" target="trump">
-  <data key="d0">1</data>
-</edge>
-<edge source="sterbehilfe" target="rechtsterrorismus">
-  <data key="d0">1</data>
-</edge>
-<edge source="freiburg" target="churchesforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="flüchlingskrise" target="migration">
-  <data key="d0">1</data>
-</edge>
-<edge source="rechtsterrorismus" target="trump">
-  <data key="d0">1</data>
-</edge>
-<edge source="video" target="klimajugend">
-  <data key="d0">1</data>
-</edge>
-<edge source="video" target="niewiederdeutschland">
-  <data key="d0">1</data>
-</edge>
-<edge source="grünermist" target="rassistin">
-  <data key="d0">1</data>
-</edge>
-<edge source="exitcoal" target="endegelaende">
+<edge source="fdp" target="lindner">
   <data key="d0">4</data>
 </edge>
-<edge source="decoalonizeeurope" target="kraftwerk">
+<edge source="fdp" target="dielinke">
   <data key="d0">1</data>
 </edge>
-<edge source="neindanke" target="langstreckenluisa">
+<edge source="fdp" target="neuwahlen">
   <data key="d0">1</data>
 </edge>
-<edge source="mayday2025" target="endegelaende">
+<edge source="fdp" target="scholpp">
   <data key="d0">1</data>
 </edge>
-<edge source="criticalmassulm" target="ulm">
+<edge source="divestment" target="wirbildenzukunft">
   <data key="d0">1</data>
 </edge>
-<edge source="fckrwe" target="kirche">
+<edge source="servicetweet" target="klimahysterie">
   <data key="d0">1</data>
 </edge>
-<edge source="klimafolgekosten" target="klartextklima">
+<edge source="servicetweet" target="lützibleibt">
   <data key="d0">1</data>
 </edge>
-<edge source="endcolonialism" target="endegelaende">
+<edge source="servicetweet" target="niemehrcdu">
   <data key="d0">1</data>
 </edge>
-<edge source="cduvorsitz" target="merzverhindern">
+<edge source="servicetweet" target="autobahnindieklimakrise">
   <data key="d0">1</data>
 </edge>
-<edge source="gasnotstand" target="luisaneubauer">
+<edge source="herbert" target="btw21">
   <data key="d0">1</data>
 </edge>
-<edge source="atomkraftneindanke" target="gruene">
+<edge source="grenzschließungen" target="spargel">
   <data key="d0">1</data>
 </edge>
-<edge source="trump" target="rassismus">
+<edge source="terror" target="fluechtlinge">
   <data key="d0">1</data>
 </edge>
-<edge source="trump" target="klimaschützer">
+<edge source="erderhitzung" target="keineartweniger">
   <data key="d0">1</data>
 </edge>
-<edge source="trump" target="klartextklima">
+<edge source="lützibleibt" target="niemehrcdu">
   <data key="d0">1</data>
 </edge>
-<edge source="trump" target="uspolitics">
+<edge source="staatsanwaltschaft" target="klimahysterie">
   <data key="d0">1</data>
 </edge>
-<edge source="trump" target="turkey">
+<edge source="leavenoonebehind" target="wirbildenzukunft">
   <data key="d0">1</data>
 </edge>
-<edge source="gruene" target="fitfor55">
+<edge source="notmyklimapaket" target="niemehrcdu">
+  <data key="d0">2</data>
+</edge>
+<edge source="notmyklimapaket" target="neuwahlen">
+  <data key="d0">2</data>
+</edge>
+<edge source="notmyklimapaket" target="klimapaketchen">
   <data key="d0">1</data>
 </edge>
-<edge source="gruene" target="klimaschützer">
+<edge source="notmyklimapaket" target="lifegivingforests">
   <data key="d0">1</data>
 </edge>
-<edge source="gruene" target="btw">
+<edge source="unteilbar" target="vielfalt">
   <data key="d0">1</data>
 </edge>
-<edge source="gruene" target="kemfert">
+<edge source="unteilbar" target="blacklifematters">
   <data key="d0">1</data>
 </edge>
-<edge source="gehwählen" target="ltwth19">
+<edge source="brennholz" target="waldschutz">
   <data key="d0">1</data>
 </edge>
-<edge source="ltwth19" target="landtagswahl">
+<edge source="spargel" target="flüchtlinge">
   <data key="d0">1</data>
 </edge>
-<edge source="ltwth19" target="thüringen">
+<edge source="grünekhmer" target="klimahysterie">
   <data key="d0">1</data>
 </edge>
-<edge source="ltwth19" target="teambodo">
+<edge source="diewoche" target="rossmann">
   <data key="d0">1</data>
 </edge>
-<edge source="zukunft" target="niemehrcdu">
+<edge source="climateanalytics" target="duh">
   <data key="d0">1</data>
 </edge>
-<edge source="zukunft" target="energie">
+<edge source="weizsäcker" target="palmer">
   <data key="d0">1</data>
 </edge>
-<edge source="jena" target="thüringen">
+<edge source="dielinke" target="coronakrise">
   <data key="d0">1</data>
 </edge>
-<edge source="niemehrcdu" target="servicetweet">
+<edge source="wirbildenzukunft" target="twitterlehrerzimmer">
   <data key="d0">1</data>
 </edge>
-<edge source="niemehrcdu" target="thüringen">
+<edge source="niemehrcdu" target="neuwahlen">
   <data key="d0">1</data>
 </edge>
-<edge source="niemehrcdu" target="klöckner">
+<edge source="niemehrcdu" target="klimaschmutzlobby">
   <data key="d0">1</data>
 </edge>
-<edge source="demonstranten" target="linksextremismus">
+<edge source="niemehrcdu" target="kohleeinstiegsgesetz">
   <data key="d0">1</data>
 </edge>
-<edge source="demonstranten" target="friedrichshain">
+<edge source="toennis" target="rezo">
   <data key="d0">1</data>
 </edge>
-<edge source="experimentierfeld" target="objektperspektiven">
+<edge source="kohleeinstiegsgesetz" target="klimabewegung">
   <data key="d0">1</data>
 </edge>
-<edge source="münchen" target="muc1402">
+<edge source="covidioten" target="lindner">
   <data key="d0">1</data>
 </edge>
-<edge source="cduforfuture" target="forfuture">
+<edge source="klimabewegung" target="klimacamp">
   <data key="d0">1</data>
 </edge>
-<edge source="ökodiktatur" target="neoliberal">
+<edge source="klimabewegung" target="updateklimaenergie">
   <data key="d0">1</data>
 </edge>
-<edge source="soli" target="rettetdiealteeiche">
+<edge source="klimabewegung" target="mobilitaetswendejetzt">
   <data key="d0">1</data>
 </edge>
-<edge source="kirche" target="ekd">
+<edge source="klimabewegung" target="pariserabkommen">
   <data key="d0">1</data>
 </edge>
-<edge source="optimierung" target="lecturesforfuture">
+<edge source="davos20" target="wef20">
   <data key="d0">1</data>
 </edge>
-<edge source="sondergenehmigung" target="servicetweet">
+<edge source="hungerstreik21" target="btw21">
   <data key="d0">1</data>
 </edge>
-<edge source="precht" target="panik">
+<edge source="gaskrise" target="notstromaggregate">
   <data key="d0">1</data>
 </edge>
-<edge source="klimareligion" target="endegelaende">
+<edge source="haustür" target="luissa">
   <data key="d0">1</data>
 </edge>
-<edge source="osterholz" target="dannenroederforst">
+<edge source="klimahysterie" target="fridaysforhubraum">
+  <data key="d0">5</data>
+</edge>
+<edge source="diesmalgruen" target="btw21">
+  <data key="d0">2</data>
+</edge>
+<edge source="klimacamp" target="coronakrise">
   <data key="d0">1</data>
 </edge>
-<edge source="riseup" target="systemchangenotclimatechange">
+<edge source="dreads" target="dreadlock">
+  <data key="d0">2</data>
+</edge>
+<edge source="rki" target="selenskyj">
   <data key="d0">1</data>
 </edge>
-<edge source="witten" target="essen">
+<edge source="rezo" target="btw21">
+  <data key="d0">2</data>
+</edge>
+<edge source="kernkraftwerke" target="kernenergie">
   <data key="d0">1</data>
 </edge>
-<edge source="unbegleitete" target="germoney">
+<edge source="klimaforscher" target="rossmann">
   <data key="d0">1</data>
 </edge>
-<edge source="friedrichshain" target="linksextremismus">
+<edge source="fridaysforhubraum" target="tdi">
   <data key="d0">1</data>
 </edge>
-<edge source="endegelaende" target="systemchangenotclimatechange">
-  <data key="d0">3</data>
-</edge>
-<edge source="endegelaende" target="keyenbergbleibt">
+<edge source="fridaysforhubraum" target="tagderdeutscheneinheit">
   <data key="d0">1</data>
 </edge>
-<edge source="endegelaende" target="wedare">
+<edge source="lüneburg" target="kohlestopp">
   <data key="d0">1</data>
 </edge>
-<edge source="zehntausende" target="windenergie">
+<edge source="spdvorsitz" target="neuwahlen">
   <data key="d0">1</data>
 </edge>
-<edge source="zivilenungehorsam" target="servicetweet">
-  <data key="d0">1</data>
-</edge>
-<edge source="atombomberneindanke" target="abrüsten">
-  <data key="d0">1</data>
-</edge>
-<edge source="versammlungsgesetz" target="protest">
-  <data key="d0">1</data>
-</edge>
-<edge source="jahr2020" target="neoliberal">
-  <data key="d0">1</data>
-</edge>
-<edge source="energie" target="erneuerbarer">
-  <data key="d0">1</data>
-</edge>
-<edge source="rassismus" target="langstreckenluisa">
-  <data key="d0">1</data>
-</edge>
-<edge source="rassismus" target="systemchangenotclimatechange">
-  <data key="d0">1</data>
-</edge>
-<edge source="wohnen" target="rente">
-  <data key="d0">1</data>
-</edge>
-<edge source="alteeiche" target="rettetdiealteeiche">
-  <data key="d0">1</data>
-</edge>
-<edge source="schwarzgrün" target="dannenroederforst">
-  <data key="d0">1</data>
-</edge>
-<edge source="dus2503" target="düsseldorf">
-  <data key="d0">1</data>
-</edge>
-<edge source="aktivistin" target="linksextremismus">
+<edge source="klimastiftung" target="pipelineindiekrise">
   <data key="d0">1</data>
 </edge>
 </graph></graphml>
