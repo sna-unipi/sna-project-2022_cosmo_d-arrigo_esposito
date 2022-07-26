@@ -1,395 +1,961 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
-<graph edgedefault="undirected"><node id="europaverde"/>
-<node id="goals"/>
-<node id="museichehannostoffa"/>
-<node id="clima"/>
-<node id="eden"/>
-<node id="aviationdaily"/>
-<node id="антикапіталізм"/>
-<node id="youthunited"/>
-<node id="raggi"/>
-<node id="flashmob"/>
-<node id="ikea"/>
-<node id="totesmoutv3"/>
-<node id="cambiamentoclimatico"/>
-<node id="zeitzumumdenken"/>
-<node id="acquagranda"/>
-<node id="ragazzi"/>
-<node id="notav"/>
-<node id="f35"/>
-<node id="ricerca"/>
-<node id="masks"/>
-<node id="pranger"/>
-<node id="feltri"/>
-<node id="culturalheritage"/>
-<node id="sedicenni"/>
-<node id="zichichi"/>
-<node id="desafíotierra"/>
-<node id="merendine"/>
-<node id="ticketsrationnementcarbone"/>
-<node id="bp"/>
-<node id="ahora"/>
-<node id="greenhousegas"/>
-<node id="earthfirst"/>
-<node id="poesiaperlasera"/>
-<node id="lesen"/>
-<node id="lipogiro"/>
-<node id="globalism"/>
-<node id="sicilia"/>
-<node id="conte"/>
-<node id="feministfriday"/>
-<node id="forclimate"/>
-<node id="सुप्रभात"/>
-<node id="londonbridge"/>
-<node id="italiaviva"/>
-<node id="firedrillfridays"/>
-<node id="wahl19"/>
-<node id="nonjelapossofa"/>
-<node id="карпати"/>
-<node id="sala"/>
-<node id="bombeatomiche"/>
-<node id="respirare"/>
-<node id="debenedetti"/>
-<node id="vagapelclimabarcelona"/>
-<node id="goodnight"/>
-<node id="gretine"/>
-<node id="coerenzazero"/>
-<node id="himnonacional"/>
-<node id="radioonlinecolombia"/>
-<node id="cumbreporlaamazonía"/>
-<node id="biani"/>
-<node id="media"/>
-<node id="savecongoforest_fauna_flora"/>
-<node id="canadavotes2019"/>
-<node id="luciobattisti"/>
-<node id="sardineny"/>
-<node id="vivaelplaneta"/>
-<node id="gruber"/>
-<node id="falseflag"/>
-<node id="manifestazione"/>
-<node id="lariachetirala7"/>
-<node id="tea"/>
-<node id="climateactionng"/>
-<node id="maltemporoma"/>
-<node id="illustration"/>
-<node id="educazionecivica"/>
-<node id="socialinclusion"/>
-<node id="undantheun"/>
-<node id="25settembre"/>
-<node id="sketchnotes"/>
-<node id="recoveryfund"/>
-<node id="anf"/>
-<node id="patrioxy"/>
-<node id="coast"/>
-<node id="presidente"/>
-<node id="elxb43"/>
-<node id="gretathurnberg"/>
-<node id="conakry"/>
-<node id="yasuní"/>
-<node id="modem"/>
-<node id="gif"/>
-<node id="bolzano"/>
-<node id="onu"/>
-<node id="climatedebate"/>
-<node id="iotalove"/>
-<node id="wirrettendasklima"/>
-<node id="oceanheroes"/>
-<node id="carabinieri"/>
-<node id="starwars"/>
-<node id="lgbtqpower"/>
-<node id="aviation"/>
-<node id="distance"/>
-<node id="blackexcellence"/>
-<node id="salveni"/>
-<node id="congoforest"/>
-<node id="poraccitudine"/>
-<node id="twitter"/>
-<node id="stoinvecchiando"/>
-<node id="rebellionforlive"/>
-<node id="ladlmmt"/>
-<node id="avgeeks"/>
-<node id="agi"/>
-<node id="lattimoprima"/>
-<node id="14novembre"/>
-<node id="trivelle"/>
-<node id="fff_ukraine"/>
-<node id="concessioni"/>
-<node id="design"/>
-<node id="shell"/>
-<node id="concessione"/>
-<node id="valpolicella"/>
-<node id="gioventùbruciata"/>
-<node id="nwo"/>
-<node id="fashion"/>
-<node id="newyork"/>
-<node id="無印良品"/>
-<node id="東京"/>
-<node id="austero"/>
-<node id="calcio"/>
-<node id="sciopero"/>
-<node id="piazzadelpopolo"/>
-<node id="antudo"/>
-<node id="climatestrikecanceled"/>
-<node id="canadaelection"/>
-<node id="italiavivadi"/>
-<node id="allocate4cycling"/>
-<node id="helpme"/>
-<node id="кліматичнийстрайк"/>
-<node id="politica"/>
-<node id="nibras"/>
-<node id="soschiquitania"/>
-<node id="lipogiranti"/>
-<node id="emergere"/>
-<node id="objectiuindependència"/>
-<node id="schoolstrikeforclimatestrike"/>
-<node id="canadavotes"/>
-<node id="scuole"/>
-<node id="climateactionweek"/>
-<node id="letsdomore"/>
-<node id="schilda"/>
-<node id="rivers"/>
-<node id="applauso"/>
-<node id="trinacria"/>
-<node id="tienistretto"/>
-<node id="propaganda"/>
-<node id="orfwahl"/>
-<node id="brun"/>
-<node id="lfdc"/>
-<node id="erdogan"/>
-<node id="friday4future"/>
-<node id="nazioniunite"/>
-<node id="veganabolitionist"/>
-<node id="klimatstreik"/>
-<node id="sport"/>
-<node id="grillo"/>
-<node id="nextgenerationeu"/>
-<node id="ipocriti"/>
-<node id="co2emissions"/>
-<node id="climatehoax"/>
-<node id="schuldumkehr"/>
-<node id="vietnamese"/>
-<node id="azzolinabocciata"/>
-<node id="rivoluzione"/>
-<node id="ciudadessostenibles"/>
-<node id="ecosistema"/>
-<node id="milan"/>
-<node id="animadipoeta"/>
-<node id="cutedog"/>
-<node id="vecchiaia"/>
-<node id="chooseforwardwithtrudeau"/>
-<node id="egitto"/>
-<node id="buongiornoatutti"/>
-<node id="total"/>
-<node id="prodottitipici"/>
-<node id="eeuu"/>
-<node id="mestrerabiscador"/>
-<node id="liberalizzazioni"/>
-<node id="carbonfreetransport"/>
-<node id="mediterraneansea"/>
-<node id="rai3"/>
-<node id="streaming"/>
-<node id="relevant"/>
-<node id="acquaalta"/>
-<node id="barbaraalberti"/>
-<node id="18aprile"/>
-<node id="boliviano"/>
-<node id="uottawa"/>
-<node id="pihole"/>
-<node id="wikigapchallenge"/>
-<node id="chiquitania"/>
-<node id="amazonfire"/>
-<node id="worldsmileday"/>
-<node id="chefinaccia"/>
-<node id="quartiervertchallenge"/>
-<node id="climatechane"/>
-<node id="jovenesporelclima"/>
-<node id="noplasticwaste"/>
-<node id="cessodestra"/>
-<node id="pisa"/>
-<node id="zurueckzudengruenen"/>
-<node id="civicleader"/>
-<node id="stornarella"/>
-<node id="wikigap"/>
-<node id="bibbiano"/>
-<node id="петоцизаиднината"/>
-<node id="ventisette09fr"/>
-<node id="segre"/>
-<node id="anticapitalism"/>
-<node id="carbonemissions"/>
-<node id="everyday4future"/>
-<node id="kebetu"/>
-<node id="msm"/>
-<node id="black"/>
-<node id="armi"/>
-<node id="lavoro"/>
-<node id="chef"/>
-<node id="fridayforfuture"/>
-<node id="futuro"/>
-<node id="ॐ_नमः_शिवाय"/>
-<node id="imaginative"/>
-<node id="клімат"/>
-<node id="bellanova"/>
-<node id="lrem"/>
-<node id="guerra"/>
-<node id="saviano"/>
-<node id="aviationlovers"/>
-<node id="sindacati"/>
-<node id="ministerodellaistruzione"/>
-<node id="nocomment"/>
-<node id="wien"/>
-<node id="вирубкалісу"/>
-<node id="60seconds"/>
-<node id="кліматичнізміни"/>
-<node id="pertini"/>
-<node id="migrantiambientali"/>
-<node id="nrw19"/>
-<node id="refuting"/>
-<node id="evomorales"/>
-<node id="squali"/>
-<node id="hanoi"/>
-<node id="bts"/>
-<node id="lgbt"/>
-<node id="greenitalia2019"/>
-<node id="گرتا_تونبرگ"/>
-<node id="nelmondo"/>
-<node id="maltempo"/>
-<node id="eteropigri"/>
-<node id="uemercosur"/>
-<node id="miur"/>
-<node id="radelnforfuture"/>
-<node id="gaspacho"/>
-<node id="24horascentral"/>
-<node id="transizione"/>
-<node id="berlusconi"/>
-<node id="1988massacre"/>
-<node id="climatesolution"/>
-<node id="survivors"/>
-<node id="atleticaleggera"/>
-<node id="viggiano"/>
-<node id="tantacazz"/>
-<node id="governo"/>
-<node id="salvemoselplanetaahora"/>
-<node id="dellutri"/>
-<node id="radiomaria"/>
-<node id="rapidreduction2030"/>
-<node id="epstein"/>
-<node id="massmedia"/>
-<node id="dogstrike"/>
-<node id="manifestation"/>
-<node id="lgbtqproud"/>
-<node id="forever"/>
-<node id="jugendklimagipfel"/>
-<node id="carfagna"/>
-<node id="circulareconomy"/>
-<node id="fridayforfuturepadova"/>
-<node id="asperger"/>
-<node id="freeassangenow"/>
-<node id="gretathumberg"/>
-<node id="italia"/>
-<node id="santori"/>
-<node id="ventaglidiparole"/>
-<node id="27settembre"/>
-<node id="jacopofo"/>
-<node id="rinnovabili"/>
-<node id="elephants"/>
-<node id="don"/>
-<node id="doha"/>
-<node id="curdi"/>
-<node id="eni"/>
+<graph edgedefault="undirected"><node id="carbonemissions"/>
 <node id="foto"/>
-<node id="inquinamento"/>
-<node id="movimento"/>
-<node id="bosques"/>
-<node id="ekoradio"/>
-<node id="hefroshe"/>
-<node id="30novembre"/>
-<node id="nobel"/>
+<node id="egitto"/>
+<node id="narmadajayanti"/>
+<node id="migranti"/>
+<node id="firedrillfridays"/>
+<node id="nocomment"/>
+<node id="24horascentral"/>
+<node id="intervistacapitale"/>
+<node id="chefinaccia"/>
+<node id="ॐ_गणपतये_नमः"/>
+<node id="media"/>
+<node id="fightclimatecrisis"/>
+<node id="wikigap"/>
+<node id="changeclimatechange"/>
+<node id="governo"/>
+<node id="lgbtqproud"/>
+<node id="terrorismo"/>
+<node id="ilfuturocheserve"/>
+<node id="zaia"/>
+<node id="feministfriday"/>
+<node id="klimatstreik"/>
+<node id="gioventùbruciata"/>
 <node id="nhs"/>
-<node id="nocarne"/>
-<node id="veganukraine"/>
-<node id="6000sardine"/>
-<node id="roma"/>
-<node id="wallstreet"/>
-<node id="prescrizione"/>
-<node id="london"/>
-<node id="digitalart"/>
-<node id="basilicata"/>
-<node id="pontemorandi"/>
-<node id="aerospace"/>
-<node id="28settembre"/>
-<node id="mondialidisci"/>
-<node id="papaleo"/>
-<node id="ilgps"/>
-<node id="meloni"/>
-<node id="philisophy"/>
-<node id="piazzasangiovanni"/>
-<node id="gretamemes"/>
-<node id="autismo"/>
-<node id="iiff"/>
-<node id="giustiziasociale"/>
-<node id="1for25"/>
-<node id="fashionweek"/>
+<node id="actontheplanet"/>
+<node id="nrw19"/>
+<node id="canadaelection2019"/>
+<node id="veganabolitionist"/>
+<node id="edo"/>
+<node id="co2emissions"/>
+<node id="animalwelfare"/>
+<node id="grillo"/>
+<node id="politica"/>
+<node id="boycottamazon"/>
+<node id="rapidreduction2030"/>
+<node id="climatenow"/>
+<node id="squali"/>
+<node id="segre"/>
+<node id="iussoli"/>
+<node id="antudo"/>
+<node id="nibras"/>
+<node id="austero"/>
+<node id="nwo"/>
 <node id="lr"/>
-<node id="ventotto09fr"/>
-<node id="hypocrisie"/>
-<node id="beautiful"/>
-<node id="desafíoplástico"/>
-<node id="salute"/>
-<node id="whirlpool"/>
-<node id="freiwilligefeuerwehren"/>
-<node id="lamorgese"/>
+<node id="chiquitania"/>
+<node id="schuldumkehr"/>
+<node id="ecosistema"/>
+<node id="sedicenni"/>
+<node id="gretine"/>
+<node id="climateschool"/>
+<node id="climatehoax"/>
+<node id="narmada"/>
+<node id="nonjelapossofa"/>
+<node id="flashmob"/>
+<node id="f35"/>
+<node id="auseinandersetzung"/>
+<node id="voicefortheplanet"/>
+<node id="wallstreet"/>
+<node id="conservefuture"/>
+<node id="28settembre"/>
+<node id="liberalizzazioni"/>
+<node id="nonfossiliziamoci"/>
+<node id="aegreenivory"/>
+<node id="siex"/>
+<node id="lattimoprima"/>
+<node id="sensation"/>
+<node id="potomac"/>
+<node id="barbaraalberti"/>
+<node id="culturalheritage"/>
+<node id="گرتا_تونبرگ"/>
+<node id="rivoluzione"/>
+<node id="clima"/>
+<node id="maltempo"/>
+<node id="movimento"/>
+<node id="m5s"/>
+<node id="bombeatomiche"/>
+<node id="無印良品"/>
+<node id="1for25"/>
+<node id="viggiano"/>
+<node id="buonadomenica"/>
+<node id="azzolinabocciata"/>
+<node id="fridayforpast"/>
+<node id="bts"/>
+<node id="stoinvecchiando"/>
+<node id="biani"/>
 <node id="iammadagascar"/>
-<node id="cluster"/>
-<node id="mafia"/>
-<node id="sonounagretina"/>
-<node id="ermalmeta"/>
-<node id="saynoeumercosur"/>
-<node id="airlines"/>
+<node id="renzeni"/>
+<node id="sciopero"/>
+<node id="circulareconomy"/>
+<node id="vagapelclimabarcelona"/>
+<node id="visual"/>
+<node id="jeans"/>
+<node id="chavez"/>
+<node id="puertonatales"/>
+<node id="mondialidisci"/>
+<node id="forzamafia"/>
+<node id="bellanova"/>
+<node id="radiomaria"/>
+<node id="nyc"/>
+<node id="tpl"/>
+<node id="actonthefuture"/>
+<node id="freeiran"/>
+<node id="nextgenerationeu"/>
+<node id="canadavotes2019"/>
+<node id="recoveryfund"/>
+<node id="casalettori"/>
+<node id="salvini"/>
+<node id="veneto"/>
+<node id="harrisonford"/>
+<node id="2aprile"/>
+<node id="eteropigri"/>
 <node id="pumaseléctricos"/>
-<node id="libero"/>
-<node id="sicily"/>
-<node id="7ottobre"/>
+<node id="pd"/>
+<node id="ॐ_ह्रीं_क्लीं_कात्यायने_नमः"/>
+<node id="vecchiaia"/>
+<node id="gretagate2019"/>
+<node id="sardineny"/>
+<node id="anf"/>
+<node id="falseflag"/>
+<node id="15novembre"/>
+<node id="30novembre"/>
 <node id="bolivia"/>
-<node id="matera"/>
-<node id="journalistik"/>
-<node id="the100"/>
-<node id="russie"/>
-<node id="autostrade"/>
-<node id="spoe"/>
-<node id="29settembre"/>
+<node id="protectcongofauna_flora"/>
+<node id="7ottobre"/>
+<node id="fridays"/>
+<node id="thebuxwahaforest"/>
+<node id="клімат"/>
+<node id="sindacati"/>
+<node id="tienistretto"/>
+<node id="middelbarescholen"/>
+<node id="aerospace"/>
+<node id="forever"/>
+<node id="guerra"/>
+<node id="farcelamai"/>
+<node id="tabianchitz"/>
+<node id="scuole"/>
+<node id="esclavagistes"/>
+<node id="noshoppingwithnoplanet"/>
+<node id="nelmondo"/>
+<node id="محيط_زيست"/>
+<node id="rai3"/>
+<node id="giustiziasociale"/>
+<node id="streaming"/>
+<node id="libriperilfuturo"/>
+<node id="canadavotes"/>
+<node id="starwars"/>
+<node id="meloni"/>
+<node id="decretoclima"/>
+<node id="fridayforfuturepadova"/>
+<node id="ragazze"/>
+<node id="altiplano"/>
+<node id="lfdc"/>
+<node id="acquaalta"/>
+<node id="santori"/>
+<node id="eeuu"/>
+<node id="mafia"/>
+<node id="climateactionng"/>
+<node id="larepubblica"/>
+<node id="18aprile"/>
+<node id="canadaelection"/>
+<node id="earthfirst"/>
+<node id="allevamenti"/>
+<node id="सुप्रभात"/>
+<node id="turtle"/>
+<node id="beautiful"/>
+<node id="rmdetodos"/>
+<node id="iusculturae"/>
+<node id="hamburger"/>
+<node id="mantova"/>
 <node id="cambiamenticlimatici"/>
-<node id="cnbc"/>
-<node id="senzaparole"/>
-<node id="pitita"/>
-<edge source="europaverde" target="27settembre">
+<node id="boliviano"/>
+<node id="lgbt"/>
+<node id="bosques"/>
+<node id="museichehannostoffa"/>
+<node id="relevant"/>
+<node id="concessioni"/>
+<node id="allocate4cycling"/>
+<node id="roma"/>
+<node id="usb"/>
+<node id="greenitalia2019"/>
+<node id="russie"/>
+<node id="piazzasangiovanni"/>
+<node id="goodnight"/>
+<node id="desafíotierra"/>
+<node id="tantacazz"/>
+<node id="attentato"/>
+<node id="xrcork"/>
+<node id="27aprile"/>
+<node id="ansa"/>
+<node id="1pour25"/>
+<node id="cialtrone"/>
+<node id="modem"/>
+<node id="blackexcellence"/>
+<node id="bibbiano"/>
+<node id="poraccitudine"/>
+<node id="gretaeffect"/>
+<node id="sostenibilidad"/>
+<node id="pontemorandi"/>
+<node id="the100"/>
+<node id="climatesolution"/>
+<node id="italiaviva"/>
+<node id="bp"/>
+<node id="fridaysforfurture"/>
+<node id="goals"/>
+<node id="sardine"/>
+<node id="share"/>
+<node id="dellutri"/>
+<node id="applauso"/>
+<node id="último"/>
+<node id="noplasticwaste"/>
+<node id="inclusió"/>
+<node id="tea"/>
+<node id="draw"/>
+<node id="cuneo"/>
+<node id="luciobattisti"/>
+<node id="criminelsécologistes"/>
+<node id="houseoflords"/>
+<node id="quartiervertchallenge"/>
+<node id="agi"/>
+<node id="gazprom"/>
+<node id="eleccionesalemania"/>
+<node id="islam"/>
+<node id="climatechane"/>
+<node id="bolzano"/>
+<node id="climatestrikeweek_1"/>
+<node id="антикапіталізм"/>
+<node id="fr"/>
+<node id="respirare"/>
+<node id="jugendklimagipfel"/>
+<node id="italiashock"/>
+<node id="prescrizione"/>
+<node id="stopfastfashion"/>
+<node id="londonbridge"/>
+<node id="trivelle"/>
+<node id="veganukraine"/>
+<node id="lavoro"/>
+<node id="1988massacre"/>
+<node id="amazonfire"/>
+<node id="helpme"/>
+<node id="milan"/>
+<node id="amarone"/>
+<node id="bruttafine"/>
+<node id="journalistik"/>
+<node id="teamestimzione"/>
+<node id="ondaverde"/>
+<node id="maltemporoma"/>
+<node id="lipogiro"/>
+<node id="ecologismo"/>
+<node id="valpolicella"/>
+<node id="libertà"/>
+<node id="foggia"/>
+<node id="manifestazione"/>
+<node id="fridayforfutureyouthstrikers"/>
+<node id="huiledepalme"/>
+<node id="schoolstrikeforclimatestrike"/>
+<node id="plastikmüll"/>
+<node id="yasuní"/>
+<node id="massmedia"/>
+<node id="bellissimi"/>
+<node id="libero"/>
+<node id="mausgerutscht"/>
+<node id="alimentazione"/>
+<node id="جمعه_ها_برای_اینده"/>
+<node id="sicily"/>
+<node id="netzstasi"/>
+<node id="altamarea"/>
+<node id="ragazzi"/>
+<node id="presidente"/>
+<node id="saviano"/>
+<node id="6000sardine"/>
+<node id="aviationlovers"/>
+<node id="fridayforfuture"/>
+<node id="iiff"/>
+<node id="radioonlinecolombia"/>
+<node id="carbonfreetransport"/>
+<node id="mes"/>
+<node id="lega"/>
+<node id="14novembre"/>
+<node id="draghi"/>
+<node id="gerusalemme"/>
+<node id="avgeeks"/>
+<node id="art"/>
+<node id="don"/>
+<node id="savecongoforest_fauna_flora"/>
+<node id="valdiviacl"/>
+<node id="stories"/>
+<node id="medioevo"/>
+<node id="bushfire"/>
+<node id="greenhousegas"/>
+<node id="quota100"/>
+<node id="fashion"/>
+<node id="cambiaeninonilclima"/>
+<node id="annabelle"/>
+<node id="lagazzettadelpennuto"/>
+<node id="buongiornoatutti"/>
+<node id="carabinieri"/>
+<node id="hypocrisie"/>
+<node id="ikea"/>
+<node id="sosbolivia"/>
+<node id="philisophy"/>
+<node id="ventaglidiparole"/>
+<node id="design"/>
+<node id="forpeople"/>
+<node id="rassegnastampa"/>
+<node id="sicilia"/>
+<node id="coerenzazero"/>
+<node id="iotalove"/>
+<node id="rinnovabili"/>
+<node id="studio24"/>
+<node id="airlines"/>
+<node id="aò"/>
+<node id="auma2019"/>
+<node id="transizione"/>
+<node id="flyingcars"/>
+<node id="lgbtq"/>
+<node id="lesen"/>
+<node id="fridayfordonkeys"/>
+<node id="desafíoplástico"/>
+<node id="total"/>
+<node id="catania"/>
+<node id="25settembre"/>
+<node id="debenedetti"/>
+<node id="sonounagretina"/>
+<node id="patrioxy"/>
+<node id="avgeek"/>
+<node id="wirtschaftwähltklimaschutz"/>
+<node id="anticapitalism"/>
+<node id="climateactionweek"/>
+<node id="linzforfuture"/>
+<node id="जयश्रीराम"/>
+<node id="survivors"/>
+<node id="9ottobre"/>
+<node id="salute"/>
+<node id="coralreef"/>
+<node id="lrem"/>
+<node id="forclimate"/>
+<node id="amnestyindia"/>
+<node id="museumforfuture"/>
+<node id="ipocriti"/>
+<node id="jacopofo"/>
+<node id="unterirdischen"/>
+<node id="congoforest"/>
+<node id="climatedebate"/>
+<node id="in80giorni"/>
+<node id="raggi"/>
+<node id="cluster"/>
+<edge source="carbonemissions" target="fridayforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="carbonemissions" target="edo">
   <data key="d0">1</data>
 </edge>
-<edge source="europaverde" target="milan">
+<edge source="carbonemissions" target="rapidreduction2030">
   <data key="d0">1</data>
 </edge>
-<edge source="goals" target="clima">
+<edge source="carbonemissions" target="climatenow">
   <data key="d0">1</data>
 </edge>
-<edge source="museichehannostoffa" target="30novembre">
+<edge source="carbonemissions" target="bushfire">
   <data key="d0">1</data>
 </edge>
-<edge source="clima" target="eni">
+<edge source="foto" target="fridayforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="foto" target="clima">
+  <data key="d0">2</data>
+</edge>
+<edge source="egitto" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="egitto" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="egitto" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="egitto" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="narmadajayanti" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="narmadajayanti" target="narmada">
+  <data key="d0">1</data>
+</edge>
+<edge source="migranti" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="migranti" target="lgbt">
+  <data key="d0">1</data>
+</edge>
+<edge source="migranti" target="islam">
+  <data key="d0">1</data>
+</edge>
+<edge source="migranti" target="massmedia">
+  <data key="d0">1</data>
+</edge>
+<edge source="firedrillfridays" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="nocomment" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="24horascentral" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervistacapitale" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervistacapitale" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervistacapitale" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervistacapitale" target="m5s">
+  <data key="d0">1</data>
+</edge>
+<edge source="intervistacapitale" target="governo">
+  <data key="d0">1</data>
+</edge>
+<edge source="chefinaccia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ॐ_गणपतये_नमः" target="सुप्रभात">
+  <data key="d0">4</data>
+</edge>
+<edge source="ॐ_गणपतये_नमः" target="ॐ_ह्रीं_क्लीं_कात्यायने_नमः">
+  <data key="d0">2</data>
+</edge>
+<edge source="media" target="climatehoax">
+  <data key="d0">1</data>
+</edge>
+<edge source="media" target="journalistik">
+  <data key="d0">1</data>
+</edge>
+<edge source="fightclimatecrisis" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fightclimatecrisis" target="conservefuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="wikigap" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="wikigap" target="feministfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="changeclimatechange" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="beautiful">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="roma">
+  <data key="d0">2</data>
+</edge>
+<edge source="governo" target="nyc">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="art">
+  <data key="d0">3</data>
+</edge>
+<edge source="governo" target="alimentazione">
+  <data key="d0">2</data>
+</edge>
+<edge source="governo" target="italiaviva">
+  <data key="d0">3</data>
+</edge>
+<edge source="governo" target="m5s">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="mantova">
+  <data key="d0">3</data>
+</edge>
+<edge source="governo" target="design">
+  <data key="d0">3</data>
+</edge>
+<edge source="governo" target="fashion">
+  <data key="d0">3</data>
+</edge>
+<edge source="governo" target="valpolicella">
+  <data key="d0">2</data>
+</edge>
+<edge source="governo" target="amarone">
+  <data key="d0">2</data>
+</edge>
+<edge source="governo" target="stories">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="relevant">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="visual">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="philisophy">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="forever">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="jeans">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="pd">
+  <data key="d0">1</data>
+</edge>
+<edge source="governo" target="raggi">
+  <data key="d0">1</data>
+</edge>
+<edge source="lgbtqproud" target="lgbtq">
+  <data key="d0">1</data>
+</edge>
+<edge source="terrorismo" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="terrorismo" target="londonbridge">
+  <data key="d0">1</data>
+</edge>
+<edge source="terrorismo" target="mes">
+  <data key="d0">1</data>
+</edge>
+<edge source="terrorismo" target="ikea">
+  <data key="d0">1</data>
+</edge>
+<edge source="terrorismo" target="lavoro">
+  <data key="d0">1</data>
+</edge>
+<edge source="ilfuturocheserve" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ilfuturocheserve" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="ilfuturocheserve" target="aò">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="clima">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="salvini">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="veneto">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="acquaalta">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="altamarea">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="mondialidisci">
+  <data key="d0">1</data>
+</edge>
+<edge source="zaia" target="lega">
+  <data key="d0">1</data>
+</edge>
+<edge source="feministfriday" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimatstreik" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="klimatstreik" target="tabianchitz">
+  <data key="d0">1</data>
+</edge>
+<edge source="gioventùbruciata" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="gioventùbruciata" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="gioventùbruciata" target="salute">
+  <data key="d0">1</data>
+</edge>
+<edge source="gioventùbruciata" target="vecchiaia">
+  <data key="d0">1</data>
+</edge>
+<edge source="gioventùbruciata" target="bruttafine">
+  <data key="d0">1</data>
+</edge>
+<edge source="nhs" target="climatedebate">
+  <data key="d0">1</data>
+</edge>
+<edge source="actontheplanet" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="actontheplanet" target="congoforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="actontheplanet" target="actonthefuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="actontheplanet" target="protectcongofauna_flora">
+  <data key="d0">1</data>
+</edge>
+<edge source="nrw19" target="fridayforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="canadaelection2019" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="canadaelection2019" target="canadavotes2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="canadaelection2019" target="canadavotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="canadaelection2019" target="canadaelection">
+  <data key="d0">1</data>
+</edge>
+<edge source="veganabolitionist" target="fridayforfuture">
+  <data key="d0">4</data>
+</edge>
+<edge source="veganabolitionist" target="veganukraine">
+  <data key="d0">1</data>
+</edge>
+<edge source="veganabolitionist" target="earthfirst">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="greenhousegas">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="climatesolution">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="climatenow">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="bushfire">
+  <data key="d0">1</data>
+</edge>
+<edge source="edo" target="survivors">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2emissions" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="co2emissions" target="stoinvecchiando">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalwelfare" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="grillo" target="m5s">
+  <data key="d0">1</data>
+</edge>
+<edge source="politica" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="politica" target="9ottobre">
+  <data key="d0">1</data>
+</edge>
+<edge source="politica" target="25settembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="boycottamazon" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidreduction2030" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidreduction2030" target="greenhousegas">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidreduction2030" target="climatesolution">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidreduction2030" target="climatenow">
+  <data key="d0">1</data>
+</edge>
+<edge source="rapidreduction2030" target="survivors">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatenow" target="greenhousegas">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatenow" target="climatesolution">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatenow" target="bushfire">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatenow" target="survivors">
+  <data key="d0">1</data>
+</edge>
+<edge source="squali" target="sardine">
+  <data key="d0">2</data>
+</edge>
+<edge source="squali" target="salvini">
+  <data key="d0">1</data>
+</edge>
+<edge source="squali" target="movimento">
+  <data key="d0">1</data>
+</edge>
+<edge source="squali" target="m5s">
+  <data key="d0">1</data>
+</edge>
+<edge source="segre" target="sardine">
+  <data key="d0">1</data>
+</edge>
+<edge source="segre" target="piazzasangiovanni">
+  <data key="d0">1</data>
+</edge>
+<edge source="iussoli" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="iussoli" target="pd">
+  <data key="d0">1</data>
+</edge>
+<edge source="iussoli" target="iusculturae">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="fridaysforfurture">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="climateactionweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="catania">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="sicilia">
+  <data key="d0">1</data>
+</edge>
+<edge source="antudo" target="sicily">
+  <data key="d0">1</data>
+</edge>
+<edge source="nibras" target="lgbt">
+  <data key="d0">1</data>
+</edge>
+<edge source="nibras" target="gerusalemme">
+  <data key="d0">1</data>
+</edge>
+<edge source="austero" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="austero" target="lipogiro">
+  <data key="d0">1</data>
+</edge>
+<edge source="nwo" target="climatehoax">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="15novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="criminelsécologistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="esclavagistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="modem">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="lr" target="1pour25">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="starwars">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="bolivia">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="altiplano">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="bosques">
+  <data key="d0">1</data>
+</edge>
+<edge source="chiquitania" target="boliviano">
+  <data key="d0">1</data>
+</edge>
+<edge source="schuldumkehr" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ecosistema" target="sostenibilidad">
+  <data key="d0">1</data>
+</edge>
+<edge source="sedicenni" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="sedicenni" target="pd">
+  <data key="d0">1</data>
+</edge>
+<edge source="sedicenni" target="iusculturae">
+  <data key="d0">1</data>
+</edge>
+<edge source="gretine" target="sciopero">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateschool" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateschool" target="fridayforfutureyouthstrikers">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateschool" target="don">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatehoax" target="fridayforfuture">
+  <data key="d0">7</data>
+</edge>
+<edge source="climatehoax" target="journalistik">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatehoax" target="falseflag">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatehoax" target="debenedetti">
+  <data key="d0">1</data>
+</edge>
+<edge source="nonjelapossofa" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="flashmob" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="f35" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="f35" target="bombeatomiche">
+  <data key="d0">1</data>
+</edge>
+<edge source="auseinandersetzung" target="fridays">
+  <data key="d0">1</data>
+</edge>
+<edge source="auseinandersetzung" target="gretagate2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="voicefortheplanet" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="wallstreet" target="nyc">
+  <data key="d0">1</data>
+</edge>
+<edge source="conservefuture" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="28settembre" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="28settembre" target="cambiamenticlimatici">
+  <data key="d0">1</data>
+</edge>
+<edge source="28settembre" target="bibbiano">
+  <data key="d0">1</data>
+</edge>
+<edge source="liberalizzazioni" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="liberalizzazioni" target="tpl">
+  <data key="d0">1</data>
+</edge>
+<edge source="nonfossiliziamoci" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="aegreenivory" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="siex" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="lattimoprima" target="fridayforfuture">
+  <data key="d0">7</data>
+</edge>
+<edge source="lattimoprima" target="casalettori">
+  <data key="d0">7</data>
+</edge>
+<edge source="sensation" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="sensation" target="fridaysforfurture">
+  <data key="d0">1</data>
+</edge>
+<edge source="potomac" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="potomac" target="eeuu">
+  <data key="d0">1</data>
+</edge>
+<edge source="potomac" target="yasuní">
+  <data key="d0">1</data>
+</edge>
+<edge source="barbaraalberti" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="barbaraalberti" target="rai3">
+  <data key="d0">1</data>
+</edge>
+<edge source="culturalheritage" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="culturalheritage" target="carabinieri">
+  <data key="d0">1</data>
+</edge>
+<edge source="گرتا_تونبرگ" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rivoluzione" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rivoluzione" target="lfdc">
   <data key="d0">1</data>
 </edge>
 <edge source="clima" target="fridayforfuture">
   <data key="d0">13</data>
 </edge>
+<edge source="clima" target="fridays">
+  <data key="d0">2</data>
+</edge>
 <edge source="clima" target="rinnovabili">
+  <data key="d0">1</data>
+</edge>
+<edge source="clima" target="2aprile">
   <data key="d0">1</data>
 </edge>
 <edge source="clima" target="guerra">
   <data key="d0">1</data>
 </edge>
-<edge source="clima" target="ricerca">
+<edge source="clima" target="biani">
   <data key="d0">1</data>
 </edge>
-<edge source="clima" target="biani">
+<edge source="clima" target="eleccionesalemania">
+  <data key="d0">1</data>
+</edge>
+<edge source="clima" target="ansa">
+  <data key="d0">9</data>
+</edge>
+<edge source="clima" target="sciopero">
   <data key="d0">1</data>
 </edge>
 <edge source="clima" target="tantacazz">
@@ -401,7 +967,13 @@
 <edge source="clima" target="scuole">
   <data key="d0">2</data>
 </edge>
-<edge source="clima" target="squali">
+<edge source="clima" target="salvini">
+  <data key="d0">2</data>
+</edge>
+<edge source="clima" target="santori">
+  <data key="d0">1</data>
+</edge>
+<edge source="clima" target="goals">
   <data key="d0">1</data>
 </edge>
 <edge source="clima" target="mondialidisci">
@@ -410,11 +982,8 @@
 <edge source="clima" target="climateactionweek">
   <data key="d0">2</data>
 </edge>
-<edge source="clima" target="29settembre">
+<edge source="clima" target="foggia">
   <data key="d0">1</data>
-</edge>
-<edge source="clima" target="foto">
-  <data key="d0">2</data>
 </edge>
 <edge source="clima" target="meloni">
   <data key="d0">1</data>
@@ -422,448 +991,40 @@
 <edge source="clima" target="18aprile">
   <data key="d0">1</data>
 </edge>
-<edge source="eden" target="fridayforfuture">
+<edge source="clima" target="27aprile">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="fridayforfuture">
+<edge source="maltempo" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="aviation">
+<edge source="maltempo" target="maltemporoma">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="aerospace">
+<edge source="movimento" target="sardine">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="avgeeks">
+<edge source="movimento" target="salvini">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="airlines">
+<edge source="movimento" target="santori">
   <data key="d0">1</data>
 </edge>
-<edge source="aviationdaily" target="aviationlovers">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="кліматичнийстрайк">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="клімат">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="кліматичнізміни">
-  <data key="d0">1</data>
-</edge>
-<edge source="антикапіталізм" target="anticapitalism">
-  <data key="d0">1</data>
-</edge>
-<edge source="youthunited" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="raggi" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="raggi" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="raggi" target="italiaviva">
-  <data key="d0">1</data>
-</edge>
-<edge source="raggi" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="raggi" target="twitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="flashmob" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ikea" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ikea" target="conte">
-  <data key="d0">1</data>
-</edge>
-<edge source="ikea" target="londonbridge">
-  <data key="d0">1</data>
-</edge>
-<edge source="ikea" target="lavoro">
-  <data key="d0">1</data>
-</edge>
-<edge source="totesmoutv3" target="asperger">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="cambiamentoclimatico" target="migrantiambientali">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="italiaviva">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="trivelle">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="futuro">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="matera">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="salveni">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="feltri">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="libero">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="acquaalta">
-  <data key="d0">1</data>
-</edge>
-<edge source="cambiamentoclimatico" target="acquagranda">
-  <data key="d0">1</data>
-</edge>
-<edge source="zeitzumumdenken" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="acquagranda" target="feltri">
-  <data key="d0">1</data>
-</edge>
-<edge source="acquagranda" target="libero">
-  <data key="d0">1</data>
-</edge>
-<edge source="acquagranda" target="14novembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="acquagranda" target="acquaalta">
-  <data key="d0">1</data>
-</edge>
-<edge source="ragazzi" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ragazzi" target="respirare">
-  <data key="d0">1</data>
-</edge>
-<edge source="notav" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="f35" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="f35" target="guerra">
-  <data key="d0">1</data>
-</edge>
-<edge source="f35" target="bombeatomiche">
-  <data key="d0">1</data>
-</edge>
-<edge source="ricerca" target="guerra">
-  <data key="d0">1</data>
-</edge>
-<edge source="masks" target="distance">
-  <data key="d0">1</data>
-</edge>
-<edge source="pranger" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="feltri" target="libero">
-  <data key="d0">1</data>
-</edge>
-<edge source="feltri" target="14novembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="feltri" target="stornarella">
-  <data key="d0">1</data>
-</edge>
-<edge source="culturalheritage" target="newyork">
-  <data key="d0">1</data>
-</edge>
-<edge source="culturalheritage" target="carabinieri">
-  <data key="d0">1</data>
-</edge>
-<edge source="sedicenni" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="zichichi" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="desafíotierra" target="fridayforfuture">
+<edge source="m5s" target="fridayforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="desafíotierra" target="desafíoplástico">
-  <data key="d0">2</data>
-</edge>
-<edge source="merendine" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ticketsrationnementcarbone" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="ticketsrationnementcarbone" target="modem">
-  <data key="d0">1</data>
-</edge>
-<edge source="ticketsrationnementcarbone" target="lr">
-  <data key="d0">1</data>
-</edge>
-<edge source="bp" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahora" target="jovenesporelclima">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahora" target="friday4future">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahora" target="himnonacional">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahora" target="vivaelplaneta">
-  <data key="d0">1</data>
-</edge>
-<edge source="ahora" target="salvemoselplanetaahora">
-  <data key="d0">1</data>
-</edge>
-<edge source="greenhousegas" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="greenhousegas" target="climatesolution">
-  <data key="d0">2</data>
-</edge>
-<edge source="greenhousegas" target="carbonemissions">
-  <data key="d0">2</data>
-</edge>
-<edge source="greenhousegas" target="rapidreduction2030">
-  <data key="d0">1</data>
-</edge>
-<edge source="greenhousegas" target="survivors">
-  <data key="d0">1</data>
-</edge>
-<edge source="earthfirst" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="earthfirst" target="veganukraine">
-  <data key="d0">1</data>
-</edge>
-<edge source="poesiaperlasera" target="29settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="poesiaperlasera" target="radiomaria">
-  <data key="d0">1</data>
-</edge>
-<edge source="poesiaperlasera" target="luciobattisti">
-  <data key="d0">1</data>
-</edge>
-<edge source="poesiaperlasera" target="streaming">
-  <data key="d0">1</data>
-</edge>
-<edge source="lesen" target="pisa">
-  <data key="d0">1</data>
-</edge>
-<edge source="lipogiro" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="lipogiro" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="lipogiro" target="lipogiranti">
-  <data key="d0">1</data>
-</edge>
-<edge source="lipogiro" target="emergere">
-  <data key="d0">1</data>
-</edge>
-<edge source="lipogiro" target="austero">
-  <data key="d0">1</data>
-</edge>
-<edge source="globalism" target="msm">
-  <data key="d0">1</data>
-</edge>
-<edge source="globalism" target="media">
-  <data key="d0">1</data>
-</edge>
-<edge source="globalism" target="nwo">
-  <data key="d0">1</data>
-</edge>
-<edge source="globalism" target="propaganda">
-  <data key="d0">1</data>
-</edge>
-<edge source="globalism" target="journalistik">
-  <data key="d0">1</data>
-</edge>
-<edge source="sicilia" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="sicilia" target="climateactionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="sicilia" target="sicily">
-  <data key="d0">1</data>
-</edge>
-<edge source="sicilia" target="trinacria">
-  <data key="d0">1</data>
-</edge>
-<edge source="sicilia" target="antudo">
-  <data key="d0">1</data>
-</edge>
-<edge source="conte" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="conte" target="nazioniunite">
-  <data key="d0">1</data>
-</edge>
-<edge source="conte" target="inquinamento">
-  <data key="d0">1</data>
-</edge>
-<edge source="feministfriday" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="feministfriday" target="wikigap">
-  <data key="d0">1</data>
-</edge>
-<edge source="forclimate" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="सुप्रभात" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="सुप्रभात" target="ॐ_नमः_शिवाय">
-  <data key="d0">4</data>
-</edge>
-<edge source="londonbridge" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="londonbridge" target="lavoro">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="italiaviva" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="circulareconomy">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="roma">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="twitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="trivelle">
-  <data key="d0">6</data>
-</edge>
-<edge source="italiaviva" target="tantacazz">
-  <data key="d0">6</data>
-</edge>
-<edge source="italiaviva" target="basilicata">
-  <data key="d0">3</data>
-</edge>
-<edge source="italiaviva" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="bellanova">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="salute">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="cessodestra">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="autostrade">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="concessioni">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="pontemorandi">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="futuro">
-  <data key="d0">3</data>
-</edge>
-<edge source="italiaviva" target="gioventùbruciata">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="vecchiaia">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="armi">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="egitto">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="matera">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="salveni">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="fashion">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="sport">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="fashionweek">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="governo">
-  <data key="d0">3</data>
-</edge>
-<edge source="italiaviva" target="valpolicella">
-  <data key="d0">2</data>
-</edge>
-<edge source="italiaviva" target="relevant">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiaviva" target="chef">
-  <data key="d0">1</data>
-</edge>
-<edge source="firedrillfridays" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="wahl19" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="wahl19" target="nrw19">
-  <data key="d0">1</data>
-</edge>
-<edge source="wahl19" target="spoe">
-  <data key="d0">1</data>
-</edge>
-<edge source="nonjelapossofa" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="карпати" target="кліматичнийстрайк">
+<edge source="m5s" target="roma">
   <data key="d0">1</data>
 </edge>
-<edge source="карпати" target="клімат">
+<edge source="m5s" target="italiaviva">
   <data key="d0">1</data>
 </edge>
-<edge source="карпати" target="кліматичнізміни">
+<edge source="m5s" target="salvini">
   <data key="d0">1</data>
 </edge>
-<edge source="карпати" target="anticapitalism">
+<edge source="m5s" target="santori">
   <data key="d0">1</data>
 </edge>
-<edge source="sala" target="fridayforfuture">
+<edge source="m5s" target="pd">
   <data key="d0">1</data>
 </edge>
 <edge source="bombeatomiche" target="fridayforfuture">
@@ -872,70 +1033,313 @@
 <edge source="bombeatomiche" target="guerra">
   <data key="d0">1</data>
 </edge>
-<edge source="respirare" target="fridayforfuture">
+<edge source="無印良品" target="circulareconomy">
   <data key="d0">1</data>
 </edge>
-<edge source="debenedetti" target="climatehoax">
+<edge source="無印良品" target="nyc">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="mantova">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="design">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="amarone">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="visual">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="philisophy">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="forever">
+  <data key="d0">1</data>
+</edge>
+<edge source="無印良品" target="jeans">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="15novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="criminelsécologistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="esclavagistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="1for25" target="1pour25">
+  <data key="d0">1</data>
+</edge>
+<edge source="viggiano" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="viggiano" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="viggiano" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="viggiano" target="salute">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="casalettori">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="ventaglidiparole">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="radiomaria">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="luciobattisti">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonadomenica" target="streaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="azzolinabocciata" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforpast" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="bts" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="iammadagascar" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="renzeni" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="renzeni" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="renzeni" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="sciopero" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="sciopero" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="sciopero" target="ansa">
+  <data key="d0">1</data>
+</edge>
+<edge source="sciopero" target="medioevo">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulareconomy" target="beautiful">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulareconomy" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulareconomy" target="nyc">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulareconomy" target="art">
+  <data key="d0">3</data>
+</edge>
+<edge source="circulareconomy" target="alimentazione">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulareconomy" target="italiaviva">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulareconomy" target="mantova">
+  <data key="d0">3</data>
+</edge>
+<edge source="circulareconomy" target="design">
+  <data key="d0">3</data>
+</edge>
+<edge source="circulareconomy" target="fashion">
+  <data key="d0">3</data>
+</edge>
+<edge source="circulareconomy" target="valpolicella">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulareconomy" target="amarone">
+  <data key="d0">2</data>
+</edge>
+<edge source="circulareconomy" target="visual">
+  <data key="d0">1</data>
+</edge>
+<edge source="circulareconomy" target="forever">
   <data key="d0">1</data>
 </edge>
 <edge source="vagapelclimabarcelona" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="goodnight" target="fridayforfuture">
+<edge source="visual" target="nyc">
   <data key="d0">1</data>
 </edge>
-<edge source="gretine" target="gretathurnberg">
+<edge source="visual" target="art">
   <data key="d0">1</data>
 </edge>
-<edge source="gretine" target="sciopero">
+<edge source="visual" target="mantova">
   <data key="d0">1</data>
 </edge>
-<edge source="coerenzazero" target="fridayforfuture">
+<edge source="visual" target="design">
   <data key="d0">1</data>
 </edge>
-<edge source="coerenzazero" target="27settembre">
+<edge source="visual" target="forever">
   <data key="d0">1</data>
 </edge>
-<edge source="himnonacional" target="jovenesporelclima">
+<edge source="visual" target="jeans">
   <data key="d0">1</data>
 </edge>
-<edge source="himnonacional" target="friday4future">
+<edge source="jeans" target="nyc">
   <data key="d0">1</data>
 </edge>
-<edge source="himnonacional" target="vivaelplaneta">
+<edge source="jeans" target="art">
   <data key="d0">1</data>
 </edge>
-<edge source="radioonlinecolombia" target="fridayforfuture">
+<edge source="jeans" target="mantova">
   <data key="d0">1</data>
 </edge>
-<edge source="radioonlinecolombia" target="ekoradio">
+<edge source="jeans" target="design">
   <data key="d0">1</data>
 </edge>
-<edge source="radioonlinecolombia" target="hefroshe">
+<edge source="jeans" target="fashion">
   <data key="d0">1</data>
 </edge>
-<edge source="cumbreporlaamazonía" target="onu">
+<edge source="jeans" target="amarone">
   <data key="d0">1</data>
 </edge>
-<edge source="cumbreporlaamazonía" target="bolivia">
+<edge source="jeans" target="philisophy">
   <data key="d0">1</data>
 </edge>
-<edge source="media" target="climatehoax">
+<edge source="jeans" target="forever">
   <data key="d0">1</data>
 </edge>
-<edge source="media" target="msm">
+<edge source="chavez" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="media" target="nwo">
+<edge source="puertonatales" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="media" target="propaganda">
+<edge source="mondialidisci" target="tantacazz">
   <data key="d0">1</data>
 </edge>
-<edge source="media" target="journalistik">
+<edge source="mondialidisci" target="salvini">
   <data key="d0">1</data>
 </edge>
-<edge source="savecongoforest_fauna_flora" target="fridayforfuture">
+<edge source="mondialidisci" target="lega">
+  <data key="d0">1</data>
+</edge>
+<edge source="forzamafia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="forzamafia" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="forzamafia" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="forzamafia" target="dellutri">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellanova" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellanova" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellanova" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellanova" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellanova" target="salute">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="casalettori">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="ventaglidiparole">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="luciobattisti">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="streaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="radiomaria" target="farcelamai">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="mantova">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="design">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="amarone">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="philisophy">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="forever">
+  <data key="d0">1</data>
+</edge>
+<edge source="nyc" target="gretaeffect">
+  <data key="d0">1</data>
+</edge>
+<edge source="tpl" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="tpl" target="sindacati">
+  <data key="d0">1</data>
+</edge>
+<edge source="tpl" target="applauso">
+  <data key="d0">1</data>
+</edge>
+<edge source="actonthefuture" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="actonthefuture" target="congoforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="actonthefuture" target="protectcongofauna_flora">
+  <data key="d0">1</data>
+</edge>
+<edge source="freeiran" target="houseoflords">
+  <data key="d0">1</data>
+</edge>
+<edge source="freeiran" target="1988massacre">
+  <data key="d0">1</data>
+</edge>
+<edge source="nextgenerationeu" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
 <edge source="canadavotes2019" target="fridayforfuture">
@@ -947,1084 +1351,868 @@
 <edge source="canadavotes2019" target="canadaelection">
   <data key="d0">1</data>
 </edge>
-<edge source="luciobattisti" target="29settembre">
+<edge source="recoveryfund" target="studio24">
   <data key="d0">1</data>
 </edge>
-<edge source="luciobattisti" target="ventaglidiparole">
-  <data key="d0">1</data>
-</edge>
-<edge source="luciobattisti" target="radiomaria">
-  <data key="d0">1</data>
-</edge>
-<edge source="luciobattisti" target="streaming">
-  <data key="d0">1</data>
-</edge>
-<edge source="sardineny" target="climatedebate">
-  <data key="d0">1</data>
-</edge>
-<edge source="sardineny" target="6000sardine">
-  <data key="d0">1</data>
-</edge>
-<edge source="vivaelplaneta" target="jovenesporelclima">
-  <data key="d0">1</data>
-</edge>
-<edge source="vivaelplaneta" target="friday4future">
-  <data key="d0">1</data>
-</edge>
-<edge source="vivaelplaneta" target="salvemoselplanetaahora">
-  <data key="d0">1</data>
-</edge>
-<edge source="gruber" target="gretathumberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="falseflag" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="manifestazione" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="lariachetirala7" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="tea" target="gretathumberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="tea" target="autismo">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateactionng" target="letsdomore">
-  <data key="d0">1</data>
-</edge>
-<edge source="maltemporoma" target="maltempo">
-  <data key="d0">1</data>
-</edge>
-<edge source="illustration" target="mediterraneansea">
-  <data key="d0">1</data>
-</edge>
-<edge source="illustration" target="digitalart">
-  <data key="d0">1</data>
-</edge>
-<edge source="educazionecivica" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="educazionecivica" target="sciopero">
-  <data key="d0">1</data>
-</edge>
-<edge source="socialinclusion" target="allocate4cycling">
-  <data key="d0">1</data>
-</edge>
-<edge source="undantheun" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="25settembre" target="politica">
-  <data key="d0">1</data>
-</edge>
-<edge source="sketchnotes" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="recoveryfund" target="nextgenerationeu">
-  <data key="d0">1</data>
-</edge>
-<edge source="anf" target="bolivia">
-  <data key="d0">1</data>
-</edge>
-<edge source="patrioxy" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="patrioxy" target="kebetu">
-  <data key="d0">2</data>
-</edge>
-<edge source="patrioxy" target="quartiervertchallenge">
-  <data key="d0">2</data>
-</edge>
-<edge source="coast" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="presidente" target="giustiziasociale">
-  <data key="d0">1</data>
-</edge>
-<edge source="presidente" target="futuro">
-  <data key="d0">1</data>
-</edge>
-<edge source="elxb43" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="gretathurnberg" target="fridayforfuture">
-  <data key="d0">20</data>
-</edge>
-<edge source="gretathurnberg" target="sciopero">
-  <data key="d0">2</data>
-</edge>
-<edge source="gretathurnberg" target="28settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="gretathurnberg" target="ventotto09fr">
-  <data key="d0">1</data>
-</edge>
-<edge source="gretathurnberg" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="gretathurnberg" target="bolzano">
-  <data key="d0">1</data>
-</edge>
-<edge source="conakry" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="yasuní" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="yasuní" target="eeuu">
-  <data key="d0">1</data>
-</edge>
-<edge source="modem" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="modem" target="lrem">
-  <data key="d0">1</data>
-</edge>
-<edge source="modem" target="lr">
-  <data key="d0">1</data>
-</edge>
-<edge source="modem" target="1for25">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="circulareconomy">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="design">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="fashion">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="sport">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="gif" target="philisophy">
-  <data key="d0">1</data>
+<edge source="casalettori" target="fridayforfuture">
+  <data key="d0">6</data>
 </edge>
-<edge source="gif" target="東京">
+<edge source="casalettori" target="nelmondo">
   <data key="d0">1</data>
 </edge>
-<edge source="gif" target="無印良品">
+<edge source="casalettori" target="ventaglidiparole">
   <data key="d0">1</data>
 </edge>
-<edge source="bolzano" target="fridayforfuture">
+<edge source="casalettori" target="streaming">
   <data key="d0">1</data>
-</edge>
-<edge source="onu" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="onu" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="epstein">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="bolivia">
-  <data key="d0">2</data>
-</edge>
-<edge source="onu" target="soschiquitania">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="brun">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="evomorales">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="bosques">
-  <data key="d0">1</data>
-</edge>
-<edge source="onu" target="boliviano">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatedebate" target="6000sardine">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatedebate" target="nhs">
-  <data key="d0">1</data>
-</edge>
-<edge source="iotalove" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="iotalove" target="pihole">
-  <data key="d0">1</data>
-</edge>
-<edge source="wirrettendasklima" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="oceanheroes" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="carabinieri" target="newyork">
-  <data key="d0">1</data>
-</edge>
-<edge source="starwars" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="starwars" target="bolivia">
-  <data key="d0">1</data>
-</edge>
-<edge source="starwars" target="evomorales">
-  <data key="d0">1</data>
-</edge>
-<edge source="starwars" target="bosques">
-  <data key="d0">1</data>
-</edge>
-<edge source="starwars" target="chiquitania">
-  <data key="d0">1</data>
-</edge>
-<edge source="lgbtqpower" target="lgbtqproud">
-  <data key="d0">1</data>
-</edge>
-<edge source="aviation" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="aviation" target="aerospace">
-  <data key="d0">1</data>
-</edge>
-<edge source="aviation" target="avgeeks">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackexcellence" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="salveni" target="trivelle">
-  <data key="d0">1</data>
-</edge>
-<edge source="salveni" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="salveni" target="matera">
-  <data key="d0">1</data>
-</edge>
-<edge source="congoforest" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="poraccitudine" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="poraccitudine" target="ladlmmt">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitter" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitter" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitter" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="stoinvecchiando" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="stoinvecchiando" target="co2emissions">
-  <data key="d0">1</data>
-</edge>
-<edge source="rebellionforlive" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="rebellionforlive" target="shell">
-  <data key="d0">1</data>
-</edge>
-<edge source="rebellionforlive" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="rebellionforlive" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="ladlmmt" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="avgeeks" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="avgeeks" target="aerospace">
-  <data key="d0">1</data>
-</edge>
-<edge source="avgeeks" target="airlines">
-  <data key="d0">1</data>
-</edge>
-<edge source="avgeeks" target="aviationlovers">
-  <data key="d0">1</data>
-</edge>
-<edge source="agi" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="agi" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="lattimoprima" target="fridayforfuture">
-  <data key="d0">7</data>
-</edge>
-<edge source="lattimoprima" target="27settembre">
-  <data key="d0">4</data>
-</edge>
-<edge source="14novembre" target="libero">
-  <data key="d0">1</data>
-</edge>
-<edge source="14novembre" target="acquaalta">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="fridayforfuture">
-  <data key="d0">3</data>
 </edge>
-<edge source="trivelle" target="tantacazz">
+<edge source="salvini" target="fridayforfuture">
   <data key="d0">8</data>
 </edge>
-<edge source="trivelle" target="basilicata">
-  <data key="d0">4</data>
-</edge>
-<edge source="trivelle" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="bellanova">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="salute">
-  <data key="d0">3</data>
-</edge>
-<edge source="trivelle" target="prodottitipici">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="viggiano">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="autostrade">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="concessioni">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="pontemorandi">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="prescrizione">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="futuro">
-  <data key="d0">3</data>
-</edge>
-<edge source="trivelle" target="gioventùbruciata">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="armi">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="egitto">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="matera">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="italiavivadi">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="berlusconi">
-  <data key="d0">1</data>
-</edge>
-<edge source="trivelle" target="carfagna">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff_ukraine" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff_ukraine" target="veganabolitionist">
-  <data key="d0">1</data>
-</edge>
-<edge source="fff_ukraine" target="veganukraine">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessioni" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessioni" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessioni" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessioni" target="cessodestra">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="london">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="fashion">
-  <data key="d0">3</data>
-</edge>
-<edge source="design" target="sport">
-  <data key="d0">3</data>
-</edge>
-<edge source="design" target="calcio">
+<edge source="salvini" target="sardine">
   <data key="d0">2</data>
 </edge>
-<edge source="design" target="fashionweek">
-  <data key="d0">3</data>
-</edge>
-<edge source="design" target="imaginative">
+<edge source="salvini" target="tantacazz">
   <data key="d0">1</data>
 </edge>
-<edge source="design" target="chef">
+<edge source="salvini" target="eteropigri">
   <data key="d0">1</data>
 </edge>
-<edge source="design" target="forever">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="東京">
-  <data key="d0">1</data>
-</edge>
-<edge source="design" target="無印良品">
-  <data key="d0">1</data>
-</edge>
-<edge source="shell" target="eni">
-  <data key="d0">3</data>
-</edge>
-<edge source="shell" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="shell" target="total">
-  <data key="d0">4</data>
-</edge>
-<edge source="shell" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="shell" target="basilicata">
-  <data key="d0">3</data>
-</edge>
-<edge source="shell" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="shell" target="saviano">
-  <data key="d0">1</data>
-</edge>
-<edge source="shell" target="brun">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessione" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessione" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="concessione" target="black">
-  <data key="d0">1</data>
-</edge>
-<edge source="valpolicella" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="valpolicella" target="circulareconomy">
+<edge source="salvini" target="lega">
   <data key="d0">2</data>
 </edge>
-<edge source="valpolicella" target="roma">
+<edge source="salvini" target="cialtrone">
   <data key="d0">1</data>
 </edge>
-<edge source="valpolicella" target="fashion">
+<edge source="salvini" target="meloni">
+  <data key="d0">1</data>
+</edge>
+<edge source="salvini" target="jacopofo">
+  <data key="d0">1</data>
+</edge>
+<edge source="veneto" target="libero">
+  <data key="d0">1</data>
+</edge>
+<edge source="veneto" target="14novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="veneto" target="acquaalta">
+  <data key="d0">1</data>
+</edge>
+<edge source="veneto" target="altamarea">
+  <data key="d0">1</data>
+</edge>
+<edge source="harrisonford" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="harrisonford" target="starwars">
+  <data key="d0">1</data>
+</edge>
+<edge source="harrisonford" target="altiplano">
+  <data key="d0">1</data>
+</edge>
+<edge source="harrisonford" target="boliviano">
+  <data key="d0">1</data>
+</edge>
+<edge source="2aprile" target="rinnovabili">
+  <data key="d0">1</data>
+</edge>
+<edge source="eteropigri" target="sardine">
+  <data key="d0">1</data>
+</edge>
+<edge source="pumaseléctricos" target="bolivia">
+  <data key="d0">1</data>
+</edge>
+<edge source="pd" target="fridayforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="valpolicella" target="calcio">
+<edge source="pd" target="roma">
+  <data key="d0">1</data>
+</edge>
+<edge source="pd" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="pd" target="raggi">
+  <data key="d0">1</data>
+</edge>
+<edge source="ॐ_ह्रीं_क्लीं_कात्यायने_नमः" target="fridayforfuture">
   <data key="d0">2</data>
 </edge>
-<edge source="valpolicella" target="fashionweek">
+<edge source="ॐ_ह्रीं_क्लीं_कात्यायने_नमः" target="जयश्रीराम">
   <data key="d0">2</data>
-</edge>
-<edge source="valpolicella" target="governo">
-  <data key="d0">2</data>
-</edge>
-<edge source="valpolicella" target="imaginative">
-  <data key="d0">1</data>
-</edge>
-<edge source="valpolicella" target="relevant">
-  <data key="d0">1</data>
-</edge>
-<edge source="valpolicella" target="chef">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="futuro">
-  <data key="d0">1</data>
-</edge>
-<edge source="gioventùbruciata" target="vecchiaia">
-  <data key="d0">1</data>
-</edge>
-<edge source="nwo" target="climatehoax">
-  <data key="d0">1</data>
-</edge>
-<edge source="nwo" target="propaganda">
-  <data key="d0">1</data>
-</edge>
-<edge source="nwo" target="journalistik">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="sport">
-  <data key="d0">3</data>
-</edge>
-<edge source="fashion" target="calcio">
-  <data key="d0">2</data>
-</edge>
-<edge source="fashion" target="fashionweek">
-  <data key="d0">3</data>
-</edge>
-<edge source="fashion" target="governo">
-  <data key="d0">3</data>
-</edge>
-<edge source="fashion" target="imaginative">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="relevant">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="chef">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="forever">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="東京">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashion" target="無印良品">
-  <data key="d0">1</data>
-</edge>
-<edge source="無印良品" target="london">
-  <data key="d0">1</data>
-</edge>
-<edge source="無印良品" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="無印良品" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="無印良品" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="無印良品" target="forever">
-  <data key="d0">1</data>
-</edge>
-<edge source="東京" target="sport">
-  <data key="d0">1</data>
-</edge>
-<edge source="東京" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="東京" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="東京" target="forever">
-  <data key="d0">1</data>
-</edge>
-<edge source="austero" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="austero" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="austero" target="lipogiranti">
-  <data key="d0">1</data>
-</edge>
-<edge source="austero" target="emergere">
-  <data key="d0">1</data>
-</edge>
-<edge source="calcio" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="calcio" target="circulareconomy">
-  <data key="d0">2</data>
-</edge>
-<edge source="calcio" target="sport">
-  <data key="d0">2</data>
-</edge>
-<edge source="calcio" target="fashionweek">
-  <data key="d0">2</data>
-</edge>
-<edge source="calcio" target="governo">
-  <data key="d0">2</data>
-</edge>
-<edge source="calcio" target="imaginative">
-  <data key="d0">1</data>
-</edge>
-<edge source="calcio" target="chef">
-  <data key="d0">1</data>
-</edge>
-<edge source="sciopero" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="sciopero" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="sciopero" target="gretamemes">
-  <data key="d0">1</data>
-</edge>
-<edge source="piazzadelpopolo" target="nobel">
-  <data key="d0">1</data>
-</edge>
-<edge source="antudo" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="antudo" target="climateactionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="antudo" target="sicily">
-  <data key="d0">1</data>
-</edge>
-<edge source="antudo" target="trinacria">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatestrikecanceled" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatestrikecanceled" target="hanoi">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatestrikecanceled" target="vietnamese">
-  <data key="d0">1</data>
-</edge>
-<edge source="canadaelection" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="canadaelection" target="chooseforwardwithtrudeau">
-  <data key="d0">1</data>
-</edge>
-<edge source="canadaelection" target="canadavotes">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="berlusconi">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="dellutri">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="carfagna">
-  <data key="d0">1</data>
-</edge>
-<edge source="italiavivadi" target="mafia">
-  <data key="d0">1</data>
-</edge>
-<edge source="allocate4cycling" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="allocate4cycling" target="carbonfreetransport">
-  <data key="d0">1</data>
-</edge>
-<edge source="helpme" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="кліматичнийстрайк" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="кліматичнийстрайк" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="кліматичнийстрайк" target="клімат">
-  <data key="d0">1</data>
-</edge>
-<edge source="кліматичнийстрайк" target="кліматичнізміни">
-  <data key="d0">1</data>
-</edge>
-<edge source="кліматичнийстрайк" target="anticapitalism">
-  <data key="d0">1</data>
-</edge>
-<edge source="politica" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="nibras" target="lgbt">
-  <data key="d0">1</data>
-</edge>
-<edge source="soschiquitania" target="bolivia">
-  <data key="d0">1</data>
-</edge>
-<edge source="emergere" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="emergere" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="objectiuindependència" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="schoolstrikeforclimatestrike" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="canadavotes" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="canadavotes" target="chooseforwardwithtrudeau">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateactionweek" target="fridayforfuture">
-  <data key="d0">2</data>
-</edge>
-<edge source="climateactionweek" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateactionweek" target="sicily">
-  <data key="d0">1</data>
-</edge>
-<edge source="climateactionweek" target="trinacria">
-  <data key="d0">1</data>
-</edge>
-<edge source="letsdomore" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="schilda" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="rivers" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="applauso" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="applauso" target="liberalizzazioni">
-  <data key="d0">1</data>
-</edge>
-<edge source="trinacria" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="tienistretto" target="buongiornoatutti">
-  <data key="d0">1</data>
-</edge>
-<edge source="tienistretto" target="27settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="propaganda" target="climatehoax">
-  <data key="d0">1</data>
-</edge>
-<edge source="propaganda" target="msm">
-  <data key="d0">1</data>
-</edge>
-<edge source="orfwahl" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="orfwahl" target="spoe">
-  <data key="d0">1</data>
-</edge>
-<edge source="brun" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="brun" target="total">
-  <data key="d0">1</data>
-</edge>
-<edge source="brun" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="lfdc" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="lfdc" target="rivoluzione">
-  <data key="d0">1</data>
-</edge>
-<edge source="erdogan" target="curdi">
-  <data key="d0">1</data>
-</edge>
-<edge source="friday4future" target="jovenesporelclima">
-  <data key="d0">1</data>
-</edge>
-<edge source="nazioniunite" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="nazioniunite" target="inquinamento">
-  <data key="d0">1</data>
-</edge>
-<edge source="veganabolitionist" target="fridayforfuture">
-  <data key="d0">4</data>
-</edge>
-<edge source="klimatstreik" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="circulareconomy">
-  <data key="d0">3</data>
-</edge>
-<edge source="sport" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="fashionweek">
-  <data key="d0">3</data>
-</edge>
-<edge source="sport" target="governo">
-  <data key="d0">3</data>
-</edge>
-<edge source="sport" target="imaginative">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="relevant">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="sport" target="forever">
-  <data key="d0">1</data>
-</edge>
-<edge source="grillo" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="nextgenerationeu" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ipocriti" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ipocriti" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="ipocriti" target="curdi">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatehoax" target="fridayforfuture">
-  <data key="d0">7</data>
-</edge>
-<edge source="climatehoax" target="msm">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatehoax" target="journalistik">
-  <data key="d0">1</data>
-</edge>
-<edge source="schuldumkehr" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="vietnamese" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="azzolinabocciata" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="rivoluzione" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="rivoluzione" target="ermalmeta">
-  <data key="d0">1</data>
-</edge>
-<edge source="ciudadessostenibles" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ciudadessostenibles" target="ecosistema">
-  <data key="d0">1</data>
-</edge>
-<edge source="ecosistema" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="animadipoeta" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="animadipoeta" target="ventaglidiparole">
-  <data key="d0">1</data>
-</edge>
-<edge source="cutedog" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="cutedog" target="dogstrike">
-  <data key="d0">1</data>
 </edge>
 <edge source="vecchiaia" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="vecchiaia" target="tantacazz">
+<edge source="vecchiaia" target="italiaviva">
   <data key="d0">1</data>
 </edge>
-<edge source="vecchiaia" target="basilicata">
+<edge source="vecchiaia" target="trivelle">
   <data key="d0">1</data>
 </edge>
 <edge source="vecchiaia" target="salute">
   <data key="d0">1</data>
 </edge>
-<edge source="vecchiaia" target="futuro">
+<edge source="vecchiaia" target="bruttafine">
   <data key="d0">1</data>
 </edge>
-<edge source="chooseforwardwithtrudeau" target="fridayforfuture">
+<edge source="gretagate2019" target="fridays">
   <data key="d0">1</data>
 </edge>
-<edge source="egitto" target="fridayforfuture">
+<edge source="gretagate2019" target="unterirdischen">
   <data key="d0">1</data>
 </edge>
-<edge source="egitto" target="tantacazz">
+<edge source="sardineny" target="sardine">
   <data key="d0">1</data>
 </edge>
-<edge source="egitto" target="basilicata">
+<edge source="sardineny" target="climatedebate">
   <data key="d0">1</data>
 </edge>
-<edge source="egitto" target="armi">
+<edge source="sardineny" target="noshoppingwithnoplanet">
   <data key="d0">1</data>
 </edge>
-<edge source="buongiornoatutti" target="fridayforfuture">
+<edge source="sardineny" target="6000sardine">
+  <data key="d0">1</data>
+</edge>
+<edge source="anf" target="bolivia">
+  <data key="d0">1</data>
+</edge>
+<edge source="anf" target="último">
+  <data key="d0">1</data>
+</edge>
+<edge source="15novembre" target="criminelsécologistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="15novembre" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="15novembre" target="modem">
+  <data key="d0">1</data>
+</edge>
+<edge source="15novembre" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="30novembre" target="museichehannostoffa">
+  <data key="d0">1</data>
+</edge>
+<edge source="30novembre" target="museumforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="starwars">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="sosbolivia">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="altiplano">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="bosques">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="boliviano">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolivia" target="último">
+  <data key="d0">1</data>
+</edge>
+<edge source="protectcongofauna_flora" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="protectcongofauna_flora" target="congoforest">
+  <data key="d0">1</data>
+</edge>
+<edge source="7ottobre" target="nelmondo">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridays" target="wirtschaftwähltklimaschutz">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridays" target="unterirdischen">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridays" target="scuole">
   <data key="d0">2</data>
 </edge>
-<edge source="buongiornoatutti" target="27settembre">
+<edge source="fridays" target="climateactionweek">
   <data key="d0">2</data>
 </edge>
-<edge source="total" target="eni">
-  <data key="d0">3</data>
+<edge source="thebuxwahaforest" target="fridayforfuture">
+  <data key="d0">1</data>
 </edge>
-<edge source="total" target="fridayforfuture">
+<edge source="клімат" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="клімат" target="антикапіталізм">
+  <data key="d0">1</data>
+</edge>
+<edge source="клімат" target="anticapitalism">
+  <data key="d0">1</data>
+</edge>
+<edge source="sindacati" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="sindacati" target="applauso">
+  <data key="d0">1</data>
+</edge>
+<edge source="tienistretto" target="buongiornoatutti">
+  <data key="d0">1</data>
+</edge>
+<edge source="middelbarescholen" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="middelbarescholen" target="hypocrisie">
+  <data key="d0">1</data>
+</edge>
+<edge source="aerospace" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="aerospace" target="avgeek">
+  <data key="d0">1</data>
+</edge>
+<edge source="aerospace" target="avgeeks">
+  <data key="d0">1</data>
+</edge>
+<edge source="aerospace" target="airlines">
+  <data key="d0">1</data>
+</edge>
+<edge source="aerospace" target="aviationlovers">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="art">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="mantova">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="design">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="amarone">
+  <data key="d0">1</data>
+</edge>
+<edge source="forever" target="philisophy">
+  <data key="d0">1</data>
+</edge>
+<edge source="tabianchitz" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="scuole" target="climateactionweek">
   <data key="d0">2</data>
 </edge>
-<edge source="total" target="tantacazz">
+<edge source="scuole" target="ansa">
+  <data key="d0">2</data>
+</edge>
+<edge source="esclavagistes" target="total">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="cambiamenticlimatici">
+<edge source="esclavagistes" target="criminelsécologistes">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="italia">
+<edge source="esclavagistes" target="lrem">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="viggiano">
+<edge source="esclavagistes" target="modem">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="black">
+<edge source="esclavagistes" target="huiledepalme">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="lrem">
+<edge source="esclavagistes" target="1pour25">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="lr">
+<edge source="noshoppingwithnoplanet" target="sardine">
   <data key="d0">1</data>
 </edge>
-<edge source="total" target="saviano">
+<edge source="noshoppingwithnoplanet" target="climatedebate">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="eni">
+<edge source="noshoppingwithnoplanet" target="6000sardine">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="tantacazz">
+<edge source="محيط_زيست" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="basilicata">
+<edge source="محيط_زيست" target="جمعه_ها_برای_اینده">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="bellanova">
+<edge source="rai3" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="salute">
+<edge source="giustiziasociale" target="presidente">
   <data key="d0">1</data>
 </edge>
-<edge source="prodottitipici" target="viggiano">
-  <data key="d0">1</data>
-</edge>
-<edge source="eeuu" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="mestrerabiscador" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="liberalizzazioni" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="liberalizzazioni" target="sindacati">
-  <data key="d0">1</data>
-</edge>
-<edge source="rai3" target="barbaraalberti">
+<edge source="giustiziasociale" target="libertà">
   <data key="d0">1</data>
 </edge>
 <edge source="streaming" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="streaming" target="29settembre">
+<edge source="streaming" target="ventaglidiparole">
   <data key="d0">1</data>
 </edge>
-<edge source="streaming" target="radiomaria">
+<edge source="streaming" target="luciobattisti">
   <data key="d0">1</data>
 </edge>
-<edge source="relevant" target="beautiful">
+<edge source="libriperilfuturo" target="ventaglidiparole">
+  <data key="d0">2</data>
+</edge>
+<edge source="canadavotes" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="relevant" target="fashionweek">
+<edge source="canadavotes" target="canadaelection">
   <data key="d0">1</data>
 </edge>
-<edge source="relevant" target="governo">
+<edge source="starwars" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="relevant" target="imaginative">
+<edge source="starwars" target="altiplano">
+  <data key="d0">1</data>
+</edge>
+<edge source="starwars" target="bosques">
+  <data key="d0">1</data>
+</edge>
+<edge source="meloni" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="decretoclima" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="decretoclima" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="decretoclima" target="cambiamenticlimatici">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuturepadova" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ragazze" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ragazze" target="ragazzi">
+  <data key="d0">1</data>
+</edge>
+<edge source="altiplano" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="altiplano" target="bosques">
+  <data key="d0">1</data>
+</edge>
+<edge source="altiplano" target="boliviano">
+  <data key="d0">1</data>
+</edge>
+<edge source="lfdc" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
 <edge source="acquaalta" target="libero">
   <data key="d0">1</data>
 </edge>
-<edge source="barbaraalberti" target="fridayforfuture">
+<edge source="acquaalta" target="14novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="santori" target="sardine">
+  <data key="d0">2</data>
+</edge>
+<edge source="eeuu" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="eeuu" target="yasuní">
+  <data key="d0">1</data>
+</edge>
+<edge source="mafia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="mafia" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="mafia" target="dellutri">
+  <data key="d0">1</data>
+</edge>
+<edge source="climateactionng" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="larepubblica" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="18aprile" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="18aprile" target="cambiamenticlimatici">
+  <data key="d0">1</data>
+</edge>
+<edge source="18aprile" target="27aprile">
+  <data key="d0">1</data>
+</edge>
+<edge source="canadaelection" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthfirst" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthfirst" target="veganukraine">
+  <data key="d0">1</data>
+</edge>
+<edge source="allevamenti" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="allevamenti" target="hamburger">
+  <data key="d0">1</data>
+</edge>
+<edge source="सुप्रभात" target="जयश्रीराम">
+  <data key="d0">4</data>
+</edge>
+<edge source="turtle" target="art">
+  <data key="d0">1</data>
+</edge>
+<edge source="turtle" target="coralreef">
+  <data key="d0">1</data>
+</edge>
+<edge source="turtle" target="draw">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="art">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="alimentazione">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="mantova">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="design">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="valpolicella">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="stories">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautiful" target="relevant">
+  <data key="d0">1</data>
+</edge>
+<edge source="rmdetodos" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="iusculturae" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="hamburger" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="mantova" target="art">
+  <data key="d0">3</data>
+</edge>
+<edge source="mantova" target="italiaviva">
+  <data key="d0">2</data>
+</edge>
+<edge source="mantova" target="valpolicella">
+  <data key="d0">2</data>
+</edge>
+<edge source="mantova" target="amarone">
+  <data key="d0">2</data>
+</edge>
+<edge source="mantova" target="relevant">
+  <data key="d0">1</data>
+</edge>
+<edge source="cambiamenticlimatici" target="fridayforfuture">
+  <data key="d0">4</data>
+</edge>
+<edge source="cambiamenticlimatici" target="27aprile">
+  <data key="d0">1</data>
+</edge>
+<edge source="cambiamenticlimatici" target="agi">
   <data key="d0">1</data>
 </edge>
 <edge source="boliviano" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="boliviano" target="epstein">
-  <data key="d0">1</data>
-</edge>
-<edge source="boliviano" target="bolivia">
-  <data key="d0">1</data>
-</edge>
 <edge source="boliviano" target="bosques">
   <data key="d0">1</data>
 </edge>
-<edge source="boliviano" target="chiquitania">
+<edge source="lgbt" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="uottawa" target="fridayforfuture">
+<edge source="lgbt" target="islam">
   <data key="d0">1</data>
 </edge>
-<edge source="pihole" target="fridayforfuture">
+<edge source="lgbt" target="gerusalemme">
   <data key="d0">1</data>
 </edge>
-<edge source="pihole" target="cluster">
+<edge source="museichehannostoffa" target="museumforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="wikigapchallenge" target="fridayforfuture">
+<edge source="relevant" target="art">
   <data key="d0">1</data>
 </edge>
-<edge source="wikigapchallenge" target="wikigap">
+<edge source="relevant" target="alimentazione">
   <data key="d0">1</data>
 </edge>
-<edge source="chiquitania" target="fridayforfuture">
+<edge source="relevant" target="design">
   <data key="d0">1</data>
 </edge>
-<edge source="chiquitania" target="epstein">
+<edge source="relevant" target="fashion">
   <data key="d0">1</data>
 </edge>
-<edge source="chiquitania" target="bolivia">
+<edge source="relevant" target="valpolicella">
   <data key="d0">1</data>
 </edge>
-<edge source="chiquitania" target="evomorales">
+<edge source="relevant" target="stories">
+  <data key="d0">1</data>
+</edge>
+<edge source="concessioni" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="concessioni" target="tantacazz">
+  <data key="d0">1</data>
+</edge>
+<edge source="concessioni" target="pontemorandi">
+  <data key="d0">1</data>
+</edge>
+<edge source="allocate4cycling" target="carbonfreetransport">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="fridayforfuture">
+  <data key="d0">8</data>
+</edge>
+<edge source="roma" target="9ottobre">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="alimentazione">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="stopfastfashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="design">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="fashion">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="amarone">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="climateactionweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="transizione">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="aò">
+  <data key="d0">1</data>
+</edge>
+<edge source="roma" target="raggi">
+  <data key="d0">1</data>
+</edge>
+<edge source="usb" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="greenitalia2019" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="russie" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="piazzasangiovanni" target="sardine">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodnight" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="desafíotierra" target="fridayforfuture">
+  <data key="d0">2</data>
+</edge>
+<edge source="desafíotierra" target="desafíoplástico">
+  <data key="d0">2</data>
+</edge>
+<edge source="tantacazz" target="fridayforfuture">
+  <data key="d0">4</data>
+</edge>
+<edge source="tantacazz" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="tantacazz" target="italiaviva">
+  <data key="d0">6</data>
+</edge>
+<edge source="tantacazz" target="trivelle">
+  <data key="d0">8</data>
+</edge>
+<edge source="tantacazz" target="pontemorandi">
+  <data key="d0">1</data>
+</edge>
+<edge source="tantacazz" target="prescrizione">
+  <data key="d0">1</data>
+</edge>
+<edge source="tantacazz" target="italiashock">
+  <data key="d0">1</data>
+</edge>
+<edge source="tantacazz" target="dellutri">
+  <data key="d0">1</data>
+</edge>
+<edge source="attentato" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="attentato" target="londonbridge">
+  <data key="d0">1</data>
+</edge>
+<edge source="attentato" target="lavoro">
+  <data key="d0">1</data>
+</edge>
+<edge source="xrcork" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="ansa" target="fridayforfuture">
+  <data key="d0">5</data>
+</edge>
+<edge source="ansa" target="climateactionweek">
+  <data key="d0">2</data>
+</edge>
+<edge source="1pour25" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="1pour25" target="criminelsécologistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="1pour25" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="1pour25" target="modem">
+  <data key="d0">1</data>
+</edge>
+<edge source="1pour25" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="modem" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="modem" target="criminelsécologistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="modem" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="modem" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="blackexcellence" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="poraccitudine" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="pontemorandi" target="italiaviva">
+  <data key="d0">1</data>
+</edge>
+<edge source="pontemorandi" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="pontemorandi" target="salute">
+  <data key="d0">1</data>
+</edge>
+<edge source="the100" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatesolution" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="climatesolution" target="greenhousegas">
+  <data key="d0">2</data>
+</edge>
+<edge source="climatesolution" target="bushfire">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="italiaviva" target="art">
+  <data key="d0">2</data>
+</edge>
+<edge source="italiaviva" target="trivelle">
+  <data key="d0">6</data>
+</edge>
+<edge source="italiaviva" target="salute">
+  <data key="d0">2</data>
+</edge>
+<edge source="italiaviva" target="prescrizione">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="bruttafine">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="italiashock">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="design">
+  <data key="d0">2</data>
+</edge>
+<edge source="italiaviva" target="fashion">
+  <data key="d0">2</data>
+</edge>
+<edge source="italiaviva" target="valpolicella">
+  <data key="d0">2</data>
+</edge>
+<edge source="italiaviva" target="amarone">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="stories">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiaviva" target="raggi">
+  <data key="d0">1</data>
+</edge>
+<edge source="bp" target="gazprom">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfurture" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaysforfurture" target="lesen">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfurture" target="climateactionweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfurture" target="catania">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaysforfurture" target="sicilia">
+  <data key="d0">1</data>
+</edge>
+<edge source="sardine" target="islam">
+  <data key="d0">1</data>
+</edge>
+<edge source="sardine" target="climatedebate">
+  <data key="d0">1</data>
+</edge>
+<edge source="sardine" target="6000sardine">
+  <data key="d0">1</data>
+</edge>
+<edge source="sardine" target="fr">
+  <data key="d0">1</data>
+</edge>
+<edge source="share" target="coralreef">
+  <data key="d0">1</data>
+</edge>
+<edge source="share" target="draw">
+  <data key="d0">1</data>
+</edge>
+<edge source="dellutri" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="dellutri" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="applauso" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="noplasticwaste" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="inclusió" target="tea">
+  <data key="d0">1</data>
+</edge>
+<edge source="draw" target="art">
+  <data key="d0">1</data>
+</edge>
+<edge source="draw" target="coralreef">
+  <data key="d0">1</data>
+</edge>
+<edge source="cuneo" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="criminelsécologistes" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="criminelsécologistes" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="criminelsécologistes" target="huiledepalme">
+  <data key="d0">1</data>
+</edge>
+<edge source="houseoflords" target="1988massacre">
+  <data key="d0">1</data>
+</edge>
+<edge source="quartiervertchallenge" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="quartiervertchallenge" target="patrioxy">
+  <data key="d0">2</data>
+</edge>
+<edge source="gazprom" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="islam" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="islam" target="massmedia">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatechane" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="bolzano" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="climatestrikeweek_1" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="антикапіталізм" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="respirare" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="respirare" target="ragazzi">
+  <data key="d0">1</data>
+</edge>
+<edge source="jugendklimagipfel" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="italiashock" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="prescrizione" target="trivelle">
+  <data key="d0">1</data>
+</edge>
+<edge source="londonbridge" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="londonbridge" target="mes">
+  <data key="d0">1</data>
+</edge>
+<edge source="londonbridge" target="ikea">
+  <data key="d0">1</data>
+</edge>
+<edge source="londonbridge" target="lavoro">
+  <data key="d0">1</data>
+</edge>
+<edge source="trivelle" target="fridayforfuture">
+  <data key="d0">3</data>
+</edge>
+<edge source="trivelle" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="trivelle" target="bruttafine">
+  <data key="d0">1</data>
+</edge>
+<edge source="lavoro" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="lavoro" target="mes">
+  <data key="d0">1</data>
+</edge>
+<edge source="lavoro" target="ikea">
   <data key="d0">1</data>
 </edge>
 <edge source="amazonfire" target="fridayforfuture">
@@ -2033,295 +2221,247 @@
 <edge source="amazonfire" target="iiff">
   <data key="d0">1</data>
 </edge>
-<edge source="worldsmileday" target="london">
+<edge source="helpme" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="worldsmileday" target="1988massacre">
+<edge source="milan" target="ondaverde">
   <data key="d0">1</data>
 </edge>
-<edge source="chefinaccia" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="chefinaccia" target="ministerodellaistruzione">
-  <data key="d0">1</data>
-</edge>
-<edge source="quartiervertchallenge" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="quartiervertchallenge" target="kebetu">
-  <data key="d0">3</data>
-</edge>
-<edge source="climatechane" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="jovenesporelclima" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="jovenesporelclima" target="salvemoselplanetaahora">
-  <data key="d0">1</data>
-</edge>
-<edge source="noplasticwaste" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="cessodestra" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="cessodestra" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="cessodestra" target="autostrade">
-  <data key="d0">1</data>
-</edge>
-<edge source="zurueckzudengruenen" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="zurueckzudengruenen" target="nrw19">
-  <data key="d0">1</data>
-</edge>
-<edge source="civicleader" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="stornarella" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="bibbiano" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="bibbiano" target="28settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="bibbiano" target="ventotto09fr">
-  <data key="d0">1</data>
-</edge>
-<edge source="петоцизаиднината" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="ventisette09fr" target="fridayforfuture">
-  <data key="d0">5</data>
-</edge>
-<edge source="ventisette09fr" target="27settembre">
+<edge source="amarone" target="art">
   <data key="d0">2</data>
 </edge>
-<edge source="segre" target="piazzasangiovanni">
-  <data key="d0">1</data>
-</edge>
-<edge source="anticapitalism" target="fridayforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="anticapitalism" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="anticapitalism" target="клімат">
-  <data key="d0">1</data>
-</edge>
-<edge source="carbonemissions" target="fridayforfuture">
+<edge source="amarone" target="design">
   <data key="d0">2</data>
 </edge>
-<edge source="carbonemissions" target="rapidreduction2030">
+<edge source="amarone" target="valpolicella">
   <data key="d0">1</data>
 </edge>
-<edge source="carbonemissions" target="survivors">
+<edge source="bruttafine" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="everyday4future" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="kebetu" target="fridayforfuture">
-  <data key="d0">3</data>
-</edge>
-<edge source="msm" target="refuting">
+<edge source="bruttafine" target="salute">
   <data key="d0">1</data>
 </edge>
-<edge source="msm" target="journalistik">
+<edge source="teamestimzione" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="black" target="basilicata">
+<edge source="lipogiro" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="armi" target="fridayforfuture">
+<edge source="ecologismo" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="armi" target="tantacazz">
+<edge source="valpolicella" target="alimentazione">
+  <data key="d0">2</data>
+</edge>
+<edge source="valpolicella" target="design">
+  <data key="d0">2</data>
+</edge>
+<edge source="valpolicella" target="fashion">
+  <data key="d0">2</data>
+</edge>
+<edge source="libertà" target="presidente">
   <data key="d0">1</data>
 </edge>
-<edge source="chef" target="beautiful">
+<edge source="foggia" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="chef" target="fashionweek">
+<edge source="manifestazione" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="chef" target="imaginative">
+<edge source="fridayforfutureyouthstrikers" target="fridayforfuture">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="eni">
+<edge source="huiledepalme" target="total">
+  <data key="d0">1</data>
+</edge>
+<edge source="huiledepalme" target="lrem">
+  <data key="d0">1</data>
+</edge>
+<edge source="schoolstrikeforclimatestrike" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="plastikmüll" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="yasuní" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="massmedia" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="bellissimi" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="libero" target="14novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="libero" target="altamarea">
+  <data key="d0">1</data>
+</edge>
+<edge source="mausgerutscht" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="alimentazione" target="art">
+  <data key="d0">2</data>
+</edge>
+<edge source="alimentazione" target="studio24">
+  <data key="d0">1</data>
+</edge>
+<edge source="alimentazione" target="design">
+  <data key="d0">2</data>
+</edge>
+<edge source="alimentazione" target="fashion">
+  <data key="d0">2</data>
+</edge>
+<edge source="جمعه_ها_برای_اینده" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="sicily" target="climateactionweek">
+  <data key="d0">1</data>
+</edge>
+<edge source="sicily" target="sicilia">
+  <data key="d0">1</data>
+</edge>
+<edge source="netzstasi" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="altamarea" target="14novembre">
+  <data key="d0">1</data>
+</edge>
+<edge source="ragazzi" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="saviano" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="6000sardine" target="climatedebate">
+  <data key="d0">1</data>
+</edge>
+<edge source="aviationlovers" target="fridayforfuture">
+  <data key="d0">1</data>
+</edge>
+<edge source="aviationlovers" target="avgeek">
+  <data key="d0">1</data>
+</edge>
+<edge source="aviationlovers" target="avgeeks">
+  <data key="d0">1</data>
+</edge>
+<edge source="aviationlovers" target="airlines">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="greenhousegas">
   <data key="d0">2</data>
 </edge>
 <edge source="fridayforfuture" target="don">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="wien">
+<edge source="fridayforfuture" target="forclimate">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="guerra">
-  <data key="d0">1</data>
+<edge source="fridayforfuture" target="draghi">
+  <data key="d0">2</data>
 </edge>
-<edge source="fridayforfuture" target="russie">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="climatesolution">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayforfuture" target="lamorgese">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="roma">
-  <data key="d0">8</data>
-</edge>
-<edge source="fridayforfuture" target="manifestation">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="rapidreduction2030">
+<edge source="fridayforfuture" target="lgbtq">
   <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="survivors">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="freiwilligefeuerwehren">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="iammadagascar">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="lgbt">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="saynoeumercosur">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="клімат">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="кліматичнізміни">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="veganukraine">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="hefroshe">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="tantacazz">
-  <data key="d0">4</data>
-</edge>
-<edge source="fridayforfuture" target="basilicata">
-  <data key="d0">5</data>
-</edge>
-<edge source="fridayforfuture" target="cambiamenticlimatici">
-  <data key="d0">4</data>
-</edge>
-<edge source="fridayforfuture" target="italia">
+<edge source="fridayforfuture" target="total">
   <data key="d0">2</data>
+</edge>
+<edge source="fridayforfuture" target="savecongoforest_fauna_flora">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="9ottobre">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="amnestyindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="radioonlinecolombia">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="buongiornoatutti">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridayforfuture" target="cambiaeninonilclima">
+  <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="salute">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="futuro">
+<edge source="fridayforfuture" target="annabelle">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="massmedia">
+<edge source="fridayforfuture" target="mes">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="bolivia">
+<edge source="fridayforfuture" target="ikea">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="eteropigri">
+<edge source="fridayforfuture" target="lega">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridayforfuture" target="flyingcars">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="maltempo">
+<edge source="fridayforfuture" target="avgeek">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="60seconds">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="berlusconi">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="dellutri">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="mafia">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="aerospace">
+<edge source="fridayforfuture" target="avgeeks">
   <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="airlines">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="curdi">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="ॐ_नमः_शिवाय">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="ilgps">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="nocarne">
+<edge source="fridayforfuture" target="carbonfreetransport">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="nocomment">
+<edge source="fridayforfuture" target="ipocriti">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="29settembre">
+<edge source="fridayforfuture" target="जयश्रीराम">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridayforfuture" target="lagazzettadelpennuto">
   <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="quota100">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="climateactionweek">
+  <data key="d0">2</data>
 </edge>
 <edge source="fridayforfuture" target="ventaglidiparole">
   <data key="d0">2</data>
 </edge>
-<edge source="fridayforfuture" target="radiomaria">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="miur">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="28settembre">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayforfuture" target="nrw19">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="ermalmeta">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="whirlpool">
-  <data key="d0">1</data>
-</edge>
 <edge source="fridayforfuture" target="iiff">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="ventotto09fr">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayforfuture" target="24horascentral">
+<edge source="fridayforfuture" target="rassegnastampa">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="elephants">
+<edge source="fridayforfuture" target="valdiviacl">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="inquinamento">
+<edge source="fridayforfuture" target="debenedetti">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="carabinieri">
   <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="transizione">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="27settembre">
-  <data key="d0">22</data>
+<edge source="fridayforfuture" target="auma2019">
+  <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="senzaparole">
+<edge source="fridayforfuture" target="coerenzazero">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayforfuture" target="in80giorni">
   <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="hypocrisie">
@@ -2333,397 +2473,106 @@
 <edge source="fridayforfuture" target="desafíoplástico">
   <data key="d0">2</data>
 </edge>
-<edge source="fridayforfuture" target="greenitalia2019">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayforfuture" target="گرتا_تونبرگ">
-  <data key="d0">1</data>
-</edge>
 <edge source="fridayforfuture" target="cluster">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="saviano">
+<edge source="fridayforfuture" target="iotalove">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="bts">
+<edge source="fridayforfuture" target="sicilia">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="the100">
+<edge source="fridayforfuture" target="medioevo">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="sicily">
+<edge source="fridayforfuture" target="linzforfuture">
   <data key="d0">1</data>
 </edge>
 <edge source="fridayforfuture" target="sonounagretina">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="sindacati">
+<edge source="fridayforfuture" target="fridayfordonkeys">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="hanoi">
+<edge source="fridayforfuture" target="raggi">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="fridayforfuturepadova">
+<edge source="mes" target="ikea">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="freeassangenow">
+<edge source="draghi" target="lgbtq">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="ministerodellaistruzione">
+<edge source="avgeeks" target="flyingcars">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="doha">
+<edge source="avgeeks" target="avgeek">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="evomorales">
+<edge source="avgeeks" target="airlines">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayforfuture" target="bosques">
-  <data key="d0">1</data>
+<edge source="art" target="coralreef">
+  <data key="d0">2</data>
 </edge>
-<edge source="fridayforfuture" target="jugendklimagipfel">
-  <data key="d0">1</data>
-</edge>
-<edge source="futuro" target="giustiziasociale">
-  <data key="d0">1</data>
-</edge>
-<edge source="futuro" target="tantacazz">
+<edge source="art" target="design">
   <data key="d0">3</data>
 </edge>
-<edge source="futuro" target="basilicata">
+<edge source="art" target="stories">
   <data key="d0">1</data>
 </edge>
-<edge source="futuro" target="salute">
+<edge source="art" target="philisophy">
   <data key="d0">1</data>
 </edge>
-<edge source="futuro" target="prescrizione">
+<edge source="stories" target="design">
   <data key="d0">1</data>
 </edge>
-<edge source="futuro" target="matera">
+<edge source="bushfire" target="greenhousegas">
   <data key="d0">1</data>
 </edge>
-<edge source="futuro" target="pertini">
+<edge source="greenhousegas" target="survivors">
   <data key="d0">1</data>
 </edge>
-<edge source="imaginative" target="fashionweek">
+<edge source="quota100" target="rinnovabili">
   <data key="d0">1</data>
 </edge>
-<edge source="imaginative" target="governo">
-  <data key="d0">1</data>
-</edge>
-<edge source="клімат" target="вирубкалісу">
-  <data key="d0">1</data>
-</edge>
-<edge source="клімат" target="кліматичнізміни">
-  <data key="d0">1</data>
-</edge>
-<edge source="bellanova" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="bellanova" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="bellanova" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="bellanova" target="viggiano">
-  <data key="d0">1</data>
-</edge>
-<edge source="lrem" target="lr">
-  <data key="d0">1</data>
-</edge>
-<edge source="saviano" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="aviationlovers" target="aerospace">
-  <data key="d0">1</data>
-</edge>
-<edge source="aviationlovers" target="airlines">
-  <data key="d0">1</data>
-</edge>
-<edge source="wien" target="radelnforfuture">
-  <data key="d0">1</data>
-</edge>
-<edge source="вирубкалісу" target="кліматичнізміни">
-  <data key="d0">1</data>
-</edge>
-<edge source="pertini" target="giustiziasociale">
-  <data key="d0">1</data>
-</edge>
-<edge source="evomorales" target="epstein">
-  <data key="d0">1</data>
-</edge>
-<edge source="evomorales" target="bolivia">
-  <data key="d0">1</data>
-</edge>
-<edge source="evomorales" target="bosques">
-  <data key="d0">1</data>
-</edge>
-<edge source="squali" target="eni">
-  <data key="d0">2</data>
-</edge>
-<edge source="squali" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="squali" target="santori">
-  <data key="d0">2</data>
-</edge>
-<edge source="squali" target="movimento">
-  <data key="d0">1</data>
-</edge>
-<edge source="lgbt" target="massmedia">
-  <data key="d0">1</data>
-</edge>
-<edge source="nelmondo" target="7ottobre">
-  <data key="d0">1</data>
-</edge>
-<edge source="maltempo" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="uemercosur" target="saynoeumercosur">
-  <data key="d0">1</data>
-</edge>
-<edge source="gaspacho" target="nocarne">
-  <data key="d0">1</data>
-</edge>
-<edge source="berlusconi" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="berlusconi" target="dellutri">
-  <data key="d0">1</data>
-</edge>
-<edge source="berlusconi" target="carfagna">
-  <data key="d0">1</data>
-</edge>
-<edge source="berlusconi" target="mafia">
-  <data key="d0">1</data>
-</edge>
-<edge source="1988massacre" target="london">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatesolution" target="rapidreduction2030">
-  <data key="d0">1</data>
-</edge>
-<edge source="climatesolution" target="survivors">
-  <data key="d0">1</data>
-</edge>
-<edge source="survivors" target="rapidreduction2030">
-  <data key="d0">1</data>
-</edge>
-<edge source="atleticaleggera" target="doha">
-  <data key="d0">1</data>
-</edge>
-<edge source="viggiano" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="viggiano" target="tantacazz">
-  <data key="d0">1</data>
-</edge>
-<edge source="viggiano" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="viggiano" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="tantacazz" target="eni">
-  <data key="d0">1</data>
-</edge>
-<edge source="tantacazz" target="basilicata">
-  <data key="d0">4</data>
-</edge>
-<edge source="tantacazz" target="italia">
-  <data key="d0">1</data>
-</edge>
-<edge source="tantacazz" target="salute">
+<edge source="fashion" target="design">
   <data key="d0">3</data>
 </edge>
-<edge source="tantacazz" target="autostrade">
+<edge source="fashion" target="philisophy">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="pontemorandi">
+<edge source="philisophy" target="design">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="prescrizione">
+<edge source="ventaglidiparole" target="in80giorni">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="matera">
+<edge source="forpeople" target="forclimate">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="carfagna">
+<edge source="sicilia" target="catania">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="mafia">
+<edge source="iotalove" target="cluster">
   <data key="d0">1</data>
 </edge>
-<edge source="tantacazz" target="mondialidisci">
+<edge source="airlines" target="flyingcars">
   <data key="d0">1</data>
 </edge>
-<edge source="governo" target="beautiful">
+<edge source="airlines" target="avgeek">
   <data key="d0">1</data>
 </edge>
-<edge source="governo" target="circulareconomy">
-  <data key="d0">3</data>
-</edge>
-<edge source="governo" target="roma">
-  <data key="d0">2</data>
-</edge>
-<edge source="governo" target="london">
+<edge source="transizione" target="catania">
   <data key="d0">1</data>
 </edge>
-<edge source="governo" target="philisophy">
+<edge source="total" target="salute">
   <data key="d0">1</data>
 </edge>
-<edge source="governo" target="forever">
+<edge source="total" target="lrem">
   <data key="d0">1</data>
 </edge>
-<edge source="dellutri" target="carfagna">
-  <data key="d0">1</data>
-</edge>
-<edge source="dellutri" target="mafia">
-  <data key="d0">1</data>
-</edge>
-<edge source="radiomaria" target="29settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="radiomaria" target="ventaglidiparole">
-  <data key="d0">1</data>
-</edge>
-<edge source="radiomaria" target="28settembre">
-  <data key="d0">1</data>
-</edge>
-<edge source="epstein" target="bosques">
-  <data key="d0">1</data>
-</edge>
-<edge source="forever" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="forever" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="carfagna" target="mafia">
-  <data key="d0">1</data>
-</edge>
-<edge source="circulareconomy" target="beautiful">
-  <data key="d0">1</data>
-</edge>
-<edge source="circulareconomy" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="circulareconomy" target="london">
-  <data key="d0">1</data>
-</edge>
-<edge source="circulareconomy" target="fashionweek">
-  <data key="d0">3</data>
-</edge>
-<edge source="circulareconomy" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="asperger" target="gretathumberg">
-  <data key="d0">1</data>
-</edge>
-<edge source="asperger" target="autismo">
-  <data key="d0">1</data>
-</edge>
-<edge source="gretathumberg" target="autismo">
-  <data key="d0">1</data>
-</edge>
-<edge source="italia" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="italia" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="italia" target="autostrade">
-  <data key="d0">1</data>
-</edge>
-<edge source="italia" target="pontemorandi">
-  <data key="d0">1</data>
-</edge>
-<edge source="santori" target="eni">
-  <data key="d0">2</data>
-</edge>
-<edge source="santori" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="santori" target="movimento">
-  <data key="d0">1</data>
-</edge>
-<edge source="27settembre" target="roma">
-  <data key="d0">1</data>
-</edge>
-<edge source="27settembre" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="jacopofo" target="papaleo">
-  <data key="d0">1</data>
-</edge>
-<edge source="eni" target="basilicata">
-  <data key="d0">6</data>
-</edge>
-<edge source="eni" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="eni" target="movimento">
-  <data key="d0">1</data>
-</edge>
-<edge source="eni" target="papaleo">
-  <data key="d0">1</data>
-</edge>
-<edge source="movimento" target="basilicata">
-  <data key="d0">1</data>
-</edge>
-<edge source="ekoradio" target="hefroshe">
-  <data key="d0">1</data>
-</edge>
-<edge source="roma" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="wallstreet" target="cnbc">
-  <data key="d0">1</data>
-</edge>
-<edge source="london" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="london" target="philisophy">
-  <data key="d0">1</data>
-</edge>
-<edge source="basilicata" target="salute">
-  <data key="d0">2</data>
-</edge>
-<edge source="basilicata" target="papaleo">
-  <data key="d0">1</data>
-</edge>
-<edge source="pontemorandi" target="salute">
-  <data key="d0">1</data>
-</edge>
-<edge source="pontemorandi" target="autostrade">
-  <data key="d0">1</data>
-</edge>
-<edge source="aerospace" target="airlines">
-  <data key="d0">1</data>
-</edge>
-<edge source="28settembre" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="28settembre" target="ventotto09fr">
-  <data key="d0">2</data>
-</edge>
-<edge source="philisophy" target="fashionweek">
-  <data key="d0">1</data>
-</edge>
-<edge source="1for25" target="lr">
-  <data key="d0">1</data>
-</edge>
-<edge source="ventotto09fr" target="cambiamenticlimatici">
-  <data key="d0">1</data>
-</edge>
-<edge source="pumaseléctricos" target="bolivia">
-  <data key="d0">1</data>
-</edge>
-<edge source="pumaseléctricos" target="pitita">
-  <data key="d0">1</data>
-</edge>
-<edge source="bolivia" target="pitita">
+<edge source="catania" target="climateactionweek">
   <data key="d0">1</data>
 </edge>
 </graph></graphml>

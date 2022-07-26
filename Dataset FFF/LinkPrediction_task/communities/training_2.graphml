@@ -1,1374 +1,449 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="Count" attr.type="int"/>
-<graph edgedefault="undirected"><node id="janshakti4jalshakti"/>
-<node id="quizzed"/>
-<node id="travelcorridor"/>
-<node id="yummy"/>
-<node id="flowerreport"/>
-<node id="saturdayvibes"/>
-<node id="biggest"/>
-<node id="anon"/>
-<node id="digitalindia"/>
-<node id="btc"/>
-<node id="hautsdeseine"/>
-<node id="gardening"/>
-<node id="skincare"/>
-<node id="dream"/>
-<node id="contestalertindia"/>
-<node id="friends"/>
-<node id="seaspiracy"/>
-<node id="pflanzenbasierte"/>
-<node id="nikonnofilter"/>
-<node id="neversurrender"/>
-<node id="naturalbeauty"/>
-<node id="myyoutubechannelwouldbe"/>
-<node id="smile"/>
-<node id="singlelife"/>
-<node id="outdoorlearning"/>
-<node id="buonanotte"/>
-<node id="quote"/>
-<node id="vocal4local"/>
-<node id="worldvegetarianday"/>
-<node id="iqrtg"/>
-<node id="huhtikuu"/>
-<node id="iorestoacasa"/>
-<node id="buonaserata"/>
-<node id="selfietime"/>
-<node id="bhadrakali"/>
-<node id="sadhguruquotes"/>
-<node id="timezone"/>
-<node id="swachhatajaarihai"/>
-<node id="malaysia"/>
-<node id="endspeciesism"/>
-<node id="fridayfunny"/>
-<node id="game"/>
-<node id="running"/>
-<node id="ऋषि_प्रसाद"/>
-<node id="ddquiz"/>
-<node id="amigos"/>
-<node id="singlesrelationships"/>
-<node id="fridayreads"/>
-<node id="mithileshbaria"/>
-<node id="ceoquotes"/>
-<node id="vine"/>
-<node id="gutenmorgen"/>
-<node id="twitteroftime"/>
-<node id="flashbackfridayz"/>
-<node id="selfiequeen"/>
-<node id="peace"/>
-<node id="theweekendfavour"/>
-<node id="keepdreaming"/>
-<node id="milchkuhmittwoch"/>
-<node id="thursdayvibes"/>
-<node id="saturdaythoughts"/>
-<node id="thanksgivingdinner"/>
+<graph edgedefault="undirected"><node id="letsgrowtogether"/>
+<node id="focus"/>
 <node id="goodmorning"/>
-<node id="care"/>
-<node id="switzerland"/>
-<node id="2local"/>
-<node id="compassionateliving"/>
-<node id="wochenende"/>
-<node id="speciesism"/>
-<node id="workout"/>
-<node id="elearnmarkets"/>
-<node id="europeday"/>
-<node id="howiwonblackfriday"/>
-<node id="area51storm"/>
-<node id="seo"/>
-<node id="finance"/>
-<node id="opwhales"/>
-<node id="prayer"/>
-<node id="corgicrew"/>
-<node id="fortnite"/>
-<node id="toukokuun"/>
-<node id="rajajitigerreserve"/>
-<node id="macysblackfriday"/>
-<node id="fridaylove"/>
-<node id="contesttime"/>
-<node id="mutantfam"/>
-<node id="beautytips"/>
-<node id="potd"/>
-<node id="photographer"/>
-<node id="indie"/>
-<node id="review"/>
-<node id="biodiveristy"/>
-<node id="viviandsena"/>
-<node id="food"/>
-<node id="freakyfriday"/>
-<node id="airdrops"/>
-<node id="foodblog"/>
-<node id="resist"/>
-<node id="justice"/>
-<node id="beans"/>
-<node id="healthy"/>
-<node id="ejecafetero"/>
-<node id="stockmarketindia"/>
-<node id="waahmuz"/>
-<node id="nichtakleubereinenkammscheren"/>
-<node id="nationalendangeredspeciesday"/>
-<node id="condition"/>
-<node id="supremeplay"/>
-<node id="goodmorningeveryone"/>
-<node id="municipales"/>
-<node id="behindthescenes"/>
-<node id="happyeaster"/>
-<node id="something"/>
-<node id="afterwecollidedmovie"/>
-<node id="blackfriday2019"/>
-<node id="mekong"/>
-<node id="jellybellyfriday"/>
-<node id="yyc"/>
-<node id="planetaazul"/>
-<node id="city"/>
-<node id="transformingindia"/>
-<node id="dianacionalsinauto"/>
-<node id="friyay"/>
-<node id="growthhacking"/>
-<node id="tacotuesday"/>
-<node id="recipe"/>
-<node id="programmer"/>
-<node id="dinner"/>
-<node id="stopanimalabuse"/>
-<node id="farming"/>
-<node id="fridaymadness"/>
-<node id="egld"/>
-<node id="truth"/>
-<node id="kevät"/>
-<node id="moresarawak"/>
-<node id="iomangiodacasa"/>
-<node id="शुक्र_श्रीशक्ति"/>
-<node id="sentient"/>
-<node id="sewaactivitiesbyashram"/>
-<node id="diaryoftips"/>
-<node id="wonderful"/>
-<node id="jokermovie"/>
-<node id="captivity"/>
-<node id="shootmode"/>
-<node id="offers"/>
-<node id="worldfoodday"/>
-<node id="hamilton"/>
-<node id="stormingarea51"/>
-<node id="confidence"/>
-<node id="germanmediart"/>
-<node id="breakfastclub"/>
-<node id="animals"/>
-<node id="stopanimalcruelty"/>
-<node id="weatherforecast"/>
-<node id="abstorm"/>
-<node id="business"/>
-<node id="enjoynature"/>
-<node id="noracism"/>
-<node id="freedom"/>
-<node id="lockdown2"/>
-<node id="cats4climate"/>
-<node id="marvelousnature"/>
-<node id="tasty"/>
-<node id="motivationalquotes"/>
-<node id="indiegamedev"/>
-<node id="macrophotography"/>
-<node id="november"/>
-<node id="राष्ट्रवादिराठौर"/>
-<node id="parnellthechef"/>
-<node id="sociamedia"/>
-<node id="cher"/>
-<node id="contestofchampions"/>
-<node id="fruits"/>
-<node id="pmawasyojana"/>
-<node id="dogs"/>
-<node id="primenightrt"/>
-<node id="sukirti"/>
-<node id="surprise"/>
-<node id="team"/>
-<node id="anchor"/>
-<node id="worldanimalwelfareday"/>
-<node id="nationalrescuedogday"/>
-<node id="dennisthemenace"/>
-<node id="mozzarella"/>
-<node id="receta"/>
-<node id="costabrava"/>
-<node id="adoptdontshop"/>
-<node id="fridaykiss"/>
-<node id="congress"/>
-<node id="funfactfriday"/>
-<node id="ocean"/>
-<node id="bagneux"/>
-<node id="nojudgement"/>
-<node id="झूठे_रेप_केस_में_बढ़ोतरी"/>
-<node id="contestindia"/>
-<node id="ffs"/>
-<node id="fridayfun"/>
-<node id="vegispowerful"/>
-<node id="twitternaturecommunity"/>
-<node id="fridaymorning"/>
-<node id="caturday"/>
-<node id="hamont"/>
-<node id="community"/>
-<node id="windingdown2019"/>
-<node id="6ix9ine"/>
-<node id="weather"/>
-<node id="positivity"/>
-<node id="loveall"/>
-<node id="singleserving"/>
-<node id="riseinfakerapecases"/>
-<node id="breakfast"/>
-<node id="thursdaymotivation"/>
-<node id="naturephoto"/>
-<node id="newsqueen"/>
-<node id="reflection"/>
-<node id="factfriday"/>
-<node id="wednesdaythoughts"/>
-<node id="motivational"/>
-<node id="artist"/>
-<node id="positivemindset"/>
-<node id="gardenshour"/>
-<node id="globe"/>
-<node id="fridayfeels"/>
-<node id="kitten"/>
-<node id="सकारात्मक_संदेश"/>
-<node id="proudlyyou"/>
-<node id="answer"/>
-<node id="healthtipsbybapuji"/>
-<node id="tgif"/>
-<node id="lucentennialcelebrations"/>
-<node id="millefoglie"/>
-<node id="ees20"/>
-<node id="kaffee"/>
-<node id="pakkanen"/>
-<node id="icecream"/>
-<node id="fridayfeeling"/>
-<node id="nft"/>
-<node id="florence"/>
-<node id="shair"/>
-<node id="worklifebalance"/>
-<node id="cheesecake"/>
-<node id="देशभक्त"/>
-<node id="macro"/>
-<node id="thankyousafer"/>
-<node id="cowspiracy"/>
-<node id="dadijanki"/>
-<node id="earthpix"/>
-<node id="vinter"/>
-<node id="blogging"/>
-<node id="sunshine"/>
-<node id="marketingtips"/>
-<node id="renucreations"/>
-<node id="thewritingdesire"/>
-<node id="liberation"/>
-<node id="quotes"/>
-<node id="temple"/>
-<node id="freitag"/>
-<node id="twimbos"/>
-<node id="entrepreneurship"/>
-<node id="pyarkiiyeekkahani"/>
-<node id="eat"/>
-<node id="motivacion"/>
-<node id="games"/>
-<node id="hassistkeinemeinung"/>
-<node id="futurefridays"/>
-<node id="enjoyingeverydaylife"/>
-<node id="feedtheworld"/>
-<node id="festival"/>
-<node id="followerpower"/>
-<node id="zorahosen"/>
-<node id="bancomer"/>
-<node id="follome"/>
-<node id="luangprabang"/>
-<node id="followfriday"/>
-<node id="men"/>
 <node id="happiness"/>
-<node id="family"/>
-<node id="trending"/>
-<node id="mountains"/>
-<node id="retweetplease"/>
-<node id="foodbanks"/>
-<node id="movie"/>
-<node id="marketing"/>
-<node id="visu"/>
-<node id="ontario"/>
-<node id="abstractart"/>
-<node id="catsoftwitter"/>
-<node id="andieeigenenasefassen"/>
-<node id="writingcommmunity"/>
-<node id="ff"/>
-<node id="आशाराम"/>
-<node id="गाजियाबाद"/>
-<node id="fashionista"/>
+<node id="cat"/>
+<node id="review"/>
+<node id="saturdaythoughts"/>
+<node id="try"/>
+<node id="vaylatoken"/>
+<node id="opendefecationfreeindia"/>
 <node id="twitchtv"/>
-<node id="veganday"/>
-<node id="lacocinadeespaña"/>
-<node id="fridayvibes"/>
-<node id="stopthegrind"/>
-<node id="retweet"/>
-<node id="vocalkingchenday"/>
-<node id="gamer"/>
-<node id="cryptotrading"/>
-<node id="thoughts"/>
-<node id="success"/>
-<node id="thanksgivingwithblackfamilies"/>
-<node id="mentalhealth"/>
-<node id="ecoshopping"/>
-<node id="opseaworld"/>
-<node id="believe"/>
-<node id="teachers"/>
-<node id="live"/>
-<node id="bagneux2020"/>
-<node id="digitalmarketing"/>
-<node id="suku"/>
-<node id="reason"/>
-<node id="mediatrainer"/>
-<node id="tbtjuly2019"/>
-<node id="invest"/>
-<node id="streamer"/>
-<node id="ambientemw"/>
-<node id="cuomocommunity"/>
-<node id="meat"/>
-<node id="parc"/>
-<node id="weekendwithbae"/>
-<node id="neverwalkalone"/>
-<node id="blackfridayfights"/>
-<node id="nutorla"/>
-<node id="progress"/>
-<node id="heroes"/>
-<node id="planetearth"/>
-<node id="themorningflava"/>
-<node id="gelecekiçinkediler"/>
-<node id="denkmaldrübernach"/>
-<node id="happyfriday"/>
-<node id="thoughtoftheday"/>
-<node id="felizviernesatodos"/>
+<node id="janshakti4jalshakti"/>
+<node id="soilhealthcard"/>
+<node id="ambition"/>
+<node id="आशाराम"/>
+<node id="quizzed"/>
+<node id="friyay"/>
+<node id="mozzarella"/>
+<node id="december13th"/>
+<node id="goldenheart"/>
+<node id="rishikesh"/>
+<node id="weightloss"/>
+<node id="municipales"/>
+<node id="देशभक्त"/>
+<node id="dadijanki"/>
+<node id="fail"/>
+<node id="pmawasyojana"/>
 <node id="flowersonfriday"/>
-<node id="cryptocurrency"/>
-<node id="pasta"/>
-<node id="viareggio"/>
-<node id="goodvibes"/>
-<node id="unity"/>
-<node id="lumi"/>
-<node id="wakeup"/>
-<node id="cooking"/>
-<node id="horrorfamily"/>
-<node id="brain"/>
-<node id="animal"/>
-<node id="italy"/>
-<node id="gardeningtwitter"/>
-<node id="rahulgandhi"/>
-<node id="talkfriday"/>
-<node id="firenze"/>
-<node id="ymornings"/>
-<node id="allstars7"/>
-<node id="healthiswealth"/>
-<node id="supremeplaymarket"/>
-<node id="november1st"/>
-<node id="municipales2020"/>
-<node id="wise"/>
-<node id="respectanimals"/>
-<node id="microscopy"/>
-<node id="voiceover"/>
-<node id="wednesdaywisdom"/>
+<node id="thanksgivingdinner"/>
+<node id="reflection"/>
+<node id="btc"/>
+<node id="section144"/>
+<node id="gifgame"/>
+<node id="naturalskincare"/>
+<node id="iqrtg"/>
+<node id="travelblogger"/>
+<node id="twitterworld"/>
+<node id="costabrava"/>
+<node id="retweetplease"/>
+<node id="mrsindiarajasthan2019"/>
+<node id="crestedaily"/>
+<node id="zorasarahblogs"/>
+<node id="eat"/>
+<node id="loveall"/>
+<node id="venerdi13"/>
+<node id="loveearth"/>
+<node id="failure"/>
+<node id="ceo"/>
+<node id="जय_सिया_राम_जी"/>
+<node id="ffxiv"/>
+<node id="newsqueen"/>
+<node id="lockdown2"/>
+<node id="autumn"/>
+<node id="newindiarises"/>
+<node id="telangana"/>
+<node id="iamin"/>
+<node id="believe"/>
+<node id="airdrops"/>
+<node id="seo"/>
+<node id="bancomer"/>
+<node id="catsoftwitter"/>
+<node id="crestefamily"/>
+<node id="jivanjyotiyojana"/>
+<node id="playtime"/>
+<node id="jellybellyfriday"/>
+<node id="saladdays"/>
+<node id="animalliberation"/>
+<node id="veganday"/>
+<node id="windy"/>
+<node id="macro"/>
+<node id="rubiesallies"/>
+<node id="tacotuesday"/>
+<node id="felizviernesatodos"/>
+<node id="themorningflava"/>
+<node id="dogsoftwittter"/>
+<node id="thursdaymotivation"/>
+<node id="wonderful"/>
+<node id="gelecekiçinkediler"/>
+<node id="worldveganday"/>
+<node id="nationalrescuedogday"/>
+<node id="flowers"/>
+<node id="globe"/>
+<node id="workout"/>
+<node id="motivationalquotes"/>
+<node id="impeachmentinquiry"/>
+<node id="mentalhealth"/>
+<node id="icoalert"/>
+<node id="biodiveristy"/>
+<node id="denkmaldrübernach"/>
 <node id="beinspired"/>
+<node id="arresttrump"/>
+<node id="macysblackfriday"/>
+<node id="smile"/>
+<node id="coronavirusuk"/>
+<node id="milestone"/>
+<node id="vocalkingchenday"/>
+<node id="स्वदेशी"/>
+<node id="lumi"/>
+<node id="millefoglie"/>
+<node id="skincare"/>
+<node id="togetherwefindtheway"/>
+<node id="ejecafetero"/>
+<node id="motivacion"/>
+<node id="decision"/>
+<node id="tukslaw"/>
+<node id="milchkuhmittwoch"/>
+<node id="hola"/>
+<node id="selfiequeen"/>
+<node id="defendthewild"/>
+<node id="ourplanet"/>
+<node id="enthusiasm"/>
+<node id="lockdownextension"/>
+<node id="singlesrelationships"/>
+<node id="stayconnectedtogether"/>
+<node id="mondaymorning"/>
+<node id="environmentmw"/>
+<node id="beans"/>
+<node id="stockedge"/>
+<node id="saafniyatsahivikas"/>
+<node id="weatherforecast"/>
+<node id="earthpix"/>
+<node id="targetfivetrillion"/>
+<node id="surprise"/>
+<node id="kaffee"/>
+<node id="writingcommunity"/>
+<node id="abstractart"/>
+<node id="impeachmentparty"/>
+<node id="blogging"/>
+<node id="follome"/>
+<node id="abstract"/>
+<node id="team"/>
+<node id="prayer"/>
+<node id="ocean"/>
+<node id="renucreations"/>
+<node id="growthhacking"/>
+<node id="sukirtikandpal"/>
+<node id="fridayfitness"/>
+<node id="contest"/>
+<node id="abstorm"/>
+<node id="bagneux2020"/>
+<node id="गाजियाबाद"/>
+<node id="flatearth"/>
+<node id="cats_of_world"/>
+<node id="positivemindset"/>
+<node id="leftovers"/>
+<node id="best"/>
+<node id="healthy"/>
+<node id="page48"/>
+<node id="clothing"/>
+<node id="veganlifestyle"/>
+<node id="buonaserata"/>
+<node id="now"/>
+<node id="fridayfunny"/>
+<node id="schools"/>
+<node id="kohlsblackfriday"/>
+<node id="freitag"/>
+<node id="happyeaster"/>
+<node id="beautytips"/>
+<node id="tuesdaymotivation"/>
+<node id="ideas"/>
+<node id="municipales2020"/>
+<node id="modihaitomumkinhai"/>
+<node id="hassistkeinemeinung"/>
+<node id="quiz"/>
+<node id="landscape"/>
+<node id="nikon"/>
+<node id="झूठे_रेप_केस_में_बढ़ोतरी"/>
+<node id="quarantena"/>
+<node id="bepositive"/>
+<node id="dolphinday"/>
+<node id="anchor"/>
+<node id="2local"/>
+<node id="kakatiyadynasty"/>
+<node id="ukrainegate"/>
+<node id="felizfindesemana"/>
+<node id="morningglory"/>
+<node id="lifestyle"/>
+<node id="boxingday2019"/>
+<node id="flower"/>
+<node id="thursdayvibes"/>
+<node id="lasagne"/>
+<node id="mediatrainer"/>
+<node id="positive"/>
+<node id="followfriday"/>
+<node id="vaylaiens"/>
+<node id="iorestoacasa"/>
+<node id="kills"/>
+<node id="thenationnews"/>
 <node id="batido"/>
-<edge source="janshakti4jalshakti" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="contestindia">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="contestalertindia">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="contesttime">
-  <data key="d0">1</data>
-</edge>
-<edge source="quizzed" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="travelcorridor" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="travelcorridor" target="goodmorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="travelcorridor" target="eat">
-  <data key="d0">1</data>
-</edge>
-<edge source="yummy" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="yummy" target="fridayfeeling">
-  <data key="d0">2</data>
-</edge>
-<edge source="yummy" target="food">
-  <data key="d0">2</data>
-</edge>
-<edge source="yummy" target="blogging">
-  <data key="d0">1</data>
-</edge>
-<edge source="yummy" target="foodblog">
-  <data key="d0">1</data>
-</edge>
-<edge source="yummy" target="dinner">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="gardening">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="flowersonfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="macro">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="macrophotography">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="gardeningtwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="naturephoto">
-  <data key="d0">1</data>
-</edge>
-<edge source="flowerreport" target="gardenshour">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="fridayfeeling">
-  <data key="d0">2</data>
-</edge>
-<edge source="saturdayvibes" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="thursdayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="yyc">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="wednesdaythoughts">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="wednesdaywisdom">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="indiegamedev">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="games">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="game">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="programmer">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="unity">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="positivemindset">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="vocal4local">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="positivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="सकारात्मक_संदेश">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="abstorm">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="caturday">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="skincare">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="beautytips">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdayvibes" target="review">
-  <data key="d0">1</data>
-</edge>
-<edge source="biggest" target="city">
-  <data key="d0">1</data>
-</edge>
-<edge source="biggest" target="offers">
-  <data key="d0">1</data>
-</edge>
-<edge source="biggest" target="2local">
-  <data key="d0">1</data>
-</edge>
-<edge source="biggest" target="invest">
-  <data key="d0">1</data>
-</edge>
-<edge source="biggest" target="finance">
-  <data key="d0">1</data>
-</edge>
-<edge source="anon" target="fridayreads">
-  <data key="d0">1</data>
-</edge>
-<edge source="anon" target="artist">
-  <data key="d0">1</data>
-</edge>
-<edge source="digitalindia" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="digitalindia" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="btc" target="airdrops">
-  <data key="d0">1</data>
-</edge>
-<edge source="hautsdeseine" target="bagneux">
-  <data key="d0">1</data>
-</edge>
-<edge source="hautsdeseine" target="parc">
-  <data key="d0">1</data>
-</edge>
-<edge source="hautsdeseine" target="municipales">
-  <data key="d0">1</data>
-</edge>
-<edge source="gardening" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="gardening" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="gardening" target="food">
-  <data key="d0">1</data>
-</edge>
-<edge source="gardening" target="fruits">
-  <data key="d0">1</data>
-</edge>
-<edge source="gardening" target="gardenshour">
-  <data key="d0">1</data>
-</edge>
-<edge source="skincare" target="thursdayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="skincare" target="wednesdaywisdom">
-  <data key="d0">1</data>
-</edge>
-<edge source="skincare" target="naturalbeauty">
-  <data key="d0">1</data>
-</edge>
-<edge source="skincare" target="beautytips">
-  <data key="d0">1</data>
-</edge>
-<edge source="dream" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="dream" target="peace">
-  <data key="d0">1</data>
-</edge>
-<edge source="dream" target="keepdreaming">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestalertindia" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestalertindia" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestalertindia" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestalertindia" target="contestindia">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestalertindia" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="friends" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="friends" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="friends" target="fridaymadness">
-  <data key="d0">1</data>
-</edge>
-<edge source="seaspiracy" target="justice">
-  <data key="d0">1</data>
-</edge>
-<edge source="seaspiracy" target="stopthegrind">
-  <data key="d0">1</data>
-</edge>
-<edge source="seaspiracy" target="opwhales">
-  <data key="d0">1</data>
-</edge>
-<edge source="seaspiracy" target="opseaworld">
-  <data key="d0">1</data>
-</edge>
-<edge source="seaspiracy" target="cowspiracy">
-  <data key="d0">1</data>
-</edge>
-<edge source="pflanzenbasierte" target="milchkuhmittwoch">
-  <data key="d0">1</data>
-</edge>
-<edge source="nikonnofilter" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="nikonnofilter" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="nikonnofilter" target="photographer">
-  <data key="d0">1</data>
-</edge>
-<edge source="nikonnofilter" target="costabrava">
-  <data key="d0">1</data>
-</edge>
-<edge source="neversurrender" target="goodmorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="thursdayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="wednesdaythoughts">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="wednesdaywisdom">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="flowersonfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="macro">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="macrophotography">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturalbeauty" target="gardeningtwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="myyoutubechannelwouldbe" target="foodblog">
-  <data key="d0">1</data>
-</edge>
-<edge source="myyoutubechannelwouldbe" target="cooking">
-  <data key="d0">1</data>
-</edge>
-<edge source="myyoutubechannelwouldbe" target="recipe">
-  <data key="d0">1</data>
-</edge>
-<edge source="myyoutubechannelwouldbe" target="parnellthechef">
-  <data key="d0">1</data>
-</edge>
-<edge source="smile" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="smile" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="smile" target="condition">
-  <data key="d0">1</data>
-</edge>
-<edge source="smile" target="reason">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlelife" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlelife" target="answer">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlelife" target="singleserving">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlelife" target="singlesrelationships">
-  <data key="d0">1</data>
-</edge>
-<edge source="outdoorlearning" target="teachers">
-  <data key="d0">1</data>
-</edge>
-<edge source="buonanotte" target="buonaserata">
-  <data key="d0">1</data>
-</edge>
-<edge source="buonanotte" target="marvelousnature">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="quotes">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="happyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="iqrtg">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="enjoyingeverydaylife">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="twitteroftime">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="beinspired">
-  <data key="d0">1</data>
-</edge>
-<edge source="quote" target="moresarawak">
-  <data key="d0">1</data>
-</edge>
-<edge source="vocal4local" target="positivemindset">
+<node id="gamer"/>
+<node id="thefuturewechoose"/>
+<node id="invest"/>
+<node id="americanpolish"/>
+<node id="noracism"/>
+<node id="offers"/>
+<node id="community"/>
+<node id="pmblessinglu"/>
+<node id="worldanimalwelfareday"/>
+<node id="gardenshour"/>
+<node id="pkyek"/>
+<node id="2019mademerealize"/>
+<node id="brekfast"/>
+<node id="flowerreport"/>
+<node id="condition"/>
+<node id="futurefridays"/>
+<node id="indiaagainstpollution"/>
+<node id="cardano"/>
+<node id="germantwitchrt"/>
+<node id="fleisch"/>
+<node id="cryptotrading"/>
+<node id="windingdown2019"/>
+<node id="lacocinadeespaña"/>
+<node id="goodnewstoday"/>
+<node id="ddquiz"/>
+<node id="pflanzenbasierte"/>
+<node id="saturdaymorning"/>
+<node id="contestalertindia"/>
+<node id="vocal4local"/>
+<node id="renu"/>
+<node id="potd"/>
+<node id="opwhales"/>
+<node id="ees20"/>
+<node id="vermont"/>
+<node id="caturday"/>
+<node id="grandparis"/>
+<node id="ऋषि_प्रसाद"/>
+<node id="prison"/>
+<node id="urdupoetry"/>
+<node id="success"/>
+<node id="nichtakleubereinenkammscheren"/>
+<node id="act"/>
+<node id="firenze"/>
+<node id="desserts"/>
+<node id="fridayfeeling"/>
+<node id="cowspiracy"/>
+<node id="wednesdaywisdom"/>
+<node id="fridayvibe"/>
+<node id="flashbackfriday"/>
+<node id="dennisthemenace"/>
+<node id="leftovertunes"/>
+<node id="gutenmorgen"/>
+<node id="pasta"/>
+<node id="photooftheday"/>
+<node id="shair"/>
+<node id="fridayfeels"/>
+<node id="yummy"/>
+<node id="karma"/>
+<node id="december"/>
+<node id="food"/>
+<node id="worldvegetarianday"/>
+<node id="keepdreaming"/>
+<node id="poetry"/>
+<node id="wellbeing"/>
+<node id="leadership"/>
+<node id="quiznight"/>
+<node id="decemberwish"/>
+<node id="yum"/>
+<node id="animalcruelty"/>
+<node id="skincaretips"/>
+<node id="friday"/>
+<node id="games"/>
+<node id="cheesecake"/>
+<node id="livelife"/>
+<node id="yourself"/>
+<node id="ladyofthe4threalm"/>
+<node id="neverwalkalone"/>
+<node id="snow"/>
+<node id="fridaymorning"/>
+<node id="generalelection2019"/>
+<node id="buffaloeshustles"/>
+<node id="chalukyadynasty"/>
+<node id="naturephoto"/>
+<node id="nationalendangeredspeciesday"/>
+<node id="enjoyingeverydaylife"/>
+<node id="nuhrimersten"/>
+<node id="feedtheworld"/>
+<node id="interiordesign"/>
+<node id="naturephotography"/>
+<node id="rajajitigerreserve"/>
+<node id="veganism"/>
+<node id="wales"/>
+<node id="fridaythoughts"/>
+<node id="greenfriday"/>
+<node id="cake"/>
+<node id="thoughtfortheday"/>
+<node id="fridayheadlines"/>
+<node id="bigschoolsbirdwatch"/>
+<node id="swadeshi"/>
+<node id="clearskin"/>
+<node id="dussara"/>
+<node id="tweetme"/>
+<node id="बापूजी"/>
+<node id="recipe"/>
+<node id="fleischwende"/>
+<node id="sociamedia"/>
+<node id="neversurrender"/>
+<node id="lifemantrabypriya"/>
+<node id="microscopy"/>
+<node id="ethnic"/>
+<node id="streamacademyrt"/>
+<node id="लखनऊ_विश्वविद्यालय"/>
+<node id="youthworkwales"/>
+<node id="weather"/>
+<node id="live"/>
+<node id="iomangiodacasa"/>
+<node id="freshness"/>
+<node id="wet"/>
+<node id="love"/>
+<node id="running"/>
+<node id="indicttrump"/>
+<node id="sunset"/>
+<node id="entrepreneurship"/>
+<node id="moresarawak"/>
+<node id="howiwonblackfriday"/>
+<node id="gardeningtwitter"/>
+<node id="skincareroutine"/>
+<node id="auchmalneanderemeinungzulassen"/>
+<node id="morningquotes"/>
+<node id="mentalhealthawareness"/>
+<node id="pie"/>
+<node id="youtuber募集"/>
+<node id="fridayreads"/>
+<node id="iphone11"/>
+<node id="truth"/>
+<node id="cardi"/>
+<node id="waterfall"/>
+<node id="thenun"/>
+<node id="planetaazul"/>
+<node id="selfietime"/>
+<node id="relation"/>
+<node id="thecorporatelady"/>
+<node id="marketingstrategy"/>
+<node id="florence"/>
+<node id="size"/>
+<node id="vya"/>
+<node id="contestindia"/>
+<node id="temple"/>
+<node id="zerohunger"/>
+<node id="rain"/>
+<node id="morningmotivation"/>
+<node id="flowerpower"/>
+<node id="iosuonodacasa"/>
+<node id="gaming"/>
+<node id="digitalmarketing"/>
+<node id="naturalbeauty"/>
+<node id="newindia"/>
+<node id="dharshan"/>
+<node id="supremeplay"/>
+<node id="ligue_des_optimistes"/>
+<node id="motivation"/>
+<node id="fridayfunday"/>
+<node id="cryptocurrency"/>
+<node id="günaydın"/>
+<node id="suku"/>
+<node id="earthcapture"/>
+<node id="supremeplaymarket"/>
+<node id="weekendvibes"/>
+<node id="wakeup"/>
+<node id="andieeigenenasefassen"/>
+<node id="nikonnofilter"/>
+<node id="rishta"/>
+<node id="seaspiracy"/>
+<node id="sweet"/>
+<node id="dependent"/>
+<node id="talkfriday"/>
+<edge source="letsgrowtogether" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="letsgrowtogether" target="crestefamily">
+  <data key="d0">1</data>
+</edge>
+<edge source="letsgrowtogether" target="prayer">
+  <data key="d0">1</data>
+</edge>
+<edge source="focus" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodmorning" target="fridaythoughts">
   <data key="d0">3</data>
-</edge>
-<edge source="vocal4local" target="देशभक्त">
-  <data key="d0">1</data>
-</edge>
-<edge source="vocal4local" target="positivity">
-  <data key="d0">2</data>
-</edge>
-<edge source="vocal4local" target="सकारात्मक_संदेश">
-  <data key="d0">3</data>
-</edge>
-<edge source="vocal4local" target="lucentennialcelebrations">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldvegetarianday" target="vegispowerful">
-  <data key="d0">1</data>
-</edge>
-<edge source="iqrtg" target="happyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="iqrtg" target="twitteroftime">
-  <data key="d0">1</data>
-</edge>
-<edge source="huhtikuu" target="toukokuun">
-  <data key="d0">1</data>
-</edge>
-<edge source="huhtikuu" target="kevät">
-  <data key="d0">1</data>
-</edge>
-<edge source="iorestoacasa" target="food">
-  <data key="d0">1</data>
-</edge>
-<edge source="iorestoacasa" target="iomangiodacasa">
-  <data key="d0">1</data>
-</edge>
-<edge source="buonaserata" target="marvelousnature">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="fridayreads">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="selfiequeen">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="sukirti">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="viviandsena">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="suku">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfietime" target="renucreations">
-  <data key="d0">1</data>
-</edge>
-<edge source="bhadrakali" target="temple">
-  <data key="d0">1</data>
-</edge>
-<edge source="bhadrakali" target="festival">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="happiness">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="wise">
-  <data key="d0">1</data>
-</edge>
-<edge source="sadhguruquotes" target="motivacion">
-  <data key="d0">1</data>
-</edge>
-<edge source="timezone" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="timezone" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="timezone" target="catsoftwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="timezone" target="caturday">
-  <data key="d0">1</data>
-</edge>
-<edge source="swachhatajaarihai" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="malaysia" target="moresarawak">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="justice">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="cher">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="animal">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="freedom">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="nationalrescuedogday">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="nationalendangeredspeciesday">
-  <data key="d0">1</data>
-</edge>
-<edge source="endspeciesism" target="animals">
-  <data key="d0">2</data>
-</edge>
-<edge source="endspeciesism" target="speciesism">
-  <data key="d0">2</data>
-</edge>
-<edge source="endspeciesism" target="respectanimals">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfunny" target="fridayvibes">
-  <data key="d0">5</data>
-</edge>
-<edge source="fridayfunny" target="fridaymorning">
-  <data key="d0">5</data>
-</edge>
-<edge source="game" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="game" target="indiegamedev">
-  <data key="d0">1</data>
-</edge>
-<edge source="game" target="indie">
-  <data key="d0">1</data>
-</edge>
-<edge source="game" target="games">
-  <data key="d0">1</data>
-</edge>
-<edge source="game" target="programmer">
-  <data key="d0">1</data>
-</edge>
-<edge source="game" target="unity">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="healthy">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="goodmorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="positivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="running" target="workout">
-  <data key="d0">1</data>
-</edge>
-<edge source="ऋषि_प्रसाद" target="healthtipsbybapuji">
-  <data key="d0">1</data>
-</edge>
-<edge source="ddquiz" target="contestofchampions">
-  <data key="d0">1</data>
-</edge>
-<edge source="ddquiz" target="lockdown2">
-  <data key="d0">1</data>
-</edge>
-<edge source="ddquiz" target="movie">
-  <data key="d0">1</data>
-</edge>
-<edge source="amigos" target="food">
-  <data key="d0">1</data>
-</edge>
-<edge source="amigos" target="receta">
-  <data key="d0">1</data>
-</edge>
-<edge source="amigos" target="lacocinadeespaña">
-  <data key="d0">1</data>
-</edge>
-<edge source="amigos" target="batido">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlesrelationships" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlesrelationships" target="answer">
-  <data key="d0">1</data>
-</edge>
-<edge source="singlesrelationships" target="singleserving">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="fridayvibes">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayreads" target="fridayfeeling">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayreads" target="artist">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="selfiequeen">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="sukirti">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="viviandsena">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="suku">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayreads" target="renucreations">
-  <data key="d0">1</data>
-</edge>
-<edge source="mithileshbaria" target="waahmuz">
-  <data key="d0">1</data>
-</edge>
-<edge source="mithileshbaria" target="voiceover">
-  <data key="d0">1</data>
-</edge>
-<edge source="ceoquotes" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="ceoquotes" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="ceoquotes" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="ceoquotes" target="ees20">
-  <data key="d0">1</data>
-</edge>
-<edge source="vine" target="fridaymorning">
-  <data key="d0">2</data>
-</edge>
-<edge source="vine" target="blackfridayfights">
-  <data key="d0">2</data>
-</edge>
-<edge source="vine" target="howiwonblackfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="gutenmorgen" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="gutenmorgen" target="freitag">
-  <data key="d0">2</data>
-</edge>
-<edge source="gutenmorgen" target="kaffee">
-  <data key="d0">2</data>
-</edge>
-<edge source="gutenmorgen" target="wochenende">
-  <data key="d0">2</data>
-</edge>
-<edge source="gutenmorgen" target="happyfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="twitteroftime" target="happyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitteroftime" target="enjoyingeverydaylife">
-  <data key="d0">1</data>
-</edge>
-<edge source="flashbackfridayz" target="photographer">
-  <data key="d0">1</data>
-</edge>
-<edge source="flashbackfridayz" target="thewritingdesire">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfiequeen" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfiequeen" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfiequeen" target="viviandsena">
-  <data key="d0">1</data>
-</edge>
-<edge source="selfiequeen" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="peace" target="fridayfeeling">
-  <data key="d0">2</data>
-</edge>
-<edge source="peace" target="dadijanki">
-  <data key="d0">1</data>
-</edge>
-<edge source="theweekendfavour" target="themorningflava">
-  <data key="d0">1</data>
-</edge>
-<edge source="keepdreaming" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="justice">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="captivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="opwhales">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="opseaworld">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="cowspiracy">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="wednesdaywisdom">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="wednesdaythoughts">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdayvibes" target="beautytips">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdaythoughts" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdaythoughts" target="thursdaymotivation">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdaythoughts" target="microscopy">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdaythoughts" target="fashionista">
-  <data key="d0">1</data>
-</edge>
-<edge source="saturdaythoughts" target="abstractart">
-  <data key="d0">1</data>
-</edge>
-<edge source="thanksgivingdinner" target="blackfriday2019">
-  <data key="d0">1</data>
-</edge>
-<edge source="thanksgivingdinner" target="thanksgivingwithblackfamilies">
-  <data key="d0">1</data>
-</edge>
-<edge source="thanksgivingdinner" target="blackfridayfights">
-  <data key="d0">1</data>
-</edge>
-<edge source="thanksgivingdinner" target="diaryoftips">
-  <data key="d0">1</data>
-</edge>
-<edge source="goodmorning" target="goodmorningeveryone">
-  <data key="d0">1</data>
 </edge>
 <edge source="goodmorning" target="fridayfeeling">
   <data key="d0">6</data>
 </edge>
+<edge source="goodmorning" target="friday">
+  <data key="d0">1</data>
+</edge>
 <edge source="goodmorning" target="fridaymorning">
   <data key="d0">4</data>
 </edge>
-<edge source="goodmorning" target="cuomocommunity">
+<edge source="goodmorning" target="healthy">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorning" target="positivity">
+<edge source="goodmorning" target="goodnewstoday">
   <data key="d0">1</data>
 </edge>
 <edge source="goodmorning" target="eat">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorning" target="something">
+<edge source="goodmorning" target="running">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorning" target="fridaylove">
+<edge source="goodmorning" target="try">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorning" target="fortnite">
+<edge source="goodmorning" target="positive">
+  <data key="d0">1</data>
+</edge>
+<edge source="goodmorning" target="wonderful">
   <data key="d0">1</data>
 </edge>
 <edge source="goodmorning" target="workout">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorning" target="congress">
+<edge source="goodmorning" target="günaydın">
   <data key="d0">1</data>
 </edge>
-<edge source="care" target="fridayvibes">
+<edge source="goodmorning" target="neversurrender">
   <data key="d0">1</data>
 </edge>
-<edge source="care" target="fridayfeeling">
+<edge source="happiness" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="care" target="live">
+<edge source="happiness" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="care" target="condition">
+<edge source="happiness" target="fridaymorning">
   <data key="d0">1</data>
 </edge>
-<edge source="care" target="reason">
+<edge source="happiness" target="motivacion">
   <data key="d0">1</data>
 </edge>
-<edge source="switzerland" target="fridayfeeling">
+<edge source="happiness" target="ambition">
   <data key="d0">1</data>
 </edge>
-<edge source="switzerland" target="friyay">
+<edge source="cat" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="2local" target="city">
+<edge source="cat" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="2local" target="offers">
+<edge source="cat" target="catsoftwitter">
   <data key="d0">1</data>
 </edge>
-<edge source="2local" target="invest">
-  <data key="d0">1</data>
-</edge>
-<edge source="2local" target="finance">
-  <data key="d0">1</data>
-</edge>
-<edge source="compassionateliving" target="meat">
-  <data key="d0">1</data>
-</edge>
-<edge source="wochenende" target="freitag">
-  <data key="d0">2</data>
-</edge>
-<edge source="wochenende" target="kaffee">
-  <data key="d0">2</data>
-</edge>
-<edge source="wochenende" target="happyfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="wochenende" target="germanmediart">
-  <data key="d0">1</data>
-</edge>
-<edge source="wochenende" target="streamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="wochenende" target="primenightrt">
-  <data key="d0">1</data>
-</edge>
-<edge source="speciesism" target="animals">
-  <data key="d0">2</data>
-</edge>
-<edge source="speciesism" target="respectanimals">
-  <data key="d0">1</data>
-</edge>
-<edge source="workout" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="workout" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="workout" target="positivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="elearnmarkets" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="elearnmarkets" target="trending">
-  <data key="d0">1</data>
-</edge>
-<edge source="europeday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="europeday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="howiwonblackfriday" target="fridaymorning">
-  <data key="d0">2</data>
-</edge>
-<edge source="howiwonblackfriday" target="blackfridayfights">
-  <data key="d0">2</data>
-</edge>
-<edge source="area51storm" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="area51storm" target="stormingarea51">
-  <data key="d0">1</data>
-</edge>
-<edge source="area51storm" target="6ix9ine">
-  <data key="d0">1</data>
-</edge>
-<edge source="area51storm" target="bancomer">
-  <data key="d0">1</data>
-</edge>
-<edge source="seo" target="marketingtips">
-  <data key="d0">1</data>
-</edge>
-<edge source="seo" target="marketing">
-  <data key="d0">1</data>
-</edge>
-<edge source="seo" target="growthhacking">
-  <data key="d0">1</data>
-</edge>
-<edge source="finance" target="city">
-  <data key="d0">1</data>
-</edge>
-<edge source="finance" target="invest">
-  <data key="d0">1</data>
-</edge>
-<edge source="opwhales" target="captivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="opwhales" target="stopthegrind">
-  <data key="d0">1</data>
-</edge>
-<edge source="opwhales" target="opseaworld">
-  <data key="d0">1</data>
-</edge>
-<edge source="opwhales" target="happyeaster">
-  <data key="d0">1</data>
-</edge>
-<edge source="opwhales" target="cowspiracy">
-  <data key="d0">1</data>
-</edge>
-<edge source="prayer" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="corgicrew" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="fortnite" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="fortnite" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="fortnite" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="toukokuun" target="lumi">
-  <data key="d0">1</data>
-</edge>
-<edge source="toukokuun" target="kevät">
-  <data key="d0">1</data>
-</edge>
-<edge source="rajajitigerreserve" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="rajajitigerreserve" target="twitternaturecommunity">
-  <data key="d0">1</data>
-</edge>
-<edge source="rajajitigerreserve" target="earthpix">
-  <data key="d0">1</data>
-</edge>
-<edge source="macysblackfriday" target="fridaymorning">
-  <data key="d0">2</data>
-</edge>
-<edge source="macysblackfriday" target="blackfridayfights">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridaylove" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaylove" target="wonderful">
-  <data key="d0">1</data>
-</edge>
-<edge source="contesttime" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="contesttime" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="contesttime" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="contesttime" target="contestindia">
-  <data key="d0">1</data>
-</edge>
-<edge source="contesttime" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="mutantfam" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="mutantfam" target="horrorfamily">
-  <data key="d0">1</data>
-</edge>
-<edge source="mutantfam" target="freakyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="beautytips" target="wednesdaythoughts">
-  <data key="d0">1</data>
-</edge>
-<edge source="beautytips" target="wednesdaywisdom">
-  <data key="d0">1</data>
-</edge>
-<edge source="potd" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="potd" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="potd" target="photographer">
-  <data key="d0">1</data>
-</edge>
-<edge source="potd" target="costabrava">
-  <data key="d0">1</data>
-</edge>
-<edge source="photographer" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="photographer" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="photographer" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="photographer" target="costabrava">
-  <data key="d0">1</data>
-</edge>
-<edge source="photographer" target="thewritingdesire">
-  <data key="d0">1</data>
-</edge>
-<edge source="indie" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="indie" target="games">
-  <data key="d0">1</data>
-</edge>
-<edge source="indie" target="programmer">
-  <data key="d0">1</data>
-</edge>
-<edge source="indie" target="unity">
+<edge source="cat" target="cats_of_world">
   <data key="d0">1</data>
 </edge>
 <edge source="review" target="fridayfeeling">
@@ -1377,247 +452,199 @@
 <edge source="review" target="food">
   <data key="d0">1</data>
 </edge>
-<edge source="review" target="hamont">
+<edge source="review" target="youtuber募集">
   <data key="d0">1</data>
 </edge>
-<edge source="review" target="stormingarea51">
+<edge source="saturdaythoughts" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="review" target="hamilton">
+<edge source="saturdaythoughts" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="biodiveristy" target="food">
+<edge source="saturdaythoughts" target="saturdaymorning">
   <data key="d0">1</data>
 </edge>
-<edge source="biodiveristy" target="animals">
+<edge source="saturdaythoughts" target="thursdaymotivation">
   <data key="d0">1</data>
 </edge>
-<edge source="biodiveristy" target="farming">
+<edge source="saturdaythoughts" target="microscopy">
   <data key="d0">1</data>
 </edge>
-<edge source="viviandsena" target="fridayfeeling">
+<edge source="saturdaythoughts" target="interiordesign">
   <data key="d0">1</data>
 </edge>
-<edge source="viviandsena" target="pyarkiiyeekkahani">
+<edge source="saturdaythoughts" target="abstract">
   <data key="d0">1</data>
 </edge>
-<edge source="viviandsena" target="sukirti">
+<edge source="saturdaythoughts" target="abstractart">
   <data key="d0">1</data>
 </edge>
-<edge source="viviandsena" target="visu">
+<edge source="try" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="viviandsena" target="suku">
+<edge source="try" target="friday">
   <data key="d0">1</data>
 </edge>
-<edge source="food" target="fridayfeeling">
-  <data key="d0">5</data>
-</edge>
-<edge source="food" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="dinner">
-  <data key="d0">2</data>
-</edge>
-<edge source="food" target="foodbanks">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="iomangiodacasa">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="fridaykiss">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="recipe">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="hamont">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="receta">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="lacocinadeespaña">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="batido">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="stormingarea51">
-  <data key="d0">1</data>
-</edge>
-<edge source="food" target="hamilton">
-  <data key="d0">1</data>
-</edge>
-<edge source="freakyfriday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="airdrops" target="nft">
-  <data key="d0">1</data>
-</edge>
-<edge source="airdrops" target="entrepreneurship">
-  <data key="d0">1</data>
-</edge>
-<edge source="foodblog" target="blogging">
+<edge source="try" target="positive">
   <data key="d0">1</data>
 </edge>
-<edge source="foodblog" target="cooking">
+<edge source="try" target="wonderful">
   <data key="d0">1</data>
 </edge>
-<edge source="foodblog" target="parnellthechef">
+<edge source="vaylatoken" target="vya">
   <data key="d0">1</data>
 </edge>
-<edge source="resist" target="ff">
+<edge source="vaylatoken" target="vaylaiens">
   <data key="d0">1</data>
 </edge>
-<edge source="resist" target="followfriday">
+<edge source="opendefecationfreeindia" target="newindiarises">
   <data key="d0">1</data>
 </edge>
-<edge source="resist" target="writingcommmunity">
+<edge source="opendefecationfreeindia" target="saafniyatsahivikas">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="fridayvibes">
+<edge source="opendefecationfreeindia" target="modihaitomumkinhai">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="animal">
+<edge source="twitchtv" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="liberation">
+<edge source="twitchtv" target="gamer">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="sentient">
+<edge source="twitchtv" target="germantwitchrt">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="nationalendangeredspeciesday">
+<edge source="twitchtv" target="streamacademyrt">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="captivity">
+<edge source="janshakti4jalshakti" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="stopthegrind">
+<edge source="janshakti4jalshakti" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="opseaworld">
+<edge source="janshakti4jalshakti" target="waterfall">
   <data key="d0">1</data>
 </edge>
-<edge source="justice" target="cowspiracy">
+<edge source="soilhealthcard" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="beans" target="breakfast">
+<edge source="soilhealthcard" target="modihaitomumkinhai">
   <data key="d0">1</data>
 </edge>
-<edge source="beans" target="breakfastclub">
+<edge source="ambition" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="healthy" target="fridayvibes">
+<edge source="ambition" target="motivacion">
   <data key="d0">1</data>
 </edge>
-<edge source="healthy" target="fridaymorning">
+<edge source="आशाराम" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="ejecafetero" target="fridayfeeling">
+<edge source="आशाराम" target="गाजियाबाद">
   <data key="d0">1</data>
 </edge>
-<edge source="ejecafetero" target="planetaazul">
+<edge source="quizzed" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="stockmarketindia" target="fridayvibes">
+<edge source="quizzed" target="contest">
   <data key="d0">1</data>
 </edge>
-<edge source="stockmarketindia" target="trending">
+<edge source="quizzed" target="contestindia">
   <data key="d0">1</data>
 </edge>
-<edge source="waahmuz" target="shair">
+<edge source="quizzed" target="contestalertindia">
   <data key="d0">1</data>
 </edge>
-<edge source="nichtakleubereinenkammscheren" target="germanmediart">
+<edge source="quizzed" target="quiz">
   <data key="d0">1</data>
 </edge>
-<edge source="nichtakleubereinenkammscheren" target="retweetplease">
+<edge source="quizzed" target="quiznight">
   <data key="d0">1</data>
 </edge>
-<edge source="nichtakleubereinenkammscheren" target="denkmaldrübernach">
+<edge source="quizzed" target="friyay">
   <data key="d0">1</data>
-</edge>
-<edge source="nichtakleubereinenkammscheren" target="andieeigenenasefassen">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="cher">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="animal">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="sentient">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalendangeredspeciesday" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="condition" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="condition" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="supremeplay" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="supremeplay" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="supremeplay" target="nutorla">
-  <data key="d0">1</data>
-</edge>
-<edge source="supremeplay" target="proudlyyou">
-  <data key="d0">1</data>
-</edge>
-<edge source="supremeplay" target="supremeplaymarket">
-  <data key="d0">1</data>
-</edge>
-<edge source="goodmorningeveryone" target="fridayvibes">
-  <data key="d0">2</data>
-</edge>
-<edge source="goodmorningeveryone" target="fridaymorning">
-  <data key="d0">2</data>
 </edge>
-<edge source="goodmorningeveryone" target="fridayfeeling">
+<edge source="friyay" target="fridaythoughts">
   <data key="d0">3</data>
 </edge>
-<edge source="goodmorningeveryone" target="success">
+<edge source="friyay" target="weekendvibes">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorningeveryone" target="brain">
+<edge source="friyay" target="contest">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorningeveryone" target="thoughts">
-  <data key="d0">2</data>
-</edge>
-<edge source="goodmorningeveryone" target="believe">
+<edge source="friyay" target="contestindia">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorningeveryone" target="wakeup">
+<edge source="friyay" target="quiz">
   <data key="d0">1</data>
 </edge>
-<edge source="goodmorningeveryone" target="shootmode">
+<edge source="friyay" target="quiznight">
   <data key="d0">1</data>
 </edge>
-<edge source="municipales" target="bagneux">
+<edge source="friyay" target="catsoftwitter">
   <data key="d0">1</data>
 </edge>
-<edge source="municipales" target="parc">
+<edge source="friyay" target="caturday">
+  <data key="d0">1</data>
+</edge>
+<edge source="friyay" target="animalcruelty">
+  <data key="d0">1</data>
+</edge>
+<edge source="friyay" target="weightloss">
+  <data key="d0">1</data>
+</edge>
+<edge source="mozzarella" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="mozzarella" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="mozzarella" target="surprise">
+  <data key="d0">1</data>
+</edge>
+<edge source="december13th" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="december13th" target="thoughtfortheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="december13th" target="decemberwish">
+  <data key="d0">1</data>
+</edge>
+<edge source="december13th" target="december">
+  <data key="d0">1</data>
+</edge>
+<edge source="goldenheart" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="goldenheart" target="success">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="naturephotography">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="rajajitigerreserve">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="earthcapture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rishikesh" target="earthpix">
+  <data key="d0">1</data>
+</edge>
+<edge source="weightloss" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="weightloss" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="municipales" target="greenfriday">
   <data key="d0">1</data>
 </edge>
 <edge source="municipales" target="municipales2020">
@@ -1626,1165 +653,145 @@
 <edge source="municipales" target="bagneux2020">
   <data key="d0">1</data>
 </edge>
-<edge source="behindthescenes" target="catsoftwitter">
+<edge source="municipales" target="grandparis">
   <data key="d0">1</data>
 </edge>
-<edge source="behindthescenes" target="tbtjuly2019">
+<edge source="देशभक्त" target="positivemindset">
   <data key="d0">1</data>
 </edge>
-<edge source="behindthescenes" target="cats4climate">
+<edge source="देशभक्त" target="vocal4local">
   <data key="d0">1</data>
 </edge>
-<edge source="happyeaster" target="captivity">
+<edge source="देशभक्त" target="स्वदेशी">
   <data key="d0">1</data>
 </edge>
-<edge source="happyeaster" target="stopthegrind">
+<edge source="देशभक्त" target="mentalhealthawareness">
   <data key="d0">1</data>
 </edge>
-<edge source="happyeaster" target="cowspiracy">
+<edge source="dadijanki" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="something" target="fridayvibes">
+<edge source="dadijanki" target="thefuturewechoose">
   <data key="d0">1</data>
 </edge>
-<edge source="something" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="something" target="wonderful">
-  <data key="d0">1</data>
-</edge>
-<edge source="afterwecollidedmovie" target="italy">
-  <data key="d0">1</data>
-</edge>
-<edge source="afterwecollidedmovie" target="florence">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="yyc">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="thanksgivingwithblackfamilies">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="blackfridayfights">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="adoptdontshop">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="jellybellyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="blackfriday2019" target="ecoshopping">
-  <data key="d0">1</data>
-</edge>
-<edge source="mekong" target="luangprabang">
-  <data key="d0">1</data>
-</edge>
-<edge source="jellybellyfriday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="jellybellyfriday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="jellybellyfriday" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="jellybellyfriday" target="adoptdontshop">
-  <data key="d0">1</data>
-</edge>
-<edge source="yyc" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="yyc" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="yyc" target="friyay">
-  <data key="d0">1</data>
-</edge>
-<edge source="yyc" target="adoptdontshop">
-  <data key="d0">1</data>
-</edge>
-<edge source="planetaazul" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="planetaazul" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="planetaazul" target="jokermovie">
-  <data key="d0">1</data>
-</edge>
-<edge source="city" target="offers">
-  <data key="d0">1</data>
-</edge>
-<edge source="city" target="invest">
-  <data key="d0">1</data>
-</edge>
-<edge source="transformingindia" target="pmawasyojana">
-  <data key="d0">1</data>
-</edge>
-<edge source="dianacionalsinauto" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="fridayvibes">
+<edge source="fail" target="fridaymorning">
   <data key="d0">2</data>
 </edge>
-<edge source="friyay" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="contestindia">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="adoptdontshop">
-  <data key="d0">1</data>
-</edge>
-<edge source="friyay" target="caturday">
-  <data key="d0">1</data>
-</edge>
-<edge source="growthhacking" target="business">
-  <data key="d0">5</data>
-</edge>
-<edge source="growthhacking" target="marketingtips">
-  <data key="d0">1</data>
-</edge>
-<edge source="growthhacking" target="marketing">
-  <data key="d0">6</data>
-</edge>
-<edge source="tacotuesday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="recipe" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="recipe" target="parnellthechef">
-  <data key="d0">1</data>
-</edge>
-<edge source="recipe" target="lacocinadeespaña">
-  <data key="d0">1</data>
-</edge>
-<edge source="recipe" target="batido">
-  <data key="d0">1</data>
-</edge>
-<edge source="programmer" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="programmer" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="programmer" target="indiegamedev">
-  <data key="d0">1</data>
-</edge>
-<edge source="programmer" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="programmer" target="unity">
-  <data key="d0">1</data>
-</edge>
-<edge source="dinner" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="dinner" target="fridayfeeling">
+<edge source="fail" target="macysblackfriday">
   <data key="d0">2</data>
 </edge>
-<edge source="dinner" target="foodbanks">
-  <data key="d0">1</data>
-</edge>
-<edge source="stopanimalabuse" target="meat">
-  <data key="d0">1</data>
-</edge>
-<edge source="stopanimalabuse" target="stopanimalcruelty">
-  <data key="d0">1</data>
-</edge>
-<edge source="farming" target="animals">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymadness" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="egld" target="community">
-  <data key="d0">1</data>
-</edge>
-<edge source="truth" target="planetearth">
-  <data key="d0">1</data>
-</edge>
-<edge source="truth" target="globe">
-  <data key="d0">1</data>
-</edge>
-<edge source="kevät" target="lumi">
-  <data key="d0">1</data>
-</edge>
-<edge source="iomangiodacasa" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="शुक्र_श्रीशक्ति" target="positivemindset">
-  <data key="d0">1</data>
-</edge>
-<edge source="शुक्र_श्रीशक्ति" target="देशभक्त">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="cher">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="animal">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="freedom">
-  <data key="d0">1</data>
-</edge>
-<edge source="sentient" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="sewaactivitiesbyashram" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="sewaactivitiesbyashram" target="आशाराम">
-  <data key="d0">1</data>
-</edge>
-<edge source="sewaactivitiesbyashram" target="गाजियाबाद">
-  <data key="d0">1</data>
-</edge>
-<edge source="diaryoftips" target="thanksgivingwithblackfamilies">
-  <data key="d0">1</data>
-</edge>
-<edge source="wonderful" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="wonderful" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="jokermovie" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="jokermovie" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="captivity" target="stopthegrind">
-  <data key="d0">1</data>
-</edge>
-<edge source="captivity" target="opseaworld">
-  <data key="d0">1</data>
-</edge>
-<edge source="captivity" target="cowspiracy">
-  <data key="d0">1</data>
-</edge>
-<edge source="shootmode" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="shootmode" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="shootmode" target="wakeup">
-  <data key="d0">1</data>
-</edge>
-<edge source="offers" target="invest">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldfoodday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldfoodday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamilton" target="ontario">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamilton" target="stormingarea51">
-  <data key="d0">1</data>
-</edge>
-<edge source="stormingarea51" target="hamont">
-  <data key="d0">1</data>
-</edge>
-<edge source="confidence" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="confidence" target="anchor">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="retweetplease">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="denkmaldrübernach">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="andieeigenenasefassen">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="streamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="primenightrt">
-  <data key="d0">1</data>
-</edge>
-<edge source="germanmediart" target="twitchtv">
-  <data key="d0">1</data>
-</edge>
-<edge source="breakfastclub" target="breakfast">
-  <data key="d0">1</data>
-</edge>
-<edge source="animals" target="dogs">
-  <data key="d0">1</data>
-</edge>
-<edge source="animals" target="respectanimals">
-  <data key="d0">1</data>
-</edge>
-<edge source="animals" target="mountains">
-  <data key="d0">1</data>
-</edge>
-<edge source="animals" target="enjoynature">
-  <data key="d0">1</data>
-</edge>
-<edge source="weatherforecast" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="weatherforecast" target="weather">
-  <data key="d0">1</data>
-</edge>
-<edge source="abstorm" target="caturday">
-  <data key="d0">1</data>
-</edge>
-<edge source="business" target="digitalmarketing">
-  <data key="d0">5</data>
-</edge>
-<edge source="business" target="marketing">
-  <data key="d0">5</data>
-</edge>
-<edge source="business" target="blogging">
-  <data key="d0">5</data>
-</edge>
-<edge source="business" target="sociamedia">
-  <data key="d0">5</data>
-</edge>
-<edge source="enjoynature" target="mountains">
-  <data key="d0">1</data>
-</edge>
-<edge source="noracism" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="noracism" target="hassistkeinemeinung">
-  <data key="d0">1</data>
-</edge>
-<edge source="freedom" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="freedom" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="freedom" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="freedom" target="nationalrescuedogday">
-  <data key="d0">1</data>
-</edge>
-<edge source="lockdown2" target="contestofchampions">
-  <data key="d0">1</data>
-</edge>
-<edge source="lockdown2" target="movie">
-  <data key="d0">1</data>
-</edge>
-<edge source="cats4climate" target="catsoftwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="cats4climate" target="tbtjuly2019">
-  <data key="d0">1</data>
-</edge>
-<edge source="cats4climate" target="gelecekiçinkediler">
-  <data key="d0">1</data>
-</edge>
-<edge source="tasty" target="fridayfeeling">
+<edge source="fail" target="howiwonblackfriday">
   <data key="d0">2</data>
 </edge>
-<edge source="tasty" target="blogging">
+<edge source="fail" target="kohlsblackfriday">
   <data key="d0">1</data>
 </edge>
-<edge source="motivationalquotes" target="fridayvibes">
+<edge source="fail" target="nuhrimersten">
   <data key="d0">1</data>
 </edge>
-<edge source="motivationalquotes" target="fridaymorning">
+<edge source="pmawasyojana" target="newindia">
   <data key="d0">1</data>
 </edge>
-<edge source="indiegamedev" target="fridayfeeling">
+<edge source="pmawasyojana" target="jivanjyotiyojana">
   <data key="d0">1</data>
 </edge>
-<edge source="indiegamedev" target="fridaymorning">
+<edge source="flowersonfriday" target="friday">
   <data key="d0">1</data>
 </edge>
-<edge source="indiegamedev" target="gamer">
+<edge source="flowersonfriday" target="fridaymorning">
   <data key="d0">1</data>
 </edge>
-<edge source="indiegamedev" target="games">
+<edge source="flowersonfriday" target="love">
   <data key="d0">1</data>
 </edge>
-<edge source="indiegamedev" target="unity">
+<edge source="flowersonfriday" target="macro">
   <data key="d0">1</data>
 </edge>
-<edge source="macrophotography" target="flowersonfriday">
+<edge source="flowersonfriday" target="gardeningtwitter">
   <data key="d0">1</data>
 </edge>
-<edge source="macrophotography" target="macro">
+<edge source="flowersonfriday" target="flowerpower">
   <data key="d0">1</data>
 </edge>
-<edge source="macrophotography" target="gardeningtwitter">
+<edge source="flowersonfriday" target="flowerreport">
   <data key="d0">1</data>
 </edge>
-<edge source="november" target="fridayvibes">
+<edge source="flowersonfriday" target="naturephoto">
   <data key="d0">1</data>
 </edge>
-<edge source="november" target="weather">
-  <data key="d0">1</data>
-</edge>
-<edge source="november" target="sunshine">
-  <data key="d0">1</data>
-</edge>
-<edge source="राष्ट्रवादिराठौर" target="congress">
-  <data key="d0">1</data>
-</edge>
-<edge source="राष्ट्रवादिराठौर" target="rahulgandhi">
-  <data key="d0">1</data>
-</edge>
-<edge source="sociamedia" target="marketingtips">
-  <data key="d0">1</data>
-</edge>
-<edge source="sociamedia" target="marketing">
-  <data key="d0">6</data>
-</edge>
-<edge source="sociamedia" target="blogging">
-  <data key="d0">5</data>
-</edge>
-<edge source="cher" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="cher" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="cher" target="animal">
-  <data key="d0">1</data>
-</edge>
-<edge source="cher" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="cher" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="cher" target="nationalrescuedogday">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestofchampions" target="movie">
-  <data key="d0">1</data>
-</edge>
-<edge source="primenightrt" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="primenightrt" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="primenightrt" target="streamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="primenightrt" target="twitchtv">
-  <data key="d0">1</data>
-</edge>
-<edge source="sukirti" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="sukirti" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="surprise" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="surprise" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="team" target="community">
-  <data key="d0">1</data>
-</edge>
-<edge source="anchor" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="worldanimalwelfareday" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalrescuedogday" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalrescuedogday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalrescuedogday" target="liberation">
-  <data key="d0">1</data>
-</edge>
-<edge source="nationalrescuedogday" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="dennisthemenace" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="mozzarella" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="receta" target="lacocinadeespaña">
-  <data key="d0">1</data>
-</edge>
-<edge source="receta" target="batido">
-  <data key="d0">1</data>
-</edge>
-<edge source="costabrava" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="costabrava" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="adoptdontshop" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="adoptdontshop" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaykiss" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaykiss" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="congress" target="rahulgandhi">
-  <data key="d0">1</data>
-</edge>
-<edge source="funfactfriday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="funfactfriday" target="fridaymorning">
-  <data key="d0">1</data>
-</edge>
-<edge source="funfactfriday" target="italy">
-  <data key="d0">1</data>
-</edge>
-<edge source="ocean" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="ocean" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="bagneux" target="parc">
-  <data key="d0">1</data>
-</edge>
-<edge source="bagneux" target="bagneux2020">
-  <data key="d0">1</data>
-</edge>
-<edge source="nojudgement" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="झूठे_रेप_केस_में_बढ़ोतरी" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestindia" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestindia" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestindia" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="contestindia" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="ffs" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="ffs" target="fridayfun">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfun" target="fridayvibes">
-  <data key="d0">4</data>
-</edge>
-<edge source="fridayfun" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfun" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfun" target="fridayfeels">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfun" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfun" target="kitten">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitternaturecommunity" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitternaturecommunity" target="earthpix">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="fridayvibes">
-  <data key="d0">30</data>
-</edge>
-<edge source="fridaymorning" target="fridayfeeling">
-  <data key="d0">47</data>
-</edge>
-<edge source="fridaymorning" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="weather">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="success">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridaymorning" target="quotes">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="happiness">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="sunshine">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="brain">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="games">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="firenze">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="tgif">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="believe">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="wakeup">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="positivity">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="eat">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="florence">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="italy">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridaymorning" target="november1st">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="icecream">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="men">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="ees20">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="heroes">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridaymorning" target="wise">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="motivacion">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="follome">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="writingcommmunity">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="thoughtoftheday">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="blackfridayfights">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridaymorning" target="goodvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridaymorning" target="ymornings">
-  <data key="d0">1</data>
-</edge>
-<edge source="caturday" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="caturday" target="catsoftwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="hamont" target="ontario">
-  <data key="d0">1</data>
-</edge>
-<edge source="windingdown2019" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="windingdown2019" target="futurefridays">
-  <data key="d0">1</data>
-</edge>
-<edge source="weather" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="weather" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="weather" target="ambientemw">
-  <data key="d0">1</data>
-</edge>
-<edge source="weather" target="sunshine">
-  <data key="d0">1</data>
-</edge>
-<edge source="positivity" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="positivity" target="positivemindset">
-  <data key="d0">2</data>
-</edge>
-<edge source="loveall" target="neverwalkalone">
-  <data key="d0">1</data>
-</edge>
-<edge source="singleserving" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="singleserving" target="answer">
-  <data key="d0">1</data>
-</edge>
-<edge source="riseinfakerapecases" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="breakfast" target="pasta">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdaymotivation" target="microscopy">
-  <data key="d0">1</data>
-</edge>
-<edge source="thursdaymotivation" target="abstractart">
-  <data key="d0">1</data>
-</edge>
-<edge source="naturephoto" target="gardeningtwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="newsqueen" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="newsqueen" target="mediatrainer">
-  <data key="d0">1</data>
-</edge>
-<edge source="reflection" target="thoughts">
+<edge source="thanksgivingdinner" target="leftovers">
   <data key="d0">1</data>
 </edge>
 <edge source="reflection" target="mentalhealth">
   <data key="d0">1</data>
 </edge>
-<edge source="factfriday" target="fridayvibes">
+<edge source="reflection" target="stayconnectedtogether">
   <data key="d0">1</data>
 </edge>
-<edge source="factfriday" target="fridayfeeling">
+<edge source="reflection" target="wellbeing">
   <data key="d0">1</data>
 </edge>
-<edge source="wednesdaythoughts" target="wednesdaywisdom">
+<edge source="reflection" target="youthworkwales">
   <data key="d0">1</data>
 </edge>
-<edge source="motivational" target="fridayvibes">
+<edge source="btc" target="entrepreneurship">
   <data key="d0">1</data>
 </edge>
-<edge source="motivational" target="fridayfeeling">
+<edge source="btc" target="airdrops">
   <data key="d0">1</data>
 </edge>
-<edge source="positivemindset" target="देशभक्त">
+<edge source="section144" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="gardenshour" target="fridayvibes">
+<edge source="gifgame" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="globe" target="planetearth">
+<edge source="gifgame" target="iamin">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayfeels" target="followfriday">
+<edge source="naturalskincare" target="wednesdaywisdom">
   <data key="d0">1</data>
 </edge>
-<edge source="kitten" target="catsoftwitter">
+<edge source="naturalskincare" target="naturalbeauty">
   <data key="d0">1</data>
 </edge>
-<edge source="सकारात्मक_संदेश" target="lucentennialcelebrations">
+<edge source="naturalskincare" target="skincare">
   <data key="d0">1</data>
 </edge>
-<edge source="proudlyyou" target="fridayfeeling">
+<edge source="naturalskincare" target="skincareroutine">
   <data key="d0">1</data>
 </edge>
-<edge source="proudlyyou" target="nutorla">
+<edge source="naturalskincare" target="beautytips">
   <data key="d0">1</data>
 </edge>
-<edge source="proudlyyou" target="supremeplaymarket">
+<edge source="naturalskincare" target="skincaretips">
   <data key="d0">1</data>
 </edge>
-<edge source="answer" target="fridayfeeling">
+<edge source="naturalskincare" target="clearskin">
   <data key="d0">1</data>
 </edge>
-<edge source="tgif" target="fridayvibes">
+<edge source="iqrtg" target="twitterworld">
   <data key="d0">1</data>
 </edge>
-<edge source="tgif" target="fridayfeeling">
+<edge source="iqrtg" target="enjoyingeverydaylife">
   <data key="d0">1</data>
 </edge>
-<edge source="tgif" target="ff">
+<edge source="travelblogger" target="followfriday">
   <data key="d0">1</data>
 </edge>
-<edge source="millefoglie" target="fridayvibes">
+<edge source="twitterworld" target="enjoyingeverydaylife">
   <data key="d0">1</data>
 </edge>
-<edge source="millefoglie" target="fridayfeeling">
+<edge source="costabrava" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="ees20" target="fridayvibes">
+<edge source="costabrava" target="nikon">
   <data key="d0">1</data>
 </edge>
-<edge source="ees20" target="fridayfeeling">
+<edge source="costabrava" target="photooftheday">
   <data key="d0">1</data>
 </edge>
-<edge source="kaffee" target="freitag">
-  <data key="d0">2</data>
-</edge>
-<edge source="kaffee" target="happyfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="pakkanen" target="lumi">
-  <data key="d0">1</data>
-</edge>
-<edge source="pakkanen" target="vinter">
-  <data key="d0">1</data>
-</edge>
-<edge source="icecream" target="fridayfeeling">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="fridayvibes">
-  <data key="d0">51</data>
-</edge>
-<edge source="fridayfeeling" target="ff">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayfeeling" target="success">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayfeeling" target="freitag">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="happyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="happiness">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="sunshine">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="brain">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="gamer">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayfeeling" target="games">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="unity">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="cryptotrading">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="blogging">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="reason">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="believe">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="wakeup">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="earthpix">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="eat">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="florence">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="italy">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayfeeling" target="november1st">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="men">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="catsoftwitter">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayfeeling" target="dadijanki">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="healthiswealth">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="foodbanks">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="cheesecake">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="heroes">
-  <data key="d0">2</data>
-</edge>
-<edge source="fridayfeeling" target="wise">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="themorningflava">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="streamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="twitchtv">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="thankyousafer">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="follome">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="writingcommmunity">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="thoughtoftheday">
-  <data key="d0">3</data>
-</edge>
-<edge source="fridayfeeling" target="veganday">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="family">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="suku">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="weekendwithbae">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="horrorfamily">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="twimbos">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="supremeplaymarket">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayfeeling" target="feedtheworld">
-  <data key="d0">1</data>
-</edge>
-<edge source="nft" target="entrepreneurship">
-  <data key="d0">1</data>
-</edge>
-<edge source="florence" target="italy">
-  <data key="d0">2</data>
-</edge>
-<edge source="florence" target="firenze">
-  <data key="d0">1</data>
-</edge>
-<edge source="florence" target="november1st">
-  <data key="d0">1</data>
-</edge>
-<edge source="shair" target="voiceover">
-  <data key="d0">1</data>
-</edge>
-<edge source="worklifebalance" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="cheesecake" target="blogging">
-  <data key="d0">1</data>
-</edge>
-<edge source="macro" target="flowersonfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="macro" target="gardeningtwitter">
-  <data key="d0">1</data>
-</edge>
-<edge source="thankyousafer" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="thankyousafer" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="thankyousafer" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="thankyousafer" target="follome">
-  <data key="d0">1</data>
-</edge>
-<edge source="thankyousafer" target="writingcommmunity">
-  <data key="d0">1</data>
-</edge>
-<edge source="cowspiracy" target="stopthegrind">
-  <data key="d0">1</data>
-</edge>
-<edge source="blogging" target="marketing">
-  <data key="d0">5</data>
-</edge>
-<edge source="sunshine" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="marketingtips" target="digitalmarketing">
-  <data key="d0">1</data>
-</edge>
-<edge source="renucreations" target="pyarkiiyeekkahani">
-  <data key="d0">1</data>
-</edge>
-<edge source="renucreations" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="renucreations" target="suku">
-  <data key="d0">1</data>
-</edge>
-<edge source="thewritingdesire" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="liberation" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="liberation" target="animal">
-  <data key="d0">1</data>
-</edge>
-<edge source="liberation" target="allstars7">
-  <data key="d0">1</data>
-</edge>
-<edge source="quotes" target="beinspired">
-  <data key="d0">1</data>
-</edge>
-<edge source="temple" target="festival">
-  <data key="d0">1</data>
-</edge>
-<edge source="freitag" target="happyfriday">
-  <data key="d0">2</data>
-</edge>
-<edge source="pyarkiiyeekkahani" target="visu">
-  <data key="d0">1</data>
-</edge>
-<edge source="pyarkiiyeekkahani" target="suku">
-  <data key="d0">1</data>
-</edge>
-<edge source="motivacion" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="motivacion" target="wise">
-  <data key="d0">1</data>
-</edge>
-<edge source="games" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="games" target="unity">
-  <data key="d0">1</data>
-</edge>
-<edge source="futurefridays" target="weekendwithbae">
-  <data key="d0">1</data>
-</edge>
-<edge source="enjoyingeverydaylife" target="happyfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="feedtheworld" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="followerpower" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="followerpower" target="retweet">
-  <data key="d0">1</data>
-</edge>
-<edge source="zorahosen" target="retweet">
-  <data key="d0">1</data>
-</edge>
-<edge source="bancomer" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="bancomer" target="vocalkingchenday">
-  <data key="d0">1</data>
-</edge>
-<edge source="follome" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="follome" target="ff">
-  <data key="d0">1</data>
-</edge>
-<edge source="follome" target="followfriday">
-  <data key="d0">1</data>
-</edge>
-<edge source="followfriday" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="followfriday" target="ff">
-  <data key="d0">3</data>
-</edge>
-<edge source="followfriday" target="writingcommmunity">
-  <data key="d0">2</data>
-</edge>
-<edge source="happiness" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="happiness" target="wise">
-  <data key="d0">1</data>
-</edge>
-<edge source="trending" target="fridayvibes">
+<edge source="costabrava" target="landscape">
   <data key="d0">1</data>
 </edge>
 <edge source="retweetplease" target="denkmaldrübernach">
@@ -2793,139 +800,2038 @@
 <edge source="retweetplease" target="andieeigenenasefassen">
   <data key="d0">1</data>
 </edge>
-<edge source="marketing" target="digitalmarketing">
-  <data key="d0">6</data>
-</edge>
-<edge source="visu" target="suku">
+<edge source="retweetplease" target="nichtakleubereinenkammscheren">
   <data key="d0">1</data>
 </edge>
-<edge source="abstractart" target="microscopy">
+<edge source="retweetplease" target="auchmalneanderemeinungzulassen">
   <data key="d0">1</data>
 </edge>
-<edge source="abstractart" target="fashionista">
+<edge source="mrsindiarajasthan2019" target="motivation">
   <data key="d0">1</data>
 </edge>
-<edge source="catsoftwitter" target="fridayvibes">
+<edge source="mrsindiarajasthan2019" target="indiaagainstpollution">
   <data key="d0">1</data>
 </edge>
-<edge source="catsoftwitter" target="tbtjuly2019">
+<edge source="crestedaily" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="andieeigenenasefassen" target="denkmaldrübernach">
+<edge source="crestedaily" target="crestefamily">
   <data key="d0">1</data>
 </edge>
-<edge source="writingcommmunity" target="fridayvibes">
+<edge source="crestedaily" target="prayer">
   <data key="d0">1</data>
 </edge>
-<edge source="writingcommmunity" target="ff">
+<edge source="zorasarahblogs" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="zorasarahblogs" target="poetry">
+  <data key="d0">1</data>
+</edge>
+<edge source="eat" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="eat" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="loveall" target="neverwalkalone">
+  <data key="d0">1</data>
+</edge>
+<edge source="loveall" target="loveearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="lasagne">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="quarantena">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="iorestoacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="iosuonodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="venerdi13" target="iomangiodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="loveearth" target="togetherwefindtheway">
+  <data key="d0">1</data>
+</edge>
+<edge source="loveearth" target="neverwalkalone">
+  <data key="d0">1</data>
+</edge>
+<edge source="failure" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="failure" target="success">
+  <data key="d0">1</data>
+</edge>
+<edge source="failure" target="enthusiasm">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="ceo" target="ees20">
+  <data key="d0">1</data>
+</edge>
+<edge source="जय_सिया_राम_जी" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffxiv" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffxiv" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffxiv" target="followfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="ffxiv" target="tweetme">
+  <data key="d0">1</data>
+</edge>
+<edge source="newsqueen" target="ladyofthe4threalm">
+  <data key="d0">1</data>
+</edge>
+<edge source="newsqueen" target="mediatrainer">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdown2" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdown2" target="contest">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdown2" target="ddquiz">
+  <data key="d0">1</data>
+</edge>
+<edge source="autumn" target="fridayfeeling">
   <data key="d0">2</data>
 </edge>
-<edge source="ff" target="retweet">
+<edge source="autumn" target="friday">
   <data key="d0">1</data>
 </edge>
-<edge source="आशाराम" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="आशाराम" target="गाजियाबाद">
-  <data key="d0">1</data>
-</edge>
-<edge source="गाजियाबाद" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="fashionista" target="microscopy">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitchtv" target="gamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="twitchtv" target="streamer">
-  <data key="d0">1</data>
-</edge>
-<edge source="veganday" target="fridayvibes">
-  <data key="d0">1</data>
-</edge>
-<edge source="lacocinadeespaña" target="felizviernesatodos">
-  <data key="d0">1</data>
-</edge>
-<edge source="lacocinadeespaña" target="batido">
-  <data key="d0">1</data>
-</edge>
-<edge source="fridayvibes" target="success">
+<edge source="autumn" target="fridaymorning">
   <data key="d0">2</data>
 </edge>
-<edge source="fridayvibes" target="animal">
+<edge source="autumn" target="weather">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="allstars7">
+<edge source="autumn" target="weekendvibes">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="thoughts">
+<edge source="autumn" target="windy">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="reason">
+<edge source="autumn" target="rain">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="progress">
+<edge source="autumn" target="wet">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="heroes">
+<edge source="autumn" target="weatherforecast">
+  <data key="d0">1</data>
+</edge>
+<edge source="newindiarises" target="saafniyatsahivikas">
+  <data key="d0">1</data>
+</edge>
+<edge source="newindiarises" target="modihaitomumkinhai">
+  <data key="d0">1</data>
+</edge>
+<edge source="telangana" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="telangana" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="telangana" target="dussara">
+  <data key="d0">1</data>
+</edge>
+<edge source="telangana" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="telangana" target="kakatiyadynasty">
+  <data key="d0">1</data>
+</edge>
+<edge source="iamin" target="playtime">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="act">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="yourself">
+  <data key="d0">1</data>
+</edge>
+<edge source="believe" target="morningglory">
+  <data key="d0">1</data>
+</edge>
+<edge source="airdrops" target="entrepreneurship">
+  <data key="d0">1</data>
+</edge>
+<edge source="seo" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="seo" target="digitalmarketing">
+  <data key="d0">1</data>
+</edge>
+<edge source="seo" target="sociamedia">
+  <data key="d0">1</data>
+</edge>
+<edge source="seo" target="growthhacking">
+  <data key="d0">1</data>
+</edge>
+<edge source="bancomer" target="felizviernesatodos">
+  <data key="d0">1</data>
+</edge>
+<edge source="bancomer" target="felizfindesemana">
+  <data key="d0">1</data>
+</edge>
+<edge source="bancomer" target="iphone11">
+  <data key="d0">1</data>
+</edge>
+<edge source="bancomer" target="vocalkingchenday">
+  <data key="d0">1</data>
+</edge>
+<edge source="catsoftwitter" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="catsoftwitter" target="fridayfeeling">
   <data key="d0">2</data>
 </edge>
-<edge source="fridayvibes" target="talkfriday">
+<edge source="catsoftwitter" target="cats_of_world">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="nutorla">
+<edge source="catsoftwitter" target="gelecekiçinkediler">
   <data key="d0">1</data>
 </edge>
-<edge source="fridayvibes" target="supremeplaymarket">
+<edge source="crestefamily" target="prayer">
   <data key="d0">1</data>
 </edge>
-<edge source="stopthegrind" target="opseaworld">
+<edge source="jivanjyotiyojana" target="newindia">
   <data key="d0">1</data>
 </edge>
-<edge source="vocalkingchenday" target="felizviernesatodos">
+<edge source="playtime" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="gamer" target="unity">
+<edge source="jellybellyfriday" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="gamer" target="streamer">
+<edge source="jellybellyfriday" target="fridayfeeling">
   <data key="d0">1</data>
 </edge>
-<edge source="cryptotrading" target="cryptocurrency">
+<edge source="jellybellyfriday" target="fridaymorning">
   <data key="d0">1</data>
 </edge>
-<edge source="thoughts" target="success">
+<edge source="saladdays" target="friday">
   <data key="d0">1</data>
 </edge>
-<edge source="thoughts" target="brain">
+<edge source="saladdays" target="fridayfitness">
   <data key="d0">1</data>
 </edge>
-<edge source="success" target="brain">
+<edge source="saladdays" target="beans">
   <data key="d0">1</data>
 </edge>
-<edge source="thanksgivingwithblackfamilies" target="blackfridayfights">
+<edge source="saladdays" target="pasta">
   <data key="d0">1</data>
 </edge>
-<edge source="tbtjuly2019" target="gelecekiçinkediler">
+<edge source="animalliberation" target="veganism">
   <data key="d0">1</data>
 </edge>
-<edge source="nutorla" target="supremeplaymarket">
+<edge source="animalliberation" target="veganlifestyle">
+  <data key="d0">1</data>
+</edge>
+<edge source="veganday" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="veganday" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="rain">
+  <data key="d0">1</data>
+</edge>
+<edge source="windy" target="wet">
+  <data key="d0">1</data>
+</edge>
+<edge source="macro" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="macro" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="macro" target="flowerreport">
+  <data key="d0">1</data>
+</edge>
+<edge source="macro" target="naturephoto">
+  <data key="d0">1</data>
+</edge>
+<edge source="rubiesallies" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="tacotuesday" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="tacotuesday" target="writingcommunity">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="felizfindesemana">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="hola">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizviernesatodos" target="lacocinadeespaña">
   <data key="d0">1</data>
 </edge>
 <edge source="felizviernesatodos" target="batido">
   <data key="d0">1</data>
 </edge>
-<edge source="flowersonfriday" target="gardeningtwitter">
+<edge source="felizviernesatodos" target="iphone11">
   <data key="d0">1</data>
 </edge>
-<edge source="viareggio" target="italy">
+<edge source="felizviernesatodos" target="vocalkingchenday">
   <data key="d0">1</data>
 </edge>
-<edge source="animal" target="allstars7">
+<edge source="themorningflava" target="fridaythoughts">
   <data key="d0">1</data>
 </edge>
-<edge source="firenze" target="november1st">
+<edge source="themorningflava" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="dogsoftwittter" target="snow">
+  <data key="d0">1</data>
+</edge>
+<edge source="dogsoftwittter" target="naturephotography">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdaymotivation" target="microscopy">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdaymotivation" target="interiordesign">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdaymotivation" target="abstract">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdaymotivation" target="abstractart">
+  <data key="d0">1</data>
+</edge>
+<edge source="wonderful" target="positive">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldveganday" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldveganday" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="nationalrescuedogday" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="nationalrescuedogday" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowers" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowers" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowers" target="flowerreport">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowers" target="gardenshour">
+  <data key="d0">1</data>
+</edge>
+<edge source="globe" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="globe" target="flatearth">
+  <data key="d0">1</data>
+</edge>
+<edge source="globe" target="truth">
+  <data key="d0">1</data>
+</edge>
+<edge source="workout" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="workout" target="running">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivationalquotes" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="impeachmentinquiry" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="impeachmentinquiry" target="vermont">
+  <data key="d0">1</data>
+</edge>
+<edge source="impeachmentinquiry" target="impeachmentparty">
+  <data key="d0">1</data>
+</edge>
+<edge source="mentalhealth" target="stayconnectedtogether">
+  <data key="d0">1</data>
+</edge>
+<edge source="mentalhealth" target="wellbeing">
+  <data key="d0">1</data>
+</edge>
+<edge source="mentalhealth" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="icoalert" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="icoalert" target="2local">
+  <data key="d0">1</data>
+</edge>
+<edge source="icoalert" target="best">
+  <data key="d0">1</data>
+</edge>
+<edge source="icoalert" target="invest">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiveristy" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="biodiveristy" target="coronavirusuk">
+  <data key="d0">1</data>
+</edge>
+<edge source="denkmaldrübernach" target="andieeigenenasefassen">
+  <data key="d0">1</data>
+</edge>
+<edge source="denkmaldrübernach" target="nichtakleubereinenkammscheren">
+  <data key="d0">1</data>
+</edge>
+<edge source="denkmaldrübernach" target="auchmalneanderemeinungzulassen">
+  <data key="d0">1</data>
+</edge>
+<edge source="beinspired" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="arresttrump" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="arresttrump" target="indicttrump">
+  <data key="d0">1</data>
+</edge>
+<edge source="arresttrump" target="prison">
+  <data key="d0">1</data>
+</edge>
+<edge source="macysblackfriday" target="fridaymorning">
+  <data key="d0">2</data>
+</edge>
+<edge source="macysblackfriday" target="howiwonblackfriday">
+  <data key="d0">2</data>
+</edge>
+<edge source="macysblackfriday" target="kohlsblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="condition">
+  <data key="d0">1</data>
+</edge>
+<edge source="smile" target="relation">
+  <data key="d0">1</data>
+</edge>
+<edge source="coronavirusuk" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="milestone" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="milestone" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="milestone" target="writingcommunity">
+  <data key="d0">1</data>
+</edge>
+<edge source="vocalkingchenday" target="felizfindesemana">
+  <data key="d0">1</data>
+</edge>
+<edge source="vocalkingchenday" target="iphone11">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="positivemindset">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="swadeshi">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="mentalhealthawareness">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="bepositive">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="लखनऊ_विश्वविद्यालय">
+  <data key="d0">1</data>
+</edge>
+<edge source="स्वदेशी" target="pmblessinglu">
+  <data key="d0">1</data>
+</edge>
+<edge source="lumi" target="snow">
+  <data key="d0">2</data>
+</edge>
+<edge source="millefoglie" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="mondaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="wednesdaywisdom">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="skincaretips">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincare" target="clearskin">
+  <data key="d0">1</data>
+</edge>
+<edge source="togetherwefindtheway" target="neverwalkalone">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="sunset">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="landscape">
+  <data key="d0">1</data>
+</edge>
+<edge source="ejecafetero" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="motivacion" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="decision" target="leadership">
+  <data key="d0">1</data>
+</edge>
+<edge source="tukslaw" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="milchkuhmittwoch" target="pflanzenbasierte">
+  <data key="d0">1</data>
+</edge>
+<edge source="milchkuhmittwoch" target="fleisch">
+  <data key="d0">1</data>
+</edge>
+<edge source="hola" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="hola" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="hola" target="lacocinadeespaña">
+  <data key="d0">1</data>
+</edge>
+<edge source="hola" target="batido">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="pkyek">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="renu">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfiequeen" target="renucreations">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="dolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="kills">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="happyeaster">
+  <data key="d0">1</data>
+</edge>
+<edge source="defendthewild" target="cowspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ourplanet" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="ourplanet" target="live">
+  <data key="d0">1</data>
+</edge>
+<edge source="enthusiasm" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="enthusiasm" target="success">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdownextension" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdownextension" target="contest">
+  <data key="d0">1</data>
+</edge>
+<edge source="lockdownextension" target="ddquiz">
+  <data key="d0">1</data>
+</edge>
+<edge source="singlesrelationships" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="singlesrelationships" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="wednesdaywisdom">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="beautytips">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="skincaretips">
+  <data key="d0">1</data>
+</edge>
+<edge source="mondaymorning" target="clearskin">
+  <data key="d0">1</data>
+</edge>
+<edge source="environmentmw" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="beans" target="fridayfitness">
+  <data key="d0">1</data>
+</edge>
+<edge source="beans" target="pasta">
+  <data key="d0">1</data>
+</edge>
+<edge source="stockedge" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="stockedge" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="weatherforecast" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="weatherforecast" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="weatherforecast" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="weatherforecast" target="rain">
+  <data key="d0">1</data>
+</edge>
+<edge source="weatherforecast" target="wet">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="naturephotography">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="rajajitigerreserve">
+  <data key="d0">1</data>
+</edge>
+<edge source="earthpix" target="earthcapture">
+  <data key="d0">1</data>
+</edge>
+<edge source="targetfivetrillion" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="targetfivetrillion" target="modihaitomumkinhai">
+  <data key="d0">1</data>
+</edge>
+<edge source="targetfivetrillion" target="newindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="surprise" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="surprise" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="kaffee" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="kaffee" target="gutenmorgen">
+  <data key="d0">2</data>
+</edge>
+<edge source="kaffee" target="freitag">
+  <data key="d0">2</data>
+</edge>
+<edge source="writingcommunity" target="fridayfeeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="writingcommunity" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="writingcommunity" target="followfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="writingcommunity" target="follome">
+  <data key="d0">1</data>
+</edge>
+<edge source="abstractart" target="microscopy">
+  <data key="d0">1</data>
+</edge>
+<edge source="abstractart" target="abstract">
+  <data key="d0">1</data>
+</edge>
+<edge source="impeachmentparty" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="impeachmentparty" target="vermont">
+  <data key="d0">1</data>
+</edge>
+<edge source="blogging" target="fridaythoughts">
+  <data key="d0">5</data>
+</edge>
+<edge source="blogging" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="blogging" target="marketingstrategy">
+  <data key="d0">5</data>
+</edge>
+<edge source="blogging" target="sociamedia">
+  <data key="d0">5</data>
+</edge>
+<edge source="blogging" target="growthhacking">
+  <data key="d0">5</data>
+</edge>
+<edge source="blogging" target="yummy">
+  <data key="d0">1</data>
+</edge>
+<edge source="blogging" target="cheesecake">
+  <data key="d0">1</data>
+</edge>
+<edge source="follome" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="follome" target="followfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="follome" target="tweetme">
+  <data key="d0">1</data>
+</edge>
+<edge source="abstract" target="interiordesign">
+  <data key="d0">1</data>
+</edge>
+<edge source="team" target="community">
+  <data key="d0">1</data>
+</edge>
+<edge source="prayer" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="prayer" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="ocean" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="ocean" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="renucreations" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="renucreations" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="renucreations" target="pkyek">
+  <data key="d0">1</data>
+</edge>
+<edge source="renucreations" target="sukirtikandpal">
+  <data key="d0">1</data>
+</edge>
+<edge source="renucreations" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="growthhacking" target="fridaythoughts">
+  <data key="d0">6</data>
+</edge>
+<edge source="growthhacking" target="digitalmarketing">
+  <data key="d0">6</data>
+</edge>
+<edge source="growthhacking" target="sociamedia">
+  <data key="d0">6</data>
+</edge>
+<edge source="sukirtikandpal" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="pkyek">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="sukirtikandpal" target="renu">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfitness" target="fridayfeeling">
+  <data key="d0">7</data>
+</edge>
+<edge source="fridayfitness" target="friday">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridayfitness" target="fridaymorning">
+  <data key="d0">7</data>
+</edge>
+<edge source="fridayfitness" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfitness" target="fridayvibe">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfitness" target="worldvegetarianday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfitness" target="pasta">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfitness" target="fridayfunny">
+  <data key="d0">5</data>
+</edge>
+<edge source="contest" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="contest" target="contestindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="contest" target="contestalertindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="contest" target="quiz">
+  <data key="d0">1</data>
+</edge>
+<edge source="abstorm" target="saturdaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="abstorm" target="caturday">
+  <data key="d0">1</data>
+</edge>
+<edge source="bagneux2020" target="greenfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="bagneux2020" target="municipales2020">
+  <data key="d0">1</data>
+</edge>
+<edge source="bagneux2020" target="grandparis">
+  <data key="d0">1</data>
+</edge>
+<edge source="गाजियाबाद" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="गाजियाबाद" target="बापूजी">
+  <data key="d0">1</data>
+</edge>
+<edge source="flatearth" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="flatearth" target="truth">
+  <data key="d0">1</data>
+</edge>
+<edge source="cats_of_world" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="cats_of_world" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivemindset" target="vocal4local">
+  <data key="d0">3</data>
+</edge>
+<edge source="positivemindset" target="swadeshi">
+  <data key="d0">3</data>
+</edge>
+<edge source="positivemindset" target="mentalhealthawareness">
+  <data key="d0">1</data>
+</edge>
+<edge source="positivemindset" target="bepositive">
+  <data key="d0">2</data>
+</edge>
+<edge source="leftovers" target="leftovertunes">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="2local">
+  <data key="d0">1</data>
+</edge>
+<edge source="best" target="invest">
+  <data key="d0">1</data>
+</edge>
+<edge source="healthy" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="healthy" target="running">
+  <data key="d0">1</data>
+</edge>
+<edge source="page48" target="generalelection2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="clothing" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="veganlifestyle" target="veganism">
+  <data key="d0">1</data>
+</edge>
+<edge source="buonaserata" target="greenfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="now" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="now" target="karma">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfunny" target="fridayfeeling">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridayfunny" target="friday">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridayfunny" target="fridaymorning">
+  <data key="d0">5</data>
+</edge>
+<edge source="schools" target="bigschoolsbirdwatch">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="kohlsblackfriday" target="howiwonblackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="freitag" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="freitag" target="gutenmorgen">
+  <data key="d0">2</data>
+</edge>
+<edge source="happyeaster" target="dolphinday">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyeaster" target="kills">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyeaster" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyeaster" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="happyeaster" target="cowspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="wednesdaywisdom">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="tuesdaymotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="skincaretips">
+  <data key="d0">1</data>
+</edge>
+<edge source="beautytips" target="clearskin">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="zerohunger">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="tuesdaymotivation" target="clearskin">
+  <data key="d0">1</data>
+</edge>
+<edge source="ideas" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="ideas" target="freshness">
+  <data key="d0">1</data>
+</edge>
+<edge source="municipales2020" target="greenfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="modihaitomumkinhai" target="fridaythoughts">
+  <data key="d0">3</data>
+</edge>
+<edge source="hassistkeinemeinung" target="noracism">
+  <data key="d0">1</data>
+</edge>
+<edge source="quiz" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="quiz" target="quiznight">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="fridayfeeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="landscape" target="sunset">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="nikon">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="nikonnofilter">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="photooftheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="potd">
+  <data key="d0">1</data>
+</edge>
+<edge source="landscape" target="planetaazul">
+  <data key="d0">1</data>
+</edge>
+<edge source="nikon" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="nikon" target="photooftheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="झूठे_रेप_केस_में_बढ़ोतरी" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="quarantena" target="lasagne">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="bepositive" target="vocal4local">
+  <data key="d0">3</data>
+</edge>
+<edge source="bepositive" target="keepdreaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="kills">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="dolphinday" target="cowspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="anchor" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="2local" target="offers">
+  <data key="d0">1</data>
+</edge>
+<edge source="2local" target="invest">
+  <data key="d0">1</data>
+</edge>
+<edge source="kakatiyadynasty" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="kakatiyadynasty" target="dussara">
+  <data key="d0">1</data>
+</edge>
+<edge source="kakatiyadynasty" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="kakatiyadynasty" target="chalukyadynasty">
+  <data key="d0">1</data>
+</edge>
+<edge source="ukrainegate" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="felizfindesemana" target="iphone11">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="act">
+  <data key="d0">1</data>
+</edge>
+<edge source="morningglory" target="yourself">
+  <data key="d0">1</data>
+</edge>
+<edge source="lifestyle" target="fridayfeeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="lifestyle" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="boxingday2019" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="boxingday2019" target="thursdayvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="flower" target="ligue_des_optimistes">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="kills">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="cowspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="wednesdaywisdom">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="thursdayvibes" target="skincaretips">
+  <data key="d0">1</data>
+</edge>
+<edge source="lasagne" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="lasagne" target="iorestoacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="lasagne" target="iomangiodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="mediatrainer" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="mediatrainer" target="ladyofthe4threalm">
+  <data key="d0">1</data>
+</edge>
+<edge source="positive" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="positive" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="followfriday" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="followfriday" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="followfriday" target="fridayfeels">
+  <data key="d0">1</data>
+</edge>
+<edge source="followfriday" target="cardano">
+  <data key="d0">1</data>
+</edge>
+<edge source="followfriday" target="tweetme">
+  <data key="d0">1</data>
+</edge>
+<edge source="iorestoacasa" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="iorestoacasa" target="iosuonodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="iorestoacasa" target="iomangiodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="opwhales">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="kills" target="cowspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="thenationnews" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="thenationnews" target="fridayfunday">
+  <data key="d0">1</data>
+</edge>
+<edge source="thenationnews" target="talkfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="fridayfeeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="gamer" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="games">
+  <data key="d0">1</data>
+</edge>
+<edge source="gamer" target="streamacademyrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="invest" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="americanpolish" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="offers" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="pmblessinglu" target="लखनऊ_विश्वविद्यालय">
+  <data key="d0">1</data>
+</edge>
+<edge source="worldanimalwelfareday" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardenshour" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardenshour" target="flowerreport">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkyek" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkyek" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkyek" target="fridayreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkyek" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="pkyek" target="renu">
+  <data key="d0">1</data>
+</edge>
+<edge source="2019mademerealize" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="2019mademerealize" target="windingdown2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="2019mademerealize" target="futurefridays">
+  <data key="d0">1</data>
+</edge>
+<edge source="brekfast" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="brekfast" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="flowerpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerreport" target="naturephoto">
+  <data key="d0">1</data>
+</edge>
+<edge source="condition" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="condition" target="relation">
+  <data key="d0">1</data>
+</edge>
+<edge source="futurefridays" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="futurefridays" target="windingdown2019">
+  <data key="d0">1</data>
+</edge>
+<edge source="indiaagainstpollution" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="cardano" target="fridayfeels">
+  <data key="d0">1</data>
+</edge>
+<edge source="fleisch" target="fleischwende">
+  <data key="d0">1</data>
+</edge>
+<edge source="cryptotrading" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="cryptotrading" target="cryptocurrency">
+  <data key="d0">1</data>
+</edge>
+<edge source="windingdown2019" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="lacocinadeespaña" target="food">
+  <data key="d0">1</data>
+</edge>
+<edge source="ddquiz" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="saturdaymorning" target="caturday">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalertindia" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="contestalertindia" target="quiznight">
+  <data key="d0">1</data>
+</edge>
+<edge source="vocal4local" target="swadeshi">
+  <data key="d0">3</data>
+</edge>
+<edge source="vocal4local" target="mentalhealthawareness">
+  <data key="d0">1</data>
+</edge>
+<edge source="vocal4local" target="लखनऊ_विश्वविद्यालय">
+  <data key="d0">1</data>
+</edge>
+<edge source="renu" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="renu" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="renu" target="fridayreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="renu" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="renu" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="potd" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="opwhales" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="ees20" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="vermont" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="caturday" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="grandparis" target="greenfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="ऋषि_प्रसाद" target="fridaythoughts">
+  <data key="d0">2</data>
+</edge>
+<edge source="prison" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="prison" target="indicttrump">
+  <data key="d0">1</data>
+</edge>
+<edge source="urdupoetry" target="shair">
+  <data key="d0">1</data>
+</edge>
+<edge source="urdupoetry" target="rishta">
+  <data key="d0">1</data>
+</edge>
+<edge source="success" target="fridayfeeling">
+  <data key="d0">2</data>
+</edge>
+<edge source="success" target="size">
+  <data key="d0">1</data>
+</edge>
+<edge source="success" target="dependent">
+  <data key="d0">1</data>
+</edge>
+<edge source="nichtakleubereinenkammscheren" target="andieeigenenasefassen">
+  <data key="d0">1</data>
+</edge>
+<edge source="nichtakleubereinenkammscheren" target="auchmalneanderemeinungzulassen">
+  <data key="d0">1</data>
+</edge>
+<edge source="act" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="act" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="act" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="firenze" target="fridayfeeling">
+  <data key="d0">1</data>
+</edge>
+<edge source="firenze" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="firenze" target="fridayfunday">
+  <data key="d0">1</data>
+</edge>
+<edge source="firenze" target="florence">
+  <data key="d0">1</data>
+</edge>
+<edge source="desserts" target="yum">
+  <data key="d0">1</data>
+</edge>
+<edge source="desserts" target="cake">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="fridaythoughts">
+  <data key="d0">66</data>
+</edge>
+<edge source="fridayfeeling" target="fridaymorning">
+  <data key="d0">47</data>
+</edge>
+<edge source="fridayfeeling" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="love">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridayfeeling" target="food">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridayfeeling" target="gutenmorgen">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="rain">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="dependent">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="games">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="gaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="fridayfunday">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridayfeeling" target="naturephotography">
+  <data key="d0">4</data>
+</edge>
+<edge source="fridayfeeling" target="relation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="yourself">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="rajajitigerreserve">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="earthcapture">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="florence">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="contestindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="keepdreaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="dennisthemenace">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="cheesecake">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="sweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="photooftheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="fridayreads">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridayfeeling" target="thoughtfortheday">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridayfeeling" target="streamacademyrt">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="tweetme">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="decemberwish">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="december">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="morningmotivation">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridayfeeling" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="sunset">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="thenun">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="flashbackfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="supremeplay">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="supremeplaymarket">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="ladyofthe4threalm">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="feedtheworld">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfeeling" target="indicttrump">
+  <data key="d0">1</data>
+</edge>
+<edge source="cowspiracy" target="seaspiracy">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="wednesdaywisdom" target="skincaretips">
+  <data key="d0">1</data>
+</edge>
+<edge source="flashbackfriday" target="thenun">
+  <data key="d0">1</data>
+</edge>
+<edge source="pasta" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="photooftheday" target="nikonnofilter">
+  <data key="d0">1</data>
+</edge>
+<edge source="yummy" target="fridaythoughts">
+  <data key="d0">2</data>
+</edge>
+<edge source="yummy" target="food">
+  <data key="d0">2</data>
+</edge>
+<edge source="december" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="thoughtfortheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="december" target="decemberwish">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="fridaythoughts">
+  <data key="d0">3</data>
+</edge>
+<edge source="food" target="iosuonodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="iomangiodacasa">
+  <data key="d0">1</data>
+</edge>
+<edge source="food" target="youtuber募集">
+  <data key="d0">1</data>
+</edge>
+<edge source="keepdreaming" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="poetry" target="friday">
+  <data key="d0">1</data>
+</edge>
+<edge source="wellbeing" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="leadership" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="quiznight" target="contestindia">
+  <data key="d0">1</data>
+</edge>
+<edge source="decemberwish" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="decemberwish" target="thoughtfortheday">
+  <data key="d0">1</data>
+</edge>
+<edge source="yum" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="yum" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="animalcruelty" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincaretips" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincaretips" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincaretips" target="clearskin">
+  <data key="d0">1</data>
+</edge>
+<edge source="friday" target="fridaythoughts">
+  <data key="d0">12</data>
+</edge>
+<edge source="friday" target="fridaymorning">
+  <data key="d0">19</data>
+</edge>
+<edge source="friday" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="friday" target="weekendvibes">
+  <data key="d0">2</data>
+</edge>
+<edge source="friday" target="wet">
+  <data key="d0">1</data>
+</edge>
+<edge source="friday" target="fridayfunday">
+  <data key="d0">2</data>
+</edge>
+<edge source="friday" target="naturephotography">
+  <data key="d0">3</data>
+</edge>
+<edge source="friday" target="fridayreads">
+  <data key="d0">1</data>
+</edge>
+<edge source="games" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="games" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="games" target="gaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="cheesecake" target="sweet">
+  <data key="d0">1</data>
+</edge>
+<edge source="livelife" target="enjoyingeverydaylife">
+  <data key="d0">1</data>
+</edge>
+<edge source="yourself" target="fridaymorning">
+  <data key="d0">1</data>
+</edge>
+<edge source="yourself" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="snow" target="naturephotography">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="weather">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="nationalendangeredspeciesday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="weekendvibes">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaymorning" target="wet">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="size">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="dependent">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="gaming">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="naturephotography">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaymorning" target="florence">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="running">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="tweetme">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="fridayheadlines">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="cardi">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaymorning" target="howiwonblackfriday">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaymorning" target="morningmotivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="generalelection2019" target="fridaythoughts">
+  <data key="d0">2</data>
+</edge>
+<edge source="buffaloeshustles" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="fridaythoughts">
+  <data key="d0">1</data>
+</edge>
+<edge source="chalukyadynasty" target="dussara">
+  <data key="d0">1</data>
+</edge>
+<edge source="naturephoto" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="naturephoto" target="flowerpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="naturephoto" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="nationalendangeredspeciesday" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="interiordesign" target="microscopy">
+  <data key="d0">1</data>
+</edge>
+<edge source="naturephotography" target="fridaythoughts">
+  <data key="d0">3</data>
+</edge>
+<edge source="naturephotography" target="earthcapture">
+  <data key="d0">1</data>
+</edge>
+<edge source="rajajitigerreserve" target="earthcapture">
+  <data key="d0">1</data>
+</edge>
+<edge source="wales" target="youthworkwales">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="motivation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="weekendvibes">
+  <data key="d0">5</data>
+</edge>
+<edge source="fridaythoughts" target="marketingstrategy">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaythoughts" target="digitalmarketing">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaythoughts" target="sociamedia">
+  <data key="d0">6</data>
+</edge>
+<edge source="fridaythoughts" target="freshness">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="fridayfunday">
+  <data key="d0">3</data>
+</edge>
+<edge source="fridaythoughts" target="relation">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="wakeup">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="thoughtfortheday">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaythoughts" target="fridayheadlines">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="cardi">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="truth">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="morningmotivation">
+  <data key="d0">2</data>
+</edge>
+<edge source="fridaythoughts" target="बापूजी">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="talkfriday">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="waterfall">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="günaydın">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="supremeplay">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="supremeplaymarket">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="dussara">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridaythoughts" target="moresarawak">
+  <data key="d0">1</data>
+</edge>
+<edge source="cake" target="recipe">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayheadlines" target="cardi">
+  <data key="d0">1</data>
+</edge>
+<edge source="swadeshi" target="mentalhealthawareness">
+  <data key="d0">1</data>
+</edge>
+<edge source="clearskin" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="clearskin" target="skincareroutine">
+  <data key="d0">1</data>
+</edge>
+<edge source="dussara" target="temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="dussara" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="recipe" target="pie">
+  <data key="d0">1</data>
+</edge>
+<edge source="sociamedia" target="marketingstrategy">
+  <data key="d0">6</data>
+</edge>
+<edge source="lifemantrabypriya" target="morningquotes">
+  <data key="d0">1</data>
+</edge>
+<edge source="ethnic" target="thecorporatelady">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="rain">
+  <data key="d0">1</data>
+</edge>
+<edge source="weather" target="wet">
+  <data key="d0">1</data>
+</edge>
+<edge source="live" target="love">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="wet" target="rain">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="gardeningtwitter">
+  <data key="d0">1</data>
+</edge>
+<edge source="love" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardeningtwitter" target="flowerpower">
+  <data key="d0">1</data>
+</edge>
+<edge source="gardeningtwitter" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="skincareroutine" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="selfietime">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayreads" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="selfietime" target="suku">
+  <data key="d0">1</data>
+</edge>
+<edge source="relation" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="florence" target="fridayfunday">
+  <data key="d0">1</data>
+</edge>
+<edge source="size" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="temple" target="dharshan">
+  <data key="d0">1</data>
+</edge>
+<edge source="rain" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="flowerpower" target="naturalbeauty">
+  <data key="d0">1</data>
+</edge>
+<edge source="gaming" target="weekendvibes">
+  <data key="d0">1</data>
+</edge>
+<edge source="fridayfunday" target="talkfriday">
   <data key="d0">1</data>
 </edge>
 </graph></graphml>
